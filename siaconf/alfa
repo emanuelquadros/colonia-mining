@@ -1,0 +1,22 @@
+# Arquivo de alfabeto para vogais não-acentuadas
+
+::MINIMIZAR
+A a
+E e
+I i
+O o
+U u
+
+::ORDEM
+A a
+E e
+I i
+O o
+U u
+
+::IGNORAR
+
+::QUEBRAR
+\s
+,
+.
