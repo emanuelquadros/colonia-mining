@@ -129,7 +129,7 @@ sub carregar {
 	$self->{Limpar} = "";
 	$self->{Quebrar} = "";
 
-	open ARQUIVO, "<:utf8", $arquivo or die "Cannot open $arquivo: $!";
+	open ARQUIVO, "<:utf8", $arquivo or return;
 	while (!eof ARQUIVO) {
 		my $linha = <ARQUIVO>;
 		$numlinha++;

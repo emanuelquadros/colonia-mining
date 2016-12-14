@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 
 use strict;
+use lib '/home/manu/Dropbox/notes/yale/QuantitativeCorpus/romance-group-project/siaconf';
 use Alfabeto;
 use FileHandle;
 use Data::Dumper;
@@ -21,7 +22,7 @@ my $clusters = "$nome/corr-$nome-clusters.txt";
 my $regras = "$nome/corr-$nome-regras.txt";
 
 my $alfabeto = Alfabeto->new();
-$alfabeto->carregar("$nome/alfa");
+$alfabeto->carregar("$nome/alfa") // $alfabeto->carregar("alfa") // die "Cannot open alphabet";
 
 
 ###################
@@ -64,7 +65,7 @@ my @regras;
 my $linha = 0;
 $| = 1;
 print "Carregando regras...";
-open REGRAS, "<:utf8", "$nome/regras";
+open REGRAS, "<:utf8", "$nome/regras" // open REGRAS, "<:utf8", "regras";
 my $cont = 0;
 while (!eof REGRAS) {
 	my $texto = <REGRAS>;
