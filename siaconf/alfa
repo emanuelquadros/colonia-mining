@@ -1,20 +1,160 @@
-# Arquivo de alfabeto para vogais não-acentuadas
+# Alphabet file
 
 ::MINIMIZAR
 A a
+Á á
+À à
+Ã ã
+Â â
+Ä ä
+B b
+C c
+Ç ç
+D d
 E e
+Ê ê
+É é
+È è
+Ë ë
+F f
+G g
+H h
 I i
+Í í
+Ì ì
+Ï ï
+Î î
+J j
+K k
+L l
+M m
+N n
+Ñ ñ
 O o
+Ó ó
+Ò ò
+Õ õ
+Ô ô
+P p
+Q q
+R r
+S s
+T t
 U u
+Ú ú
+Ù ù
+Û û
+Ü ü
+V v
+W w
+X x
+Y y
+Z z
 
 ::ORDEM
 A a
+Á á
+À à
+Ã ã
+Â â
+Ä ä
+B b
+C c
+Ç ç
+D d
 E e
+Ê ê
+É é
+È è
+Ë ë
+F f
+G g
+H h
 I i
+Í í
+Ì ì
+Ï ï
+Î î
+J j
+K k
+L l
+M m
+N n
+Ñ ñ
 O o
+Ó ó
+Ò ò
+Õ õ
+Ô ô
+P p
+Q q
+R r
+S s
+T t
 U u
+Ú ú
+Ù ù
+Û û
+Ü ü
+V v
+W w
+X x
+Y y
+Z z
 
 ::IGNORAR
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+\u{2022}
+\u{2014{
+\u{005f}
+\u{00aa}
+%
+/
+\u{00e6}
+\u{00ab}
+\u{00bb}
+`
+\u{00b0}
+\u{0153}
+&
+\u{00c6}
+\u{00bf}
++
+\u{2019}
+\u{00a7}
+
+::LIMPAR
+<
+=
+"
+>
+!
+*
+-
+:
+;
+?
+'
+\u{005c}
+[
+]
+\u{00ba}
+(
+)
+\u{00b4}
+$
+~
+\u{2026}
+_
 
 ::QUEBRAR
 \s
