@@ -31,7 +31,7 @@ $alfabeto->carregar("$nome/alfa") // $alfabeto->carregar("alfa") // die "Cannot 
 my %lexico;
 $| = 1;
 print "Carregando lexico...";
-open LEXICO, "<:utf8", "$nome/lexico";
+open(LEXICO, "<:utf8", "$nome/lexico") || open(LEXICO, "<:utf8", "lexico") || die "Cannot find a lexicon";
 my $conta = 0;
 while (!eof LEXICO) {
 	my $palavra = <LEXICO>;
@@ -65,7 +65,7 @@ my @regras;
 my $linha = 0;
 $| = 1;
 print "Carregando regras...";
-open REGRAS, "<:utf8", "$nome/regras" // open REGRAS, "<:utf8", "regras";
+open(REGRAS, "<:utf8", "$nome/regras") || open(REGRAS, "<:utf8", "regras") || die "Can't find the rules!";
 my $cont = 0;
 while (!eof REGRAS) {
 	my $texto = <REGRAS>;
