@@ -2,6 +2,7 @@
 
 use strict;
 
+use lib '/home/manu/Dropbox/notes/yale/QuantitativeCorpus/romance-group-project/siaconf';
 use Alfabeto;
 
 
