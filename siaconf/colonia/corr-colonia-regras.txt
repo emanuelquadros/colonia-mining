@@ -89,8 +89,8 @@ y y i
 	estrangeyro -> estrangeiro
 	vieyra -> vieira
 	cavalleyros -> cavaleiros
-	systhema -> sistema
 	systema -> sistema
+	systhema -> sistema
 	feyra -> feira
 	irey -> irei
 	madeyra -> madeira
@@ -103,7 +103,6 @@ y y i
 	peyxes -> peixes
 	foyse -> foise
 	passeyos -> passeios
-	alheya -> alheia
 	mysteriosa -> misteriosa
 	verdadeyros -> verdadeiros
 	passey -> passei
@@ -124,8 +123,8 @@ y y i
 	verdadeyras -> verdadeiras
 	creya -> creia
 	prayas -> praias
-	tyrano -> tirano
 	tyranno -> tirano
+	tyrano -> tirano
 	poderey -> poderei
 	entrey -> entrei
 	olhay -> olhai
@@ -133,8 +132,8 @@ y y i
 	queyxas -> queixas
 	egypto -> egito
 	poty -> poti
-	tyrannia -> tirania
 	tyrania -> tirania
+	tyrannia -> tirania
 	primeyramente -> primeiramente
 	cavalheyros -> cavalheiros
 	day -> dai
@@ -240,8 +239,8 @@ y y i
 	suy -> sui
 	ulysses -> ulisses
 	ayo -> aio
-	corynto -> corinto
 	coryntho -> corinto
+	corynto -> corinto
 	cynismo -> cinismo
 	correyos -> correios
 	engenheyros -> engenheiros
@@ -269,8 +268,8 @@ y y i
 	fleury -> fleuri
 	hystorias -> historias
 	leygos -> leigos
-	feiticeyros -> feiticeiros
 	feyticeiros -> feiticeiros
+	feiticeyros -> feiticeiros
 	ruby -> rubi
 	vaya -> vaia
 	barbeyros -> barbeiros
@@ -301,6 +300,7 @@ y y i
 	martyres -> martires
 	poyal -> poial
 	reynou -> reinou
+	alheya -> alhea
 	apoyar -> apoiar
 	atalaya -> atalaia
 	carcereyro -> carcereiro
@@ -325,8 +325,8 @@ y y i
 	jornaleyro -> jornaleiro
 	oy -> oi
 	sayem -> saiem
-	typografia -> tipografia
 	typographia -> tipografia
+	typografia -> tipografia
 	ayas -> aias
 	ayer -> aier
 	alqueyre -> alqueire
@@ -345,8 +345,8 @@ y y i
 	alfayates -> alfaiates
 	dediquey -> dediquei
 	joly -> joli
-	metaphysica -> metafisica
 	methafysica -> metafisica
+	metaphysica -> metafisica
 	queyxasse -> queixasse
 	rendeyros -> rendeiros
 	royal -> roial
@@ -361,8 +361,8 @@ y y i
 	cyclone -> ciclone
 	cyrillo -> cirilo
 	compray -> comprai
-	coney -> conei
 	conney -> conei
+	coney -> conei
 	entrarey -> entrarei
 	you -> iou
 	jayme -> jaime
@@ -600,8 +600,8 @@ y y i
 	saboyano -> saboiano
 	saye -> saie
 	satyros -> satiros
-	seyon_ -> seion_
 	seyon1 -> seion1
+	seyon_ -> seion_
 	selleyro -> seleiro
 	selleyros -> seleiros
 	seray -> serai
@@ -1055,8 +1055,8 @@ ph ph f
 	atmosphera -> atmosfera
 	ph -> f
 	propheta -> profeta
-	orthographia -> ortografia
 	ortographia -> ortografia
+	orthographia -> ortografia
 	phrenesi -> frenesi
 	seraphim -> serafim
 	phase -> fase
@@ -1112,8 +1112,8 @@ ph ph f
 	phaéton -> faéton
 	phantastica -> fantastica
 	phantastico -> fantastico
-	filosophica -> filosofica
 	philosophica -> filosofica
+	filosophica -> filosofica
 	triumphos -> triumfos
 	diaphana -> diafana
 	phantasmagorias -> fantasmagorias
@@ -1135,8 +1135,8 @@ ph ph f
 	asphyxiar -> asfixiar
 	blasphemantes -> blasfemantes
 	cleophanto -> cleiofanto
-	diphthongos -> diftongos
 	diphtongos -> diftongos
+	diphthongos -> diftongos
 	ephebos -> efebos
 	elephant -> elefant
 	ethnographia -> etnografia
@@ -1474,8 +1474,8 @@ th th t
 	southampton -> soutamton
 	thank -> tank
 	theodore -> teiodore
-	terebintho -> terebinto
 	therebintho -> terebinto
+	terebintho -> terebinto
 	theseo -> teseio
 	thevenet -> tevenet
 	thuribulos -> turibulos
@@ -1694,8 +1694,8 @@ ff ff f
 	effeito -> efeito
 	affonso -> afonso
 	differença -> diferença
-	officiaes -> oficiais
 	officiais -> oficiais
+	officiaes -> oficiais
 	effeitos -> efeitos
 	soffrer -> sofrer
 	difficuldade -> dificuldade
@@ -1811,8 +1811,8 @@ ff ff f
 	affinidades -> afinidades
 	affirmase -> afirmase
 	buffet -> bufet
-	hoffmann -> hofman
 	hoffman -> hofman
+	hoffmann -> hofman
 	offerecendoselhe -> oferecendoselhe
 	suffocados -> sufocados
 	suffrir -> sufrir
@@ -1861,8 +1861,8 @@ ff ff f
 	efficaciter -> eficaciter
 	efficas -> eficas
 	efficitur -> eficitur
-	laffitte -> lafite
 	laffite -> lafite
+	laffitte -> lafite
 	offereceo -> ofereceio
 	offereceralhe -> ofereceralhe
 	pouff -> pouf
@@ -2082,8 +2082,8 @@ pp pp p
 	suppões -> supões
 	applaudindo -> aplaudindo
 	apprendeo -> aprendeio
-	approvaçaõ -> aprovaçam
 	approvação -> aprovaçam
+	approvaçaõ -> aprovaçam
 	rappel -> rapel
 	suppostos -> supostos
 	appetecido -> apetecido
@@ -2292,8 +2292,8 @@ tt tt t
 	dottes -> dotes
 	permitta -> permita
 	tt -> t
-	toillettes -> toiletes
 	toilettes -> toiletes
+	toillettes -> toiletes
 	lettrados -> letrados
 	admitte -> admite
 	attribuir -> atribuir
@@ -2331,8 +2331,8 @@ tt tt t
 	acometter -> acometer
 	attrito -> atrito
 	admittidos -> admitidos
-	attençaõ -> atençam
 	attenção -> atençam
+	attençaõ -> atençam
 	lisetta -> liseta
 	attentar -> atentar
 	compromettido -> comprometido
@@ -2351,6 +2351,7 @@ tt tt t
 	admittisse -> admitisse
 	bittencourt -> bitencourt
 	duetto -> dueto
+	incitta -> incita
 	ottaviano -> otaviano
 	ottoni -> otoni
 	promettiam -> prometiam
@@ -2360,12 +2361,11 @@ tt tt t
 	admittirem -> admitirem
 	attenuando -> atenuando
 	gottejava -> gotejava
-	incitta -> incita
 	remettem -> remetem
 	admittimos -> admitimos
 	attentas -> atentas
-	attritos -> atritos
 	attrictos -> atritos
+	attritos -> atritos
 	cottage -> cotage
 	litteras -> literas
 	pittor -> pitor
@@ -2616,8 +2616,8 @@ cc cc c
 	secca -> seca
 	peccados -> pecados
 	soccorro -> socorro
-	occasioens -> ocasiões
 	occasiões -> ocasiões
+	occasioens -> ocasiões
 	successos -> sucessos
 	accordo -> acordo
 	succede -> sucede
@@ -2636,8 +2636,8 @@ cc cc c
 	occupado -> ocupado
 	occulta -> oculta
 	acceita -> aceita
-	accesso -> acesso
 	accrescentar -> acrescentar
+	accesso -> acesso
 	seccamente -> secamente
 	occulto -> oculto
 	occupava -> ocupava
@@ -2654,15 +2654,15 @@ cc cc c
 	accrescentava -> acrescentava
 	successivamente -> sucessivamente
 	accento -> acento
+	accrescentando -> acrescentando
 	successor -> sucessor
 	accesa -> acesa
-	accrescentando -> acrescentando
+	accrescenta -> acrescenta
 	occultar -> ocultar
 	bacco -> baco
 	occupa -> ocupa
 	succedera -> sucedera
 	saccos -> sacos
-	accrescenta -> acrescenta
 	occupada -> ocupada
 	successores -> sucessores
 	ecclesiastica -> eclesiastica
@@ -2684,18 +2684,18 @@ cc cc c
 	succedem -> sucedem
 	ecclesiastico -> eclesiastico
 	accommodar -> acomodar
-	occupão -> ocupam
 	occupaõ -> ocupam
+	occupão -> ocupam
 	successão -> sucessam
 	accusado -> acusado
 	occultando -> ocultando
 	vaccas -> vacas
 	accusava -> acusava
 	occidental -> ocidental
+	accrescentão -> acrescentam
 	inaccessivel -> inacessível
 	occasião -> ocasiam
 	occasiaõ -> ocasiam
-	accrescentão -> acrescentam
 	ecce -> ece
 	pecca -> peca
 	accusaçoens -> acusações
@@ -2714,6 +2714,7 @@ cc cc c
 	succedesse -> sucedesse
 	accommodados -> acomodados
 	accreditando -> acreditando
+	accrescente -> acrescente
 	funccionalismo -> funcionalismo
 	occorrem -> ocorrem
 	soccos -> socos
@@ -2724,12 +2725,13 @@ cc cc c
 	ecclesiæ -> eclesiæ
 	impeccavel -> impecável
 	successoens -> sucessões
-	accrescente -> acrescente
+	accrescentamentos -> acrescentamentos
 	accrescento -> acrescento
 	rocco -> roco
 	trabuccos -> trabucos
 	saccar -> sacar
-	accrescentamentos -> acrescentamentos
+	accrescentavão -> acrescentavam
+	accrescentavam -> acrescentavam
 	ecclesia -> eclesia
 	ecclesiastes -> eclesiastes
 	occupe -> ocupe
@@ -2745,14 +2747,13 @@ cc cc c
 	acceites -> aceites
 	accentuava -> acentuava
 	acclamação -> aclamaçam
-	accrescentavam -> acrescentavam
-	accrescentavão -> acrescentavam
+	accrescentarse -> acrescentarse
 	accusando -> acusando
 	baccio -> bacio
 	bocce -> boce
 	inficcionado -> inficionado
-	occupaçaõ -> ocupaçam
 	occupação -> ocupaçam
+	occupaçaõ -> ocupaçam
 	occupassem -> ocupassem
 	sêcca -> sêca
 	accendese -> acendese
@@ -2774,7 +2775,6 @@ cc cc c
 	acclamam -> aclamam
 	accreditais -> acreditais
 	accrescentará -> acrescentará
-	accrescentarse -> acrescentarse
 	accusaes -> acusais
 	dcc -> dc
 	eccl -> ecl
@@ -3129,8 +3129,8 @@ mm mm m
 	encommendar -> encomendar
 	commodidades -> comodidades
 	pareciamme -> pareciame
-	commummente -> comumente
 	commumente -> comumente
+	commummente -> comumente
 	commettido -> cometido
 	consummado -> consumado
 	immensas -> imensas
@@ -3146,8 +3146,8 @@ mm mm m
 	bastamme -> bastame
 	immensos -> imensos
 	immortalidade -> imortalidade
-	accommodado -> acomodado
 	acommodado -> acomodado
+	accommodado -> acomodado
 	vimme -> vime
 	communica -> comunica
 	accommodar -> acomodar
@@ -3246,8 +3246,8 @@ mm mm m
 	alémmar -> alémar
 	achamme -> axame
 	commais -> comais
-	commentt -> coment
 	comment -> coment
+	commentt -> coment
 	commentadores -> comentadores
 	commovidas -> comovidas
 	communicarem -> comunicarem
@@ -4007,8 +4007,8 @@ ll ll l
 	molle -> mole
 	lle -> le
 	fallam -> falam
-	fallão -> falam
 	fallaõ -> falam
+	fallão -> falam
 	naquellas -> naquelas
 	amarello -> amarelo
 	llha -> lha
@@ -4056,8 +4056,8 @@ ll ll l
 	bellezas -> belezas
 	cotovellos -> cotovelos
 	alliança -> aliança
-	capello -> capelo
 	cappello -> capelo
+	capello -> capelo
 	infallivel -> infalível
 	molles -> moles
 	sollicitude -> solicitude
@@ -4089,14 +4089,16 @@ ll ll l
 	gallos -> galos
 	sello -> selo
 	pesadello -> pesadelo
-	capellas -> capelas
 	sentinella -> sentinela
+	sintinella -> sentinela
+	capellas -> capelas
 	velledo -> veledo
-	appelles -> apeles
 	apelles -> apeles
+	appelles -> apeles
 	nyllo -> nilo
-	pullou -> pulou
 	sentinellas -> sentinelas
+	sintinellas -> sentinelas
+	pullou -> pulou
 	ll -> l
 	mulla -> mula
 	pellejar -> pelejar
@@ -4229,8 +4231,8 @@ ll ll l
 	collada -> colada
 	desfallecer -> desfalecer
 	illam -> ilam
-	illuminação -> iluminaçam
 	illuminaçam -> iluminaçam
+	illuminação -> iluminaçam
 	nulla -> nula
 	pellejava -> pelejava
 	sallario -> salario
@@ -4292,8 +4294,8 @@ ll ll l
 	oscilla -> oscila
 	pellada -> pelada
 	pilla -> pila
-	syllabas -> silabas
 	sillabas -> silabas
+	syllabas -> silabas
 	amollecida -> amolecida
 	appellão -> apelam
 	áquillo -> áquilo
@@ -4309,10 +4311,10 @@ ll ll l
 	illesa -> ilesa
 	illusos -> ilusos
 	installarase -> instalarase
-	intellectuaes -> inteletuais
 	intellectuais -> inteletuais
-	lillustraction -> lilustration
+	intellectuaes -> inteletuais
 	lillustration -> lilustration
+	lillustraction -> lilustration
 	praxitelles -> praxiteles
 	pusillanimidade -> pusilanimidade
 	quelle -> quele
@@ -4323,8 +4325,8 @@ ll ll l
 	syllabus -> silabus
 	tabellas -> tabelas
 	tomallo -> tomalo
-	villaõ -> vilam
 	villam -> vilam
+	villaõ -> vilam
 	villegaignon -> vilegaignon
 	allons -> alons
 	áquelles -> áqueles
@@ -4527,12 +4529,11 @@ ll ll l
 	repellere -> repelere
 	ritornellos -> ritornelos
 	rockefeller -> rockefeler
-	selleiro -> seleiro
 	selleyro -> seleiro
+	selleiro -> seleiro
 	selleyros -> seleiros
 	sevilla -> sevila
 	sevillanas -> sevilanas
-	sintinella -> sintinela
 	sllvestra -> slvestra
 	stellae -> stelae
 	tabellião -> tabeliam
@@ -4960,7 +4961,6 @@ ll ll l
 	sigilli -> sigili
 	sigillus -> sigilus
 	syllabam -> silabam
-	sintinellas -> sintinelas
 	smollet -> smolet
 	sobrecellente -> sobrecelente
 	sollicitadas -> solicitadas
@@ -5499,8 +5499,8 @@ aõ aõ ao
 	levantariaõ -> levantariam
 	navegaçaõ -> navegaçam
 	occupaçaõ -> ocupaçam
-	orphaõs -> orfaos
 	orfaõs -> orfaos
+	orphaõs -> orfaos
 	preveniaõ -> preveniam
 	provavaõ -> provavam
 	queyxavaõ -> queixavam
@@ -5527,8 +5527,8 @@ aõ aõ ao
 	dissoluçaõ -> dissoluçam
 	distincçaõ -> distincçam
 	entraõ -> entrao
-	estableceraõ -> estabelecerao
 	estabeleceraõ -> estabelecerao
+	estableceraõ -> estabelecerao
 	ficaraõ -> ficarao
 	impediaõ -> impediam
 	intençaõ -> intençam
@@ -5619,8 +5619,8 @@ aõ aõ ao
 	convenceraõ -> convencerao
 	converteraõ -> converterao
 	decretáraõ -> decretárao
-	deixáraõ -> deixárao
 	deyxáraõ -> deixárao
+	deixáraõ -> deixárao
 	depuseraõ -> depuserao
 	desprezáraõ -> desprezárao
 	destruiçaõ -> destruiçam
@@ -5933,8 +5933,8 @@ aes$ e i
 	paes -> pais
 	animaes -> animais
 	jornaes -> jornais
-	oficiaes -> oficiais
 	officiaes -> oficiais
+	oficiaes -> oficiais
 	naturaes -> naturais
 	estaes -> estais
 	vaes -> vais
@@ -5963,8 +5963,8 @@ aes$ e i
 	immortaes -> imortais
 	imortaes -> imortais
 	actuaes -> atuais
-	comerciaes -> comerciais
 	commerciaes -> comerciais
+	comerciaes -> comerciais
 	fataes -> fatais
 	rivaes -> rivais
 	reaes -> reiais
@@ -6016,8 +6016,8 @@ aes$ e i
 	superficiaes -> superficiais
 	vitaes -> vitais
 	bestiaes -> bestiais
-	cardeaes -> cardeiais
 	cardeiaes -> cardeiais
+	cardeaes -> cardeiais
 	cerebraes -> cerebrais
 	coloniaes -> coloniais
 	esculpturaes -> esculturais
@@ -6107,9 +6107,9 @@ chr chr cr
 	christaã -> cristã
 	sepulchro -> sepulcro
 	christandade -> cristandade
-	christão -> cristam
-	christaõ -> cristam
 	christam -> cristam
+	christaõ -> cristam
+	christão -> cristam
 	christaõs -> cristaos
 	christiano -> cristiano
 	christianismo -> cristianismo
@@ -6182,8 +6182,8 @@ ch ch x
 	chácara -> xácara
 	chanto -> xanto
 	chirinola -> xirinola
-	hecha -> exa
 	echa -> exa
+	hecha -> exa
 	sanches -> sanxes
 	melchior -> melxior
 	sancha -> sanxa
@@ -6204,23 +6204,23 @@ ch ch x
 	monarchia -> monarxia
 	achém -> axém
 	fechouse -> fexouse
+	chamão -> xamam
 	chamao -> xamam
 	chamaõ -> xamam
-	chamão -> xamam
 	chamase -> xamase
 	ich -> ix
 	caramanchão -> caramanxam
 	acharse -> axarse
 	niniche -> ninixe
 	achavão -> axavam
-	achavaõ -> axavam
 	achavao -> axavam
+	achavaõ -> axavam
 	che -> xe
 	michael -> mixael
 	chambre -> xambre
 	chamouo -> xamouo
-	bacho -> baxo
 	baccho -> baxo
+	bacho -> baxo
 	chamálo -> xamálo
 	encheuse -> enxeuse
 	chapter -> xater
@@ -6257,8 +6257,8 @@ ch ch x
 	chamarlhe -> xamarlhe
 	chamoulhe -> xamoulhe
 	cachenez -> caxenez
-	chamamme -> xamame
 	chamame -> xamame
+	chamamme -> xamame
 	arronches -> arronxes
 	achouo -> axouo
 	rochela -> roxela
@@ -6271,15 +6271,15 @@ ch ch x
 	rinchão -> rinxam
 	chalemanta -> xalemanta
 	chamandolhe -> xamandolhe
-	chamavame -> xamavame
 	chamavamme -> xamavame
+	chamavame -> xamavame
 	chamome -> xamome
 	azeviche -> azevixe
 	rochinha -> roxinha
 	chamalhe -> xamalhe
-	chamavaõ -> xamavam
-	chamavão -> xamavam
 	chamavao -> xamavam
+	chamavão -> xamavam
+	chamavaõ -> xamavam
 	chamoua -> xamoua
 	chegavase -> xegavase
 	chufas -> xufas
@@ -6315,8 +6315,8 @@ ch ch x
 	pequerrucha -> pequerruxa
 	charles -> xarles
 	chateaubriand -> xateiaubriand
-	architectura -> arxitetura
 	architetura -> arxitetura
+	architectura -> arxitetura
 	acharamse -> axaram-se
 	acheio -> axeio
 	achoa -> axoa
@@ -6426,8 +6426,8 @@ ch ch x
 	chose -> xose
 	chuços -> xuços
 	achandoa -> axandoa
-	acharaõ -> axarao
 	acharao -> axarao
+	acharaõ -> axarao
 	acharemse -> axarem-se
 	acharlhe -> axarlhe
 	achoume -> axoume
@@ -6455,8 +6455,8 @@ ch ch x
 	chamaramno -> xamarano
 	chamavaa -> xamavaa
 	chambertin -> xambertin
-	chameio -> xameio
 	chameo -> xameio
+	chameio -> xameio
 	charàbanc -> xarábanc
 	chaul -> xaul
 	chazinho -> xazinho
@@ -6594,8 +6594,8 @@ ch ch x
 	chegarlhe -> xegarlhe
 	chegára -> xegára
 	chiarore -> xiarore
-	chinelinha -> xinelinha
 	chinellinha -> xinelinha
+	chinelinha -> xinelinha
 	chiques -> xiques
 	chiste -> xiste
 	chocavamse -> xocavam-se
@@ -6615,8 +6615,8 @@ ch ch x
 	achálas -> axálas
 	achegandose -> axegando-se
 	acheias -> axeias
-	achyles -> axiles
 	achiles -> axiles
+	achyles -> axiles
 	achoos -> axoos
 	achouas -> axouas
 	bichodomato -> bixodomato
@@ -6684,8 +6684,8 @@ ch ch x
 	rachoo -> raxoo
 	rinchar -> rinxar
 	richardson -> rixardson
-	rothschilds -> rotsxilds
 	rotschilds -> rotsxilds
+	rothschilds -> rotsxilds
 	sichar -> sixar
 	schiller -> sxiler
 	scholis -> sxolis
@@ -6721,8 +6721,8 @@ ch ch x
 	chegaivos -> xegaivos
 	chegaralhe -> xegaralhe
 	chegarvos -> xegarvos
-	chegavamme -> xegavame
 	chegavame -> xegavame
+	chegavamme -> xegavame
 	chegounos -> xegounos
 	cheguemse -> xeguem-se
 	cheirame -> xeirame
@@ -6765,8 +6765,8 @@ ch ch x
 	arrochar -> arroxar
 	archanjos -> arxanjos
 	archiselao -> arxiselam
-	architecto -> arxiteto
 	architeto -> arxiteto
+	architecto -> arxiteto
 	architectos -> arxitetos
 	aschema -> asxema
 	atochados -> atoxados
@@ -6926,8 +6926,8 @@ ch ch x
 	mouchão -> mouxam
 	muchaz -> muxaz
 	orchestra -> orxestra
-	ochi -> oxi
 	occhi -> oxi
+	ochi -> oxi
 	parrhochia -> parrhoxia
 	parrocho -> parroxo
 	patriarchaes -> patriarxais
@@ -6982,8 +6982,8 @@ ch ch x
 	trochadas -> troxadas
 	uchoa -> uxoa
 	valachos -> valaxos
-	vechia -> vexia
 	vecchia -> vexia
+	vechia -> vexia
 	chacareiro -> xacareiro
 	chacim -> xacim
 	chaças -> xaças
@@ -6999,8 +6999,8 @@ ch ch x
 	chamamte -> xamamte
 	chamandoas -> xamandoas
 	chamandote -> xamandote
-	chamanos -> xamanos
 	chamamnos -> xamanos
+	chamanos -> xamanos
 	chamaramna -> xamarana
 	chamarvos -> xamarvos
 	chamavamna -> xamavana
@@ -7053,8 +7053,8 @@ ch ch x
 	cheirála -> xeirála
 	cheirão -> xeirão
 	chel -> xel
-	chelles -> xeles
 	cheles -> xeles
+	chelles -> xeles
 	chentadas -> xentadas
 	chiammay -> xiamai
 	chiamai -> xiamai
@@ -7075,8 +7075,8 @@ ch ch x
 	chocamse -> xocam-se
 	chocarrice -> xocarrice
 	chorarlhe -> xorarlhe
-	choravao -> xoravam
 	choravão -> xoravam
+	choravao -> xoravam
 	chorus -> xorus
 	chouans -> xouans
 	chouricinho -> xouricinho
@@ -7635,19 +7635,19 @@ ch ch x
 	himuesseschwunden -> himuessesxwunden
 	yacht -> iaxt
 	yachts -> iaxts
-	idanchieta1560 -> idanxieta1560
 	idanchieta1586 -> idanxieta1586
+	idanchieta1560 -> idanxieta1560
 	idbrochado17th -> idbroxado17t
-	idmachado1899 -> idmaxado1899
-	idmachado1891 -> idmaxado1891
-	idmachado1904 -> idmaxado1904
-	idmachado1972 -> idmaxado1972
-	idmachado1908 -> idmaxado1908
 	idmachado1876 -> idmaxado1876
-	idmachado1881 -> idmaxado1881
-	idmachado1878 -> idmaxado1878
-	idmachado1936 -> idmaxado1936
 	idmachado1885 -> idmaxado1885
+	idmachado1891 -> idmaxado1891
+	idmachado1972 -> idmaxado1972
+	idmachado1936 -> idmaxado1936
+	idmachado1899 -> idmaxado1899
+	idmachado1881 -> idmaxado1881
+	idmachado1904 -> idmaxado1904
+	idmachado1878 -> idmaxado1878
+	idmachado1908 -> idmaxado1908
 	idrocha1910 -> idroxa1910
 	idsanches1760 -> idsanxes1760
 	idchagas1678 -> idxagas1678
@@ -7765,8 +7765,8 @@ ch ch x
 	nichel -> nixel
 	niché -> nixé
 	nichios -> nixios
-	nonchalance -> nonxalance
 	_nonchalance_ -> _nonxalance_
+	nonchalance -> nonxalance
 	nosacham -> nosaxam
 	nuncuchupativo -> nuncuxupativo
 	offenbachiana -> ofembaxiana
@@ -8007,8 +8007,8 @@ ch ch x
 	chalezito -> xalezito
 	chalravam -> xalravam
 	chalros -> xalros
-	cham’ -> xam’
 	cham -> xam
+	cham’ -> xam’
 	chamma -> xama
 	chamay -> xamai
 	chamaime -> xamaime
@@ -8214,8 +8214,8 @@ ch ch x
 	cheveux -> xeveux
 	cheviot -> xeviot
 	cheviotes -> xeviotes
-	chez -> xez
 	_chez -> _xez
+	chez -> xez
 	ché -> xé
 	chiaja -> xiaja
 	chiba -> xiba
@@ -8387,8 +8387,8 @@ ee ee é
 	boleeiro -> boléiro
 	cumeeira -> cuméira
 	compreendêlo -> compréndêlo
-	beetoven -> bétoven
 	beethoven -> bétoven
+	beetoven -> bétoven
 	verdeescuro -> verdéscuro
 	veem -> vém
 	aberdeen -> aberdén
@@ -8520,8 +8520,8 @@ ee ee é
 	cruzarmeei -> cruzarméi
 	cunebetee -> cunebeté
 	darmeei -> darméi
-	«darteei -> «dartéi
 	darteei -> dartéi
+	«darteei -> «dartéi
 	deitarmeei -> deitarméi
 	deletreemos -> deletrémos
 	delineemola -> delinémola
@@ -8720,8 +8720,8 @@ pt pt t
 	escripta -> escrita
 	captiveiro -> cativeiro
 	escriptos -> escritos
-	egypto -> egito
 	egipto -> egito
+	egypto -> egito
 	captivo -> cativo
 	escriptas -> escritas
 	escripturas -> escrituras
@@ -8998,8 +8998,8 @@ pt pt t
 	weishaupt -> weishaut
 
 v$ v u
-	vv -> u
 	v -> u
+	vv -> u
 	iv -> iu
 	cv -> cu
 	xv -> xu
@@ -9337,8 +9337,8 @@ ct ct t
 	docteur -> doteur
 	facti -> fati
 	inctata -> intata
-	intellectuaes -> inteletuais
 	intellectuais -> inteletuais
+	intellectuaes -> inteletuais
 	lillustraction -> lilustration
 	restricta -> restrita
 	recte -> rete
@@ -10830,11 +10830,11 @@ ozo$ z s
 	rigurozo -> riguroso
 
 [^r][aã]o$ [aã]o am
+	tinhao -> tinham
 	tinhão -> tinham
 	tinhaõ -> tinham
-	tinhao -> tinham
-	joão -> joam
 	joaõ -> joam
+	joão -> joam
 	estavaõ -> estavam
 	estavão -> estavam
 	estavao -> estavam
@@ -10842,23 +10842,23 @@ ozo$ z s
 	nao -> nam
 	iao -> iam
 	rubião -> rubiam
-	haviao -> haviam
 	havião -> haviam
+	haviao -> haviam
 	haviaõ -> haviam
-	sebastiaõ -> sebastiam
 	sebastião -> sebastiam
+	sebastiaõ -> sebastiam
 	faziao -> faziam
 	faziaõ -> faziam
 	fazião -> faziam
-	podião -> podiam
 	podiaõ -> podiam
+	podião -> podiam
 	vinhaõ -> vinham
-	sejão -> sejam
 	sejaõ -> sejam
+	sejão -> sejam
 	ação -> açam
-	davaõ -> davam
 	davao -> davam
 	davão -> davam
+	davaõ -> davam
 	parecião -> pareciam
 	pareciao -> pareciam
 	deviaõ -> deviam
@@ -10866,8 +10866,8 @@ ozo$ z s
 	devião -> deviam
 	dizião -> diziam
 	diziao -> diziam
-	ficaõ -> ficam
 	ficão -> ficam
+	ficaõ -> ficam
 	direção -> direçam
 	direçaõ -> direçam
 	saõ -> sam
@@ -10875,83 +10875,83 @@ ozo$ z s
 	tristão -> tristam
 	seriaõ -> seriam
 	serião -> seriam
-	passavao -> passavam
 	passavão -> passavam
+	passavao -> passavam
 	querião -> queriam
-	queriaõ -> queriam
 	queriao -> queriam
+	queriaõ -> queriam
 	juliao -> juliam
 	julião -> juliam
 	assunção -> assunçam
-	taõ -> tam
 	tao -> tam
-	vião -> viam
+	taõ -> tam
 	viao -> viam
-	andão -> andam
+	vião -> viam
 	andaõ -> andam
-	deixao -> deixam
+	andão -> andam
 	deyxaõ -> deixam
 	deixão -> deixam
+	deixao -> deixam
 	romão -> romam
 	passão -> passam
 	passaõ -> passam
 	vejão -> vejam
 	falão -> falam
-	fallão -> falam
 	fallaõ -> falam
+	fallão -> falam
 	ficavaõ -> ficavam
 	ficavão -> ficavam
 	traziao -> traziam
-	traziaõ -> traziam
 	trazião -> traziam
+	traziaõ -> traziam
+	tenhaõ -> tenham
 	tenhao -> tenham
 	tenhão -> tenham
-	tenhaõ -> tenham
-	sabiaõ -> sabiam
-	sabiao -> sabiam
 	sabião -> sabiam
+	sabiao -> sabiam
+	sabiaõ -> sabiam
 	levão -> levam
-	levaõ -> levam
 	levao -> levam
+	levaõ -> levam
 	vivião -> viviam
 	viviaõ -> viviam
-	andavaõ -> andavam
 	andavão -> andavam
+	andavaõ -> andavam
 	esperavao -> esperavam
 	esperavão -> esperavam
-	venhão -> venham
 	venhaõ -> venham
+	venhão -> venham
 	proteçaõ -> proteçam
 	proteção -> proteçam
-	faltaõ -> faltam
 	faltão -> faltam
+	faltaõ -> faltam
 	educaçaõ -> educaçam
-	costumão -> costumam
 	costumaõ -> costumam
+	costumão -> costumam
 	corrião -> corriam
 	maranhão -> maranham
-	fação -> façam
 	façao -> façam
-	entravaõ -> entravam
+	fação -> façam
 	entravão -> entravam
+	entravaõ -> entravam
 	deixavão -> deixavam
-	deixavao -> deixavam
 	deyxavaõ -> deixavam
+	deixavao -> deixavam
 	teriaõ -> teriam
 	terião -> teriam
-	poderião -> poderiam
 	poderiaõ -> poderiam
+	poderião -> poderiam
 	punhão -> punham
 	punhao -> punham
+	digaõ -> digam
 	digão -> digam
 	digao -> digam
-	digaõ -> digam
 	tomavaõ -> tomavam
 	tomavao -> tomavam
 	tomavão -> tomavam
 	levavaõ -> levavam
-	levavão -> levavam
 	levavao -> levavam
+	levavão -> levavam
 	tomaõ -> tomam
 	tomao -> tomam
 	tomão -> tomam
@@ -10959,33 +10959,33 @@ ozo$ z s
 	amao -> amam
 	amaõ -> amam
 	amsterdão -> amsterdam
-	seguião -> seguiam
 	seguiaõ -> seguiam
 	seguiao -> seguiam
+	seguião -> seguiam
 	fernão -> fernam
 	seção -> seçam
 	começão -> começam
 	começaõ -> começam
 	ouviaõ -> ouviam
 	ouviao -> ouviam
-	conheciaõ -> conheciam
 	conhecião -> conheciam
+	conheciaõ -> conheciam
 	conheciao -> conheciam
 	adão -> adam
 	possaõ -> possam
 	possão -> possam
-	acabão -> acabam
 	acabaõ -> acabam
+	acabão -> acabam
 	manecão -> manecam
 	exceção -> exceçam
 	usão -> usam
 	usao -> usam
 	conceição -> conceiçam
-	serviaõ -> serviam
-	servião -> serviam
 	serviao -> serviam
-	christão -> cristam
+	servião -> serviam
+	serviaõ -> serviam
 	christaõ -> cristam
+	christão -> cristam
 	faltavaõ -> faltavam
 	faltavão -> faltavam
 	olhavao -> olhavam
@@ -10993,55 +10993,55 @@ ozo$ z s
 	descião -> desciam
 	desciao -> desciam
 	tratão -> tratam
-	formaõ -> formam
 	formão -> formam
+	formaõ -> formam
 	pedião -> pediam
 	pediaõ -> pediam
 	pediao -> pediam
 	religiaõ -> religiam
 	tornavao -> tornavam
 	tornavão -> tornavam
+	tornao -> tornam
 	tornaõ -> tornam
 	tornão -> tornam
-	tornao -> tornam
 	desejão -> desejam
-	mostravão -> mostravam
 	mostravao -> mostravam
+	mostravão -> mostravam
 	cristóvão -> cristóvam
 	procuravão -> procuravam
 	procuravaõ -> procuravam
 	reação -> reiaçam
 	simão -> simam
-	salomaõ -> salomam
 	salomão -> salomam
-	tratavao -> tratavam
+	salomaõ -> salomam
 	tratavão -> tratavam
 	tratavaõ -> tratavam
+	tratavao -> tratavam
 	ensinaõ -> ensinam
 	ensinão -> ensinam
 	baião -> baiam
-	cuidão -> cuidam
 	cuidao -> cuidam
+	cuidão -> cuidam
 	fariaõ -> fariam
 	farião -> fariam
 	jordão -> jordam
-	sayaõ -> saiam
 	saião -> saiam
+	sayaõ -> saiam
 	bastaõ -> bastam
 	saibão -> saibam
 	saibaõ -> saibam
 	jurisdiçaõ -> jurisdiçam
 	pendião -> pendiam
 	abriao -> abriam
-	buscaõ -> buscam
 	buscao -> buscam
+	buscaõ -> buscam
 	buscão -> buscam
 	matão -> matam
 	matao -> matam
 	tocão -> tocam
 	mandao -> mandam
-	plataõ -> platam
 	platão -> platam
+	plataõ -> platam
 	sião -> siam
 	distração -> distraçam
 	contão -> contam
@@ -11049,25 +11049,25 @@ ozo$ z s
 	amavao -> amavam
 	estejaõ -> estejam
 	estejão -> estejam
+	sentiao -> sentiam
 	valiaõ -> valiam
 	valião -> valiam
 	affirmaõ -> afirmam
 	affirmão -> afirmam
 	afirmão -> afirmam
 	acompanhavao -> acompanhavam
-	sentiao -> sentiam
 	contavao -> contavam
 	contavão -> contavam
+	chamão -> xamam
 	chamao -> xamam
 	chamaõ -> xamam
-	chamão -> xamam
 	costumavão -> costumavam
 	encontravao -> encontravam
 	aragão -> aragam
 	caramanchão -> caramanxam
-	criaõ -> criam
 	crião -> criam
 	criao -> criam
+	criaõ -> criam
 	rascão -> rascam
 	benção -> bençam
 	darião -> dariam
@@ -11081,25 +11081,25 @@ ozo$ z s
 	tocavão -> tocavam
 	afetação -> afetaçam
 	achavão -> axavam
-	achavaõ -> axavam
 	achavao -> axavam
-	coleção -> coleçam
+	achavaõ -> axavam
 	coleçaõ -> coleçam
-	correçaõ -> correçam
+	coleção -> coleçam
 	correção -> correçam
+	correçaõ -> correçam
 	explicão -> explicam
 	explicaõ -> explicam
 	obrigaçaõ -> obrigaçam
-	cobriao -> cobriam
 	cobriaõ -> cobriam
+	cobriao -> cobriam
 	cobrião -> cobriam
-	recebiaõ -> recebiam
 	recebiao -> recebiam
-	desejavão -> desejavam
+	recebiaõ -> recebiam
 	desejavao -> desejavam
+	desejavão -> desejavam
 	entaõ -> entam
-	governão -> governam
 	governaõ -> governam
+	governão -> governam
 	lançavão -> lançavam
 	lançavao -> lançavam
 	offerecião -> ofereciam
@@ -11110,13 +11110,15 @@ ozo$ z s
 	cercão -> cercam
 	cercavao -> cercavam
 	hajão -> hajam
-	lanção -> lançam
 	lançao -> lançam
+	lanção -> lançam
 	razaõ -> razam
 	redação -> redaçam
 	objeção -> objeçam
-	ouçao -> ouçam
 	oução -> ouçam
+	ouçao -> ouçam
+	acompanhao -> acompanham
+	companhão -> acompanham
 	antão -> antam
 	conservavaõ -> conservavam
 	mandavao -> mandavam
@@ -11127,9 +11129,8 @@ ozo$ z s
 	perdiaõ -> perdiam
 	perdião -> perdiam
 	viração -> viraçam
-	acompanhao -> acompanham
-	afirmavão -> afirmavam
 	afirmavao -> afirmavam
+	afirmavão -> afirmavam
 	bastavão -> bastavam
 	caõ -> cam
 	crescião -> cresciam
@@ -11140,15 +11141,15 @@ ozo$ z s
 	sustentao -> sustentam
 	sustentaõ -> sustentam
 	sustentão -> sustentam
-	alcançao -> alcançam
 	alcanção -> alcançam
-	julgavao -> julgavam
+	alcançao -> alcançam
 	julgavaõ -> julgavam
+	julgavao -> julgavam
 	julgavão -> julgavam
-	lião -> liam
 	liao -> liam
-	tiravao -> tiravam
+	lião -> liam
 	tiravão -> tiravam
+	tiravao -> tiravam
 	agitavao -> agitavam
 	comiao -> comiam
 	continuão -> continuam
@@ -11161,20 +11162,20 @@ ozo$ z s
 	estaõ -> estam
 	guardão -> guardam
 	morrião -> morriam
-	buscavão -> buscavam
 	buscavao -> buscavam
+	buscavão -> buscavam
 	conservaçaõ -> conservaçam
 	enganão -> enganam
 	jazião -> jaziam
-	tragao -> tragam
 	tragão -> tragam
+	tragao -> tragam
 	arrastavao -> arrastavam
 	defensão -> defensam
 	ficariaõ -> ficariam
 	ficarião -> ficariam
 	jão -> jam
-	occupão -> ocupam
 	occupaõ -> ocupam
+	occupão -> ocupam
 	predileção -> predileçam
 	repetiao -> repetiam
 	trabalhavaõ -> trabalhavam
@@ -11187,9 +11188,9 @@ ozo$ z s
 	guardavao -> guardavam
 	janjão -> janjam
 	jogavao -> jogavam
+	obrigavao -> obrigavam
 	obrigavaõ -> obrigavam
 	obrigavão -> obrigavam
-	obrigavao -> obrigavam
 	partião -> partiam
 	sansão -> sansam
 	successão -> sucessam
@@ -11200,18 +11201,18 @@ ozo$ z s
 	existiaõ -> existiam
 	existião -> existiam
 	folgazão -> folgazam
-	milaõ -> milam
 	milão -> milam
+	milaõ -> milam
 	trabalhaõ -> trabalham
-	aproveitaõ -> aproveitam
 	aproveitão -> aproveitam
+	aproveitaõ -> aproveitam
 	assistião -> assistiam
 	brandão -> brandam
 	concrusão -> concrusam
-	confessaõ -> confessam
 	confessao -> confessam
-	damião -> damiam
+	confessaõ -> confessam
 	damiaõ -> damiam
+	damião -> damiam
 	habitao -> habitam
 	habitão -> habitam
 	meão -> meiam
@@ -11221,8 +11222,9 @@ ozo$ z s
 	pertenciaõ -> pertenciam
 	ajudão -> ajudam
 	ajudao -> ajudam
-	desprezao -> desprezam
+	cazão -> casam
 	desprezão -> desprezam
+	desprezao -> desprezam
 	habitavaõ -> habitavam
 	imaginão -> imaginam
 	levantao -> levantam
@@ -11230,8 +11232,10 @@ ozo$ z s
 	preparavão -> preparavam
 	respeitao -> respeitam
 	vivão -> vivam
-	adoravao -> adoravam
+	accrescentão -> acrescentam
+	acrecentão -> acrescentam
 	adoravão -> adoravam
+	adoravao -> adoravam
 	apertavao -> apertavam
 	cansao -> cansam
 	deitão -> deitam
@@ -11244,29 +11248,28 @@ ozo$ z s
 	gibão -> gibam
 	levantavão -> levantavam
 	levantavaõ -> levantavam
-	metiao -> metiam
 	metião -> metiam
+	metiao -> metiam
 	occasião -> ocasiam
 	occasiaõ -> ocasiam
 	pensavaõ -> pensavam
-	sustentavão -> sustentavam
 	sustentavaõ -> sustentavam
+	sustentavão -> sustentavam
 	ajuntão -> ajuntam
 	brilhão -> brilham
 	causão -> causam
 	contentão -> contentam
-	determinao -> determinam
 	determinão -> determinam
 	determinaõ -> determinam
-	exercitão -> exercitam
+	determinao -> determinam
 	exercitaõ -> exercitam
+	exercitão -> exercitam
 	frisão -> frisam
 	gozaõ -> gozam
 	gozão -> gozam
 	movião -> moviam
 	olhao -> olham
 	olhão -> olham
-	accrescentão -> acrescentam
 	constituiçaõ -> constituiçam
 	defendiao -> defendiam
 	defendiaõ -> defendiam
@@ -11275,14 +11278,14 @@ ozo$ z s
 	negão -> negam
 	pagavão -> pagavam
 	pagavaõ -> pagavam
-	ponhao -> ponham
 	ponhão -> ponham
+	ponhao -> ponham
 	provao -> provam
 	provão -> provam
 	supunhao -> supunham
 	admiravao -> admiravam
-	atravessão -> atravessam
 	atravessao -> atravessam
+	atravessão -> atravessam
 	cipião -> cipiam
 	envolviao -> envolviam
 	escreviaõ -> escreviam
@@ -11300,9 +11303,9 @@ ozo$ z s
 	enxergão -> enxergam
 	estudavaõ -> estudavam
 	estudavao -> estudavam
-	leaõ -> leiam
-	leyão -> leiam
 	leião -> leiam
+	leyão -> leiam
+	leaõ -> leiam
 	negavaõ -> negavam
 	sigao -> sigam
 	sigão -> sigam
@@ -11316,37 +11319,37 @@ ozo$ z s
 	rinchão -> rinxam
 	roubão -> roubam
 	sacudiao -> sacudiam
-	sirvão -> sirvam
 	sirvaõ -> sirvam
+	sirvão -> sirvam
 	abstração -> abstraçam
-	acreditão -> acreditam
 	accreditão -> acreditam
+	acreditão -> acreditam
 	alamão -> alamam
 	alimentao -> alimentam
 	animavao -> animavam
 	aprendiaõ -> aprendiam
 	apresentão -> apresentam
 	assentão -> assentam
-	attençaõ -> atençam
 	attenção -> atençam
+	attençaõ -> atençam
 	damão -> damam
 	distinçaõ -> distinçam
 	dominavaõ -> dominavam
 	dominavao -> dominavam
 	dominavão -> dominavam
 	necessitaõ -> necessitam
-	necessitavão -> necessitavam
 	necessitavaõ -> necessitavam
+	necessitavão -> necessitavam
 	perseguiao -> perseguiam
 	salamaõ -> salamam
 	salamão -> salamam
 	temiao -> temiam
 	tuão -> tuam
-	chamavaõ -> xamavam
-	chamavão -> xamavam
 	chamavao -> xamavam
-	aprendaõ -> aprendam
+	chamavão -> xamavam
+	chamavaõ -> xamavam
 	aprendao -> aprendam
+	aprendaõ -> aprendam
 	cação -> caçam
 	carregão -> carregam
 	circunspecção -> circunspecçam
@@ -11354,15 +11357,15 @@ ozo$ z s
 	cortão -> cortam
 	creião -> creiam
 	descobrião -> descobriam
-	estudao -> estudam
 	estudaõ -> estudam
+	estudao -> estudam
 	estupefação -> estupefaçam
 	fustão -> fustam
 	haveriaõ -> haveriam
 	louvão -> louvam
-	observaõ -> observam
 	observão -> observam
 	observao -> observam
+	observaõ -> observam
 	observavao -> observavam
 	observavaõ -> observavam
 	sinão -> sinam
@@ -11413,20 +11416,20 @@ ozo$ z s
 	comão -> comam
 	communicaõ -> comunicam
 	consolavao -> consolavam
-	continhao -> continham
 	continhaõ -> continham
+	continhao -> continham
 	creação -> creiaçam
 	creaçaõ -> creiaçam
 	daõ -> dam
 	dao -> dam
 	dominao -> dominam
 	escutão -> escutam
-	exactidaõ -> exatidam
 	exatidão -> exatidam
+	exactidaõ -> exatidam
 	explicavao -> explicavam
 	folgão -> folgam
-	instrucção -> instrucçam
 	instrucçaõ -> instrucçam
+	instrucção -> instrucçam
 	matavao -> matavam
 	“não -> “nam
 	odiavao -> odiavam
@@ -11437,8 +11440,8 @@ ozo$ z s
 	puxavao -> puxavam
 	respeitavao -> respeitavam
 	retidão -> retidam
-	rezao -> rezam
 	rezaõ -> rezam
+	rezao -> rezam
 	soaõ -> soam
 	torturavao -> torturavam
 	abandonavao -> abandonavam
@@ -11461,8 +11464,8 @@ ozo$ z s
 	impressionavao -> impressionavam
 	lão -> lam
 	obedeciaõ -> obedeciam
-	paõ -> pam
 	pao -> pam
+	paõ -> pam
 	participão -> participam
 	percao -> percam
 	percaõ -> percam
@@ -11476,19 +11479,19 @@ ozo$ z s
 	aceitao -> aceitam
 	acertão -> acertam
 	acolhiao -> acolhiam
-	acordão -> acordam
 	acordao -> acordam
+	acordão -> acordam
 	altercação -> altercaçam
 	apregoão -> apregoam
-	approvaçaõ -> aprovaçam
 	approvação -> aprovaçam
+	approvaçaõ -> aprovaçam
 	calao -> calam
 	cumprimentavao -> cumprimentavam
 	derramavao -> derramavam
 	escusão -> escusam
 	esquisitão -> esquisitam
-	executão -> executam
 	executaõ -> executam
+	executão -> executam
 	galvão -> galvam
 	governavaõ -> governavam
 	guardaportão -> guardaportam
@@ -11529,8 +11532,8 @@ ozo$ z s
 	montalvão -> montalvam
 	naçaõ -> naçam
 	peção -> peçam
-	promettião -> prometiam
 	prometiaõ -> prometiam
+	promettião -> prometiam
 	sezão -> sezam
 	sonhavao -> sonhavam
 	subão -> subam
@@ -11539,8 +11542,8 @@ ozo$ z s
 	temão -> temam
 	variavão -> variavam
 	voltariaõ -> voltariam
-	aceitavaõ -> aceitavam
 	aceitavao -> aceitavam
+	aceitavaõ -> aceitavam
 	ajudavao -> ajudavam
 	alegravao -> alegravam
 	apagão -> apagam
@@ -11553,8 +11556,8 @@ ozo$ z s
 	compunção -> compunçam
 	communhão -> comunham
 	consideraçaõ -> consideraçam
-	criavaõ -> criavam
 	criavao -> criavam
+	criavaõ -> criavam
 	desviavao -> desviavam
 	disfarção -> disfarçam
 	disposiçaõ -> disposiçam
@@ -11588,12 +11591,12 @@ ozo$ z s
 	reputaõ -> reputam
 	requerião -> requeriam
 	respondão -> respondam
-	resultaõ -> resultam
 	resultão -> resultam
+	resultaõ -> resultam
 	revelao -> revelam
 	résdochão -> résdoxam
-	sahiaõ -> sahiam
 	sahião -> sahiam
+	sahiaõ -> sahiam
 	saudavao -> saudavam
 	seguiriaõ -> seguiriam
 	serviriaõ -> serviriam
@@ -11611,6 +11614,7 @@ ozo$ z s
 	chegaõ -> xegam
 	chegão -> xegam
 	abusão -> abusam
+	accrescentavão -> acrescentavam
 	aleijão -> aleijam
 	amarelidão -> amarelidam
 	appareção -> apareçam
@@ -11621,8 +11625,8 @@ ozo$ z s
 	bintão -> bintam
 	bonachão -> bonaxam
 	cauçaõ -> cauçam
-	clamão -> clamam
 	clamaõ -> clamam
+	clamão -> clamam
 	completao -> completam
 	communicaçaõ -> comunicaçam
 	condiçaõ -> condiçam
@@ -11719,10 +11723,10 @@ ozo$ z s
 	excitavao -> excitavam
 	execuçaõ -> execuçam
 	extração -> extraçam
-	gastavao -> gastavam
 	gastavaõ -> gastavam
-	hião -> hiam
+	gastavao -> gastavam
 	hiaõ -> hiam
+	hião -> hiam
 	idalcão -> idalcam
 	inquisiçaõ -> inquisiçam
 	inspecçaõ -> inspecçam
@@ -11734,8 +11738,8 @@ ozo$ z s
 	mazagão -> mazagam
 	mergulhavao -> mergulhavam
 	nhornão -> nhornam
-	notão -> notam
 	notao -> notam
+	notão -> notam
 	occorriaõ -> ocorriam
 	pagariaõ -> pagariam
 	prestavao -> prestavam
@@ -11752,7 +11756,6 @@ ozo$ z s
 	unhão -> unham
 	abrahão -> abraham
 	acclamação -> aclamaçam
-	accrescentavão -> acrescentavam
 	adiantavaõ -> adiantavam
 	adustão -> adustam
 	alvaralhão -> alvaralham
@@ -11785,8 +11788,8 @@ ozo$ z s
 	enão -> enam
 	emnão -> enam
 	enterneciao -> enterneciam
-	ereçaõ -> ereçam
 	ereção -> ereçam
+	ereçaõ -> ereçam
 	escandalizaõ -> escandalizam
 	estalão -> estalam
 	estragaõ -> estragam
@@ -11811,12 +11814,12 @@ ozo$ z s
 	morcão -> morcam
 	multiplicavão -> multiplicavam
 	navegaçaõ -> navegaçam
-	occupaçaõ -> ocupaçam
 	occupação -> ocupaçam
+	occupaçaõ -> ocupaçam
 	opposição -> oposiçam
 	plantao -> plantam
-	preveniaõ -> preveniam
 	preveniao -> preveniam
+	preveniaõ -> preveniam
 	provavaõ -> provavam
 	queyxavaõ -> queixavam
 	reclamão -> reclamam
@@ -11848,8 +11851,8 @@ ozo$ z s
 	adquiriaõ -> adquiriam
 	agravação -> agravaçam
 	alucinao -> alucinam
-	ambiçaõ -> ambiçam
 	ambiçao -> ambiçam
+	ambiçaõ -> ambiçam
 	anelão -> anelam
 	apoiavao -> apoiavam
 	aprenderiaõ -> aprenderiam
@@ -11875,8 +11878,8 @@ ozo$ z s
 	copiao -> copiam
 	cordovão -> cordovam
 	christovaõ -> cristovam
-	christovão -> cristovam
 	cristovão -> cristovam
+	christovão -> cristovam
 	decurião -> decuriam
 	defraudão -> defraudam
 	demarcao -> demarcam
@@ -11886,8 +11889,8 @@ ozo$ z s
 	dissoluçaõ -> dissoluçam
 	distincçaõ -> distincçam
 	distincção -> distincçam
-	dividiao -> dividiam
 	dividião -> dividiam
+	dividiao -> dividiam
 	dramalhão -> dramalham
 	emitão -> emitam
 	emolduravao -> emolduravam
@@ -11933,15 +11936,15 @@ ozo$ z s
 	padeção -> padeçam
 	parturição -> parturiçam
 	perecião -> pereciam
-	polião -> poliam
 	pollião -> poliam
+	polião -> poliam
 	ponderaçaõ -> ponderaçam
 	possuîão -> possuîam
 	presumpção -> presumpçam
 	primaleão -> primaleiam
 	procedão -> procedam
-	purificão -> purificam
 	purificao -> purificam
+	purificão -> purificam
 	quereriaõ -> quereriam
 	questaõ -> questam
 	rebentão -> rebentam
@@ -11974,9 +11977,9 @@ ozo$ z s
 	adrião -> adriam
 	advirtão -> advirtam
 	alémjordão -> alémjordam
-	alheação -> alheiaçam
-	alimpão -> alimpam
+	alheação -> alheaçam
 	alimpaõ -> alimpam
+	alimpão -> alimpam
 	amedrontavao -> amedrontavam
 	ameaçavao -> ameiaçavam
 	amoleciao -> amoleciam
@@ -12035,8 +12038,8 @@ ozo$ z s
 	fascinavao -> fascinavam
 	firmavaõ -> firmavam
 	fração -> fraçam
-	frequentaõ -> frequentam
 	frequentão -> frequentam
+	frequentaõ -> frequentam
 	fresquidão -> fresquidam
 	fundavaõ -> fundavam
 	garção -> garçam
@@ -12077,13 +12080,13 @@ ozo$ z s
 	principião -> principiam
 	producção -> producçam
 	produçaõ -> produçam
-	prohibiçaõ -> prohibiçam
 	prohibição -> prohibiçam
+	prohibiçaõ -> prohibiçam
 	proponhão -> proponham
 	pungiao -> pungiam
 	rachavao -> raxavam
-	relatao -> relatam
 	relataõ -> relatam
+	relatao -> relatam
 	relaxavaõ -> relaxavam
 	remedeão -> remedeiam
 	renovaçaõ -> renovaçam
@@ -12124,7 +12127,6 @@ ozo$ z s
 	acodião -> acodiam
 	acquisiçaõ -> acquisiçam
 	acquisição -> acquisiçam
-	acrecentão -> acrecentam
 	adevinhão -> adevinham
 	adjetivação -> adjetivaçam
 	admittão -> admitam
@@ -12232,8 +12234,8 @@ ozo$ z s
 	exaltão -> exaltam
 	exceição -> exceiçam
 	excepçaõ -> excepçam
-	excommunhão -> excomunham
 	excomunhaõ -> excomunham
+	excommunhão -> excomunham
 	explicaçaõ -> explicaçam
 	favoreciao -> favoreciam
 	fechão -> fexam
@@ -12317,6 +12319,8 @@ ozo$ z s
 	petiçaõ -> petiçam
 	pifão -> pifam
 	pigmalião -> pigmaliam
+	dopinião -> piniam
+	pinião -> piniam
 	postergação -> postergaçam
 	prefação -> prefaçam
 	prenunciavao -> prenunciavam
@@ -12341,8 +12345,8 @@ ozo$ z s
 	reservão -> reservam
 	resolvão -> resolvam
 	revolvão -> revolvam
-	rodeavao -> rodeiavam
 	rodeavão -> rodeiavam
+	rodeavao -> rodeiavam
 	rompão -> rompam
 	sacão -> sacam
 	sachristaõ -> sacristam
@@ -12382,8 +12386,8 @@ ozo$ z s
 	vendelhão -> vendelham
 	vivissecção -> vivissecçam
 	chapadão -> xapadam
-	choravao -> xoravam
 	choravão -> xoravam
+	choravao -> xoravam
 	abocanhão -> abocanham
 	abominavão -> abominavam
 	abortaõ -> abortam
@@ -12550,7 +12554,6 @@ ozo$ z s
 	catigão -> catigam
 	catimbao -> catimbam
 	cativavao -> cativavam
-	cazão -> cazam
 	cebrião -> cebriam
 	certidaõ -> certidam
 	cismavao -> cismavam
@@ -12567,7 +12570,6 @@ ozo$ z s
 	commissão -> comissam
 	comoimaginação -> comoimaginaçam
 	compaixaõ -> compaixam
-	companhão -> companham
 	compilaçaõ -> compilaçam
 	composiçaõ -> composiçam
 	compresão -> compresam
@@ -12631,8 +12633,8 @@ ozo$ z s
 	daopinião -> daopiniam
 	dapromissão -> dapromissam
 	darazão -> darazam
+	darlheão -> darlheam
 	darlhehão -> darlheham
-	darlheão -> darlheiam
 	darribação -> darribaçam
 	dassunção -> dassunçam
 	daptidão -> datidam
@@ -12721,7 +12723,6 @@ ozo$ z s
 	distribuïção -> distribuïçam
 	doleão -> doleiam
 	domínionão -> domínionam
-	dopinião -> dopiniam
 	duzentão -> duzentam
 	efracção -> efracçam
 	effusão -> efusam
@@ -12757,7 +12758,7 @@ ozo$ z s
 	enchão -> enxam
 	enchemão -> enxemam
 	eremitão -> eremitam
-	erriquecião -> erriqueciam
+	erriquecião -> eriqueciam
 	esborrachavao -> esborraxavam
 	escoimavão -> escoimavam
 	escorchão -> escorxam
@@ -13054,7 +13055,6 @@ ozo$ z s
 	pêsonão -> pêsonam
 	picadão -> picadam
 	pinão -> pinam
-	pinião -> piniam
 	pinchavao -> pinxavam
 	piratão -> piratam
 	pismão -> pismam
@@ -13162,7 +13162,7 @@ ozo$ z s
 	reuerberação -> reuerberaçam
 	rezdochão -> rezdoxam
 	reengorgitação -> réngorgitaçam
-	ricardocoraçãodeleão -> ricardocoraçãodeleiam
+	ricardocoraçãodeleão -> ricarcoraçãodeleiam
 	ridicularizavao -> ridicularizavam
 	rincão -> rincam
 	risão -> risam
@@ -13259,7 +13259,7 @@ ozo$ z s
 	traiçaõ -> traiçam
 	trancão -> trancam
 	transacçaõ -> transacçam
-	trasião -> trasiam
+	trasião -> transiam
 	treïção -> treïçam
 	trifurcação -> trifurcaçam
 	trincão -> trincam
@@ -13374,8 +13374,8 @@ e[oa] e ei
 	jeová -> jeiová
 	femeas -> femeias
 	semea -> semeia
-	meam -> meiam
 	meão -> meiam
+	meam -> meiam
 	nomea -> nomeia
 	theatro -> teiatro
 	appareceo -> apareceio
@@ -13504,8 +13504,8 @@ e[oa] e ei
 	enleada -> enleiada
 	fazeo -> fazeio
 	leonarda -> leionarda
-	panteon -> panteion
 	pantheon -> panteion
+	panteon -> panteion
 	realizouse -> reializouse
 	semeam -> semeiam
 	senhorea -> senhoreia
@@ -13690,8 +13690,8 @@ e[oa] e ei
 	plebeos -> plebeios
 	pomereau -> pomereiau
 	primaleão -> primaleiam
-	prometeo -> prometeio
 	prometteo -> prometeio
+	prometeo -> prometeio
 	recearse -> receiarse
 	realizarase -> reializarase
 	realizála -> reializála
@@ -13718,7 +13718,7 @@ e[oa] e ei
 	afear -> afeiar
 	ajudantesdeordens -> ajudantesdeiordens
 	alea -> aleia
-	alheação -> alheiaçam
+	alheação -> alheaçam
 	altear -> alteiar
 	alteava -> alteiava
 	alteou -> alteiou
@@ -13759,12 +13759,12 @@ e[oa] e ei
 	desencadeouse -> desencadeiouse
 	hebreos -> ebreios
 	eainda -> eiainda
-	heart -> eiart
 	earth -> eiart
+	heart -> eiart
 	earum -> eiarum
 	elegeo -> elegeio
-	elisea -> eliseia
 	elysea -> eliseia
+	elisea -> eliseia
 	empírea -> empíreia
 	encontreos -> encontreios
 	enlear -> enleiar
@@ -13813,7 +13813,6 @@ e[oa] e ei
 	observeo -> observeio
 	occeani -> oceiani
 	oceani -> oceiani
-	oseas -> oseias
 	osteologia -> osteiologia
 	pantaleão -> pantaleiam
 	pareceome -> pareceiome
@@ -13846,6 +13845,7 @@ e[oa] e ei
 	sabeo -> sabeio
 	salmear -> salmeiar
 	sean -> seian
+	oseas -> seias
 	senhoreando -> senhoreiando
 	senhorearse -> senhoreiarse
 	sofreava -> sofreiava
@@ -13856,11 +13856,11 @@ e[oa] e ei
 	tateantes -> tateiantes
 	tateou -> tateiou
 	teodomiro -> teiodomiro
-	teodore -> teiodore
 	theodore -> teiodore
+	teodore -> teiodore
 	teodoreto -> teiodoreto
-	theseo -> teseio
 	teseo -> teseio
+	theseo -> teseio
 	tropeou -> tropeiou
 	trouxeo -> trouxeio
 	trouxeos -> trouxeios
@@ -13886,7 +13886,7 @@ e[oa] e ei
 	alanceado -> alanceiado
 	alcanceo -> alcanceio
 	aldear -> aldeiar
-	alheavase -> alheiavase
+	alheavase -> alheavase
 	alteada -> alteiada
 	alteado -> alteiado
 	alteara -> alteiara
@@ -13945,8 +13945,8 @@ e[oa] e ei
 	cerúleas -> cerúleias
 	cesárea -> cesáreia
 	clarearse -> clareiarse
-	cleofanto -> cleiofanto
 	cleophanto -> cleiofanto
+	cleofanto -> cleiofanto
 	cobreo -> cobreio
 	coffea -> cofeia
 	coleando -> coleiando
@@ -14008,8 +14008,8 @@ e[oa] e ei
 	esgazeadamente -> esgazeiadamente
 	esgazeando -> esgazeiando
 	esqueceos -> esqueceios
-	estabeleceo -> estabeleceio
 	estableceo -> estabeleceio
+	estabeleceo -> estabeleceio
 	estadeava -> estadeiava
 	esteada -> esteiada
 	estimeo -> estimeio
@@ -14131,8 +14131,8 @@ e[oa] e ei
 	proteo -> proteio
 	queaquela -> queiaquela
 	queaquêle -> queiaquêle
-	ramponneau -> ramponeiau
 	ramponeau -> ramponeiau
+	ramponneau -> ramponeiau
 	rastrearse -> rastreiarse
 	recebeos -> recebeios
 	recreouse -> recreiouse
@@ -14157,8 +14157,8 @@ e[oa] e ei
 	retilíneas -> retilíneias
 	rodeandoos -> rodeiandoos
 	rodearse -> rodeiarse
-	rodeavao -> rodeiavam
 	rodeavão -> rodeiavam
+	rodeavao -> rodeiavam
 	rodeavamno -> rodeiavano
 	rodeavaos -> rodeiavaos
 	rodeouo -> rodeiouo
@@ -14246,7 +14246,7 @@ e[oa] e ei
 	aconcheava -> aconxeiava
 	acorreada -> acorreiada
 	acõmeteos -> acõmeteios
-	acrecentea -> acrecenteia
+	acrecentea -> acrescenteia
 	acúleo -> acúleio
 	acúleos -> acúleios
 	adeantassem -> adeiantassem
@@ -14275,8 +14275,8 @@ e[oa] e ei
 	alcear -> alceiar
 	alegarseão -> alegarseiam
 	aleonado -> aleionado
-	alhearemse -> alheiarem-se
-	alhearme -> alheiarme
+	alhearemse -> alhearem-se
+	alhearme -> alhearme
 	alheouse -> alheiouse
 	alteandoa -> alteiandoa
 	alteavase -> alteiavase
@@ -14548,7 +14548,6 @@ e[oa] e ei
 	costumeaumenta -> costumeiaumenta
 	costumeos -> costumeios
 	côrtereal -> côrtereial
-	creceolhe -> creceiolhe
 	creações -> creiações
 	crealos -> creialos
 	creanço -> creianço
@@ -14563,6 +14562,7 @@ e[oa] e ei
 	creaturam -> creiaturam
 	creatus -> creiatus
 	creavam -> creiavam
+	creceolhe -> cresceiolhe
 	cumeada -> cumeiada
 	cuneo -> cuneio
 	curvetear -> curveteiar
@@ -14571,7 +14571,7 @@ e[oa] e ei
 	dadealega -> dadeialega
 	dameaça -> dameiaça
 	dapotheoses -> dapoteioses
-	darlheão -> darlheiam
+	darlheão -> darlheam
 	daureolas -> daureiolas
 	debeant -> debeiant
 	declarasseo -> declarasseio
@@ -14620,7 +14620,7 @@ e[oa] e ei
 	deseada -> deseiada
 	desencadearase -> desencadeiarase
 	desfeitearamte -> desfeiteiaramte
-	desfolheas -> desfolheias
+	desfolheas -> desfolheas
 	desmastreado -> desmastreiado
 	desnorteadamente -> desnorteiadamente
 	desnorteadora -> desnorteiadora
@@ -14696,7 +14696,7 @@ e[oa] e ei
 	eoutros -> eioutros
 	eovo -> eiovo
 	elleao -> eleiam
-	elheatravesou -> elheiatravesou
+	elheatravesou -> elheatravesou
 	eliseos -> eliseios
 	elyssea -> elisseia
 	embebeo -> embebeio
@@ -14912,7 +14912,7 @@ e[oa] e ei
 	gorgear -> gorgeiar
 	gorgearam -> gorgeiaram
 	gradeadozinho -> gradeiadozinho
-	gralheando -> gralheiando
+	gralheando -> gralheando
 	gramíneo -> gramíneio
 	grandjean -> grandjeian
 	grangeadas -> grangeiadas
@@ -15465,7 +15465,7 @@ e[oa] e ei
 	revoluteava -> revoluteiava
 	revoluteavam -> revoluteiavam
 	recheadinha -> rexeiadinha
-	ricardocoraçãodeleão -> ricardocoraçãodeleiam
+	ricardocoraçãodeleão -> ricarcoraçãodeleiam
 	rnea -> rneia
 	rodeandoa -> rodeiandoa
 	rodeandolhe -> rodeiandolhe
@@ -15776,8 +15776,8 @@ e[oa] e ei
 	hespanholas -> espanholas
 	heitor -> eitor
 	heila -> eila
-	hebreia -> ebreia
 	hebrea -> ebreia
+	hebreia -> ebreia
 	heid’ -> eid’
 	heio -> eio
 	heios -> eios
@@ -15802,8 +15802,8 @@ e[oa] e ei
 	heródoto -> eródoto
 	herrera -> errera
 	hezbekadez -> ezbekadez
-	hellio -> elio
 	helio -> elio
+	hellio -> elio
 	helvetius -> elvetius
 	hemais -> emais
 	hemas -> emas
@@ -15870,6 +15870,7 @@ e[oa] e ei
 	hereditaria -> ereditaria
 	heregia -> eregia
 	hereticus -> ereticus
+	herico -> erico
 	herideia -> erideia
 	hermenegildo -> ermenegildo
 	hermoso -> ermoso
@@ -15987,7 +15988,6 @@ e[oa] e ei
 	herezias -> erezias
 	herédé -> erédé
 	heribaldo -> eribaldo
-	herico -> erico
 	heridas -> eridas
 	herifle -> erifle
 	herique -> erique
@@ -16213,8 +16213,8 @@ ivel$ i í
 	vizivel -> vizível
 
 ovel$ o ó
-	imovel -> imóvel
 	immovel -> imóvel
+	imovel -> imóvel
 	movel -> móvel
 	novel -> nóvel
 	_novel -> _nóvel
@@ -16626,6 +16626,8 @@ mse$ ms m-s
 	beijocavamse -> beijocavam-se
 	buscamse -> buscam-se
 	calemse -> calem-se
+	casaremse -> casarem-se
+	cazaremse -> casarem-se
 	cavavamse -> cavavam-se
 	citamse -> citam-se
 	coavamse -> coavam-se
@@ -16944,7 +16946,7 @@ mse$ ms m-s
 	alegravamse -> alegravam-se
 	alegremse -> alegrem-se
 	alfinetaramse -> alfinetaram-se
-	alhearemse -> alheiarem-se
+	alhearemse -> alhearem-se
 	aliamse -> aliam-se
 	alimentaremse -> alimentarem-se
 	alojaremse -> alojarem-se
@@ -17072,10 +17074,8 @@ mse$ ms m-s
 	caminhamse -> caminham-se
 	cansamse -> cansam-se
 	cantavamse -> cantavam-se
-	casaremse -> casarem-se
 	casavamse -> casavam-se
 	casemse -> casem-se
-	cazaremse -> cazarem-se
 	celebravamse -> celebravam-se
 	celebremse -> celebrem-se
 	celebrizaramse -> celebrizaram-se
@@ -18063,8 +18063,8 @@ iase$ s ss
 	alteiase -> alteiasse
 	comiase -> comiasse
 	compreendiase -> compréndiasse
-	compromettiase -> comprometiasse
 	comprometiase -> comprometiasse
+	compromettiase -> comprometiasse
 	cumpriase -> cumpriasse
 	desciase -> desciasse
 	desmaiase -> desmaiasse
@@ -18290,8 +18290,8 @@ ndose$ os o-s
 	oferecendose -> oferecendo-se
 	perdendose -> perdendo-se
 	abraçandose -> abraçando-se
-	acotovelandose -> acotovelando-se
 	acotovellandose -> acotovelando-se
+	acotovelandose -> acotovelando-se
 	colocandose -> colocando-se
 	desdobrandose -> desdobrando-se
 	encontrandose -> encontrando-se
@@ -18461,8 +18461,8 @@ ndose$ os o-s
 	arrimandose -> arrimando-se
 	associandose -> associando-se
 	atentandose -> atentando-se
-	atropelandose -> atropelando-se
 	atropellandose -> atropelando-se
+	atropelandose -> atropelando-se
 	avolumandose -> avolumando-se
 	achegandose -> axegando-se
 	bamboleandose -> bamboleiando-se
@@ -19091,8 +19091,6 @@ ndose$ os o-s
 	chorandose -> xorando-se
 	zangandose -> zangando-se
 
-ugm$ gm m
-
 .blec bl bel
 	establecimento -> estabelecimento
 	establecer -> estabelecer
@@ -19110,4 +19108,252 @@ ugm$ gm m
 	estableceria -> estabeleceria
 	estableceriaõ -> estabeleceriam
 	restableceo -> restabeleceio
+
+.acim|crece ce sce
+	acrecentou -> acrescentou
+	crecendo -> crescendo
+	crecer -> crescer
+	crece -> cresce
+	acrecentar -> acrescentar
+	acrecentava -> acrescentava
+	acrecentando -> acrescentando
+	acrecenta -> acrescenta
+	crecem -> crescem
+	acrecentão -> acrescentam
+	creceram -> cresceram
+	acrecente -> acrescente
+	acrecentaram -> acrescentaram
+	acrecentamentos -> acrescentamentos
+	acrecentamento -> acrescentamento
+	acrecentavam -> acrescentavam
+	acrecentasse -> acrescentasse
+	crecerão -> crescerão
+	acrecentarse -> acrescentarse
+	acrecentada -> acrescentada
+	crecerá -> crescerá
+	acrecentálas -> acrescentálas
+	recrecem -> recrescem
+	acrecentadas -> acrescentadas
+	acrecentálos -> acrescentálos
+	acrecentea -> acrescenteia
+	creceolhe -> cresceiolhe
+
+lheia eia ea
+	alheya -> alhea
+	darlheia -> darlhea
+	dirlheia -> dirlhea
+	olheia -> olhea
+	alheação -> alheaçam
+	terlheia -> terlhea
+	alheiamento -> alheamento
+	alheavase -> alheavase
+	escreverlheia -> escreverlhea
+	pedirlheia -> pedirlhea
+	aconselheia -> aconselhea
+	acontecerlheia -> acontecerlhea
+	afagarlheia -> afagarlhea
+	alhearemse -> alhearem-se
+	alhearme -> alhearme
+	atirarselheia -> atirarselhea
+	caberlheia -> caberlhea
+	confessarlheia -> confessarlhea
+	contarlheia -> contarlhea
+	darlheão -> darlheam
+	desfolheas -> desfolheas
+	deverlheia -> deverlhea
+	elheatravesou -> elheatravesou
+	embrulheias -> embrulheas
+	encolheias -> encolheas
+	espalheias -> espalheas
+	estenderlheia -> estenderlhea
+	falarlheia -> falarlhea
+	farlheia -> farlhea
+	folheiame -> folheame
+	fornecerlheia -> fornecerlhea
+	gralheando -> gralheando
+	levarlheia -> levarlhea
+	mostrarlheia -> mostrarlhea
+	oferecerlheiam -> oferecerlheam
+	pareçaalheia -> pareçaalhea
+	perguntarlheia -> perguntarlhea
+	pilheia -> pilhea
+	puxarlheia -> puxarlhea
+	restarlheia -> restarlhea
+	sucederselheiam -> sucederselheam
+	terraalheia -> terraalhea
+	trancarlheiam -> trancarlheam
+	virlheia -> virlhea
+
+caza z s
+	caza -> casa
+	cazamento -> casamento
+	cazas -> casas
+	cazar -> casar
+	cazado -> casado
+	cazada -> casada
+	cazados -> casados
+	cazamentos -> casamentos
+	cazarse -> casarse
+	cazaria -> casaria
+	alcazar -> alcasar
+	cazadas -> casadas
+	cazasse -> casasse
+	cazando -> casando
+	cazão -> casam
+	cazarás -> casarás
+	alcazarinas -> alcasarinas
+	cazamiento -> casamiento
+	cazaráz -> casaráz
+	cazaremse -> casarem-se
+	alcazares -> alcasares
+
+^companha c ac
+	companha -> acompanha
+	companhamento -> acompanhamento
+	companhão -> acompanham
+	companhas -> acompanhas
+
+sinti in en
+	sintia -> sentia
+	sintimento -> sentimento
+	sintir -> sentir
+	sintiu -> sentiu
+	sintido -> sentido
+	sintidos -> sentidos
+	consintir -> consentir
+	consintiu -> consentiu
+	consintimento -> consentimento
+	sintiam -> sentiam
+	consintia -> consentia
+	sintiram -> sentiram
+	sintinella -> sentinela
+	sintida -> sentida
+	sintinellas -> sentinelas
+	sintisse -> sentisse
+	sintirá -> sentirá
+	consintio -> consentio
+	sintimprimindo -> sentimprimindo
+
+devenc dev v
+	devencimento -> vencimento
+
+doco doc c
+	docorpo -> corpo
+	docombate -> combate
+	docontentamento -> contentamento
+	colédoco -> coléco
+	demodoco -> democo
+	demódoco -> demóco
+	dizendocoragem -> dizencoragem
+	estadocontínuo -> estacontínuo
+	ricardocoraçãodeleão -> ricarcoraçãodeleiam
+	sendocomo -> sencomo
+	uenamiodoco -> uenamioco
+
+^dop dop p
+	dopois -> pois
+	dopera -> pera
+	dopoder -> poder
+	dopensamento -> pensamento
+	dopo -> po
+	dopinião -> piniam
+	dopereta -> pereta
+	dopiniões -> piniões
+
+empedim em im
+	empedimento -> impedimento
+
+encit e i
+	encita -> incita
+	encitamento -> incitamento
+
+^erri rr r
+	erriçadas -> eriçadas
+	erriçada -> eriçada
+	erriçado -> eriçado
+	errico -> erico
+	erriça -> eriça
+	erriçamento -> eriçamento
+	erriçavase -> eriçavase
+	erriquecião -> eriqueciam
+
+^escrem sc x
+	escremento -> exremento
+
+^ocon oc c
+	oconhecimento -> conhecimento
+	ocontentamento -> contentamento
+	oconceito -> conceito
+	oconhecêla -> conhecêla
+	oconsiderarse -> considerarse
+	oconserválo -> conserválo
+
+^oen oe e
+	oengano -> engano
+	oentendimento -> entendimento
+	oeniando -> eniando
+
+^oin oi i
+	oinstrumento -> instrumento
+
+^omov om m
+	omovimento -> movimento
+
+^ose os s
+	oseu -> seu
+	oser -> ser
+	osenhor -> senhor
+	osentimento -> sentimento
+	oseas -> seias
+	osenobrecem -> senobrecem
+
+^quenten que e
+	quentendimento -> entendimento
+
+tubia i e
+	titubiamento -> titubeamento
+
+^tras as ans
+	trasbordar -> transbordar
+	trasbordando -> transbordando
+	trasbordava -> transbordava
+	tras -> trans
+	trasbordante -> transbordante
+	traspassado -> transpassado
+	trasbordamento -> transbordamento
+	trasmuda -> transmuda
+	traspassando -> transpassando
+	trasbordam -> transbordam
+	trastagana -> transtagana
+	traslados -> translados
+	traspassa -> transpassa
+	traspassada -> transpassada
+	traspassados -> transpassados
+	traspassara -> transpassara
+	trasportarmos -> transportarmos
+	trasantonte -> transantonte
+	trasantontem -> transantontem
+	trasbarrás -> transbarrás
+	trasfega -> transfega
+	trasfegar -> transfegar
+	trasfegas -> transfegas
+	trasfego -> transfego
+	trasgo -> transgo
+	trasião -> transiam
+	trasluzamos -> transluzamos
+	trasmalha -> transmalha
+	trasosmontes -> transosmontes
+	traspassadas -> transpassadas
+	traspassam -> transpassam
+	traspassar -> transpassar
+	traspassaram -> transpassaram
+	traspassarem -> transpassarem
+	traspassavam -> transpassavam
+	traspassavame -> transpassavame
+	traspassoua -> transpassoua
+	trastamar -> transtamar
+	trastejam -> transtejam
+	trastejara -> transtejara
+	trastezinho -> transtezinho
+	trastezito -> transtezito
 
