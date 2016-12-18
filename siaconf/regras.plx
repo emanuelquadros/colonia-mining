@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 use strict;
-use lib '/home/manu/Dropbox/notes/yale/QuantitativeCorpus/romance-group-project/siaconf';
+use lib './';
 use Alfabeto;
 use FileHandle;
 use Data::Dumper;

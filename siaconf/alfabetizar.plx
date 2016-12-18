@@ -10,7 +10,7 @@
 
 use strict;
 
-use lib '/home/manu/Dropbox/notes/yale/QuantitativeCorpus/romance-group-project/siaconf';
+use lib './';
 use Alfabeto;
 use Data::Dumper;
 
