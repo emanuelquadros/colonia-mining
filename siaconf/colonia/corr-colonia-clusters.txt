@@ -1,0 +1,15222 @@
+e  (160331)
+	e		(159116)
+	he		(1215)
+
+do  (53017)
+	do		(53016)
+	ddo		(1)
+
+em  (43978)
+	em		(43788)
+	hem		(190)
+
+é  (31425)
+	é		(31422)
+	ee		(3)
+
+no  (25200)
+	no		(25199)
+	nno		(1)
+
+mais  (23272)
+	mais		(23250)
+	maes		(11)
+	mays		(11)
+
+eu  (16954)
+	eu		(16952)
+	heu		(2)
+
+me  (16074)
+	me		(15872)
+	mme		(202)
+
+ele  (13692)
+	ele		(13223)
+	elle		(467)
+	hele		(2)
+
+já  (11130)
+	já		(11121)
+	jà		(9)
+
+ela  (10342)
+	ela		(10009)
+	ella		(333)
+
+foi  (9671)
+	foi		(9544)
+	foy		(127)
+
+só  (8238)
+	só		(8236)
+	sò		(2)
+
+pela  (6366)
+	pela		(6359)
+	pella		(7)
+
+pelo  (5964)
+	pelo		(5963)
+	pello		(1)
+
+está  (5259)
+	está		(5240)
+	està		(19)
+
+lá  (4984)
+	lá		(4976)
+	là		(8)
+
+te  (4487)
+	te		(4465)
+	the		(22)
+
+amor  (4477)
+	amor		(4476)
+	ammor		(1)
+
+ter  (3657)
+	ter		(3656)
+	ther		(1)
+
+noite  (3540)
+	noite		(3536)
+	noyte		(4)
+
+ali  (3217)
+	ali		(3170)
+	alli		(47)
+
+anos  (3201)
+	anos		(2955)
+	annos		(246)
+
+ia  (3109)
+	ia		(3094)
+	ya		(15)
+
+si  (2866)
+	si		(2865)
+	sy		(1)
+
+aquele  (2852)
+	aquele		(2684)
+	aquelle		(168)
+
+aquela  (2851)
+	aquela		(2676)
+	aquella		(175)
+
+sei  (2771)
+	sei		(2748)
+	sey		(23)
+
+primeiro  (2623)
+	primeiro		(2612)
+	primeyro		(11)
+
+pai  (2509)
+	pai		(2447)
+	pay		(62)
+
+algum  (2455)
+	algum		(2454)
+	allgum		(1)
+
+meio  (2422)
+	meio		(2339)
+	meyo		(47)
+	meo		(36)
+
+vai  (2417)
+	vai		(2391)
+	vay		(26)
+
+dela  (2377)
+	dela		(2214)
+	della		(163)
+
+nós  (2355)
+	nós		(2339)
+	nòs		(16)
+
+maior  (2293)
+	maior		(2130)
+	mayor		(163)
+
+dele  (2264)
+	dele		(2127)
+	delle		(137)
+
+eles  (2249)
+	eles		(1999)
+	elles		(250)
+
+pelos  (2060)
+	pelos		(2056)
+	pellos		(4)
+
+tinham  (2009)
+	tinham		(1848)
+	tinhaõ		(69)
+	tinhao		(55)
+	tinhão		(37)
+
+pé  (1982)
+	pé		(1979)
+	pee		(3)
+
+sala  (1951)
+	sala		(1950)
+	salla		(1)
+
+primeira  (1927)
+	primeira		(1923)
+	primeyra		(4)
+
+rei  (1922)
+	rei		(1704)
+	rey		(218)
+
+joam  (1920)
+	joão		(1894)
+	joaõ		(20)
+	joam		(6)
+
+vós  (1907)
+	vós		(1906)
+	vòs		(1)
+
+pelas  (1821)
+	pelas		(1819)
+	pellas		(2)
+
+cá  (1789)
+	cá		(1784)
+	cà		(5)
+
+veio  (1704)
+	veio		(1667)
+	veyo		(27)
+	veo		(10)
+
+falar  (1678)
+	falar		(1632)
+	fallar		(46)
+
+elrei  (1661)
+	elrei		(1586)
+	elrey		(75)
+
+mil  (1632)
+	mil		(1631)
+	mill		(1)
+
+dinheiro  (1487)
+	dinheiro		(1474)
+	dinheyro		(13)
+
+será  (1443)
+	será		(1442)
+	serà		(1)
+
+santa  (1371)
+	santa		(1363)
+	sancta		(8)
+
+feito  (1334)
+	feito		(1332)
+	feyto		(2)
+
+ai  (1333)
+	ai		(1303)
+	ay		(30)
+
+santo  (1332)
+	santo		(1322)
+	sancto		(10)
+
+manhã  (1307)
+	manhã		(1305)
+	manhaã		(2)
+
+boca  (1277)
+	boca		(1227)
+	bocca		(50)
+
+pés  (1261)
+	pés		(1257)
+	pees		(4)
+
+ano  (1259)
+	ano		(1113)
+	anno		(146)
+
+mui  (1259)
+	mui		(1242)
+	muy		(17)
+
+quais  (1258)
+	quais		(1111)
+	quaes		(145)
+	quays		(2)
+
+daquela  (1247)
+	daquela		(1169)
+	daquella		(78)
+
+reino  (1209)
+	reino		(968)
+	reyno		(241)
+
+dona  (1170)
+	dona		(1169)
+	donna		(1)
+
+comigo  (1137)
+	comigo		(1130)
+	commigo		(7)
+
+respeito  (1135)
+	respeito		(1133)
+	respeyto		(2)
+
+efeito  (1119)
+	efeito		(1104)
+	effeito		(15)
+
+daquele  (1115)
+	daquele		(1046)
+	daquelle		(69)
+
+estavam  (1115)
+	estavam		(1078)
+	estavaõ		(19)
+	estavão		(17)
+	estavao		(1)
+
+aqueles  (1047)
+	aqueles		(894)
+	aquelles		(153)
+
+ó  (1030)
+	ó		(1024)
+	ò		(6)
+
+janela  (1021)
+	janela		(1013)
+	janella		(8)
+
+deles  (1014)
+	deles		(906)
+	delles		(108)
+
+pena  (1010)
+	pena		(981)
+	penna		(29)
+
+aquilo  (973)
+	aquilo		(935)
+	aquillo		(38)
+
+naquele  (970)
+	naquele		(914)
+	naquelle		(56)
+
+elas  (953)
+	elas		(893)
+	ellas		(59)
+	helas		(1)
+
+fui  (927)
+	fui		(922)
+	fuy		(5)
+
+cabelos  (922)
+	cabelos		(884)
+	cabellos		(38)
+
+cristo  (918)
+	cristo		(783)
+	christo		(135)
+
+nela  (915)
+	nela		(796)
+	nella		(119)
+
+tomar  (900)
+	tomar		(898)
+	thomar		(2)
+
+deixar  (897)
+	deixar		(894)
+	deyxar		(3)
+
+ti  (891)
+	ti		(890)
+	ty		(1)
+
+lei  (888)
+	lei		(773)
+	ley		(115)
+
+naquela  (885)
+	naquela		(833)
+	naquella		(52)
+
+baixo  (871)
+	baixo		(870)
+	bayxo		(1)
+
+bela  (868)
+	bela		(844)
+	bella		(24)
+
+creio  (855)
+	creio		(835)
+	creo		(10)
+	creyo		(10)
+
+afonso  (829)
+	afonso		(804)
+	affonso		(25)
+
+i  (820)
+	i		(488)
+	y		(332)
+
+meia  (817)
+	meia		(766)
+	mea		(38)
+	meya		(13)
+
+tais  (817)
+	tais		(774)
+	taes		(43)
+
+nele  (794)
+	nele		(713)
+	nelle		(81)
+
+nam  (771)
+	naõ		(473)
+	nam		(277)
+	nao		(21)
+
+possível  (753)
+	possível		(724)
+	possivel		(29)
+
+cuidado  (729)
+	cuidado		(723)
+	cuydado		(6)
+
+delas  (723)
+	delas		(621)
+	dellas		(102)
+
+u  (719)
+	v		(671)
+	u		(44)
+	vv		(3)
+	uu		(1)
+
+iam  (717)
+	iam		(710)
+	iao		(7)
+
+irmã  (710)
+	irmã		(709)
+	irmaã		(1)
+
+aquelas  (709)
+	aquelas		(632)
+	aquellas		(77)
+
+pereira  (699)
+	pereira		(695)
+	pereyra		(4)
+
+deixou  (683)
+	deixou		(681)
+	deyxou		(2)
+
+primeiros  (678)
+	primeiros		(669)
+	primeyros		(9)
+
+cadeira  (665)
+	cadeira		(663)
+	cadeyra		(2)
+
+vale  (662)
+	vale		(645)
+	valle		(17)
+
+dito  (661)
+	dito		(658)
+	dicto		(2)
+	ditto		(1)
+
+levar  (649)
+	levar		(647)
+	llevar		(2)
+
+anda  (645)
+	anda		(635)
+	amda		(10)
+
+et  (645)
+	et		(641)
+	eth		(4)
+
+fala  (644)
+	fala		(630)
+	falla		(14)
+
+seis  (634)
+	seis		(633)
+	seys		(1)
+
+santos  (631)
+	santos		(625)
+	sanctos		(6)
+
+fato  (629)
+	fato		(628)
+	fatto		(1)
+
+debaixo  (627)
+	debaixo		(617)
+	debayxo		(10)
+
+presente  (622)
+	presente		(621)
+	prezente		(1)
+
+belo  (616)
+	belo		(598)
+	bello		(18)
+
+reis  (607)
+	reis		(528)
+	reys		(79)
+
+beleza  (605)
+	beleza		(589)
+	belleza		(16)
+
+conselheiro  (596)
+	conselheiro		(595)
+	conselheyro		(1)
+
+haviam  (587)
+	haviam		(562)
+	haviaõ		(12)
+	havião		(10)
+	haviao		(3)
+
+in  (577)
+	in		(576)
+	imn		(1)
+
+verdadeiro  (577)
+	verdadeiro		(575)
+	verdadeyro		(2)
+
+má  (569)
+	má		(567)
+	mà		(2)
+
+sai  (560)
+	sai		(557)
+	say		(3)
+
+falou  (556)
+	falou		(541)
+	fallou		(15)
+
+leis  (551)
+	leis		(511)
+	leys		(40)
+
+deixa  (544)
+	deixa		(543)
+	deyxa		(1)
+
+letras  (540)
+	letras		(536)
+	lettras		(4)
+
+falava  (536)
+	falava		(523)
+	fallava		(13)
+
+sebastiam  (530)
+	sebastião		(521)
+	sebastiaõ		(8)
+	sebastiam		(1)
+
+acrescentou  (526)
+	acrescentou		(520)
+	accrescentou		(6)
+
+cavalo  (521)
+	cavalo		(466)
+	cavallo		(55)
+
+apareceu  (520)
+	apareceu		(515)
+	appareceu		(5)
+
+pais  (508)
+	pais		(448)
+	pays		(40)
+	paes		(20)
+
+faziam  (504)
+	faziam		(431)
+	faziao		(40)
+	fazião		(28)
+	faziaõ		(5)
+
+maiores  (502)
+	maiores		(445)
+	mayores		(57)
+
+impossível  (493)
+	impossível		(465)
+	impossivel		(28)
+
+janelas  (489)
+	janelas		(474)
+	janellas		(15)
+
+comendador  (485)
+	comendador		(484)
+	commendador		(1)
+
+daqueles  (479)
+	daqueles		(426)
+	daquelles		(53)
+
+sono  (479)
+	sono		(469)
+	somno		(10)
+
+seio  (475)
+	seio		(469)
+	seo		(6)
+
+podiam  (474)
+	podiam		(442)
+	podiaõ		(19)
+	podião		(13)
+
+cavaleiro  (472)
+	cavaleiro		(458)
+	cavalleiro		(11)
+	cavalleyro		(3)
+
+verdadeira  (470)
+	verdadeira		(468)
+	verdadeyra		(2)
+
+mi  (469)
+	mi		(463)
+	my		(6)
+
+companheiros  (467)
+	companheiros		(464)
+	companheyros		(3)
+
+vaise  (465)
+	vaise		(464)
+	vayse		(1)
+
+aires  (461)
+	aires		(458)
+	ayres		(3)
+
+pároco  (461)
+	pároco		(460)
+	pàroco		(1)
+
+deixando  (457)
+	deixando		(455)
+	deyxando		(2)
+
+autor  (435)
+	autor		(373)
+	author		(43)
+	auctor		(19)
+
+falando  (430)
+	falando		(417)
+	fallando		(13)
+
+terrível  (430)
+	terrível		(414)
+	terrivel		(16)
+
+vila  (428)
+	vila		(397)
+	villa		(31)
+
+primeiras  (427)
+	primeiras		(423)
+	primeyras		(4)
+
+razões  (427)
+	razões		(395)
+	razoens		(32)
+
+vinham  (424)
+	vinham		(418)
+	vinhaõ		(6)
+
+castela  (423)
+	castela		(324)
+	castella		(99)
+
+dali  (418)
+	dali		(409)
+	dalli		(9)
+
+imediatamente  (409)
+	imediatamente		(406)
+	immediatamente		(3)
+
+sejam  (406)
+	sejam		(365)
+	sejão		(26)
+	sejaõ		(15)
+
+embaixador  (403)
+	embaixador		(402)
+	embayxador		(1)
+
+vitória  (401)
+	vitória		(400)
+	victória		(1)
+
+estilo  (397)
+	estilo		(377)
+	estylo		(18)
+	estillo		(2)
+
+comum  (394)
+	comum		(369)
+	commum		(25)
+
+autoridade  (384)
+	autoridade		(345)
+	auctoridade		(22)
+	authoridade		(17)
+
+estrelas  (380)
+	estrelas		(367)
+	estrellas		(13)
+
+leva  (371)
+	leva		(368)
+	lleva		(3)
+
+letra  (368)
+	letra		(366)
+	lettra		(2)
+
+sul  (368)
+	sul		(367)
+	sull		(1)
+
+comércio  (364)
+	comércio		(363)
+	commércio		(1)
+
+luta  (361)
+	luta		(353)
+	lucta		(8)
+
+rainha  (361)
+	rainha		(360)
+	raynha		(1)
+
+teresa  (361)
+	teresa		(360)
+	theresa		(1)
+
+dei  (360)
+	dei		(356)
+	dey		(4)
+
+cabelo  (357)
+	cabelo		(349)
+	cabello		(8)
+
+espanha  (357)
+	espanha		(348)
+	hespanha		(9)
+
+joana  (352)
+	joana		(349)
+	joanna		(3)
+
+ana  (349)
+	ana		(343)
+	anna		(6)
+
+animais  (347)
+	animais		(304)
+	animaes		(43)
+
+pecado  (346)
+	pecado		(327)
+	peccado		(19)
+
+excelente  (345)
+	excelente		(329)
+	excellente		(16)
+
+cavalos  (344)
+	cavalos		(316)
+	cavallos		(28)
+
+frase  (341)
+	frase		(340)
+	phrase		(1)
+
+daquelas  (339)
+	daquelas		(299)
+	daquellas		(40)
+
+davam  (339)
+	davam		(328)
+	davão		(8)
+	davaõ		(2)
+	davao		(1)
+
+dono  (337)
+	dono		(329)
+	domno		(8)
+
+meios  (335)
+	meios		(310)
+	meos		(13)
+	meyos		(12)
+
+pele  (334)
+	pele		(310)
+	pelle		(24)
+
+pareciam  (326)
+	pareciam		(322)
+	parecião		(3)
+	pareciao		(1)
+
+receio  (325)
+	receio		(323)
+	receo		(1)
+	receyo		(1)
+
+deixava  (324)
+	deixava		(322)
+	deyxava		(2)
+
+àquela  (323)
+	àquela		(322)
+	àquella		(1)
+
+queira  (321)
+	queira		(317)
+	queyra		(4)
+
+jornais  (316)
+	jornais		(305)
+	jornaes		(11)
+
+mata  (316)
+	mata		(315)
+	matta		(1)
+
+terceiro  (315)
+	terceiro		(298)
+	terceyro		(17)
+
+cavalheiro  (313)
+	cavalheiro		(310)
+	cavalheyro		(3)
+
+colo  (310)
+	colo		(306)
+	collo		(4)
+
+diferença  (310)
+	diferença		(297)
+	differença		(13)
+
+escrito  (308)
+	escrito		(301)
+	escripto		(6)
+	escritto		(1)
+
+terá  (306)
+	terá		(305)
+	terà		(1)
+
+deios  (298)
+	deos		(297)
+	deios		(1)
+
+raios  (297)
+	raios		(292)
+	rayos		(5)
+
+vela  (297)
+	vela		(293)
+	vella		(4)
+
+fisionomia  (294)
+	fisionomia		(292)
+	physionomia		(2)
+
+oficiais  (293)
+	oficiais		(254)
+	officiais		(25)
+	officiaes		(13)
+	oficiaes		(1)
+
+direi  (292)
+	direi		(280)
+	direy		(12)
+
+ilustre  (290)
+	ilustre		(273)
+	illustre		(17)
+
+abaixo  (288)
+	abaixo		(282)
+	abayxo		(6)
+
+medeia  (281)
+	medeia		(278)
+	medea		(3)
+
+entusiasmo  (280)
+	entusiasmo		(277)
+	enthusiasmo		(3)
+
+abade  (279)
+	abade		(271)
+	abbade		(8)
+
+capela  (278)
+	capela		(222)
+	capella		(56)
+
+deviam  (277)
+	deviam		(239)
+	deviaõ		(35)
+	deviao		(2)
+	devião		(1)
+
+efeitos  (275)
+	efeitos		(243)
+	effeitos		(32)
+
+meter  (275)
+	meter		(271)
+	metter		(4)
+
+sofrer  (275)
+	sofrer		(271)
+	soffrer		(4)
+
+guerreiro  (273)
+	guerreiro		(270)
+	guerreyro		(3)
+
+saia  (273)
+	saia		(272)
+	saya		(1)
+
+diziam  (272)
+	diziam		(259)
+	diziao		(7)
+	dizião		(6)
+
+seios  (271)
+	seos		(175)
+	seios		(96)
+
+fiquei  (270)
+	fiquei		(269)
+	fiquey		(1)
+
+miserável  (270)
+	miserável		(266)
+	miseravel		(4)
+
+terceira  (270)
+	terceira		(267)
+	terceyra		(3)
+
+sofá  (269)
+	sofá		(268)
+	sophá		(1)
+
+ficam  (268)
+	ficam		(226)
+	ficão		(25)
+	ficaõ		(17)
+
+levando  (267)
+	levando		(266)
+	llevando		(1)
+
+condições  (262)
+	condições		(253)
+	condiçoens		(9)
+
+dificuldade  (262)
+	dificuldade		(253)
+	difficuldade		(9)
+
+estrela  (262)
+	estrela		(258)
+	estrella		(4)
+
+sucesso  (262)
+	sucesso		(255)
+	successo		(7)
+
+corações  (260)
+	corações		(254)
+	coraçoens		(6)
+
+ii  (260)
+	ii		(257)
+	yy		(3)
+
+direçam  (259)
+	direção		(257)
+	direçaõ		(2)
+
+nelas  (259)
+	nelas		(211)
+	nellas		(48)
+
+raio  (259)
+	raio		(258)
+	rayo		(1)
+
+naturais  (257)
+	naturais		(236)
+	naturaes		(21)
+
+imóvel  (256)
+	imóvel		(251)
+	immovel		(4)
+	imovel		(1)
+
+holanda  (255)
+	holanda		(232)
+	hollanda		(23)
+
+inocente  (255)
+	inocente		(251)
+	innocente		(4)
+
+caixa  (254)
+	caixa		(253)
+	cayxa		(1)
+
+penas  (253)
+	penas		(244)
+	pennas		(9)
+
+haverá  (250)
+	haverá		(248)
+	haverà		(2)
+
+xácara  (250)
+	chácara		(241)
+	xácara		(9)
+
+fruto  (248)
+	fruto		(238)
+	fructo		(10)
+
+oficial  (248)
+	oficial		(236)
+	official		(12)
+
+seca  (248)
+	seca		(247)
+	secca		(1)
+
+sam  (243)
+	sam		(121)
+	saõ		(120)
+	sao		(2)
+
+sómente  (243)
+	sòmente		(124)
+	sómente		(119)
+
+aparecia  (242)
+	aparecia		(237)
+	apparecia		(5)
+
+escritura  (241)
+	escritura		(236)
+	escriptura		(5)
+
+tristam  (240)
+	tristão		(239)
+	tristam		(1)
+
+belas  (239)
+	belas		(237)
+	bellas		(2)
+
+imenso  (239)
+	imenso		(232)
+	immenso		(7)
+
+seriam  (239)
+	seriam		(210)
+	seriaõ		(24)
+	serião		(5)
+
+paixões  (237)
+	paixões		(234)
+	payxoens		(3)
+
+pecados  (236)
+	pecados		(217)
+	peccados		(19)
+
+autores  (234)
+	autores		(223)
+	auctores		(6)
+	authores		(5)
+
+passavam  (234)
+	passavam		(229)
+	passavao		(3)
+	passavão		(2)
+
+catarina  (233)
+	catarina		(174)
+	catharina		(59)
+
+farei  (232)
+	farei		(229)
+	farey		(3)
+
+socorro  (232)
+	socorro		(230)
+	soccorro		(2)
+
+aparecer  (231)
+	aparecer		(222)
+	apparecer		(9)
+
+castelo  (230)
+	castelo		(220)
+	castello		(10)
+
+diferente  (230)
+	diferente		(214)
+	differente		(16)
+
+velas  (229)
+	velas		(226)
+	vellas		(3)
+
+agradável  (228)
+	agradável		(224)
+	agradavel		(4)
+
+filipe  (228)
+	filipe		(156)
+	filippe		(63)
+	philippe		(6)
+	philipe		(2)
+	fillipe		(1)
+
+melo  (228)
+	melo		(222)
+	mello		(6)
+
+verdadeiramente  (228)
+	verdadeiramente		(226)
+	verdadeyramente		(2)
+
+pareceme  (227)
+	pareceme		(225)
+	parecemme		(2)
+
+queriam  (225)
+	queriam		(190)
+	queriao		(20)
+	querião		(8)
+	queriaõ		(7)
+
+cristãos  (224)
+	cristãos		(170)
+	christãos		(54)
+
+juliam  (224)
+	julião		(223)
+	juliao		(1)
+
+cadeiras  (223)
+	cadeiras		(220)
+	cadeyras		(3)
+
+dano  (222)
+	dano		(209)
+	damno		(13)
+
+escudeiro  (222)
+	escudeiro		(220)
+	escudeyro		(2)
+
+xanto  (222)
+	xanto		(216)
+	chanto		(6)
+
+pano  (220)
+	pano		(210)
+	panno		(10)
+
+n  (218)
+	n		(215)
+	nn		(2)
+	mn		(1)
+
+tipo  (217)
+	tipo		(210)
+	typo		(7)
+
+aldeia  (215)
+	aldeia		(202)
+	aldea		(13)
+
+notável  (215)
+	notável		(197)
+	notavel		(18)
+
+diferentes  (214)
+	diferentes		(183)
+	differentes		(31)
+
+neles  (214)
+	neles		(180)
+	nelles		(34)
+
+silva  (214)
+	silva		(211)
+	sylva		(3)
+
+filosofia  (212)
+	filosofia		(181)
+	philosophia		(31)
+
+vassalos  (212)
+	vassalos		(184)
+	vassallos		(28)
+
+pola  (211)
+	pola		(206)
+	polla		(5)
+
+tam  (209)
+	tam		(119)
+	taõ		(89)
+	tao		(1)
+
+abismo  (208)
+	abismo		(206)
+	abysmo		(2)
+
+ceia  (208)
+	ceia		(198)
+	cea		(10)
+
+ideia  (208)
+	ideia		(177)
+	idea		(31)
+
+nações  (208)
+	nações		(166)
+	naçoens		(42)
+
+falo  (207)
+	falo		(189)
+	fallo		(18)
+
+mosteiro  (207)
+	mosteiro		(206)
+	mosteyro		(1)
+
+trato  (207)
+	trato		(206)
+	tratto		(1)
+
+verá  (207)
+	verá		(206)
+	verà		(1)
+
+ocasiões  (206)
+	ocasiões		(196)
+	occasioens		(8)
+	occasiões		(2)
+
+reinos  (206)
+	reinos		(131)
+	reynos		(75)
+
+estais  (204)
+	estais		(201)
+	estaes		(3)
+
+imensa  (204)
+	imensa		(202)
+	immensa		(2)
+
+aceitar  (203)
+	aceitar		(202)
+	aceytar		(1)
+
+famoso  (203)
+	famoso		(202)
+	famozo		(1)
+
+horrível  (202)
+	horrível		(197)
+	horrivel		(5)
+
+rede  (201)
+	rede		(199)
+	redde		(2)
+
+vais  (199)
+	vais		(197)
+	vaes		(2)
+
+reflexões  (198)
+	reflexões		(195)
+	reflexoens		(3)
+
+estrangeiros  (197)
+	estrangeiros		(188)
+	estrangeyros		(9)
+
+mato  (196)
+	mato		(193)
+	matto		(3)
+
+simpatia  (196)
+	simpatia		(194)
+	sympathia		(2)
+
+feia  (195)
+	feia		(193)
+	fea		(2)
+
+estrangeiro  (194)
+	estrangeiro		(190)
+	estrangeyro		(4)
+
+viam  (193)
+	viam		(160)
+	viao		(31)
+	vião		(2)
+
+sucessos  (191)
+	sucessos		(188)
+	successos		(3)
+
+sinais  (189)
+	sinais		(184)
+	sinaes		(5)
+
+vieira  (189)
+	vieira		(188)
+	vieyra		(1)
+
+admirável  (188)
+	admirável		(171)
+	admiravel		(17)
+
+cavaleiros  (188)
+	cavaleiros		(176)
+	cavalleyros		(7)
+	cavalleiros		(5)
+
+comandante  (187)
+	comandante		(184)
+	commandante		(3)
+
+sistema  (187)
+	sistema		(176)
+	systema		(9)
+	systhema		(2)
+
+andam  (186)
+	andam		(165)
+	andão		(20)
+	andaõ		(1)
+
+feira  (185)
+	feira		(182)
+	feyra		(3)
+
+frutos  (185)
+	frutos		(179)
+	fructos		(6)
+
+irei  (185)
+	irei		(184)
+	irey		(1)
+
+madeira  (185)
+	madeira		(184)
+	madeyra		(1)
+
+conosco  (184)
+	conosco		(174)
+	comnosco		(10)
+
+acordo  (183)
+	acordo		(182)
+	accordo		(1)
+
+areia  (183)
+	areia		(180)
+	area		(3)
+
+frases  (183)
+	frases		(177)
+	phrases		(6)
+
+ad  (182)
+	ad		(178)
+	add		(4)
+
+amável  (182)
+	amável		(181)
+	amavel		(1)
+
+guerreiros  (182)
+	guerreiros		(180)
+	guerreyros		(2)
+
+calado  (181)
+	calado		(180)
+	callado		(1)
+
+tiro  (181)
+	tiro		(179)
+	tyro		(2)
+
+feio  (180)
+	feio		(179)
+	feo		(1)
+
+maio  (180)
+	maio		(172)
+	mayo		(8)
+
+deixam  (177)
+	deixam		(147)
+	deixão		(16)
+	deixao		(12)
+	deyxaõ		(2)
+
+formidável  (177)
+	formidável		(171)
+	formidavel		(6)
+
+principais  (176)
+	principais		(163)
+	principaes		(13)
+
+correio  (175)
+	correio		(173)
+	correo		(1)
+	correyo		(1)
+
+dita  (175)
+	dita		(168)
+	dicta		(6)
+	ditta		(1)
+
+indiferente  (175)
+	indiferente		(171)
+	indifferente		(4)
+
+trono  (175)
+	trono		(162)
+	throno		(13)
+
+fale  (174)
+	fale		(168)
+	falle		(6)
+
+atitude  (173)
+	atitude		(171)
+	attitude		(2)
+
+passam  (172)
+	passam		(156)
+	passão		(13)
+	passaõ		(3)
+
+felipe  (171)
+	felipe		(161)
+	phelipe		(8)
+	felippe		(1)
+	phelippe		(1)
+
+naqueles  (171)
+	naqueles		(148)
+	naquelles		(23)
+
+p  (171)
+	p		(166)
+	pp		(5)
+
+tesouro  (171)
+	tesouro		(168)
+	thesouro		(3)
+
+fantasia  (170)
+	fantasia		(168)
+	phantasia		(2)
+
+peixe  (170)
+	peixe		(166)
+	peyxe		(4)
+
+veludo  (168)
+	veludo		(160)
+	velludo		(8)
+
+belos  (167)
+	belos		(164)
+	bellos		(3)
+
+camões  (165)
+	camões		(163)
+	camoens		(2)
+
+gato  (165)
+	gato		(164)
+	gatto		(1)
+
+peixes  (164)
+	peixes		(162)
+	peyxes		(2)
+
+religioso  (164)
+	religioso		(163)
+	religiozo		(1)
+
+colunas  (163)
+	colunas		(114)
+	columnas		(29)
+	colunnas		(20)
+
+foise  (162)
+	foise		(161)
+	foyse		(1)
+
+meteu  (162)
+	meteu		(160)
+	metteu		(2)
+
+opiniões  (162)
+	opiniões		(158)
+	opinioens		(4)
+
+mole  (161)
+	mole		(158)
+	molle		(3)
+
+escrita  (160)
+	escrita		(150)
+	escripta		(10)
+
+iguais  (160)
+	iguais		(155)
+	iguaes		(5)
+
+le  (160)
+	le		(159)
+	lle		(1)
+
+exa  (159)
+	exa		(155)
+	hecha		(3)
+	echa		(1)
+
+instinto  (159)
+	instinto		(155)
+	instincto		(4)
+
+afeto  (158)
+	afeto		(156)
+	affecto		(2)
+
+obrigações  (156)
+	obrigações		(138)
+	obrigaçoens		(18)
+
+passeios  (156)
+	passeios		(155)
+	passeyos		(1)
+
+alheia  (155)
+	alheia		(154)
+	alheya		(1)
+
+sucede  (155)
+	sucede		(139)
+	succede		(16)
+
+vejam  (155)
+	vejam		(150)
+	vejão		(5)
+
+dificuldades  (154)
+	dificuldades		(148)
+	difficuldades		(6)
+
+coluna  (153)
+	coluna		(132)
+	colunna		(16)
+	columna		(5)
+
+falam  (153)
+	falam		(145)
+	fallão		(5)
+	falão		(1)
+	fallam		(1)
+	fallaõ		(1)
+
+naquelas  (153)
+	naquelas		(132)
+	naquellas		(21)
+
+ficavam  (152)
+	ficavam		(145)
+	ficavaõ		(4)
+	ficavão		(3)
+
+erros  (151)
+	erros		(150)
+	herros		(1)
+
+misteriosa  (151)
+	misteriosa		(147)
+	mysteriosa		(4)
+
+traziam  (151)
+	traziam		(136)
+	traziao		(7)
+	trazião		(7)
+	traziaõ		(1)
+
+natário  (150)
+	natário		(147)
+	natàrio		(3)
+
+tenham  (150)
+	tenham		(131)
+	tenhão		(10)
+	tenhao		(5)
+	tenhaõ		(4)
+
+amarelo  (149)
+	amarelo		(140)
+	amarello		(9)
+
+lha  (149)
+	lha		(143)
+	llha		(6)
+
+sabiam  (149)
+	sabiam		(129)
+	sabiao		(10)
+	sabiaõ		(7)
+	sabião		(3)
+
+orações  (148)
+	orações		(144)
+	oraçoens		(4)
+
+verdadeiros  (148)
+	verdadeiros		(146)
+	verdadeyros		(2)
+
+bengala  (147)
+	bengala		(145)
+	bengalla		(2)
+
+levam  (147)
+	levam		(127)
+	levão		(12)
+	levao		(7)
+	levaõ		(1)
+
+passei  (146)
+	passei		(145)
+	passey		(1)
+
+rui  (146)
+	rui		(98)
+	ruy		(48)
+
+acções  (145)
+	acções		(105)
+	acçoens		(40)
+
+defunto  (145)
+	defunto		(144)
+	defuncto		(1)
+
+prometeu  (145)
+	prometeu		(144)
+	prometteu		(1)
+
+solene  (145)
+	solene		(138)
+	solemne		(7)
+
+c  (144)
+	c		(142)
+	cc		(2)
+
+aparece  (143)
+	aparece		(142)
+	apparece		(1)
+
+deixei  (142)
+	deixei		(141)
+	deixey		(1)
+
+falavam  (142)
+	falavam		(141)
+	fallavam		(1)
+
+alheio  (141)
+	alheio		(140)
+	alheyo		(1)
+
+espirituais  (141)
+	espirituais		(139)
+	espirituaes		(2)
+
+misterioso  (141)
+	misterioso		(140)
+	mysterioso		(1)
+
+teles  (141)
+	teles		(138)
+	telles		(3)
+
+cristal  (140)
+	cristal		(139)
+	crystal		(1)
+
+digame  (140)
+	digame		(131)
+	digamme		(9)
+
+ilustres  (139)
+	ilustres		(127)
+	illustres		(12)
+
+viviam  (139)
+	viviam		(123)
+	viviaõ		(14)
+	vivião		(2)
+
+andavam  (137)
+	andavam		(130)
+	andavão		(6)
+	andavaõ		(1)
+
+cautela  (135)
+	cautela		(133)
+	cautella		(2)
+
+esperavam  (135)
+	esperavam		(121)
+	esperavao		(11)
+	esperavão		(3)
+
+literatura  (135)
+	literatura		(121)
+	litteratura		(14)
+
+sá  (135)
+	sá		(134)
+	sà		(1)
+
+venham  (135)
+	venham		(133)
+	venhaõ		(1)
+	venhão		(1)
+
+esfera  (133)
+	esfera		(131)
+	esphera		(2)
+
+rabi  (133)
+	rabi		(132)
+	rabbi		(1)
+
+cadeia  (132)
+	cadeia		(129)
+	cadea		(2)
+	cadeya		(1)
+
+delito  (132)
+	delito		(130)
+	delicto		(2)
+
+delrei  (132)
+	delrei		(90)
+	delrey		(42)
+
+afirmou  (131)
+	afirmou		(129)
+	affirmou		(2)
+
+deixo  (131)
+	deixo		(127)
+	deyxo		(4)
+
+eco  (131)
+	eco		(129)
+	ecco		(2)
+
+historia  (131)
+	historia		(130)
+	hystoria		(1)
+
+labirinto  (131)
+	labirinto		(127)
+	labyrintho		(2)
+	labiryntho		(1)
+	labyrinto		(1)
+
+inteligente  (130)
+	inteligente		(126)
+	intelligente		(4)
+
+suposto  (130)
+	suposto		(129)
+	supposto		(1)
+
+biblioteca  (129)
+	biblioteca		(106)
+	bibliotheca		(23)
+
+cristã  (129)
+	cristã		(77)
+	christaã		(33)
+	christã		(19)
+
+deixeme  (129)
+	deixeme		(113)
+	deixemme		(16)
+
+impressões  (129)
+	impressões		(126)
+	impressoens		(3)
+
+oferecer  (129)
+	oferecer		(122)
+	offerecer		(7)
+
+sofrimento  (129)
+	sofrimento		(127)
+	soffrimento		(2)
+
+proteçam  (128)
+	proteção		(125)
+	proteçaõ		(3)
+
+acreditar  (127)
+	acreditar		(126)
+	accreditar		(1)
+
+apolo  (127)
+	apolo		(123)
+	apollo		(4)
+
+faltam  (127)
+	faltam		(119)
+	faltão		(6)
+	faltaõ		(2)
+
+colegas  (126)
+	colegas		(123)
+	collegas		(3)
+
+educaçam  (126)
+	educaçaõ		(111)
+	educaçam		(15)
+
+falei  (126)
+	falei		(122)
+	fallei		(4)
+
+comovido  (125)
+	comovido		(123)
+	commovido		(2)
+
+suma  (125)
+	suma		(106)
+	summa		(19)
+
+atmosfera  (124)
+	atmosfera		(120)
+	atmosphera		(4)
+
+costumam  (124)
+	costumam		(114)
+	costumão		(9)
+	costumaõ		(1)
+
+deixame  (124)
+	deixame		(123)
+	deixamme		(1)
+
+donzela  (124)
+	donzela		(121)
+	donzella		(3)
+
+meias  (124)
+	meias		(121)
+	meyas		(3)
+
+cavalaria  (123)
+	cavalaria		(120)
+	cavallaria		(3)
+
+temo  (123)
+	temo		(122)
+	temmo		(1)
+
+matias  (122)
+	matias		(102)
+	mathias		(20)
+
+acendeu  (121)
+	acendeu		(120)
+	accendeu		(1)
+
+balas  (121)
+	balas		(119)
+	ballas		(2)
+
+indispensável  (121)
+	indispensável		(111)
+	indispensavel		(10)
+
+prometo  (121)
+	prometo		(118)
+	prometto		(3)
+
+verdadeiras  (121)
+	verdadeiras		(120)
+	verdadeyras		(1)
+
+cativeiro  (120)
+	cativeiro		(119)
+	captiveiro		(1)
+
+colete  (120)
+	colete		(118)
+	collete		(2)
+
+corriam  (120)
+	corriam		(118)
+	corrião		(2)
+
+oficio  (120)
+	officio		(88)
+	oficio		(32)
+
+secas  (120)
+	secas		(119)
+	seccas		(1)
+
+aflita  (119)
+	aflita		(118)
+	afflicta		(1)
+
+creia  (119)
+	creia		(116)
+	crea		(2)
+	creya		(1)
+
+escritos  (119)
+	escritos		(111)
+	escriptos		(8)
+
+gerais  (119)
+	gerais		(113)
+	geraes		(6)
+
+praias  (119)
+	praias		(117)
+	prayas		(2)
+
+falado  (118)
+	falado		(111)
+	fallado		(7)
+
+come  (117)
+	come		(106)
+	comme		(11)
+
+falasse  (117)
+	falasse		(114)
+	fallasse		(3)
+
+gota  (117)
+	gota		(114)
+	gotta		(3)
+
+más  (117)
+	más		(115)
+	màs		(2)
+
+tirano  (117)
+	tirano		(101)
+	tyrano		(11)
+	tyranno		(5)
+
+aba  (116)
+	abba		(82)
+	aba		(34)
+
+façam  (116)
+	façam		(105)
+	fação		(6)
+	façao		(5)
+
+considerações  (115)
+	considerações		(113)
+	consideraçoens		(2)
+
+morais  (115)
+	morais		(112)
+	moraes		(3)
+
+poderei  (115)
+	poderei		(114)
+	poderey		(1)
+
+sumo  (115)
+	sumo		(94)
+	summo		(21)
+
+entrei  (114)
+	entrei		(113)
+	entrey		(1)
+
+joane  (114)
+	joane		(112)
+	joanne		(2)
+
+solenidade  (114)
+	solenidade		(113)
+	solemnidade		(1)
+
+entravam  (113)
+	entravam		(109)
+	entravaõ		(3)
+	entravão		(1)
+
+soma  (112)
+	soma		(107)
+	somma		(5)
+
+lições  (111)
+	lições		(103)
+	liçoens		(8)
+
+anel  (110)
+	anel		(109)
+	annel		(1)
+
+oferecia  (110)
+	oferecia		(104)
+	offerecia		(6)
+
+póde  (110)
+	póde		(105)
+	pòde		(5)
+
+danos  (109)
+	danos		(86)
+	damnos		(22)
+	dannos		(1)
+
+ladrões  (109)
+	ladroens		(60)
+	ladrões		(49)
+
+sepulcro  (108)
+	sepulcro		(79)
+	sepulchro		(29)
+
+estabelecimento  (107)
+	estabelecimento		(102)
+	establecimento		(5)
+
+inexplicável  (107)
+	inexplicável		(101)
+	inexplicavel		(6)
+
+matos  (107)
+	matos		(100)
+	mattos		(7)
+
+olhai  (107)
+	olhai		(106)
+	olhay		(1)
+
+deixavam  (106)
+	deixavam		(96)
+	deixavao		(7)
+	deyxavaõ		(2)
+	deixavão		(1)
+
+queixas  (106)
+	queixas		(105)
+	queyxas		(1)
+
+tinta  (106)
+	tinta		(105)
+	tincta		(1)
+
+calar  (105)
+	calar		(98)
+	callar		(7)
+
+egito  (105)
+	egito		(65)
+	egipto		(30)
+	egypto		(10)
+
+permite  (105)
+	permite		(98)
+	permitte		(7)
+
+poti  (105)
+	poti		(104)
+	poty		(1)
+
+teriam  (105)
+	teriam		(97)
+	teriaõ		(4)
+	terião		(4)
+
+tirania  (105)
+	tirania		(96)
+	tyrania		(5)
+	tyrannia		(4)
+
+distrito  (104)
+	distrito		(96)
+	districto		(8)
+
+liberais  (104)
+	liberais		(97)
+	liberaes		(7)
+
+primeiramente  (104)
+	primeiramente		(102)
+	primeyramente		(2)
+
+tostões  (104)
+	tostões		(94)
+	tostoens		(10)
+
+vaca  (104)
+	vaca		(103)
+	vacca		(1)
+
+cavalheiros  (103)
+	cavalheiros		(102)
+	cavalheyros		(1)
+
+es  (103)
+	es		(101)
+	hes		(2)
+
+pecador  (103)
+	pecador		(92)
+	peccador		(11)
+
+poderiam  (103)
+	poderiam		(92)
+	poderiaõ		(8)
+	poderião		(3)
+
+suceder  (103)
+	suceder		(95)
+	succeder		(8)
+
+alemanha  (102)
+	alemanha		(96)
+	allemanha		(6)
+
+comovida  (102)
+	comovida		(100)
+	commovida		(2)
+
+al  (101)
+	al		(99)
+	all		(2)
+
+dai  (101)
+	dai		(99)
+	day		(2)
+
+tomei  (101)
+	tomei		(100)
+	tomey		(1)
+
+irresistível  (100)
+	irresistível		(96)
+	irresistivel		(4)
+
+milhões  (100)
+	milhões		(91)
+	milhoens		(9)
+
+sociais  (100)
+	sociais		(96)
+	sociaes		(4)
+
+palidez  (99)
+	palidez		(98)
+	pallidez		(1)
+
+vasconcelos  (99)
+	vasconcelos		(92)
+	vasconcellos		(7)
+
+amarela  (98)
+	amarela		(95)
+	amarella		(3)
+
+atenas  (98)
+	atenas		(92)
+	athenas		(6)
+
+f  (98)
+	f		(79)
+	ff		(11)
+	ph		(8)
+
+mete  (98)
+	mete		(97)
+	mette		(1)
+
+santas  (98)
+	santas		(95)
+	sanctas		(3)
+
+acender  (97)
+	acender		(96)
+	accender		(1)
+
+ambições  (97)
+	ambições		(96)
+	ambiçoens		(1)
+
+nó  (97)
+	nó		(58)
+	nò		(39)
+
+punham  (97)
+	punham		(78)
+	punhão		(15)
+	punhao		(4)
+
+secos  (97)
+	secos		(96)
+	seccos		(1)
+
+varões  (97)
+	varões		(90)
+	varoens		(7)
+
+barbeiro  (96)
+	barbeiro		(95)
+	barbeyro		(1)
+
+efetivamente  (96)
+	efetivamente		(95)
+	effectivamente		(1)
+
+mistérios  (96)
+	mistérios		(95)
+	mystérios		(1)
+
+perguntei  (96)
+	perguntei		(94)
+	perguntey		(2)
+
+prometido  (96)
+	prometido		(92)
+	promettido		(4)
+
+veias  (96)
+	veias		(92)
+	veas		(4)
+
+cristandade  (95)
+	cristandade		(73)
+	christandade		(22)
+
+darei  (95)
+	darei		(94)
+	darey		(1)
+
+digam  (95)
+	digam		(79)
+	digao		(9)
+	digão		(6)
+	digaõ		(1)
+
+dizeme  (95)
+	dizeme		(85)
+	dizemme		(10)
+
+tomavam  (95)
+	tomavam		(81)
+	tomavão		(7)
+	tomavao		(5)
+	tomavaõ		(2)
+
+santana  (94)
+	santana		(92)
+	santanna		(2)
+
+socorros  (94)
+	socorros		(91)
+	soccorros		(3)
+
+b  (93)
+	b		(92)
+	bb		(1)
+
+ditos  (93)
+	ditos		(91)
+	dittos		(2)
+
+falemos  (93)
+	falemos		(90)
+	fallemos		(3)
+
+ferreira  (93)
+	ferreira		(92)
+	ferreyra		(1)
+
+levavam  (93)
+	levavam		(76)
+	levavao		(9)
+	levavão		(7)
+	levavaõ		(1)
+
+proporções  (93)
+	proporções		(92)
+	proporçoens		(1)
+
+vales  (93)
+	vales		(89)
+	valles		(4)
+
+alheios  (92)
+	alheios		(85)
+	alheos		(7)
+
+cativo  (92)
+	cativo		(89)
+	captivo		(3)
+
+reinado  (92)
+	reinado		(91)
+	reynado		(1)
+
+tomam  (92)
+	tomam		(75)
+	tomão		(14)
+	tomao		(2)
+	tomaõ		(1)
+
+bailes  (91)
+	bailes		(90)
+	bayles		(1)
+
+escritas  (91)
+	escritas		(87)
+	escriptas		(4)
+
+gotas  (91)
+	gotas		(87)
+	gottas		(4)
+
+ocupado  (91)
+	ocupado		(90)
+	occupado		(1)
+
+profeta  (91)
+	profeta		(87)
+	propheta		(4)
+
+seta  (91)
+	seta		(90)
+	secta		(1)
+
+ditas  (90)
+	ditas		(86)
+	dittas		(4)
+
+x  (90)
+	x		(75)
+	ch		(15)
+
+xale  (90)
+	xale		(71)
+	chale		(19)
+
+amam  (89)
+	amam		(76)
+	amao		(9)
+	amão		(3)
+	amaõ		(1)
+
+aventureiro  (89)
+	aventureiro		(88)
+	aventureyro		(1)
+
+modelo  (89)
+	modelo		(88)
+	modello		(1)
+
+respeitável  (89)
+	respeitável		(87)
+	respeitavel		(2)
+
+afirmar  (88)
+	afirmar		(83)
+	affirmar		(5)
+
+aplauso  (88)
+	aplauso		(85)
+	applauso		(3)
+
+condenado  (88)
+	condenado		(87)
+	condemnado		(1)
+
+escrituras  (88)
+	escrituras		(85)
+	escripturas		(3)
+
+frutas  (88)
+	frutas		(87)
+	fructas		(1)
+
+ideias  (88)
+	ideias		(78)
+	ideas		(10)
+
+oculta  (88)
+	oculta		(84)
+	occulta		(4)
+
+apresentou  (87)
+	apresentou		(86)
+	appresentou		(1)
+
+imortal  (87)
+	imortal		(72)
+	immortal		(15)
+
+inocentes  (87)
+	inocentes		(80)
+	innocentes		(7)
+
+provável  (87)
+	provável		(78)
+	provavel		(9)
+
+veiolhe  (87)
+	veiolhe		(86)
+	veolhe		(1)
+
+amsterdam  (86)
+	amsterdam		(85)
+	amsterdão		(1)
+
+bois  (86)
+	bois		(85)
+	boys		(1)
+
+botões  (86)
+	botões		(85)
+	botoens		(1)
+
+ervas  (86)
+	ervas		(72)
+	hervas		(14)
+
+falara  (86)
+	falara		(85)
+	fallara		(1)
+
+panos  (86)
+	panos		(77)
+	pannos		(9)
+
+seguiam  (86)
+	seguiam		(79)
+	seguiao		(5)
+	seguiaõ		(1)
+	seguião		(1)
+
+teme  (86)
+	teme		(62)
+	temme		(24)
+
+afirmava  (85)
+	afirmava		(84)
+	affirmava		(1)
+
+excelentes  (85)
+	excelentes		(79)
+	excellentes		(6)
+
+fernam  (85)
+	fernão		(84)
+	fernam		(1)
+
+grosseiro  (85)
+	grosseiro		(84)
+	grosseyro		(1)
+
+olivais  (85)
+	olivais		(84)
+	olivaes		(1)
+
+atento  (84)
+	atento		(81)
+	attento		(3)
+
+começam  (84)
+	começam		(78)
+	começaõ		(3)
+	começão		(3)
+
+ouviam  (84)
+	ouviam		(67)
+	ouviao		(16)
+	ouviaõ		(1)
+
+aceita  (83)
+	aceita		(82)
+	acceita		(1)
+
+conheciam  (83)
+	conheciam		(68)
+	conheciao		(10)
+	conheciaõ		(4)
+	conhecião		(1)
+
+emendar  (83)
+	emendar		(81)
+	emmendar		(2)
+
+ilusões  (83)
+	ilusões		(82)
+	illusões		(1)
+
+ofensa  (83)
+	ofensa		(78)
+	offensa		(5)
+
+oferece  (83)
+	oferece		(72)
+	offerece		(11)
+
+adam  (82)
+	adão		(81)
+	adam		(1)
+
+admitir  (82)
+	admitir		(75)
+	admittir		(7)
+
+dais  (82)
+	dais		(81)
+	daes		(1)
+
+disposições  (82)
+	disposições		(75)
+	disposiçoens		(7)
+
+fruta  (82)
+	fruta		(81)
+	fructa		(1)
+
+adorável  (81)
+	adorável		(77)
+	adoravel		(4)
+
+falas  (81)
+	falas		(80)
+	fallas		(1)
+
+mortais  (81)
+	mortais		(68)
+	mortaes		(13)
+
+apelido  (80)
+	apelido		(78)
+	appelido		(1)
+	appellido		(1)
+
+conflito  (80)
+	conflito		(78)
+	conflicto		(2)
+
+invencível  (80)
+	invencível		(79)
+	invencivel		(1)
+
+possam  (80)
+	possam		(67)
+	possão		(9)
+	possaõ		(4)
+
+acabam  (79)
+	acabam		(72)
+	acabão		(6)
+	acabaõ		(1)
+
+aldeias  (79)
+	aldeias		(66)
+	aldeas		(13)
+
+cometer  (79)
+	cometer		(78)
+	commetter		(1)
+
+emenda  (79)
+	emenda		(78)
+	emmenda		(1)
+
+haia  (79)
+	haia		(78)
+	haya		(1)
+
+ofender  (79)
+	ofender		(71)
+	offender		(8)
+
+viana  (79)
+	viana		(73)
+	viamna		(6)
+
+afronta  (78)
+	afronta		(76)
+	affronta		(2)
+
+dirseia  (78)
+	dirseia		(77)
+	dirsea		(1)
+
+espanhola  (78)
+	espanhola		(72)
+	hespanhola		(6)
+
+falamos  (78)
+	falamos		(77)
+	fallamos		(1)
+
+metia  (78)
+	metia		(75)
+	mettia		(3)
+
+afirma  (77)
+	afirma		(68)
+	affirma		(9)
+
+aparecesse  (77)
+	aparecesse		(74)
+	apparecesse		(3)
+
+espanhol  (77)
+	espanhol		(71)
+	hespanhol		(6)
+
+intervalo  (77)
+	intervalo		(73)
+	intervallo		(4)
+
+praticar  (77)
+	praticar		(76)
+	practicar		(1)
+
+usam  (77)
+	usam		(64)
+	usão		(12)
+	usao		(1)
+
+erao  (76)
+	eraõ		(66)
+	erao		(10)
+
+junta  (76)
+	junta		(75)
+	juncta		(1)
+
+pratica  (76)
+	pratica		(54)
+	practica		(22)
+
+sensível  (76)
+	sensível		(74)
+	sensivel		(2)
+
+acesso  (75)
+	acesso		(74)
+	accesso		(1)
+
+galinha  (75)
+	galinha		(74)
+	gallinha		(1)
+
+hino  (75)
+	hino		(71)
+	hymno		(4)
+
+lhas  (75)
+	lhas		(74)
+	llhas		(1)
+
+promete  (75)
+	promete		(72)
+	promette		(3)
+
+serviam  (75)
+	serviam		(69)
+	serviao		(3)
+	serviaõ		(2)
+	servião		(1)
+
+toilete  (75)
+	toilette		(55)
+	toilete		(20)
+
+acrescentar  (74)
+	acrescentar		(71)
+	accrescentar		(3)
+
+paisagem  (74)
+	paisagem		(73)
+	paysagem		(1)
+
+secamente  (74)
+	secamente		(73)
+	seccamente		(1)
+
+aproximava  (73)
+	aproximava		(72)
+	approximava		(1)
+
+cela  (73)
+	cela		(70)
+	cella		(3)
+
+cristam  (73)
+	christaõ		(46)
+	christão		(26)
+	christam		(1)
+
+donzelas  (73)
+	donzelas		(70)
+	donzellas		(3)
+
+hipocrisia  (73)
+	hipocrisia		(72)
+	hypocrisia		(1)
+
+ofendido  (73)
+	ofendido		(71)
+	offendido		(2)
+
+comando  (72)
+	comando		(71)
+	commando		(1)
+
+embaixadores  (72)
+	embaixadores		(66)
+	embayxadores		(6)
+
+fronteiras  (72)
+	fronteiras		(71)
+	fronteyras		(1)
+
+membro  (72)
+	membro		(71)
+	menbro		(1)
+
+daquilo  (71)
+	daquilo		(68)
+	daquillo		(3)
+
+escritores  (71)
+	escritores		(62)
+	escriptores		(9)
+
+faltavam  (71)
+	faltavam		(68)
+	faltavão		(2)
+	faltavaõ		(1)
+
+feitio  (71)
+	feitio		(70)
+	feithio		(1)
+
+marta  (71)
+	marta		(66)
+	martha		(5)
+
+oculto  (71)
+	oculto		(69)
+	occulto		(2)
+
+ocupava  (71)
+	ocupava		(70)
+	occupava		(1)
+
+ofegante  (71)
+	ofegante		(70)
+	offegante		(1)
+
+olhavam  (71)
+	olhavam		(56)
+	olhavao		(15)
+
+vilas  (71)
+	vilas		(53)
+	villas		(18)
+
+batiam  (70)
+	batiam		(69)
+	batião		(1)
+
+bendito  (70)
+	bemdito		(35)
+	bendito		(35)
+
+criminoso  (70)
+	criminoso		(69)
+	criminozo		(1)
+
+intervalos  (70)
+	intervalos		(69)
+	intervallos		(1)
+
+abas  (69)
+	abas		(66)
+	abbas		(3)
+
+angelo  (69)
+	angelo		(58)
+	angello		(11)
+
+cal  (69)
+	cal		(67)
+	call		(2)
+
+desciam  (69)
+	desciam		(67)
+	desciao		(1)
+	descião		(1)
+
+erva  (69)
+	erva		(63)
+	herva		(6)
+
+incomparável  (69)
+	incomparável		(63)
+	incomparavel		(6)
+
+teiodorico  (69)
+	teodorico		(67)
+	theodorico		(2)
+
+aparato  (68)
+	aparato		(67)
+	apparato		(1)
+
+boi  (68)
+	boi		(67)
+	boy		(1)
+
+impassível  (68)
+	impassível		(66)
+	impassivel		(2)
+
+permitia  (68)
+	permitia		(67)
+	permittia		(1)
+
+solteiro  (68)
+	solteiro		(67)
+	solteyro		(1)
+
+tratam  (68)
+	tratam		(60)
+	tratão		(8)
+
+valhame  (68)
+	valhame		(66)
+	valhamme		(2)
+
+aceso  (67)
+	aceso		(64)
+	acceso		(3)
+
+africano  (67)
+	africano		(66)
+	affricano		(1)
+
+aplicar  (67)
+	aplicar		(61)
+	applicar		(6)
+
+correia  (67)
+	correia		(59)
+	correa		(6)
+	correya		(2)
+
+formam  (67)
+	formam		(65)
+	formaõ		(1)
+	formão		(1)
+
+leia  (67)
+	leia		(62)
+	lea		(5)
+
+metida  (67)
+	metida		(66)
+	mettida		(1)
+
+su  (67)
+	su		(65)
+	suu		(2)
+
+acidente  (66)
+	acidente		(64)
+	accidente		(2)
+
+ceio  (66)
+	ceo		(65)
+	ceio		(1)
+
+comunicar  (66)
+	comunicar		(63)
+	communicar		(2)
+	comuunicar		(1)
+
+desmaio  (66)
+	desmaio		(65)
+	desmayo		(1)
+
+favorável  (66)
+	favorável		(63)
+	favoravel		(3)
+
+instituições  (66)
+	instituições		(61)
+	instituiçoens		(5)
+
+munições  (66)
+	munições		(65)
+	muniçoens		(1)
+
+pediam  (66)
+	pediam		(61)
+	pediao		(3)
+	pediaõ		(1)
+	pedião		(1)
+
+religiam  (66)
+	religiaõ		(63)
+	religiam		(3)
+
+sofreu  (66)
+	sofreu		(64)
+	soffreu		(2)
+
+sucedido  (66)
+	sucedido		(63)
+	succedido		(3)
+
+alfaiate  (65)
+	alfaiate		(62)
+	alfayate		(3)
+
+escritor  (65)
+	escritor		(54)
+	escriptor		(11)
+
+leões  (65)
+	leões		(60)
+	leoens		(5)
+
+observações  (65)
+	observações		(61)
+	observaçoens		(4)
+
+ocupar  (65)
+	ocupar		(59)
+	occupar		(6)
+
+tornavam  (65)
+	tornavam		(61)
+	tornavao		(3)
+	tornavão		(1)
+
+colar  (64)
+	colar		(63)
+	collar		(1)
+
+ermo  (64)
+	ermo		(63)
+	hermo		(1)
+
+instintivamente  (64)
+	instintivamente		(63)
+	instinctivamente		(1)
+
+ortografia  (64)
+	ortografia		(61)
+	orthographia		(2)
+	ortographia		(1)
+
+belezas  (63)
+	belezas		(61)
+	bellezas		(2)
+
+cotovelos  (63)
+	cotovelos		(62)
+	cotovellos		(1)
+
+tornam  (63)
+	tornam		(56)
+	tornão		(5)
+	tornao		(1)
+	tornaõ		(1)
+
+apareceram  (62)
+	apareceram		(61)
+	appareceram		(1)
+
+aut  (62)
+	aut		(61)
+	auth		(1)
+
+comercio  (62)
+	comercio		(36)
+	commercio		(26)
+
+desejam  (62)
+	desejam		(58)
+	desejão		(4)
+
+distinto  (62)
+	distinto		(61)
+	distincto		(1)
+
+embarcações  (62)
+	embarcações		(60)
+	embarcaçoens		(2)
+
+manuscrito  (62)
+	manuscrito		(48)
+	manuscripto		(14)
+
+mostravam  (62)
+	mostravam		(59)
+	mostravão		(2)
+	mostravao		(1)
+
+netuno  (62)
+	netuno		(32)
+	neptuno		(30)
+
+prometi  (62)
+	prometi		(61)
+	prometti		(1)
+
+socorrer  (62)
+	socorrer		(59)
+	soccorrer		(3)
+
+aliança  (61)
+	aliança		(58)
+	alliança		(3)
+
+bocas  (61)
+	bocas		(57)
+	boccas		(4)
+
+capelo  (61)
+	capelo		(43)
+	capello		(17)
+	cappello		(1)
+
+comuns  (61)
+	comuns		(59)
+	communs		(2)
+
+cristóvam  (61)
+	cristóvão		(53)
+	cristóvam		(8)
+
+estabelecer  (61)
+	estabelecer		(47)
+	establecer		(14)
+
+imediato  (61)
+	imediato		(60)
+	immediato		(1)
+
+infalível  (61)
+	infalível		(58)
+	infallivel		(2)
+	infalivel		(1)
+
+inflexível  (61)
+	inflexível		(59)
+	inflexivel		(2)
+
+lembrame  (61)
+	lembrame		(60)
+	lembramme		(1)
+
+ocidente  (61)
+	ocidente		(59)
+	occidente		(2)
+
+porteiro  (61)
+	porteiro		(60)
+	porteyro		(1)
+
+procuravam  (61)
+	procuravam		(59)
+	procuravaõ		(1)
+	procuravão		(1)
+
+prometia  (61)
+	prometia		(58)
+	promettia		(3)
+
+stá  (61)
+	stá		(59)
+	stà		(2)
+
+suficiente  (61)
+	suficiente		(57)
+	sufficiente		(4)
+
+afirmo  (60)
+	afirmo		(57)
+	affirmo		(3)
+
+apareciam  (60)
+	apareciam		(57)
+	appareciam		(3)
+
+areias  (60)
+	areias		(58)
+	areas		(2)
+
+autoridades  (60)
+	autoridades		(59)
+	authoridades		(1)
+
+considerável  (60)
+	considerável		(57)
+	consideravel		(3)
+
+fitos  (60)
+	fitos		(59)
+	fictos		(1)
+
+moles  (60)
+	moles		(57)
+	molles		(3)
+
+sermões  (60)
+	sermões		(58)
+	sermoens		(2)
+
+solicitude  (60)
+	solicitude		(59)
+	sollicitude		(1)
+
+aparecera  (59)
+	aparecera		(57)
+	apparecera		(2)
+
+atenções  (59)
+	atenções		(56)
+	attenções		(3)
+
+móvel  (59)
+	móvel		(58)
+	movel		(1)
+
+outono  (59)
+	outono		(58)
+	outomno		(1)
+
+reinava  (59)
+	reinava		(56)
+	reynava		(3)
+
+rota  (59)
+	rota		(58)
+	rotta		(1)
+
+salomam  (59)
+	salomão		(58)
+	salomaõ		(1)
+
+sucedia  (59)
+	sucedia		(54)
+	succedia		(5)
+
+tratavam  (59)
+	tratavam		(44)
+	tratavao		(13)
+	tratavaõ		(1)
+	tratavão		(1)
+
+vala  (59)
+	vala		(58)
+	valla		(1)
+
+zeloso  (59)
+	zeloso		(58)
+	zelozo		(1)
+
+cadeias  (58)
+	cadeias		(50)
+	cadeas		(8)
+
+desvelos  (58)
+	desvelos		(57)
+	desvellos		(1)
+
+ensinam  (58)
+	ensinam		(42)
+	ensinaõ		(12)
+	ensinão		(4)
+
+feias  (58)
+	feias		(57)
+	feas		(1)
+
+freio  (58)
+	freio		(57)
+	freyo		(1)
+
+gala  (58)
+	gala		(56)
+	galla		(2)
+
+ilustrissima  (58)
+	illustrissima		(57)
+	ilustrissima		(1)
+
+lutas  (58)
+	lutas		(56)
+	luctas		(2)
+
+ocupações  (58)
+	ocupações		(57)
+	occupações		(1)
+
+piedoso  (58)
+	piedoso		(57)
+	piedozo		(1)
+
+suplicante  (58)
+	suplicante		(57)
+	supplicante		(1)
+
+sus  (58)
+	sus		(55)
+	suus		(3)
+
+tebas  (58)
+	tebas		(57)
+	thebas		(1)
+
+tomé  (58)
+	tomé		(52)
+	thomé		(6)
+
+aparecendo  (57)
+	aparecendo		(53)
+	apparecendo		(4)
+
+aparente  (57)
+	aparente		(56)
+	apparente		(1)
+
+baiam  (57)
+	baião		(53)
+	baiam		(4)
+
+colinas  (57)
+	colinas		(56)
+	collinas		(1)
+
+cuidam  (57)
+	cuidam		(45)
+	cuidão		(11)
+	cuidao		(1)
+
+desaparecer  (57)
+	desaparecer		(56)
+	desapparecer		(1)
+
+dulcineia  (57)
+	dulcineia		(56)
+	dulcinea		(1)
+
+estrangeira  (57)
+	estrangeira		(56)
+	estrangeyra		(1)
+
+fariam  (57)
+	fariam		(53)
+	farião		(3)
+	fariaõ		(1)
+
+frenesi  (57)
+	frenesi		(54)
+	phrenesi		(3)
+
+materiais  (57)
+	materiais		(55)
+	materiaes		(2)
+
+pecadores  (57)
+	pecadores		(49)
+	peccadores		(8)
+
+saiam  (57)
+	saiam		(44)
+	saião		(10)
+	sayaõ		(3)
+
+aplausos  (56)
+	aplausos		(54)
+	applausos		(2)
+
+auto  (56)
+	auto		(55)
+	autto		(1)
+
+bastam  (56)
+	bastam		(54)
+	bastaõ		(2)
+
+candeia  (56)
+	candeia		(53)
+	candea		(3)
+
+cativos  (56)
+	cativos		(55)
+	cattivos		(1)
+
+galinhas  (56)
+	galinhas		(54)
+	gallinhas		(2)
+
+mateus  (56)
+	mateus		(53)
+	mattheus		(3)
+
+oferta  (56)
+	oferta		(55)
+	offerta		(1)
+
+rola  (56)
+	rola		(55)
+	rolla		(1)
+
+saibam  (56)
+	saibam		(47)
+	saibão		(6)
+	saibaõ		(3)
+
+aprovou  (55)
+	aprovou		(54)
+	approvou		(1)
+
+capitais  (55)
+	capitais		(52)
+	capitaes		(3)
+
+forçoso  (55)
+	forçoso		(54)
+	forçozo		(1)
+
+galego  (55)
+	galego		(53)
+	gallego		(2)
+
+inalterável  (55)
+	inalterável		(54)
+	inalteravel		(1)
+
+afetos  (54)
+	afetos		(52)
+	affectos		(2)
+
+jurisdiçam  (54)
+	jurisdiçaõ		(49)
+	jurisdiçam		(5)
+
+lira  (54)
+	lira		(53)
+	lyra		(1)
+
+peles  (54)
+	peles		(49)
+	pelles		(5)
+
+resoluções  (54)
+	resoluções		(51)
+	resoluçoens		(3)
+
+serafim  (54)
+	serafim		(53)
+	seraphim		(1)
+
+vã  (54)
+	vã		(53)
+	vaã		(1)
+
+veia  (54)
+	veia		(48)
+	vea		(5)
+	veya		(1)
+
+acrescentava  (53)
+	acrescentava		(51)
+	accrescentava		(2)
+
+ala  (53)
+	ala		(52)
+	alla		(1)
+
+amarelas  (53)
+	amarelas		(49)
+	amarellas		(4)
+
+legado  (53)
+	legado		(52)
+	llegado		(1)
+
+pendiam  (53)
+	pendiam		(52)
+	pendião		(1)
+
+queixar  (53)
+	queixar		(52)
+	queyxar		(1)
+
+razoável  (53)
+	razoável		(52)
+	razoavel		(1)
+
+tesouros  (53)
+	tesouros		(47)
+	thesouros		(6)
+
+venerável  (53)
+	venerável		(51)
+	veneravel		(2)
+
+abriam  (52)
+	abriam		(49)
+	abriao		(3)
+
+buscam  (52)
+	buscam		(46)
+	buscão		(4)
+	buscao		(1)
+	buscaõ		(1)
+
+castelos  (52)
+	castelos		(48)
+	castellos		(4)
+
+cautelas  (52)
+	cautelas		(51)
+	cautellas		(1)
+
+ferreiro  (52)
+	ferreiro		(51)
+	ferreyro		(1)
+
+matam  (52)
+	matam		(49)
+	matão		(2)
+	matao		(1)
+
+naquilo  (52)
+	naquilo		(51)
+	naquillo		(1)
+
+oferecido  (52)
+	oferecido		(48)
+	offerecido		(4)
+
+perdoeme  (52)
+	perdoeme		(46)
+	perdoemme		(6)
+
+sucessivamente  (52)
+	sucessivamente		(48)
+	successivamente		(4)
+
+tocam  (52)
+	tocam		(50)
+	tocão		(2)
+
+acento  (51)
+	acento		(48)
+	accento		(3)
+
+admitia  (51)
+	admitia		(50)
+	admittia		(1)
+
+afável  (51)
+	afável		(50)
+	affavel		(1)
+
+ais  (51)
+	ais		(49)
+	aes		(2)
+
+cala  (51)
+	cala		(47)
+	calla		(4)
+
+desaparecia  (51)
+	desaparecia		(50)
+	desapparecia		(1)
+
+estações  (51)
+	estações		(43)
+	estaçoens		(8)
+
+interminável  (51)
+	interminável		(50)
+	interminavel		(1)
+
+mandam  (51)
+	mandam		(45)
+	mandao		(6)
+
+platam  (51)
+	platão		(49)
+	plataõ		(2)
+
+sela  (51)
+	sela		(47)
+	sella		(4)
+
+siam  (51)
+	sião		(47)
+	siam		(4)
+
+sofro  (51)
+	sofro		(50)
+	soffro		(1)
+
+sucessor  (51)
+	sucessor		(39)
+	successor		(12)
+
+tomai  (51)
+	tomai		(50)
+	tomay		(1)
+
+abominável  (50)
+	abominável		(48)
+	abominavel		(2)
+
+casais  (50)
+	casais		(49)
+	casaes		(1)
+
+galo  (50)
+	galo		(45)
+	gallo		(5)
+
+imediata  (50)
+	imediata		(47)
+	immediata		(3)
+
+intolerável  (50)
+	intolerável		(49)
+	intoleravel		(1)
+
+paio  (50)
+	paio		(48)
+	payo		(2)
+
+tipos  (50)
+	tipos		(46)
+	typos		(4)
+
+acesa  (49)
+	acesa		(48)
+	accesa		(1)
+
+aparecem  (49)
+	aparecem		(47)
+	apparecem		(2)
+
+contam  (49)
+	contam		(44)
+	contão		(5)
+
+delitos  (49)
+	delitos		(46)
+	delictos		(3)
+
+devaçam  (49)
+	devação		(48)
+	devaçam		(1)
+
+eficaz  (49)
+	eficaz		(44)
+	efficaz		(5)
+
+instintos  (49)
+	instintos		(48)
+	instinctos		(1)
+
+produto  (49)
+	produto		(48)
+	producto		(1)
+
+reinar  (49)
+	reinar		(44)
+	reynar		(5)
+
+respeitar  (49)
+	respeitar		(48)
+	respeytar		(1)
+
+simpatias  (49)
+	simpatias		(48)
+	sympathias		(1)
+
+abrão  (48)
+	abraão		(43)
+	abrão		(5)
+
+acrescentando  (48)
+	acrescentando		(46)
+	accrescentando		(2)
+
+dotes  (48)
+	dotes		(47)
+	dottes		(1)
+
+fase  (48)
+	fase		(46)
+	phase		(2)
+
+missões  (48)
+	missões		(46)
+	missoens		(2)
+
+permita  (48)
+	permita		(47)
+	permitta		(1)
+
+sufocado  (48)
+	sufocado		(47)
+	suffocado		(1)
+
+t  (48)
+	t		(45)
+	tt		(3)
+
+té  (48)
+	té		(47)
+	thee		(1)
+
+amavam  (47)
+	amavam		(31)
+	amavao		(16)
+
+comercial  (47)
+	comercial		(46)
+	commercial		(1)
+
+estejam  (47)
+	estejam		(35)
+	estejaõ		(6)
+	estejão		(6)
+
+fantasias  (47)
+	fantasias		(46)
+	phantasias		(1)
+
+louvável  (47)
+	louvável		(42)
+	louvavel		(5)
+
+pretensões  (47)
+	pretensões		(46)
+	pretensoens		(1)
+
+profecias  (47)
+	profecias		(46)
+	prophecias		(1)
+
+queixarse  (47)
+	queixarse		(46)
+	queyxarse		(1)
+
+sumamente  (47)
+	sumamente		(46)
+	summamente		(1)
+
+toiletes  (47)
+	toilettes		(38)
+	toiletes		(6)
+	toilletes		(2)
+	toillettes		(1)
+
+valiam  (47)
+	valiam		(44)
+	valiaõ		(2)
+	valião		(1)
+
+afirmam  (46)
+	afirmam		(42)
+	afirmão		(2)
+	affirmaõ		(1)
+	affirmão		(1)
+
+cu  (46)
+	cu		(44)
+	cv		(2)
+
+letrados  (46)
+	letrados		(45)
+	lettrados		(1)
+
+povoações  (46)
+	povoações		(42)
+	povoaçoens		(4)
+
+teixeira  (46)
+	teixeira		(44)
+	teyxeyra		(2)
+
+tribunais  (46)
+	tribunais		(36)
+	tribunaes		(10)
+
+acompanhavam  (45)
+	acompanhavam		(33)
+	acompanhavao		(12)
+
+antipatia  (45)
+	antipatia		(44)
+	antipathia		(1)
+
+funções  (45)
+	funções		(44)
+	funçoens		(1)
+
+il  (45)
+	il		(43)
+	ill		(2)
+
+mle  (45)
+	mlle		(44)
+	mle		(1)
+
+ocultar  (45)
+	ocultar		(43)
+	occultar		(2)
+
+sentiam  (45)
+	sentiam		(39)
+	sentiao		(6)
+
+tela  (45)
+	tela		(44)
+	tella		(1)
+
+afogado  (44)
+	afogado		(43)
+	affogado		(1)
+
+aparecido  (44)
+	aparecido		(42)
+	apparecido		(2)
+
+baco  (44)
+	baco		(39)
+	bacco		(5)
+
+conselheiros  (44)
+	conselheiros		(35)
+	conselheyros		(9)
+
+contavam  (44)
+	contavam		(42)
+	contavao		(1)
+	contavão		(1)
+
+distinta  (44)
+	distinta		(40)
+	distincta		(4)
+
+eia  (44)
+	eia		(26)
+	ea		(17)
+	eya		(1)
+
+encomendas  (44)
+	encomendas		(43)
+	encommendas		(1)
+
+ester  (44)
+	ester		(28)
+	esther		(16)
+
+sofri  (44)
+	sofri		(43)
+	soffri		(1)
+
+tum  (44)
+	tuum		(31)
+	tum		(13)
+
+xamam  (44)
+	chamão		(41)
+	chamaõ		(2)
+	chamao		(1)
+
+admite  (43)
+	admite		(32)
+	admitte		(11)
+
+amarelos  (43)
+	amarelos		(41)
+	amarellos		(2)
+
+apareça  (43)
+	apareça		(42)
+	appareça		(1)
+
+atribuir  (43)
+	atribuir		(42)
+	attribuir		(1)
+
+costumavam  (43)
+	costumavam		(40)
+	costumavão		(3)
+
+cotovelo  (43)
+	cotovelo		(38)
+	cotovello		(5)
+
+encontravam  (43)
+	encontravam		(39)
+	encontravao		(4)
+
+esperai  (43)
+	esperai		(41)
+	esperay		(2)
+
+freiras  (43)
+	freiras		(42)
+	freyras		(1)
+
+galos  (43)
+	galos		(42)
+	gallos		(1)
+
+imaculada  (43)
+	imaculada		(42)
+	immaculada		(1)
+
+instruções  (43)
+	instruções		(34)
+	instruçoens		(9)
+
+ix  (43)
+	ix		(41)
+	ich		(2)
+
+mari  (43)
+	mary		(39)
+	mari		(4)
+
+ocupa  (43)
+	ocupa		(38)
+	occupa		(5)
+
+originais  (43)
+	originais		(40)
+	originaes		(3)
+
+produtos  (43)
+	produtos		(40)
+	productos		(3)
+
+prometendo  (43)
+	prometendo		(42)
+	promettendo		(1)
+
+ritmo  (43)
+	ritmo		(39)
+	rythmo		(4)
+
+sedutor  (43)
+	sedutor		(42)
+	seductor		(1)
+
+selo  (43)
+	selo		(38)
+	sello		(5)
+
+sofrimentos  (43)
+	sofrimentos		(41)
+	soffrimentos		(2)
+
+sucedera  (43)
+	sucedera		(41)
+	succedera		(2)
+
+tan  (43)
+	tan		(42)
+	than		(1)
+
+condenados  (42)
+	condenados		(41)
+	condemnados		(1)
+
+conduta  (42)
+	conduta		(36)
+	conducta		(6)
+
+criam  (42)
+	criam		(33)
+	crião		(6)
+	criaõ		(2)
+	criao		(1)
+
+deio  (42)
+	deo		(41)
+	deio		(1)
+
+extinto  (42)
+	extinto		(39)
+	extincto		(3)
+
+fantasma  (42)
+	fantasma		(40)
+	phantasma		(2)
+
+imigos  (42)
+	imigos		(28)
+	immigos		(14)
+
+indefinível  (42)
+	indefinível		(41)
+	indefinivel		(1)
+
+mate  (42)
+	mate		(41)
+	macte		(1)
+
+mãi  (42)
+	mãy		(25)
+	mãi		(17)
+
+perfeições  (42)
+	perfeições		(40)
+	perfeiçoens		(2)
+
+pesadelo  (42)
+	pesadelo		(40)
+	pesadello		(2)
+
+sacos  (42)
+	sacos		(41)
+	saccos		(1)
+
+acrescenta  (41)
+	acrescenta		(40)
+	accrescenta		(1)
+
+andei  (41)
+	andei		(40)
+	andey		(1)
+
+capelas  (41)
+	capelas		(26)
+	capellas		(15)
+
+dariam  (41)
+	dariam		(39)
+	darião		(2)
+
+dificultoso  (41)
+	dificultoso		(37)
+	difficultoso		(4)
+
+erguiam  (41)
+	erguiam		(40)
+	erguião		(1)
+
+erra  (41)
+	erra		(40)
+	herra		(1)
+
+imunda  (41)
+	imunda		(39)
+	immunda		(2)
+
+ocupada  (41)
+	ocupada		(40)
+	occupada		(1)
+
+permitido  (41)
+	permitido		(36)
+	permittido		(5)
+
+precisam  (41)
+	precisam		(40)
+	precisao		(1)
+
+prometer  (41)
+	prometer		(39)
+	prometter		(2)
+
+santuário  (41)
+	santuário		(40)
+	sanctuário		(1)
+
+comunidade  (40)
+	comunidade		(29)
+	communidade		(11)
+
+distintamente  (40)
+	distintamente		(37)
+	distinctamente		(3)
+
+encomendar  (40)
+	encomendar		(38)
+	encommendar		(2)
+
+estabelecido  (40)
+	estabelecido		(39)
+	establecido		(1)
+
+gastam  (40)
+	gastam		(20)
+	gastão		(20)
+
+gostam  (40)
+	gostam		(38)
+	gostão		(2)
+
+io  (40)
+	yo		(36)
+	io		(4)
+
+ofensas  (40)
+	ofensas		(39)
+	offensas		(1)
+
+permitiu  (40)
+	permitiu		(39)
+	permittiu		(1)
+
+religiões  (40)
+	religiões		(31)
+	religioens		(9)
+
+rodeios  (40)
+	rodeios		(38)
+	rodeos		(2)
+
+sentinela  (40)
+	sentinela		(37)
+	sentinella		(3)
+
+sucessores  (40)
+	sucessores		(26)
+	successores		(14)
+
+temporais  (40)
+	temporais		(39)
+	temporaes		(1)
+
+vende  (40)
+	vende		(39)
+	vemde		(1)
+
+anais  (39)
+	anais		(36)
+	annaes		(3)
+
+apeles  (39)
+	apeles		(19)
+	apelles		(19)
+	appelles		(1)
+
+aprazível  (39)
+	aprazível		(35)
+	aprazivel		(4)
+
+aproximando  (39)
+	aproximando		(38)
+	approximando		(1)
+
+atenta  (39)
+	atenta		(38)
+	attenta		(1)
+
+atitudes  (39)
+	atitudes		(38)
+	attitudes		(1)
+
+comodidades  (39)
+	comodidades		(37)
+	commodidades		(2)
+
+confortável  (39)
+	confortável		(38)
+	confortavel		(1)
+
+conservam  (39)
+	conservam		(36)
+	conservaõ		(3)
+
+estabelecimentos  (39)
+	estabelecimentos		(30)
+	establecimentos		(9)
+
+leio  (39)
+	leio		(34)
+	leo		(4)
+	leyo		(1)
+
+nilo  (39)
+	nilo		(38)
+	nyllo		(1)
+
+nível  (39)
+	nível		(37)
+	nivel		(2)
+
+ofendida  (39)
+	ofendida		(38)
+	offendida		(1)
+
+pagam  (39)
+	pagam		(34)
+	pagaõ		(5)
+
+pitoresco  (39)
+	pitoresco		(37)
+	pictoresco		(2)
+
+simetria  (39)
+	simetria		(28)
+	symetria		(11)
+
+tocavam  (39)
+	tocavam		(38)
+	tocavão		(1)
+
+afrontar  (38)
+	afrontar		(37)
+	affrontar		(1)
+
+axavam  (38)
+	achavao		(31)
+	achavão		(5)
+	achavaõ		(2)
+
+coleçam  (38)
+	coleção		(37)
+	coleçaõ		(1)
+
+correçam  (38)
+	correção		(34)
+	correçaõ		(4)
+
+cristiano  (38)
+	cristiano		(36)
+	christiano		(2)
+
+explicam  (38)
+	explicam		(36)
+	explicaõ		(1)
+	explicão		(1)
+
+irremediável  (38)
+	irremediável		(35)
+	irremediavel		(3)
+
+literária  (38)
+	literária		(37)
+	litterária		(1)
+
+obrigaçam  (38)
+	obrigaçaõ		(37)
+	obrigaçam		(1)
+
+oficina  (38)
+	oficina		(34)
+	officina		(4)
+
+pareciame  (38)
+	pareciame		(36)
+	pareciamme		(2)
+
+pulou  (38)
+	pulou		(36)
+	pullou		(2)
+
+rafael  (38)
+	rafael		(37)
+	raphael		(1)
+
+sentinelas  (38)
+	sentinelas		(37)
+	sentinellas		(1)
+
+sonhei  (38)
+	sonhei		(37)
+	sonhey		(1)
+
+tiranos  (38)
+	tiranos		(34)
+	tiramnos		(2)
+	tyrannos		(1)
+	tyranos		(1)
+
+vitoria  (38)
+	vitoria		(23)
+	victoria		(14)
+	vittoria		(1)
+
+xe  (38)
+	che		(37)
+	xe		(1)
+
+africa  (37)
+	africa		(23)
+	affrica		(14)
+
+cobriam  (37)
+	cobriam		(31)
+	cobriao		(4)
+	cobriaõ		(1)
+	cobrião		(1)
+
+comprei  (37)
+	comprei		(35)
+	comprey		(2)
+
+estrangeiras  (37)
+	estrangeiras		(36)
+	estrangeyras		(1)
+
+hinos  (37)
+	hinos		(31)
+	hymnos		(6)
+
+l  (37)
+	l		(35)
+	ll		(2)
+
+mula  (37)
+	mula		(35)
+	mulla		(2)
+
+pecar  (37)
+	pecar		(36)
+	peccar		(1)
+
+recebiam  (37)
+	recebiam		(33)
+	recebiao		(3)
+	recebiaõ		(1)
+
+rufino  (37)
+	rufino		(36)
+	ruffino		(1)
+
+silvestres  (37)
+	silvestres		(36)
+	sylvestres		(1)
+
+vitorioso  (37)
+	vitorioso		(36)
+	victorioso		(1)
+
+aclamações  (36)
+	aclamações		(35)
+	acclamaçoens		(1)
+
+aflige  (36)
+	aflige		(35)
+	afflige		(1)
+
+atende  (36)
+	atende		(35)
+	attende		(1)
+
+baxo  (36)
+	baxo		(34)
+	baccho		(1)
+	bacho		(1)
+
+canas  (36)
+	canas		(34)
+	cannas		(2)
+
+comumente  (36)
+	comumente		(25)
+	commummente		(9)
+	commumente		(2)
+
+cristianismo  (36)
+	christianismo		(20)
+	cristianismo		(16)
+
+deis  (36)
+	deis		(35)
+	deys		(1)
+
+desejavam  (36)
+	desejavam		(32)
+	desejavao		(3)
+	desejavão		(1)
+
+dificilmente  (36)
+	dificilmente		(34)
+	difficilmente		(2)
+
+entam  (36)
+	entaõ		(29)
+	entam		(7)
+
+governam  (36)
+	governam		(27)
+	governaõ		(5)
+	governão		(4)
+
+lançavam  (36)
+	lançavam		(32)
+	lançavão		(3)
+	lançavao		(1)
+
+moisés  (36)
+	moisés		(33)
+	moysés		(3)
+
+mór  (36)
+	mór		(34)
+	mòr		(2)
+
+ocultas  (36)
+	ocultas		(35)
+	occultas		(1)
+
+ofereciam  (36)
+	ofereciam		(35)
+	offerecião		(1)
+
+ofereço  (36)
+	ofereço		(33)
+	offereço		(3)
+
+pelejar  (36)
+	pelejar		(35)
+	pellejar		(1)
+
+pupilas  (36)
+	pupilas		(32)
+	pupillas		(4)
+
+servirá  (36)
+	servirá		(35)
+	servirà		(1)
+
+sum  (36)
+	sum		(20)
+	suum		(16)
+
+trocavam  (36)
+	trocavam		(34)
+	trocavao		(1)
+	trocavaõ		(1)
+
+usavam  (36)
+	usavam		(35)
+	usavao		(1)
+
+virei  (36)
+	virei		(35)
+	virey		(1)
+
+admitido  (35)
+	admitido		(30)
+	admittido		(5)
+
+anunciando  (35)
+	anunciando		(34)
+	annunciando		(1)
+
+apelo  (35)
+	apelo		(33)
+	apello		(1)
+	appello		(1)
+
+cercam  (35)
+	cercam		(33)
+	cercão		(2)
+
+cercavam  (35)
+	cercavam		(34)
+	cercavao		(1)
+
+distintas  (35)
+	distintas		(33)
+	distinctas		(2)
+
+falais  (35)
+	falais		(33)
+	falaes		(1)
+	fallais		(1)
+
+ficarei  (35)
+	ficarei		(34)
+	ficarey		(1)
+
+forao  (35)
+	foraõ		(33)
+	forao		(2)
+
+hajam  (35)
+	hajam		(34)
+	hajão		(1)
+
+lançam  (35)
+	lançam		(25)
+	lanção		(7)
+	lançao		(3)
+
+peior  (35)
+	peor		(22)
+	peior		(11)
+	peyor		(2)
+
+perene  (35)
+	perene		(34)
+	perenne		(1)
+
+razam  (35)
+	razaõ		(20)
+	razam		(15)
+
+sacou  (35)
+	sacou		(34)
+	saccou		(1)
+
+tiracolo  (35)
+	tiracolo		(33)
+	tiracollo		(2)
+
+virtuoso  (35)
+	virtuoso		(34)
+	virtuozo		(1)
+
+afabilidade  (34)
+	afabilidade		(32)
+	affabilidade		(2)
+
+anunciar  (34)
+	anunciar		(33)
+	annunciar		(1)
+
+aparecimento  (34)
+	aparecimento		(32)
+	apparecimento		(2)
+
+atributos  (34)
+	atributos		(33)
+	attributos		(1)
+
+au  (34)
+	au		(30)
+	av		(4)
+
+cometido  (34)
+	cometido		(33)
+	commettido		(1)
+
+consumado  (34)
+	consumado		(33)
+	consummado		(1)
+
+fantasmas  (34)
+	fantasmas		(32)
+	phantasmas		(2)
+
+inclinações  (34)
+	inclinações		(32)
+	inclinaçoens		(2)
+
+metais  (34)
+	metais		(29)
+	metaes		(5)
+
+opostos  (34)
+	opostos		(33)
+	oppostos		(1)
+
+ouçam  (34)
+	ouçam		(31)
+	oução		(2)
+	ouçao		(1)
+
+permitir  (34)
+	permitir		(30)
+	permittir		(4)
+
+sofrem  (34)
+	sofrem		(33)
+	soffrem		(1)
+
+aceite  (33)
+	aceite		(31)
+	acceite		(2)
+
+antam  (33)
+	antão		(29)
+	antam		(4)
+
+arroios  (33)
+	arroios		(32)
+	arroyos		(1)
+
+ceias  (33)
+	ceias		(32)
+	ceas		(1)
+
+conservavam  (33)
+	conservavam		(29)
+	conservavaõ		(4)
+
+detestável  (33)
+	detestável		(27)
+	detestavel		(6)
+
+donas  (33)
+	donas		(31)
+	donnas		(2)
+
+ei  (33)
+	ei		(28)
+	hey		(5)
+
+hospitais  (33)
+	hospitais		(32)
+	hospitaes		(1)
+
+imensas  (33)
+	imensas		(27)
+	immensas		(6)
+
+imortais  (33)
+	imortais		(28)
+	immortaes		(4)
+	imortaes		(1)
+
+lamentável  (33)
+	lamentável		(31)
+	lamentavel		(2)
+
+mandavam  (33)
+	mandavam		(27)
+	mandavão		(5)
+	mandavao		(1)
+
+ocupavam  (33)
+	ocupavam		(31)
+	occupavão		(2)
+
+ordenações  (33)
+	ordenaçoens		(28)
+	ordenações		(5)
+
+pensam  (33)
+	pensam		(29)
+	pensaõ		(3)
+	pensao		(1)
+
+perdiam  (33)
+	perdiam		(29)
+	perdiaõ		(2)
+	perdião		(2)
+
+suponhamos  (33)
+	suponhamos		(29)
+	supponhamos		(4)
+
+teia  (33)
+	teia		(31)
+	tea		(1)
+	thea		(1)
+
+acende  (32)
+	acende		(31)
+	accende		(1)
+
+acompanham  (32)
+	acompanham		(30)
+	acompanhao		(2)
+
+afirmavam  (32)
+	afirmavam		(29)
+	afirmavao		(2)
+	afirmavão		(1)
+
+atuais  (32)
+	atuais		(31)
+	actuaes		(1)
+
+bastavam  (32)
+	bastavam		(28)
+	bastavão		(4)
+
+cam  (32)
+	cam		(31)
+	caõ		(1)
+
+comerciais  (32)
+	comerciais		(29)
+	commerciaes		(2)
+	comerciaes		(1)
+
+cresciam  (32)
+	cresciam		(31)
+	crescião		(1)
+
+desapareciam  (32)
+	desapareciam		(31)
+	desappareciam		(1)
+
+dificultosa  (32)
+	dificultosa		(31)
+	difficultosa		(1)
+
+entendiam  (32)
+	entendiam		(31)
+	entendião		(1)
+
+escutavam  (32)
+	escutavao		(19)
+	escutavam		(13)
+
+espanholas  (32)
+	espanholas		(31)
+	hespanholas		(1)
+
+excomungado  (32)
+	excomungado		(31)
+	excommungado		(1)
+
+home  (32)
+	home		(30)
+	homme		(2)
+
+indomável  (32)
+	indomável		(31)
+	indomavel		(1)
+
+inteligentes  (32)
+	inteligentes		(30)
+	intelligentes		(2)
+
+julgam  (32)
+	julgam		(30)
+	julgão		(2)
+
+panelas  (32)
+	panelas		(31)
+	panellas		(1)
+
+satisfações  (32)
+	satisfações		(31)
+	satisfaçoens		(1)
+
+senam  (32)
+	senam		(28)
+	senaõ		(4)
+
+sustentam  (32)
+	sustentam		(28)
+	sustentaõ		(2)
+	sustentao		(1)
+	sustentão		(1)
+
+tinhame  (32)
+	tinhame		(24)
+	tinhamme		(8)
+
+tradicional  (32)
+	tradicional		(31)
+	tradiccional		(1)
+
+traidores  (32)
+	traidores		(31)
+	traydores		(1)
+
+tranquilo  (32)
+	tranquillo		(17)
+	tranquilo		(15)
+
+z  (32)
+	z		(28)
+	zz		(4)
+
+acesas  (31)
+	acesas		(29)
+	accesas		(2)
+
+alcançam  (31)
+	alcançam		(27)
+	alcanção		(3)
+	alcançao		(1)
+
+alemães  (31)
+	alemães		(30)
+	allemães		(1)
+
+canela  (31)
+	canela		(30)
+	canella		(1)
+
+comenda  (31)
+	comenda		(30)
+	commenda		(1)
+
+comunicou  (31)
+	comunicou		(28)
+	communicou		(3)
+
+contarei  (31)
+	contarei		(30)
+	contarey		(1)
+
+cuia  (31)
+	cuia		(30)
+	cuya		(1)
+
+diferenças  (31)
+	diferenças		(30)
+	differenças		(1)
+
+diziame  (31)
+	diziame		(30)
+	diziamme		(1)
+
+escultura  (31)
+	escultura		(28)
+	esculptura		(3)
+
+inexorável  (31)
+	inexorável		(30)
+	inexoravel		(1)
+
+julgavam  (31)
+	julgavam		(26)
+	julgavao		(2)
+	julgavaõ		(2)
+	julgavão		(1)
+
+liam  (31)
+	liam		(16)
+	lião		(14)
+	liao		(1)
+
+ocioso  (31)
+	ocioso		(30)
+	occioso		(1)
+
+ocultos  (31)
+	ocultos		(28)
+	occultos		(3)
+
+permitem  (31)
+	permitem		(26)
+	permittem		(5)
+
+profetas  (31)
+	profetas		(29)
+	prophetas		(2)
+
+prometes  (31)
+	prometes		(30)
+	promettes		(1)
+
+recomendado  (31)
+	recomendado		(30)
+	recommendado		(1)
+
+tiravam  (31)
+	tiravam		(27)
+	tiravão		(3)
+	tiravao		(1)
+
+trovões  (31)
+	trovões		(30)
+	trovoens		(1)
+
+vitor  (31)
+	victor		(26)
+	vitor		(5)
+
+agitavam  (30)
+	agitavam		(29)
+	agitavao		(1)
+
+aprendiz  (30)
+	aprendiz		(29)
+	apprendiz		(1)
+
+aproximou  (30)
+	aproximou		(29)
+	approximou		(1)
+
+bastame  (30)
+	bastame		(28)
+	bastamme		(2)
+
+biron  (30)
+	byron		(29)
+	biron		(1)
+
+comiam  (30)
+	comiam		(29)
+	comiao		(1)
+
+condenar  (30)
+	condenar		(26)
+	condemnar		(4)
+
+continuam  (30)
+	continuam		(29)
+	continuão		(1)
+
+conversações  (30)
+	conversações		(29)
+	conversaçoens		(1)
+
+deixarei  (30)
+	deixarei		(28)
+	deixarey		(1)
+	deyxarei		(1)
+
+fatais  (30)
+	fatais		(28)
+	fataes		(2)
+
+hierusalem  (30)
+	hierusalem		(28)
+	hyerusalem		(2)
+
+imensos  (30)
+	imensos		(28)
+	immensos		(2)
+
+imortalidade  (30)
+	imortalidade		(26)
+	immortalidade		(4)
+
+mudam  (30)
+	mudam		(27)
+	mudão		(2)
+	mudaõ		(1)
+
+obrigam  (30)
+	obrigam		(25)
+	obrigão		(3)
+	obrigao		(2)
+
+oficios  (30)
+	officios		(27)
+	oficios		(3)
+
+oprimido  (30)
+	oprimido		(29)
+	opprimido		(1)
+
+permitiam  (30)
+	permitiam		(29)
+	permitiaõ		(1)
+
+precauções  (30)
+	precauções		(29)
+	precauçoens		(1)
+
+rivais  (30)
+	rivais		(26)
+	rivaes		(4)
+
+suceda  (30)
+	suceda		(28)
+	succeda		(2)
+
+suposta  (30)
+	suposta		(28)
+	supposta		(2)
+
+tesoureiro  (30)
+	tesoureiro		(29)
+	thesoureiro		(1)
+
+acomodado  (29)
+	acomodado		(25)
+	accomodado		(2)
+	accommodado		(1)
+	acommodado		(1)
+
+afligir  (29)
+	afligir		(28)
+	affligir		(1)
+
+alusões  (29)
+	alusões		(27)
+	allusões		(2)
+
+cadela  (29)
+	cadela		(28)
+	cadella		(1)
+
+calando  (29)
+	calando		(28)
+	callando		(1)
+
+colares  (29)
+	colares		(28)
+	collares		(1)
+
+deplorável  (29)
+	deplorável		(28)
+	deploravel		(1)
+
+estam  (29)
+	estam		(16)
+	estaõ		(13)
+
+falconet  (29)
+	falconnet		(28)
+	falconet		(1)
+
+falecido  (29)
+	falecido		(28)
+	fallecido		(1)
+
+flexível  (29)
+	flexível		(28)
+	flexivel		(1)
+
+guardam  (29)
+	guardam		(24)
+	guardão		(5)
+
+inocencio  (29)
+	innocencio		(28)
+	inocencio		(1)
+
+literatos  (29)
+	literatos		(25)
+	litteratos		(4)
+
+mandarei  (29)
+	mandarei		(28)
+	mandarey		(1)
+
+misteriosas  (29)
+	misteriosas		(26)
+	mysteriosas		(3)
+
+misteriosos  (29)
+	misteriosos		(21)
+	mysteriosos		(8)
+
+misticismo  (29)
+	misticismo		(27)
+	mysticismo		(2)
+
+morriam  (29)
+	morriam		(26)
+	morrião		(3)
+
+ni  (29)
+	ni		(28)
+	ny		(1)
+
+prometem  (29)
+	prometem		(28)
+	promettem		(1)
+
+sucedem  (29)
+	sucedem		(26)
+	succedem		(3)
+
+temas  (29)
+	temas		(28)
+	themas		(1)
+
+tui  (29)
+	tui		(23)
+	tuy		(6)
+
+vileza  (29)
+	vileza		(28)
+	villeza		(1)
+
+vime  (29)
+	vime		(27)
+	vimme		(2)
+
+alumiar  (28)
+	alumiar		(27)
+	allumiar		(1)
+
+bateria  (28)
+	bateria		(27)
+	batteria		(1)
+
+buscavam  (28)
+	buscavam		(26)
+	buscavao		(1)
+	buscavão		(1)
+
+colegial  (28)
+	colegial		(25)
+	collegial		(3)
+
+comunica  (28)
+	comunica		(27)
+	communica		(1)
+
+conservaçam  (28)
+	conservaçaõ		(27)
+	conservaçam		(1)
+
+eclesiastico  (28)
+	ecclesiastico		(27)
+	eclesiastico		(1)
+
+eitor  (28)
+	heitor		(27)
+	eitor		(1)
+
+enganam  (28)
+	enganam		(27)
+	enganão		(1)
+
+entrámos  (28)
+	entrámos		(23)
+	entràmos		(5)
+
+falaremos  (28)
+	falaremos		(27)
+	fallaremos		(1)
+
+honroso  (28)
+	honroso		(27)
+	honrozo		(1)
+
+iniciais  (28)
+	iniciais		(27)
+	iniciaes		(1)
+
+inquietações  (28)
+	inquietações		(26)
+	inquietaçoens		(2)
+
+jaziam  (28)
+	jaziam		(27)
+	jazião		(1)
+
+luci  (28)
+	lucy		(25)
+	luci		(3)
+
+mapa  (28)
+	mapa		(27)
+	mappa		(1)
+
+mosteiros  (28)
+	mosteiros		(26)
+	mosteyros		(2)
+
+novelo  (28)
+	novelo		(27)
+	novello		(1)
+
+nulo  (28)
+	nulo		(19)
+	nullo		(9)
+
+scultura  (28)
+	scultura		(24)
+	sculptura		(4)
+
+tragam  (28)
+	tragam		(23)
+	tragão		(3)
+	tragao		(2)
+
+viena  (28)
+	viena		(26)
+	vienna		(2)
+
+acomodar  (27)
+	acomodar		(25)
+	accommodar		(1)
+	acommodar		(1)
+
+ameias  (27)
+	ameias		(26)
+	ameas		(1)
+
+arrastavam  (27)
+	arrastavam		(24)
+	arrastavao		(3)
+
+ausentes  (27)
+	ausentes		(26)
+	auzentes		(1)
+
+barcelos  (27)
+	barcelos		(24)
+	barcellos		(3)
+
+contame  (27)
+	contame		(26)
+	contamme		(1)
+
+davame  (27)
+	davame		(22)
+	davamme		(5)
+
+defensam  (27)
+	defensão		(25)
+	defensam		(2)
+
+faziame  (27)
+	faziame		(24)
+	faziamme		(3)
+
+ficariam  (27)
+	ficariam		(23)
+	ficariaõ		(3)
+	ficarião		(1)
+
+instalado  (27)
+	instalado		(25)
+	installado		(2)
+
+jam  (27)
+	jão		(14)
+	jam		(13)
+
+metesse  (27)
+	metesse		(26)
+	mettesse		(1)
+
+ocupam  (27)
+	ocupam		(24)
+	occupão		(2)
+	occupaõ		(1)
+
+pensões  (27)
+	pensoens		(19)
+	pensões		(8)
+
+pita  (27)
+	pita		(26)
+	picta		(1)
+
+porei  (27)
+	porei		(25)
+	porey		(2)
+
+receia  (27)
+	receia		(26)
+	recea		(1)
+
+repetiam  (27)
+	repetiam		(26)
+	repetiao		(1)
+
+serafins  (27)
+	serafins		(23)
+	seraphins		(4)
+
+suplicou  (27)
+	suplicou		(26)
+	supplicou		(1)
+
+trabalhavam  (27)
+	trabalhavam		(26)
+	trabalhavaõ		(1)
+
+voltam  (27)
+	voltam		(26)
+	voltaõ		(1)
+
+axam  (26)
+	achão		(20)
+	achaõ		(5)
+	achao		(1)
+
+bula  (26)
+	bula		(21)
+	bulla		(5)
+
+colado  (26)
+	colado		(24)
+	collado		(2)
+
+colocar  (26)
+	colocar		(25)
+	collocar		(1)
+
+conheçam  (26)
+	conheçam		(24)
+	conheçaõ		(2)
+
+contratos  (26)
+	contratos		(25)
+	conctratos		(1)
+
+corporais  (26)
+	corporais		(24)
+	corporaes		(2)
+
+desculpeme  (26)
+	desculpeme		(22)
+	desculpemme		(4)
+
+desiguais  (26)
+	desiguais		(25)
+	desiguaes		(1)
+
+estimável  (26)
+	estimável		(24)
+	estimavel		(2)
+
+falarme  (26)
+	falarme		(25)
+	fallarme		(1)
+
+flagelo  (26)
+	flagelo		(25)
+	flagello		(1)
+
+guardavam  (26)
+	guardavam		(23)
+	guardavao		(3)
+
+inestimável  (26)
+	inestimável		(25)
+	inestimavel		(1)
+
+infernais  (26)
+	infernais		(25)
+	infernaes		(1)
+
+jogavam  (26)
+	jogavam		(25)
+	jogavao		(1)
+
+locais  (26)
+	locais		(24)
+	locaes		(2)
+
+maos  (26)
+	maos		(18)
+	maõs		(8)
+
+note  (26)
+	note		(23)
+	notte		(2)
+	nocte		(1)
+
+obrigavam  (26)
+	obrigavam		(12)
+	obrigavao		(8)
+	obrigavaõ		(3)
+	obrigavão		(3)
+
+oportuno  (26)
+	oportuno		(25)
+	opportuno		(1)
+
+oscilando  (26)
+	oscilando		(24)
+	oscillando		(2)
+
+partiam  (26)
+	partiam		(25)
+	partião		(1)
+
+piratas  (26)
+	piratas		(25)
+	pyratas		(1)
+
+queimada  (26)
+	queimada		(25)
+	queymada		(1)
+
+reina  (26)
+	reina		(21)
+	reyna		(5)
+
+sucessam  (26)
+	successão		(25)
+	sucessam		(1)
+
+traições  (26)
+	traições		(25)
+	traiçoens		(1)
+
+tranquilidade  (26)
+	tranquilidade		(25)
+	tranquillidade		(1)
+
+viriam  (26)
+	viriam		(25)
+	viriaõ		(1)
+
+catedral  (25)
+	catedral		(21)
+	cathedral		(4)
+
+comboios  (25)
+	comboios		(24)
+	comboyos		(1)
+
+deveriam  (25)
+	deveriam		(23)
+	deveriaõ		(2)
+
+eila  (25)
+	eila		(23)
+	heila		(2)
+
+entendam  (25)
+	entendam		(24)
+	entendão		(1)
+
+estabelecerse  (25)
+	estabelecerse		(23)
+	establecerse		(2)
+
+existiam  (25)
+	existiam		(23)
+	existiaõ		(1)
+	existião		(1)
+
+falada  (25)
+	falada		(24)
+	fallada		(1)
+
+falassem  (25)
+	falassem		(24)
+	fallassem		(1)
+
+galeões  (25)
+	galeões		(21)
+	galeoens		(4)
+
+imensidade  (25)
+	imensidade		(24)
+	immensidade		(1)
+
+leigo  (25)
+	leigo		(21)
+	leygo		(4)
+
+levame  (25)
+	levame		(23)
+	levamme		(2)
+
+levarei  (25)
+	levarei		(24)
+	levarey		(1)
+
+meirinhos  (25)
+	meirinhos		(23)
+	meyrinhos		(2)
+
+milam  (25)
+	milão		(24)
+	milaõ		(1)
+
+papagaios  (25)
+	papagaios		(24)
+	papagayos		(1)
+
+reitor  (25)
+	reitor		(23)
+	reytor		(2)
+
+revoluções  (25)
+	revoluções		(24)
+	revoluçoens		(1)
+
+santissima  (25)
+	santissima		(19)
+	sanctissima		(6)
+
+semeia  (25)
+	semeia		(24)
+	semea		(1)
+
+trabalham  (25)
+	trabalham		(24)
+	trabalhaõ		(1)
+
+acusado  (24)
+	acusado		(23)
+	accusado		(1)
+
+adversidades  (24)
+	adversidades		(23)
+	adversiddades		(1)
+
+apatia  (24)
+	apatia		(23)
+	apathia		(1)
+
+aproveitam  (24)
+	aproveitam		(22)
+	aproveitaõ		(1)
+	aproveitão		(1)
+
+assistiam  (24)
+	assistiam		(22)
+	assistião		(2)
+
+balada  (24)
+	balada		(23)
+	ballada		(1)
+
+brutais  (24)
+	brutais		(23)
+	brutaes		(1)
+
+colarinhos  (24)
+	colarinhos		(22)
+	collarinhos		(2)
+
+confessam  (24)
+	confessam		(22)
+	confessao		(1)
+	confessaõ		(1)
+
+damiam  (24)
+	damião		(23)
+	damiaõ		(1)
+
+deitados  (24)
+	deitados		(23)
+	deytados		(1)
+
+embaixadas  (24)
+	embaixadas		(23)
+	embayxadas		(1)
+
+ensaios  (24)
+	ensaios		(22)
+	ensayos		(2)
+
+estilos  (24)
+	estilos		(22)
+	estylos		(2)
+
+falarei  (24)
+	falarei		(22)
+	fallarei		(2)
+
+faltame  (24)
+	faltame		(20)
+	faltamme		(4)
+
+galegos  (24)
+	galegos		(22)
+	gallegos		(2)
+
+habitam  (24)
+	habitam		(19)
+	habitão		(4)
+	habitao		(1)
+
+iluminados  (24)
+	iluminados		(21)
+	illuminados		(3)
+
+lutava  (24)
+	lutava		(23)
+	luctava		(1)
+
+meiam  (24)
+	meam		(15)
+	meão		(9)
+
+memorável  (24)
+	memorável		(23)
+	memoravel		(1)
+
+mereciam  (24)
+	mereciam		(23)
+	merecião		(1)
+
+mostrarei  (24)
+	mostrarei		(23)
+	mostrarey		(1)
+
+nomeia  (24)
+	nomeia		(21)
+	nomea		(3)
+
+ocultando  (24)
+	ocultando		(22)
+	occultando		(2)
+
+oferecimentos  (24)
+	oferecimentos		(23)
+	offerecimentos		(1)
+
+paralelo  (24)
+	paralelo		(21)
+	parallelo		(2)
+	paralello		(1)
+
+pareçam  (24)
+	pareçam		(21)
+	pareção		(3)
+
+pertenciam  (24)
+	pertenciam		(21)
+	pertenciaõ		(2)
+	pertencião		(1)
+
+sibila  (24)
+	sibila		(20)
+	sibylla		(4)
+
+sui  (24)
+	sui		(22)
+	suy		(2)
+
+transações  (24)
+	transações		(23)
+	transaçoens		(1)
+
+ulisses  (24)
+	ulisses		(23)
+	ulysses		(1)
+
+vacas  (24)
+	vacas		(21)
+	vaccas		(3)
+
+acusava  (23)
+	acusava		(22)
+	accusava		(1)
+
+aio  (23)
+	aio		(22)
+	ayo		(1)
+
+ajudam  (23)
+	ajudam		(20)
+	ajudão		(2)
+	ajudao		(1)
+
+alega  (23)
+	alega		(14)
+	allega		(9)
+
+atenienses  (23)
+	atenienses		(22)
+	athenienses		(1)
+
+calo  (23)
+	calo		(20)
+	callo		(3)
+
+corinto  (23)
+	corinto		(19)
+	coryntho		(2)
+	corintho		(1)
+	corynto		(1)
+
+desprezam  (23)
+	desprezam		(20)
+	desprezão		(2)
+	desprezao		(1)
+
+ditames  (23)
+	ditames		(15)
+	dictames		(8)
+
+ebreia  (23)
+	hebreia		(21)
+	hebrea		(2)
+
+habitavam  (23)
+	habitavam		(22)
+	habitavaõ		(1)
+
+imaginam  (23)
+	imaginam		(22)
+	imaginão		(1)
+
+levantam  (23)
+	levantam		(19)
+	levantao		(2)
+	levantão		(2)
+
+martelo  (23)
+	martelo		(21)
+	martello		(2)
+
+mavioso  (23)
+	mavioso		(21)
+	maviozo		(2)
+
+máo  (23)
+	máo		(22)
+	mào		(1)
+
+moleza  (23)
+	moleza		(22)
+	molleza		(1)
+
+noções  (23)
+	noções		(21)
+	noçoens		(2)
+
+ocidental  (23)
+	ocidental		(21)
+	occidental		(2)
+
+oferecerlhe  (23)
+	oferecerlhe		(22)
+	offerecerlhe		(1)
+
+preparavam  (23)
+	preparavam		(22)
+	preparavão		(1)
+
+provisões  (23)
+	provisões		(14)
+	provisoens		(9)
+
+repelir  (23)
+	repelir		(22)
+	repellir		(1)
+
+respeitam  (23)
+	respeitam		(21)
+	respeitao		(2)
+
+rotas  (23)
+	rotas		(22)
+	rottas		(1)
+
+sais  (23)
+	sais		(22)
+	saes		(1)
+
+sentimentais  (23)
+	sentimentais		(22)
+	sentimentaes		(1)
+
+solas  (23)
+	solas		(22)
+	sollas		(1)
+
+suficientemente  (23)
+	suficientemente		(21)
+	sufficientemente		(2)
+
+suplicava  (23)
+	suplicava		(22)
+	supplicava		(1)
+
+suprimir  (23)
+	suprimir		(20)
+	supprimir		(3)
+
+vitorino  (23)
+	vitorino		(14)
+	victorino		(9)
+
+vivam  (23)
+	vivam		(22)
+	vivão		(1)
+
+abate  (22)
+	abate		(21)
+	abbate		(1)
+
+adoravam  (22)
+	adoravao		(11)
+	adoravam		(10)
+	adoravão		(1)
+
+aflitos  (22)
+	aflitos		(21)
+	afflictos		(1)
+
+alegando  (22)
+	alegando		(18)
+	allegando		(4)
+
+apertavam  (22)
+	apertavam		(21)
+	apertavao		(1)
+
+atendendo  (22)
+	atendendo		(18)
+	attendendo		(4)
+
+camelos  (22)
+	camelos		(15)
+	camellos		(7)
+
+cansam  (22)
+	cansam		(21)
+	cansao		(1)
+
+cinismo  (22)
+	cinismo		(21)
+	cynismo		(1)
+
+comendas  (22)
+	comendas		(18)
+	commendas		(4)
+
+correios  (22)
+	correios		(21)
+	correyos		(1)
+
+cronistas  (22)
+	cronistas		(20)
+	chronistas		(2)
+
+deitam  (22)
+	deitam		(21)
+	deitão		(1)
+
+delos  (22)
+	delos		(16)
+	dellos		(6)
+
+desaparecem  (22)
+	desaparecem		(21)
+	desapparecem		(1)
+
+eio  (22)
+	eo		(20)
+	heio		(2)
+
+eneias  (22)
+	eneias		(16)
+	eneas		(6)
+
+engenheiros  (22)
+	engenheiros		(21)
+	engenheyros		(1)
+
+ensinavam  (22)
+	ensinavaõ		(11)
+	ensinavam		(8)
+	ensinavao		(2)
+	ensinavão		(1)
+
+escudeiros  (22)
+	escudeiros		(21)
+	escudeyros		(1)
+
+essenciais  (22)
+	essenciais		(21)
+	essenciaes		(1)
+
+estabelecida  (22)
+	estabelecida		(15)
+	establecida		(7)
+
+estimavam  (22)
+	estimavam		(14)
+	estimavao		(8)
+
+falandolhe  (22)
+	falandolhe		(20)
+	fallandolhe		(2)
+
+flama  (22)
+	flama		(20)
+	flamma		(2)
+
+furtam  (22)
+	furtão		(13)
+	furtam		(9)
+
+galanteio  (22)
+	galanteio		(21)
+	galanteo		(1)
+
+imigo  (22)
+	imigo		(20)
+	immigo		(2)
+
+inacessível  (22)
+	inacessível		(21)
+	inaccessivel		(1)
+
+insaciável  (22)
+	insaciável		(21)
+	insaciavel		(1)
+
+inviolável  (22)
+	inviolável		(20)
+	inviolavel		(2)
+
+lacaios  (22)
+	lacaios		(21)
+	lacayos		(1)
+
+laterais  (22)
+	laterais		(21)
+	lateraes		(1)
+
+levantavam  (22)
+	levantavam		(19)
+	levantavão		(2)
+	levantavaõ		(1)
+
+lutando  (22)
+	lutando		(21)
+	luctando		(1)
+
+mademoisele  (22)
+	mademoiselle		(14)
+	mademoisele		(8)
+
+metiam  (22)
+	metiam		(18)
+	metiao		(3)
+	metião		(1)
+
+ocasiam  (22)
+	occasião		(20)
+	occasiaõ		(2)
+
+passem  (22)
+	passem		(17)
+	pacem		(5)
+
+pensavam  (22)
+	pensavam		(21)
+	pensavaõ		(1)
+
+proveitoso  (22)
+	proveitoso		(21)
+	proveitozo		(1)
+
+saudável  (22)
+	saudável		(21)
+	saudavel		(1)
+
+suprir  (22)
+	suprir		(20)
+	supprir		(2)
+
+sustentavam  (22)
+	sustentavam		(19)
+	sustentavão		(2)
+	sustentavaõ		(1)
+
+tranquilamente  (22)
+	tranquilamente		(21)
+	tranquillamente		(1)
+
+vicioso  (22)
+	vicioso		(21)
+	viciozo		(1)
+
+vitima  (22)
+	vitima		(20)
+	victima		(2)
+
+afetava  (21)
+	afetava		(20)
+	affectava		(1)
+
+ajuntam  (21)
+	ajuntam		(19)
+	ajuntão		(2)
+
+alfaias  (21)
+	alfaias		(20)
+	alfayas		(1)
+
+alianças  (21)
+	alianças		(15)
+	allianças		(6)
+
+apetites  (21)
+	apetites		(20)
+	appetites		(1)
+
+brilham  (21)
+	brilham		(20)
+	brilhão		(1)
+
+bulas  (21)
+	bulas		(14)
+	bullas		(7)
+
+castiçais  (21)
+	castiçais		(20)
+	castiçaes		(1)
+
+cativar  (21)
+	cativar		(19)
+	captivar		(2)
+
+causam  (21)
+	causam		(18)
+	causão		(3)
+
+ciprestes  (21)
+	ciprestes		(18)
+	cyprestes		(3)
+
+contentam  (21)
+	contentam		(20)
+	contentão		(1)
+
+cota  (21)
+	cota		(19)
+	copta		(2)
+
+danada  (21)
+	danada		(19)
+	damnada		(2)
+
+desmaios  (21)
+	desmaios		(20)
+	desmayos		(1)
+
+desprezível  (21)
+	desprezível		(19)
+	desprezivel		(2)
+
+determinam  (21)
+	determinam		(18)
+	determinao		(1)
+	determinaõ		(1)
+	determinão		(1)
+
+efetivo  (21)
+	efetivo		(18)
+	effectivo		(3)
+
+eios  (21)
+	eos		(20)
+	heios		(1)
+
+exercitam  (21)
+	exercitam		(18)
+	exercitaõ		(2)
+	exercitão		(1)
+
+flamas  (21)
+	flamas		(20)
+	flammas		(1)
+
+gambeta  (21)
+	gambeta		(20)
+	gambetta		(1)
+
+gozam  (21)
+	gozam		(18)
+	gozão		(2)
+	gozaõ		(1)
+
+ibi  (21)
+	ibi		(18)
+	iby		(3)
+
+ilustríssimo  (21)
+	ilustríssimo		(20)
+	illustríssimo		(1)
+
+incansável  (21)
+	incansável		(20)
+	incansavel		(1)
+
+incontestável  (21)
+	incontestável		(19)
+	incontestavel		(2)
+
+labirintos  (21)
+	labirintos		(20)
+	labyrinthos		(1)
+
+mandame  (21)
+	mandame		(20)
+	mandamme		(1)
+
+matame  (21)
+	matame		(20)
+	matamme		(1)
+
+moviam  (21)
+	moviam		(18)
+	movião		(3)
+
+olham  (21)
+	olham		(16)
+	olhão		(4)
+	olhao		(1)
+
+pi  (21)
+	pi		(19)
+	py		(2)
+
+produções  (21)
+	produções		(18)
+	produçoens		(3)
+
+remeteu  (21)
+	remeteu		(20)
+	remetteu		(1)
+
+repelido  (21)
+	repelido		(19)
+	repellido		(2)
+
+virao  (21)
+	virao		(15)
+	viraõ		(6)
+
+acrescentam  (20)
+	acrescentam		(18)
+	accrescentão		(2)
+
+admitem  (20)
+	admitem		(12)
+	admittem		(8)
+
+admitindo  (20)
+	admitindo		(16)
+	admittindo		(4)
+
+afigurava  (20)
+	afigurava		(19)
+	affigurava		(1)
+
+aplaudido  (20)
+	aplaudido		(18)
+	applaudido		(2)
+
+aplica  (20)
+	aplica		(17)
+	applica		(3)
+
+bartolomeu  (20)
+	bartolomeu		(19)
+	bartholomeu		(1)
+
+bendita  (20)
+	bendita		(18)
+	bemdita		(2)
+
+colegios  (20)
+	collegios		(18)
+	colegios		(2)
+
+comentava  (20)
+	comentava		(19)
+	commentava		(1)
+
+constituiçam  (20)
+	constituiçaõ		(18)
+	constituiçam		(2)
+
+contrito  (20)
+	contrito		(18)
+	contricto		(2)
+
+costelas  (20)
+	costelas		(19)
+	costellas		(1)
+
+creias  (20)
+	creias		(19)
+	creas		(1)
+
+cristãs  (20)
+	cristãs		(14)
+	christaãs		(6)
+
+defendiam  (20)
+	defendiam		(18)
+	defendiao		(1)
+	defendiaõ		(1)
+
+diferentemente  (20)
+	diferentemente		(19)
+	differentemente		(1)
+
+ece  (20)
+	ecce		(19)
+	ece		(1)
+
+fitavam  (20)
+	fitavam		(16)
+	fitavao		(4)
+
+freneticamente  (20)
+	freneticamente		(19)
+	phreneticamente		(1)
+
+ganham  (20)
+	ganham		(15)
+	ganhão		(5)
+
+homenzinho  (20)
+	homenzinho		(19)
+	homemzinho		(1)
+
+limões  (20)
+	limões		(19)
+	limoens		(1)
+
+negam  (20)
+	negam		(17)
+	negão		(3)
+
+opressões  (20)
+	opressões		(18)
+	oppressões		(2)
+
+pagavam  (20)
+	pagavam		(11)
+	pagavão		(5)
+	pagavaõ		(4)
+
+passámos  (20)
+	passámos		(17)
+	passàmos		(3)
+
+peca  (20)
+	peca		(19)
+	pecca		(1)
+
+ponham  (20)
+	ponham		(16)
+	ponhao		(2)
+	ponhão		(2)
+
+procissões  (20)
+	procissões		(19)
+	procissoens		(1)
+
+proposições  (20)
+	proposições		(19)
+	proposiçoens		(1)
+
+provam  (20)
+	provam		(16)
+	provao		(2)
+	provão		(2)
+
+rito  (20)
+	rito		(19)
+	ricto		(1)
+
+sufocar  (20)
+	sufocar		(18)
+	suffocar		(2)
+
+suplicar  (20)
+	suplicar		(18)
+	supplicar		(2)
+
+supunham  (20)
+	supunham		(19)
+	supunhao		(1)
+
+tus  (20)
+	tus		(10)
+	tuus		(10)
+
+zunzum  (20)
+	zunzum		(17)
+	zumzum		(3)
+
+abadessa  (19)
+	abadessa		(15)
+	abbadessa		(4)
+
+acusações  (19)
+	acusações		(17)
+	accusaçoens		(2)
+
+admiravam  (19)
+	admiravam		(13)
+	admiravao		(6)
+
+afetuosa  (19)
+	afetuosa		(18)
+	affectuosa		(1)
+
+apelar  (19)
+	apelar		(17)
+	apellar		(1)
+	appellar		(1)
+
+aprovado  (19)
+	aprovado		(18)
+	approvado		(1)
+
+atravessam  (19)
+	atravessam		(15)
+	atravessao		(2)
+	atravessão		(2)
+
+centrais  (19)
+	centrais		(18)
+	centraes		(1)
+
+conjugais  (19)
+	conjugais		(18)
+	conjugaes		(1)
+
+cutelo  (19)
+	cutelo		(16)
+	cutello		(3)
+
+deixeio  (19)
+	deixeo		(11)
+	deixeio		(8)
+
+desmaia  (19)
+	desmaia		(18)
+	desmaya		(1)
+
+digais  (19)
+	digais		(16)
+	digaes		(3)
+
+disserame  (19)
+	disseramme		(17)
+	disserame		(2)
+
+eficazmente  (19)
+	eficazmente		(18)
+	efficazmente		(1)
+
+envolviam  (19)
+	envolviam		(15)
+	envolviao		(4)
+
+escreviam  (19)
+	escreviam		(16)
+	escreviao		(2)
+	escreviaõ		(1)
+
+estabelecidos  (19)
+	estabelecidos		(15)
+	establecidos		(4)
+
+febo  (19)
+	febo		(18)
+	phebo		(1)
+
+fizerao  (19)
+	fizeraõ		(12)
+	fizerao		(7)
+
+gotica  (19)
+	gothica		(18)
+	gotica		(1)
+
+gramatica  (19)
+	grammatica		(17)
+	gramatica		(2)
+
+iame  (19)
+	iame		(17)
+	iamme		(2)
+
+imaculado  (19)
+	imaculado		(18)
+	immaculado		(1)
+
+inquirições  (19)
+	inquiriçoens		(13)
+	inquirições		(6)
+
+mam  (19)
+	mao		(12)
+	maõ		(7)
+
+oferecida  (19)
+	oferecida		(18)
+	offerecida		(1)
+
+ofertas  (19)
+	ofertas		(17)
+	offertas		(2)
+
+pardais  (19)
+	pardais		(18)
+	pardaes		(1)
+
+partos  (19)
+	partos		(18)
+	parthos		(1)
+
+permitindo  (19)
+	permitindo		(17)
+	permittindo		(2)
+
+prendiam  (19)
+	prendiam		(18)
+	prendiao		(1)
+
+prestam  (19)
+	prestam		(17)
+	prestão		(2)
+
+professam  (19)
+	professam		(13)
+	professão		(5)
+	professaõ		(1)
+
+sena  (19)
+	senna		(10)
+	sena		(9)
+
+sucediam-se  (19)
+	sucediamse		(17)
+	succediamse		(2)
+
+tiranias  (19)
+	tiranias		(17)
+	tyrannias		(2)
+
+toquei  (19)
+	toquei		(18)
+	toquey		(1)
+
+uf  (19)
+	uf		(11)
+	uff		(8)
+
+vendiam  (19)
+	vendiam		(18)
+	vendião		(1)
+
+vita  (19)
+	vita		(18)
+	victa		(1)
+
+xamame  (19)
+	chamame		(14)
+	chamamme		(5)
+
+aia  (18)
+	aia		(15)
+	aya		(3)
+
+alterações  (18)
+	alterações		(16)
+	alteraçoens		(2)
+
+anes  (18)
+	anes		(17)
+	annes		(1)
+
+anuncia  (18)
+	anuncia		(17)
+	annuncia		(1)
+
+at  (18)
+	at		(15)
+	act		(3)
+
+cairo  (18)
+	cairo		(15)
+	cayro		(3)
+
+calos  (18)
+	calos		(17)
+	callos		(1)
+
+carceler  (18)
+	carceller		(14)
+	carceler		(4)
+
+caterina  (18)
+	caterina		(17)
+	catherina		(1)
+
+cocote  (18)
+	cocote		(16)
+	cocotte		(2)
+
+congregações  (18)
+	congregaçoens		(17)
+	congregações		(1)
+
+constituições  (18)
+	constituições		(15)
+	constituiçoens		(3)
+
+decisões  (18)
+	decisões		(13)
+	decisoens		(5)
+
+deixais  (18)
+	deixais		(17)
+	deixaes		(1)
+
+direções  (18)
+	direções		(16)
+	direçoens		(2)
+
+dirigiam  (18)
+	dirigiam		(17)
+	dirigiao		(1)
+
+ditame  (18)
+	ditame		(16)
+	dictame		(2)
+
+divisões  (18)
+	divisões		(16)
+	divisoens		(2)
+
+dragões  (18)
+	dragões		(17)
+	dragoens		(1)
+
+entregam  (18)
+	entregam		(15)
+	entregao		(2)
+	entregão		(1)
+
+enxergam  (18)
+	enxergão		(12)
+	enxergam		(6)
+
+estrelado  (18)
+	estrelado		(17)
+	estrellado		(1)
+
+estudavam  (18)
+	estudavam		(12)
+	estudavaõ		(5)
+	estudavao		(1)
+
+extintas  (18)
+	extintas		(17)
+	extinctas		(1)
+
+flutuante  (18)
+	flutuante		(16)
+	fluctuante		(2)
+
+goma  (18)
+	goma		(17)
+	gomma		(1)
+
+hajais  (18)
+	hajais		(17)
+	hajaes		(1)
+
+imundos  (18)
+	imundos		(17)
+	immundos		(1)
+
+incorrigível  (18)
+	incorrigível		(17)
+	incorrigivel		(1)
+
+infalivelmente  (18)
+	infalivelmente		(17)
+	infallivelmente		(1)
+
+inteligencia  (18)
+	intelligencia		(13)
+	inteligencia		(5)
+
+irreprimível  (18)
+	irreprimível		(17)
+	irreprimivel		(1)
+
+leiam  (18)
+	leiam		(10)
+	leam		(3)
+	leião		(3)
+	leaõ		(1)
+	leyão		(1)
+
+levais  (18)
+	levais		(17)
+	levaes		(1)
+
+literato  (18)
+	literato		(15)
+	litterato		(3)
+
+minos  (18)
+	minos		(17)
+	mynos		(1)
+
+negavam  (18)
+	negavam		(15)
+	negavaõ		(3)
+
+ofereceram  (18)
+	ofereceram		(16)
+	offereceram		(2)
+
+oficinas  (18)
+	oficinas		(15)
+	officinas		(3)
+
+permitisse  (18)
+	permitisse		(17)
+	permittisse		(1)
+
+petições  (18)
+	petições		(16)
+	petiçoens		(2)
+
+rodeia  (18)
+	rodeia		(16)
+	rodea		(2)
+
+roxela  (18)
+	rochela		(16)
+	rochella		(2)
+
+santissimo  (18)
+	santissimo		(17)
+	sanctissimo		(1)
+
+selado  (18)
+	selado		(16)
+	sellado		(2)
+
+sigam  (18)
+	sigam		(15)
+	sigão		(2)
+	sigao		(1)
+
+sistemas  (18)
+	sistemas		(15)
+	systemas		(3)
+
+sumos  (18)
+	sumos		(10)
+	summos		(8)
+
+tapuias  (18)
+	tapuias		(15)
+	tapuyas		(3)
+
+vilões  (18)
+	villoens		(10)
+	vilões		(8)
+
+acometer  (17)
+	acometer		(16)
+	acometter		(1)
+
+acumular  (17)
+	acumular		(16)
+	accumular		(1)
+
+afiguravaselhe  (17)
+	afiguravaselhe		(16)
+	affiguravaselhe		(1)
+
+aleluia  (17)
+	aleluia		(11)
+	alleluia		(6)
+
+alfabeto  (17)
+	alfabeto		(16)
+	alphabeto		(1)
+
+alucinações  (17)
+	alucinações		(16)
+	allucinações		(1)
+
+an  (17)
+	an		(16)
+	ann		(1)
+
+apeiarse  (17)
+	apearse		(16)
+	apeiarse		(1)
+
+apertam  (17)
+	apertam		(16)
+	apertao		(1)
+
+aplicarse  (17)
+	aplicarse		(14)
+	applicarse		(3)
+
+apontamentos  (17)
+	apontamentos		(16)
+	appontamentos		(1)
+
+atrito  (17)
+	atrito		(16)
+	attrito		(1)
+
+áquela  (17)
+	áquella		(16)
+	áquela		(1)
+
+brioso  (17)
+	brioso		(15)
+	briozo		(2)
+
+catolica  (17)
+	catholica		(15)
+	catolica		(2)
+
+centeio  (17)
+	centeio		(13)
+	centeyo		(3)
+	centeo		(1)
+
+colossais  (17)
+	colossais		(16)
+	colossaes		(1)
+
+comunidades  (17)
+	comunidades		(14)
+	communidades		(3)
+
+concessões  (17)
+	concessões		(16)
+	concessoens		(1)
+
+cortavam  (17)
+	cortavam		(16)
+	cortavão		(1)
+
+eilos  (17)
+	eilos		(16)
+	heilos		(1)
+
+escondiam  (17)
+	escondiam		(16)
+	escondiao		(1)
+
+filosofos  (17)
+	filosofos		(12)
+	philosophos		(5)
+
+fisica  (17)
+	physica		(15)
+	fysica		(1)
+	phisica		(1)
+
+funcionários  (17)
+	funcionários		(15)
+	funccionários		(2)
+
+historias  (17)
+	historias		(16)
+	hystorias		(1)
+
+infatigável  (17)
+	infatigável		(15)
+	infatigavel		(2)
+
+instintiva  (17)
+	instintiva		(16)
+	instinctiva		(1)
+
+leigos  (17)
+	leigos		(11)
+	leygos		(6)
+
+mandeme  (17)
+	mandeme		(15)
+	mandemme		(2)
+
+ofendem  (17)
+	ofendem		(12)
+	offendem		(5)
+
+prezam  (17)
+	prezam		(15)
+	prezão		(2)
+
+racionais  (17)
+	racionais		(14)
+	racionaes		(3)
+
+repelões  (17)
+	repelões		(16)
+	repellões		(1)
+
+roubam  (17)
+	roubam		(11)
+	roubão		(6)
+
+sacudiam  (17)
+	sacudiam		(14)
+	sacudiao		(3)
+
+sepulcros  (17)
+	sepulcros		(13)
+	sepulchros		(4)
+
+sirvam  (17)
+	sirvam		(15)
+	sirvaõ		(1)
+	sirvão		(1)
+
+triviais  (17)
+	triviais		(15)
+	triviaes		(2)
+
+tronos  (17)
+	tronos		(15)
+	thronos		(2)
+
+vitoriosa  (17)
+	vitoriosa		(15)
+	victoriosa		(2)
+
+xalemanta  (17)
+	xalemanta		(16)
+	chalemanta		(1)
+
+xamavame  (17)
+	chamavame		(13)
+	chamavamme		(4)
+
+aceitara  (16)
+	aceitara		(15)
+	acceitara		(1)
+
+acreditam  (16)
+	acreditam		(14)
+	accreditão		(1)
+	acreditão		(1)
+
+admitidos  (16)
+	admitidos		(15)
+	admittidos		(1)
+
+afastada  (16)
+	afastada		(15)
+	affastada		(1)
+
+alimentam  (16)
+	alimentam		(15)
+	alimentao		(1)
+
+animavam  (16)
+	animavam		(11)
+	animavao		(5)
+
+anunciado  (16)
+	anunciado		(15)
+	annunciado		(1)
+
+aprendiam  (16)
+	aprendiam		(9)
+	aprendiaõ		(7)
+
+apresentam  (16)
+	apresentam		(15)
+	apresentão		(1)
+
+aproximado  (16)
+	aproximado		(15)
+	approximado		(1)
+
+assentam  (16)
+	assentam		(15)
+	assentão		(1)
+
+atençam  (16)
+	attenção		(12)
+	attençaõ		(4)
+
+cabeleiras  (16)
+	cabeleiras		(15)
+	cabelleiras		(1)
+
+caligrafia  (16)
+	caligrafia		(15)
+	calligraphia		(1)
+
+camelo  (16)
+	camelo		(14)
+	camello		(2)
+
+cartago  (16)
+	cartago		(14)
+	carthago		(2)
+
+ciladas  (16)
+	ciladas		(14)
+	cilladas		(2)
+
+comua  (16)
+	comua		(13)
+	commua		(3)
+
+deixeia  (16)
+	deixea		(11)
+	deixeia		(5)
+
+diferem  (16)
+	diferem		(12)
+	differem		(4)
+
+doações  (16)
+	doações		(15)
+	doaçoens		(1)
+
+dominavam  (16)
+	dominavam		(10)
+	dominavao		(4)
+	dominavaõ		(1)
+	dominavão		(1)
+
+esfinge  (16)
+	esfinge		(15)
+	esphinge		(1)
+
+estréia  (16)
+	estréia		(15)
+	estreeia		(1)
+
+evoluções  (16)
+	evoluções		(14)
+	evoluçoens		(2)
+
+faeton  (16)
+	faeton		(13)
+	phaeton		(3)
+
+feiticeiros  (16)
+	feiticeiros		(14)
+	feiticeyros		(1)
+	feyticeiros		(1)
+
+filosofias  (16)
+	filosofias		(14)
+	philosophias		(2)
+
+flutuava  (16)
+	flutuava		(13)
+	fluctuava		(3)
+
+imunidades  (16)
+	immunidades		(12)
+	imunidades		(4)
+
+indescritível  (16)
+	indescritível		(15)
+	indescriptivel		(1)
+
+jafa  (16)
+	jafa		(9)
+	jaffa		(7)
+
+lamentações  (16)
+	lamentações		(14)
+	lamentaçoens		(2)
+
+lembravame  (16)
+	lembravame		(13)
+	lembravamme		(3)
+
+madona  (16)
+	madona		(13)
+	madonna		(3)
+
+mentais  (16)
+	mentais		(15)
+	mentaes		(1)
+
+necessitam  (16)
+	necessitam		(12)
+	necessitaõ		(4)
+
+necessitavam  (16)
+	necessitavam		(9)
+	necessitavaõ		(5)
+	necessitavão		(2)
+
+novelas  (16)
+	novelas		(15)
+	novellas		(1)
+
+ofensiva  (16)
+	ofensiva		(15)
+	offensiva		(1)
+
+oprimidos  (16)
+	oprimidos		(15)
+	opprimidos		(1)
+
+oscilava  (16)
+	oscilava		(15)
+	oscillava		(1)
+
+perseguiam  (16)
+	perseguiam		(12)
+	perseguiao		(4)
+
+possais  (16)
+	possais		(13)
+	possaes		(3)
+
+rubi  (16)
+	rubi		(14)
+	ruby		(2)
+
+sacas  (16)
+	sacas		(15)
+	saccas		(1)
+
+safira  (16)
+	safira		(14)
+	saphira		(2)
+
+salamam  (16)
+	salamão		(15)
+	salamaõ		(1)
+
+sucedeio  (16)
+	succedeo		(15)
+	sucedeo		(1)
+
+sucedendo  (16)
+	sucedendo		(14)
+	succedendo		(2)
+
+temiam  (16)
+	temiam		(14)
+	temiao		(2)
+
+tuam  (16)
+	tuam		(15)
+	tuão		(1)
+
+vaia  (16)
+	vaia		(14)
+	vaya		(2)
+
+xamavam  (16)
+	chamavao		(8)
+	chamavaõ		(4)
+	chamavão		(4)
+
+abades  (15)
+	abades		(14)
+	abbades		(1)
+
+acentuando  (15)
+	acentuando		(13)
+	accentuando		(2)
+
+afogou  (15)
+	afogou		(14)
+	affogou		(1)
+
+afrontas  (15)
+	afrontas		(14)
+	affrontas		(1)
+
+aplicado  (15)
+	aplicado		(14)
+	applicado		(1)
+
+aplicou  (15)
+	aplicou		(14)
+	applicou		(1)
+
+aprendam  (15)
+	aprendam		(7)
+	aprendaõ		(7)
+	aprendao		(1)
+
+aproximasse  (15)
+	aproximasse		(14)
+	approximasse		(1)
+
+atentar  (15)
+	atentar		(14)
+	attentar		(1)
+
+autorizado  (15)
+	autorizado		(12)
+	auctorizado		(3)
+
+baleia  (15)
+	baleia		(14)
+	balea		(1)
+
+barbeiros  (15)
+	barbeiros		(14)
+	barbeyros		(1)
+
+biscaia  (15)
+	biscaia		(13)
+	biscaya		(2)
+
+bon  (15)
+	bon		(12)
+	bonn		(3)
+
+caçam  (15)
+	cação		(9)
+	caçam		(6)
+
+calavase  (15)
+	calavase		(14)
+	callavase		(1)
+
+capões  (15)
+	capões		(14)
+	capoens		(1)
+
+carregam  (15)
+	carregam		(11)
+	carregão		(4)
+
+comover  (15)
+	comover		(14)
+	commover		(1)
+
+contemplavam  (15)
+	contemplavam		(10)
+	contemplavao		(5)
+
+cordões  (15)
+	cordões		(14)
+	cordoens		(1)
+
+correias  (15)
+	correias		(11)
+	correas		(2)
+	correyas		(2)
+
+cortam  (15)
+	cortam		(13)
+	cortão		(2)
+
+creiam  (15)
+	creiam		(14)
+	creião		(1)
+
+cronologia  (15)
+	cronologia		(12)
+	chronologia		(3)
+
+degola  (15)
+	degola		(14)
+	degolla		(1)
+
+descobriam  (15)
+	descobriam		(14)
+	descobrião		(1)
+
+embarquei  (15)
+	embarquei		(14)
+	embarquey		(1)
+
+ensaio  (15)
+	ensaio		(14)
+	ensayo		(1)
+
+estabelecidas  (15)
+	estabelecidas		(8)
+	establecidas		(7)
+
+estudam  (15)
+	estudam		(12)
+	estudaõ		(2)
+	estudao		(1)
+
+flutuando  (15)
+	flutuando		(13)
+	fluctuando		(2)
+
+flutuavam  (15)
+	flutuavam		(14)
+	fluctuavam		(1)
+
+fortificações  (15)
+	fortificações		(13)
+	fortificaçoens		(2)
+
+gráos  (15)
+	gráos		(14)
+	gràos		(1)
+
+haveriam  (15)
+	haveriam		(14)
+	haveriaõ		(1)
+
+homenzarrão  (15)
+	homenzarrão		(14)
+	homemzarrão		(1)
+
+honor  (15)
+	honor		(14)
+	honnor		(1)
+
+imposições  (15)
+	imposições		(13)
+	imposiçoens		(2)
+
+indistintos  (15)
+	indistintos		(14)
+	indistinctos		(1)
+
+inimitável  (15)
+	inimitável		(13)
+	inimitavel		(2)
+
+joanes  (15)
+	joannes		(12)
+	joanes		(3)
+
+louvam  (15)
+	louvam		(14)
+	louvão		(1)
+
+mapas  (15)
+	mapas		(14)
+	mappas		(1)
+
+meneios  (15)
+	meneios		(14)
+	meneos		(1)
+
+observam  (15)
+	observam		(9)
+	observaõ		(4)
+	observao		(1)
+	observão		(1)
+
+observavam  (15)
+	observavam		(10)
+	observavao		(3)
+	observavaõ		(2)
+
+ocuparam  (15)
+	ocuparam		(14)
+	occuparam		(1)
+
+ouçame  (15)
+	ouçame		(13)
+	ouçamme		(2)
+
+peiores  (15)
+	peores		(14)
+	peiores		(1)
+
+recreia  (15)
+	recreia		(14)
+	recrea		(1)
+
+sinam  (15)
+	sinam		(13)
+	sinão		(2)
+
+sonolento  (15)
+	sonolento		(13)
+	somnolento		(2)
+
+soslaio  (15)
+	soslaio		(14)
+	soslayo		(1)
+
+sugeriu  (15)
+	sugeriu		(14)
+	suggeriu		(1)
+
+superstições  (15)
+	superstições		(14)
+	superstiçoens		(1)
+
+terceiros  (15)
+	terceiros		(14)
+	terceyros		(1)
+
+tolomeu  (15)
+	ptolomeu		(13)
+	tolomeu		(2)
+
+xenofonte  (15)
+	xenofonte		(14)
+	xenophonte		(1)
+
+xipre  (15)
+	chipre		(13)
+	chypre		(2)
+
+abraçam  (14)
+	abraçam		(10)
+	abraçao		(2)
+	abraçaõ		(2)
+
+admitiam  (14)
+	admitiam		(13)
+	admitiaõ		(1)
+
+adoçam  (14)
+	adoção		(13)
+	adoçam		(1)
+
+aflija  (14)
+	aflija		(13)
+	afflija		(1)
+
+agressiva  (14)
+	agressiva		(11)
+	aggressiva		(3)
+
+anual  (14)
+	anual		(13)
+	annual		(1)
+
+aplicava  (14)
+	aplicava		(13)
+	applicava		(1)
+
+apontam  (14)
+	apontam		(13)
+	apontão		(1)
+
+baxá  (14)
+	baxá		(13)
+	baxà		(1)
+
+biografia  (14)
+	biografia		(13)
+	biographia		(1)
+
+calaivos  (14)
+	calaivos		(12)
+	calayvos		(2)
+
+capelinha  (14)
+	capelinha		(13)
+	capellinha		(1)
+
+castelã  (14)
+	castelã		(12)
+	castellã		(2)
+
+catedrais  (14)
+	catedrais		(8)
+	cathedrais		(4)
+	cathedraes		(2)
+
+celas  (14)
+	celas		(13)
+	cellas		(1)
+
+cipreste  (14)
+	cipreste		(13)
+	cypreste		(1)
+
+compravam  (14)
+	compravam		(9)
+	compravaõ		(4)
+	compravão		(1)
+
+comprometido  (14)
+	comprometido		(13)
+	compromettido		(1)
+
+consideravam  (14)
+	consideravam		(12)
+	consideravao		(2)
+
+cruzavam  (14)
+	cruzavam		(13)
+	cruzavao		(1)
+
+deferentes  (14)
+	deferentes		(11)
+	defferentes		(3)
+
+entendei  (14)
+	entendei		(13)
+	entendey		(1)
+
+esferas  (14)
+	esferas		(13)
+	espheras		(1)
+
+falalhe  (14)
+	falalhe		(13)
+	fallalhe		(1)
+
+flutuantes  (14)
+	flutuantes		(13)
+	fluctuantes		(1)
+
+garret  (14)
+	garrett		(10)
+	garret		(4)
+
+graos  (14)
+	graos		(12)
+	graõs		(2)
+
+ham  (14)
+	haõ		(10)
+	ham		(4)
+
+ilos  (14)
+	illos		(11)
+	ilos		(3)
+
+imediatos  (14)
+	imediatos		(13)
+	immediatos		(1)
+
+imitam  (14)
+	imitam		(11)
+	imitaõ		(3)
+
+impunham  (14)
+	impunham		(12)
+	impunhao		(1)
+	impunhaõ		(1)
+
+indicavam  (14)
+	indicavam		(13)
+	indicavao		(1)
+
+instalarse  (14)
+	instalarse		(12)
+	installarse		(2)
+
+insuficiente  (14)
+	insuficiente		(13)
+	insufficiente		(1)
+
+interessavam  (14)
+	interessavam		(12)
+	interessavao		(2)
+
+largam  (14)
+	largam		(10)
+	largão		(4)
+
+manuscrits  (14)
+	manuscrits		(12)
+	manuscripts		(2)
+
+metam  (14)
+	metam		(13)
+	metão		(1)
+
+murmuravam  (14)
+	murmuravam		(13)
+	murmuravao		(1)
+
+ocuparse  (14)
+	ocuparse		(12)
+	occuparse		(2)
+
+oporse  (14)
+	oporse		(11)
+	opporse		(3)
+
+parciais  (14)
+	parciais		(13)
+	parciaes		(1)
+
+perguntam  (14)
+	perguntam		(10)
+	perguntao		(4)
+
+pernicioso  (14)
+	pernicioso		(13)
+	perniciozo		(1)
+
+precipitam  (14)
+	precipitam		(13)
+	precipitão		(1)
+
+preferiam  (14)
+	preferiam		(9)
+	preferiao		(5)
+
+santi  (14)
+	sancti		(12)
+	santi		(1)
+	santy		(1)
+
+selos  (14)
+	selos		(12)
+	sellos		(2)
+
+sofreram  (14)
+	sofreram		(12)
+	soffreram		(2)
+
+solicitar  (14)
+	solicitar		(12)
+	sollicitar		(2)
+
+suplicantes  (14)
+	suplicantes		(13)
+	supplicantes		(1)
+
+tornarei  (14)
+	tornarei		(13)
+	tornarey		(1)
+
+xeio  (14)
+	cheo		(7)
+	cheyo		(7)
+
+assina  (13)
+	assina		(12)
+	assimna		(1)
+
+atributo  (13)
+	atributo		(12)
+	attributo		(1)
+
+axavame  (13)
+	achavame		(12)
+	achavamme		(1)
+
+bailam  (13)
+	bailam		(12)
+	bailão		(1)
+
+betlém  (13)
+	bethleem		(12)
+	betlém		(1)
+
+bona  (13)
+	bona		(12)
+	bonna		(1)
+
+cale  (13)
+	cale		(12)
+	calle		(1)
+
+caleime  (13)
+	caleime		(12)
+	calleime		(1)
+
+carvões  (13)
+	carvões		(12)
+	carvoens		(1)
+
+castigam  (13)
+	castigam		(12)
+	castigaõ		(1)
+
+celestiais  (13)
+	celestiais		(12)
+	celestiaes		(1)
+
+ciclo  (13)
+	ciclo		(12)
+	cyclo		(1)
+
+cocotes  (13)
+	cocotes		(11)
+	cocottes		(2)
+
+colaborador  (13)
+	colaborador		(12)
+	collaborador		(1)
+
+coxim  (13)
+	cochim		(8)
+	coxim		(5)
+
+derivam  (13)
+	derivam		(12)
+	derivão		(1)
+
+devoravam  (13)
+	devoravam		(10)
+	devoravao		(3)
+
+dificultosas  (13)
+	dificultosas		(12)
+	difficultosas		(1)
+
+elo  (13)
+	elo		(12)
+	ello		(1)
+
+empregam  (13)
+	empregam		(9)
+	empregão		(3)
+	empregaõ		(1)
+
+entusiasmos  (13)
+	entusiasmos		(12)
+	enthusiasmos		(1)
+
+escravidam  (13)
+	escravidam		(7)
+	escravidaõ		(6)
+
+esculturas  (13)
+	esculturas		(9)
+	esculpturas		(4)
+
+evitavam  (13)
+	evitavam		(8)
+	evitavao		(5)
+
+excelentemente  (13)
+	excelentemente		(12)
+	excellentemente		(1)
+
+fata  (13)
+	facta		(11)
+	fatta		(2)
+
+fazeme  (13)
+	fazemme		(7)
+	fazeme		(6)
+
+imaterial  (13)
+	imaterial		(12)
+	immaterial		(1)
+
+indecifrável  (13)
+	indecifrável		(12)
+	indecifravel		(1)
+
+industriais  (13)
+	industriais		(12)
+	industriaes		(1)
+
+inexpugnável  (13)
+	inexpugnável		(12)
+	inexpugnavel		(1)
+
+inextricável  (13)
+	inextricável		(12)
+	inextricavel		(1)
+
+inspeçam  (13)
+	inspeção		(12)
+	inspeçaõ		(1)
+
+inteirado  (13)
+	inteirado		(12)
+	inteyrado		(1)
+
+intratável  (13)
+	intratável		(12)
+	intractavel		(1)
+
+medula  (13)
+	medula		(12)
+	medulla		(1)
+
+misterio  (13)
+	mysterio		(10)
+	misterio		(3)
+
+multiplicam  (13)
+	multiplicam		(12)
+	multiplicão		(1)
+
+navegam  (13)
+	navegam		(11)
+	navegão		(2)
+
+pelejam  (13)
+	pelejam		(12)
+	pelejão		(1)
+
+pertençam  (13)
+	pertenção		(12)
+	pertençam		(1)
+
+portais  (13)
+	portais		(10)
+	portaes		(3)
+
+prometeme  (13)
+	prometeme		(11)
+	prometemme		(2)
+
+querela  (13)
+	querela		(12)
+	querella		(1)
+
+rabino  (13)
+	rabbino		(8)
+	rabino		(5)
+
+rãs  (13)
+	rãs		(12)
+	raãs		(1)
+
+reclamavam  (13)
+	reclamavam		(12)
+	reclamavao		(1)
+
+reconheciam  (13)
+	reconheciam		(12)
+	reconheciao		(1)
+
+rodelas  (13)
+	rodelas		(11)
+	rodellas		(2)
+
+solteiros  (13)
+	solteiros		(12)
+	solteyros		(1)
+
+sucedesse  (13)
+	sucedesse		(11)
+	succedesse		(2)
+
+suficientes  (13)
+	suficientes		(11)
+	sufficientes		(2)
+
+tebano  (13)
+	tebano		(12)
+	thebano		(1)
+
+temível  (13)
+	temível		(12)
+	temivel		(1)
+
+tomas  (13)
+	tomas		(11)
+	thomas		(2)
+
+universais  (13)
+	universais		(11)
+	universaes		(2)
+
+veriam  (13)
+	veriam		(12)
+	veriaõ		(1)
+
+acomodados  (12)
+	acomodados		(11)
+	accommodados		(1)
+
+acreditando  (12)
+	acreditando		(10)
+	accreditando		(2)
+
+afeiçoados  (12)
+	afeiçoados		(11)
+	affeiçoados		(1)
+
+afligiam  (12)
+	afligiam		(9)
+	afligiao		(3)
+
+afligido  (12)
+	afligido		(11)
+	affligido		(1)
+
+afogar  (12)
+	afogar		(11)
+	affogar		(1)
+
+aparentes  (12)
+	aparentes		(10)
+	apparentes		(2)
+
+apelando  (12)
+	apelando		(11)
+	appellando		(1)
+
+atingiu  (12)
+	atingiu		(11)
+	attingiu		(1)
+
+brooklin  (12)
+	brooklin		(11)
+	brooklyn		(1)
+
+carnais  (12)
+	carnais		(11)
+	carnaes		(1)
+
+cocito  (12)
+	cocito		(11)
+	cocyto		(1)
+
+comam  (12)
+	comam		(11)
+	comão		(1)
+
+compatível  (12)
+	compatível		(11)
+	compativel		(1)
+
+comunicam  (12)
+	comunicam		(11)
+	communicaõ		(1)
+
+conjuntamente  (12)
+	conjuntamente		(11)
+	conjunctamente		(1)
+
+consolavam  (12)
+	consolavam		(8)
+	consolavao		(4)
+
+continham  (12)
+	continham		(10)
+	continhao		(1)
+	continhaõ		(1)
+
+coxins  (12)
+	coxins		(9)
+	cochins		(3)
+
+creiaçam  (12)
+	creação		(9)
+	creaçaõ		(2)
+	creaçam		(1)
+
+dam  (12)
+	daõ		(8)
+	dam		(3)
+	dao		(1)
+
+deixavame  (12)
+	deixavame		(9)
+	deixavamme		(3)
+
+dominam  (12)
+	dominam		(11)
+	dominao		(1)
+
+elos  (12)
+	elos		(7)
+	ellos		(5)
+
+enobrece  (12)
+	enobrece		(7)
+	ennobrece		(5)
+
+enxame  (12)
+	enxame		(11)
+	enchamme		(1)
+
+escapei  (12)
+	escapei		(11)
+	escapey		(1)
+
+escreveme  (12)
+	escreveme		(11)
+	escrevemme		(1)
+
+escutam  (12)
+	escutam		(11)
+	escutão		(1)
+
+exatidam  (12)
+	exatidão		(10)
+	exactidaõ		(2)
+
+execuções  (12)
+	execuções		(9)
+	execuçoens		(3)
+
+explicavam  (12)
+	explicavam		(11)
+	explicavao		(1)
+
+faraó  (12)
+	faraó		(11)
+	pharaó		(1)
+
+felipa  (12)
+	felipa		(11)
+	phelipa		(1)
+
+folgam  (12)
+	folgam		(11)
+	folgão		(1)
+
+funcionalismo  (12)
+	funcionalismo		(11)
+	funccionalismo		(1)
+
+genaro  (12)
+	gennaro		(10)
+	genaro		(2)
+
+inquebrantável  (12)
+	inquebrantável		(11)
+	inquebrantavel		(1)
+
+insociável  (12)
+	insociável		(11)
+	insociavel		(1)
+
+instrucçam  (12)
+	instrucção		(8)
+	instrucçaõ		(4)
+
+joias  (12)
+	joias		(10)
+	joyas		(2)
+
+matavam  (12)
+	matavam		(10)
+	matavao		(2)
+
+ocorrem  (12)
+	ocorrem		(9)
+	occorrem		(3)
+
+odiavam  (12)
+	odiavao		(7)
+	odiavam		(5)
+
+olhavame  (12)
+	olhavame		(11)
+	olhavamme		(1)
+
+one  (12)
+	omne		(11)
+	one		(1)
+
+percebiam  (12)
+	percebiam		(11)
+	percebiao		(1)
+
+perturbavam  (12)
+	perturbavam		(8)
+	perturbavao		(4)
+
+pescam  (12)
+	pescam		(10)
+	pescão		(2)
+
+pintavam  (12)
+	pintavam		(11)
+	pintavão		(1)
+
+poial  (12)
+	poial		(11)
+	poyal		(1)
+
+puxavam  (12)
+	puxavam		(10)
+	puxavao		(2)
+
+quá  (12)
+	quá		(11)
+	quà		(1)
+
+reinou  (12)
+	reinou		(11)
+	reynou		(1)
+
+respeitavam  (12)
+	respeitavam		(11)
+	respeitavao		(1)
+
+rezam  (12)
+	rezam		(10)
+	rezao		(1)
+	rezaõ		(1)
+
+seia  (12)
+	sea		(10)
+	seia		(2)
+
+servila  (12)
+	servila		(11)
+	servilla		(1)
+
+sigilo  (12)
+	sigilo		(11)
+	sigillo		(1)
+
+soam  (12)
+	soam		(11)
+	soaõ		(1)
+
+socos  (12)
+	socos		(11)
+	soccos		(1)
+
+sonos  (12)
+	sonos		(11)
+	somnos		(1)
+
+suco  (12)
+	suco		(11)
+	succo		(1)
+
+suplico  (12)
+	suplico		(11)
+	supplico		(1)
+
+terminações  (12)
+	terminações		(11)
+	terminaçoens		(1)
+
+tompson  (12)
+	tompson		(8)
+	thompson		(4)
+
+torturavam  (12)
+	torturavao		(7)
+	torturavam		(5)
+
+vassalagem  (12)
+	vassalagem		(10)
+	vassallagem		(2)
+
+abandonavam  (11)
+	abandonavam		(9)
+	abandonavao		(2)
+
+acreditavam  (11)
+	acreditavam		(10)
+	acreditavao		(1)
+
+agravam  (11)
+	agravam		(10)
+	agravao		(1)
+
+antipatias  (11)
+	antipatias		(10)
+	antipathias		(1)
+
+aparecerem  (11)
+	aparecerem		(10)
+	apparecerem		(1)
+
+aparições  (11)
+	aparições		(10)
+	apparições		(1)
+
+apelava  (11)
+	apelava		(10)
+	appellava		(1)
+
+apetecida  (11)
+	apetecida		(10)
+	appetecida		(1)
+
+aplicados  (11)
+	aplicados		(9)
+	applicados		(2)
+
+apoiar  (11)
+	apoiar		(10)
+	apoyar		(1)
+
+arrebatavam  (11)
+	arrebatavam		(8)
+	arrebatavao		(3)
+
+arxitetura  (11)
+	architectura		(10)
+	architetura		(1)
+
+atalaia  (11)
+	atalaia		(10)
+	atalaya		(1)
+
+bartolo  (11)
+	bartholo		(9)
+	bartolo		(2)
+
+bautismo  (11)
+	bautismo		(10)
+	bauptismo		(1)
+
+brotavam  (11)
+	brotavam		(10)
+	brotavaõ		(1)
+
+calunia  (11)
+	calumnia		(6)
+	calunia		(5)
+
+cananeia  (11)
+	cananeia		(10)
+	cananea		(1)
+
+capitam  (11)
+	capitam		(6)
+	capitaõ		(5)
+
+carcereiro  (11)
+	carcereiro		(10)
+	carcereyro		(1)
+
+caxemira  (11)
+	caxemira		(8)
+	cachemira		(3)
+
+cete  (11)
+	cete		(6)
+	cette		(5)
+
+colaterais  (11)
+	collaterais		(6)
+	colaterais		(5)
+
+comendadores  (11)
+	comendadores		(10)
+	commendadores		(1)
+
+coraçam  (11)
+	coraçaõ		(9)
+	coraçam		(1)
+	coraçao		(1)
+
+cuidavam  (11)
+	cuidavam		(10)
+	cuidavão		(1)
+
+deferença  (11)
+	deferença		(9)
+	defferença		(2)
+
+desprezavam  (11)
+	desprezavam		(9)
+	desprezavao		(1)
+	desprezavaõ		(1)
+
+difere  (11)
+	difere		(9)
+	differe		(2)
+
+empalidecia  (11)
+	empalidecia		(10)
+	empallidecia		(1)
+
+empregavam  (11)
+	empregavam		(9)
+	empregavaõ		(2)
+
+emudecer  (11)
+	emudecer		(8)
+	emmudecer		(3)
+
+enobrecer  (11)
+	enobrecer		(9)
+	ennobrecer		(2)
+
+entristeciam  (11)
+	entristeciam		(8)
+	entristeciao		(3)
+
+escalas  (11)
+	escalas		(10)
+	escallas		(1)
+
+escapam  (11)
+	escapam		(10)
+	escapão		(1)
+
+estigma  (11)
+	estigma		(10)
+	estygma		(1)
+
+excelencia  (11)
+	excellencia		(9)
+	excelencia		(2)
+
+extintos  (11)
+	extintos		(10)
+	extinctos		(1)
+
+fabricam  (11)
+	fabricam		(10)
+	fabricão		(1)
+
+filosofo  (11)
+	filosofo		(8)
+	philosopho		(3)
+
+frenesis  (11)
+	frenesis		(9)
+	phrenesis		(2)
+
+frutificar  (11)
+	frutificar		(10)
+	fructificar		(1)
+
+gabam  (11)
+	gabão		(7)
+	gabam		(4)
+
+hipoteca  (11)
+	hipoteca		(9)
+	hypotheca		(2)
+
+iluminadas  (11)
+	iluminadas		(10)
+	illuminadas		(1)
+
+impressionavam  (11)
+	impressionavam		(10)
+	impressionavao		(1)
+
+inegável  (11)
+	inegável		(10)
+	inegavel		(1)
+
+insondável  (11)
+	insondável		(9)
+	insondavel		(2)
+
+jámais  (11)
+	jámais		(10)
+	jàmais		(1)
+
+josef  (11)
+	joseph		(10)
+	josef		(1)
+
+judit  (11)
+	judith		(10)
+	judit		(1)
+
+laia  (11)
+	laia		(10)
+	laya		(1)
+
+lam  (11)
+	lão		(10)
+	lam		(1)
+
+luca  (11)
+	luca		(10)
+	lucca		(1)
+
+mandeio  (11)
+	mandeo		(6)
+	mandeio		(5)
+
+manuais  (11)
+	manuais		(9)
+	manuaes		(2)
+
+melões  (11)
+	melões		(10)
+	meloens		(1)
+
+murmurações  (11)
+	murmurações		(10)
+	murmuraçoens		(1)
+
+notem  (11)
+	notem		(7)
+	noctem		(4)
+
+obedeciam  (11)
+	obedeciam		(10)
+	obedeciaõ		(1)
+
+oferecendo-se  (11)
+	oferecendose		(10)
+	offerecendose		(1)
+
+opositores  (11)
+	oppositores		(6)
+	opositores		(5)
+
+oprimir  (11)
+	oprimir		(10)
+	opprimir		(1)
+
+pam  (11)
+	pao		(5)
+	pam		(3)
+	paõ		(3)
+
+participam  (11)
+	participam		(8)
+	participão		(3)
+
+pediame  (11)
+	pediame		(9)
+	pediamme		(2)
+
+pene  (11)
+	pene		(10)
+	penne		(1)
+
+percais  (11)
+	percais		(10)
+	percaes		(1)
+
+percam  (11)
+	percam		(8)
+	percao		(2)
+	percaõ		(1)
+
+perdoam  (11)
+	perdoam		(10)
+	perdoão		(1)
+
+permitame  (11)
+	permitame		(9)
+	permitamme		(1)
+	permittame		(1)
+
+praticam  (11)
+	praticam		(10)
+	praticão		(1)
+
+prendam  (11)
+	prendam		(9)
+	prendão		(2)
+
+rodeiam  (11)
+	rodeiam		(10)
+	rodeam		(1)
+
+rurais  (11)
+	rurais		(10)
+	ruraes		(1)
+
+solenidades  (11)
+	solenidades		(10)
+	solemnidades		(1)
+
+sumariamente  (11)
+	sumariamente		(10)
+	summariamente		(1)
+
+suplica  (11)
+	suplica		(8)
+	supplica		(3)
+
+suporta  (11)
+	suporta		(10)
+	supporta		(1)
+
+supões  (11)
+	supões		(10)
+	suppões		(1)
+
+tese  (11)
+	tese		(10)
+	these		(1)
+
+tirará  (11)
+	tirará		(10)
+	tirarà		(1)
+
+traçam  (11)
+	tração		(9)
+	traçam		(2)
+
+vam  (11)
+	vam		(6)
+	vaõ		(5)
+
+versões  (11)
+	versões		(10)
+	versoens		(1)
+
+xarão  (11)
+	charão		(9)
+	xarão		(2)
+
+abadia  (10)
+	abadia		(5)
+	abbadia		(5)
+
+aceitam  (10)
+	aceitam		(7)
+	aceitao		(2)
+	aceitão		(1)
+
+acertam  (10)
+	acertam		(7)
+	acertão		(3)
+
+acolhiam  (10)
+	acolhiam		(7)
+	acolhiao		(3)
+
+acordam  (10)
+	acordam		(8)
+	acordao		(1)
+	acordão		(1)
+
+acordavam  (10)
+	acordavam		(9)
+	accordavam		(1)
+
+acotovelando-se  (10)
+	acotovelandose		(9)
+	acotovellandose		(1)
+
+acreditamos  (10)
+	acreditamos		(8)
+	accreditamos		(2)
+
+afirmativa  (10)
+	afirmativa		(8)
+	affirmativa		(2)
+
+aflitivo  (10)
+	aflitivo		(9)
+	afflictivo		(1)
+
+alá  (10)
+	alá		(7)
+	allá		(3)
+
+ale  (10)
+	ale		(8)
+	alle		(2)
+
+aplaudindo  (10)
+	aplaudindo		(9)
+	applaudindo		(1)
+
+apregoam  (10)
+	apregoam		(8)
+	apregoão		(2)
+
+aprendeio  (10)
+	aprendeo		(9)
+	apprendeo		(1)
+
+aprovaçam  (10)
+	approvação		(6)
+	approvaçaõ		(4)
+
+arato  (10)
+	arato		(9)
+	aratho		(1)
+
+arreia  (10)
+	arreia		(8)
+	arrea		(2)
+
+atala  (10)
+	atala		(9)
+	attala		(1)
+
+calam  (10)
+	calam		(9)
+	calao		(1)
+
+candeias  (10)
+	candeias		(9)
+	candeas		(1)
+
+colada  (10)
+	colada		(9)
+	collada		(1)
+
+contrita  (10)
+	contrita		(9)
+	contricta		(1)
+
+cumprimentavam  (10)
+	cumprimentavam		(8)
+	cumprimentavao		(2)
+
+decretais  (10)
+	decretais		(9)
+	decretaes		(1)
+
+derramavam  (10)
+	derramavam		(7)
+	derramavao		(3)
+
+desfalecer  (10)
+	desfalecer		(9)
+	desfallecer		(1)
+
+elisa  (10)
+	elisa		(8)
+	elysa		(2)
+
+emagrecer  (10)
+	emagrecer		(9)
+	emmagrecer		(1)
+
+enxurros  (10)
+	enxurros		(9)
+	enchurros		(1)
+
+escusam  (10)
+	escusam		(8)
+	escusão		(2)
+
+esperame  (10)
+	esperame		(9)
+	esperamme		(1)
+
+executam  (10)
+	executam		(6)
+	executão		(3)
+	executaõ		(1)
+
+falange  (10)
+	falange		(7)
+	phalange		(3)
+
+feiticeiras  (10)
+	feiticeiras		(9)
+	feiticeyras		(1)
+
+governavam  (10)
+	governavam		(7)
+	governavaõ		(3)
+
+ignoravam  (10)
+	ignoravam		(8)
+	ignoravao		(2)
+
+iluminaçam  (10)
+	illuminaçam		(7)
+	illuminação		(3)
+
+impecável  (10)
+	impecável		(9)
+	impeccavel		(1)
+
+improvável  (10)
+	improvável		(9)
+	improvavel		(1)
+
+imunidade  (10)
+	imunidade		(9)
+	immunidade		(1)
+
+intentam  (10)
+	intentam		(9)
+	intentão		(1)
+
+invadiam  (10)
+	invadiam		(7)
+	invadiao		(3)
+
+irritavam  (10)
+	irritavam		(5)
+	irritavao		(5)
+
+leitões  (10)
+	leitões		(9)
+	leitoens		(1)
+
+leveio  (10)
+	leveio		(7)
+	leveo		(3)
+
+ligam  (10)
+	ligam		(9)
+	ligão		(1)
+
+lutou  (10)
+	lutou		(9)
+	luctou		(1)
+
+mai  (10)
+	may		(7)
+	mai		(3)
+
+náos  (10)
+	náos		(9)
+	nàos		(1)
+
+nomeiam  (10)
+	nomeiam		(9)
+	nomeam		(1)
+
+nula  (10)
+	nulla		(7)
+	nula		(3)
+
+of  (10)
+	of		(9)
+	off		(1)
+
+oferecerse  (10)
+	oferecerse		(8)
+	offerecerse		(2)
+
+otomana  (10)
+	otomana		(9)
+	othomana		(1)
+
+pelejava  (10)
+	pelejava		(9)
+	pellejava		(1)
+
+permitirem  (10)
+	permitirem		(9)
+	permittirem		(1)
+
+perpetuar  (10)
+	perpetuar		(9)
+	perpectuar		(1)
+
+picam  (10)
+	picão		(6)
+	picam		(4)
+
+pitorescas  (10)
+	pitorescas		(8)
+	pictorescas		(1)
+	pittorescas		(1)
+
+pompeio  (10)
+	pompeo		(7)
+	pompeio		(3)
+
+precediam  (10)
+	precediam		(8)
+	precediao		(2)
+
+prejudiciais  (10)
+	prejudiciais		(9)
+	prejudiciaes		(1)
+
+rapel  (10)
+	rapel		(9)
+	rappel		(1)
+
+remeto  (10)
+	remeto		(9)
+	remetto		(1)
+
+respiravam  (10)
+	respiravam		(9)
+	respiravao		(1)
+
+restame  (10)
+	restame		(9)
+	restamme		(1)
+
+rotsxild  (10)
+	rotschild		(6)
+	rottschild		(3)
+	rothschild		(1)
+
+saberiam  (10)
+	saberiam		(8)
+	saberiaõ		(2)
+
+salario  (10)
+	salario		(5)
+	sallario		(5)
+
+scultor  (10)
+	scultor		(9)
+	sculptor		(1)
+
+silvas  (10)
+	silvas		(7)
+	sylvas		(3)
+
+sobejam  (10)
+	sobejam		(7)
+	sobejão		(3)
+
+sucessões  (10)
+	sucessões		(6)
+	successoens		(4)
+
+supostos  (10)
+	supostos		(8)
+	suppostos		(2)
+
+tardam  (10)
+	tardam		(9)
+	tardão		(1)
+
+tirame  (10)
+	tirame		(9)
+	tiramme		(1)
+
+tranquila  (10)
+	tranquila		(7)
+	tranquilla		(3)
+
+triumfo  (10)
+	triumpho		(7)
+	triumfo		(3)
+
+troiano  (10)
+	troiano		(8)
+	troyano		(2)
+
+virginais  (10)
+	virginais		(9)
+	virginaes		(1)
+
+voilá  (10)
+	voilà		(8)
+	voilá		(2)
+
+xa  (10)
+	cha		(9)
+	xa		(1)
+
+abraçavam  (9)
+	abraçavam		(5)
+	abraçavao		(4)
+
+acomodadas  (9)
+	acomodadas		(7)
+	acommodadas		(2)
+
+acrescente  (9)
+	acrescente		(8)
+	accrescente		(1)
+
+acrescento  (9)
+	acrescento		(8)
+	accrescento		(1)
+
+admitisse  (9)
+	admitisse		(7)
+	admittisse		(2)
+
+alegorias  (9)
+	alegorias		(8)
+	allegorias		(1)
+
+apetecido  (9)
+	apetecido		(8)
+	appetecido		(1)
+
+aplicam  (9)
+	aplicam		(8)
+	applicão		(1)
+
+apocalipse  (9)
+	apocalipse		(8)
+	apocalypse		(1)
+
+aprenderao  (9)
+	aprenderaõ		(8)
+	aprenderao		(1)
+
+aprove  (9)
+	aprove		(8)
+	approve		(1)
+
+armam  (9)
+	armam		(7)
+	armão		(2)
+
+avistavam  (9)
+	avistavam		(8)
+	avistavao		(1)
+
+baleias  (9)
+	baleias		(7)
+	baleas		(2)
+
+beijavam  (9)
+	beijavam		(6)
+	beijavao		(3)
+
+bitencourt  (9)
+	bittencourt		(8)
+	bitencourt		(1)
+
+bonet  (9)
+	bonet		(6)
+	bonnet		(3)
+
+catulo  (9)
+	catulo		(8)
+	catullo		(1)
+
+celebravam  (9)
+	celebravam		(4)
+	celebravaõ		(4)
+	celebravão		(1)
+
+conduziam  (9)
+	conduziam		(8)
+	conduziao		(1)
+
+conteme  (9)
+	conteme		(8)
+	contemme		(1)
+
+creiais  (9)
+	creiais		(7)
+	creais		(2)
+
+creiame  (9)
+	creiame		(8)
+	creiamme		(1)
+
+culpável  (9)
+	culpável		(8)
+	culpavel		(1)
+
+currais  (9)
+	currais		(6)
+	curraes		(3)
+
+desaire  (9)
+	desaire		(6)
+	desayre		(3)
+
+destinam  (9)
+	destinam		(8)
+	destinao		(1)
+
+detestavam  (9)
+	detestavao		(5)
+	detestavam		(4)
+
+dileto  (9)
+	dileto		(8)
+	dilecto		(1)
+
+dizelo  (9)
+	dizelo		(8)
+	dizello		(1)
+
+dobrões  (9)
+	dobrões		(7)
+	dobroens		(2)
+
+doíame  (9)
+	doíame		(8)
+	doíamme		(1)
+
+dueto  (9)
+	dueto		(8)
+	duetto		(1)
+
+efetiva  (9)
+	efetiva		(8)
+	effectiva		(1)
+
+erame  (9)
+	erame		(8)
+	eramme		(1)
+
+estável  (9)
+	estável		(7)
+	estavel		(2)
+
+faiança  (9)
+	faiança		(8)
+	fayança		(1)
+
+falarse  (9)
+	falarse		(8)
+	fallarse		(1)
+
+fartam  (9)
+	fartam		(5)
+	fartão		(4)
+
+ferreiros  (9)
+	ferreiros		(8)
+	ferreyros		(1)
+
+filosofar  (9)
+	filosofar		(8)
+	philosophar		(1)
+
+fizerame  (9)
+	fizeramme		(8)
+	fizerame		(1)
+
+furtadelas  (9)
+	furtadelas		(8)
+	furtadellas		(1)
+
+guai  (9)
+	guai		(6)
+	guay		(3)
+
+hidra  (9)
+	hidra		(8)
+	hydra		(1)
+
+iluminavam  (9)
+	iluminavam		(8)
+	illuminavao		(1)
+
+ilustrados  (9)
+	ilustrados		(8)
+	illustrados		(1)
+
+indestrutível  (9)
+	indestrutível		(6)
+	indestructível		(3)
+
+infanções  (9)
+	infanções		(6)
+	infançoens		(3)
+
+instalouse  (9)
+	instalouse		(8)
+	installouse		(1)
+
+interdito  (9)
+	interdito		(8)
+	interdicto		(1)
+
+interpretações  (9)
+	interpretações		(7)
+	interpretaçoens		(2)
+
+invasões  (9)
+	invasões		(7)
+	invasoens		(2)
+
+inventam  (9)
+	inventam		(8)
+	inventão		(1)
+
+irrevogável  (9)
+	irrevogável		(8)
+	irrevogavel		(1)
+
+jornaleiro  (9)
+	jornaleiro		(6)
+	jornaleyro		(3)
+
+josefo  (9)
+	josefo		(7)
+	josepho		(2)
+
+lutero  (9)
+	lutero		(8)
+	luthero		(1)
+
+mateme  (9)
+	mateme		(8)
+	matemme		(1)
+
+meridionais  (9)
+	meridionais		(5)
+	meridionaes		(4)
+
+naçam  (9)
+	naçaõ		(8)
+	naçam		(1)
+
+oi  (9)
+	oy		(8)
+	oi		(1)
+
+oscilações  (9)
+	oscilações		(8)
+	oscillações		(1)
+
+otaviano  (9)
+	otaviano		(6)
+	octaviano		(2)
+	ottaviano		(1)
+
+otoni  (9)
+	ottoni		(8)
+	otoni		(1)
+
+pala  (9)
+	pala		(8)
+	palla		(1)
+
+paralelas  (9)
+	paralelas		(8)
+	parallelas		(1)
+
+peçam  (9)
+	peçam		(8)
+	peção		(1)
+
+prometiam  (9)
+	prometiam		(6)
+	prometiaõ		(1)
+	promettiam		(1)
+	promettião		(1)
+
+ramá  (9)
+	ramà		(5)
+	ramá		(4)
+
+setimo  (9)
+	septimo		(6)
+	setimo		(3)
+
+smit  (9)
+	smith		(8)
+	smit		(1)
+
+sofridas  (9)
+	sofridas		(7)
+	soffridas		(2)
+
+sonhavam  (9)
+	sonhavam		(8)
+	sonhavao		(1)
+
+subam  (9)
+	subam		(8)
+	subão		(1)
+
+sufocavam  (9)
+	sufocavam		(8)
+	sufocavao		(1)
+
+sugestões  (9)
+	sugestões		(7)
+	suggestões		(2)
+
+suplicas  (9)
+	suplicas		(5)
+	supplicas		(4)
+
+tabela  (9)
+	tabela		(7)
+	tabella		(2)
+
+teiodosio  (9)
+	theodosio		(8)
+	teodosio		(1)
+
+telo  (9)
+	telo		(8)
+	tello		(1)
+
+temam  (9)
+	temam		(7)
+	temão		(2)
+
+tipografia  (9)
+	tipografia		(6)
+	typographia		(2)
+	typografia		(1)
+
+tomarame  (9)
+	tomarame		(8)
+	tomaramme		(1)
+
+trabucos  (9)
+	trabucos		(8)
+	trabuccos		(1)
+
+tragame  (9)
+	tragame		(8)
+	tragamme		(1)
+
+vacilações  (9)
+	vacilações		(8)
+	vacillações		(1)
+
+variavam  (9)
+	variavam		(8)
+	variavão		(1)
+
+voltariam  (9)
+	voltariam		(8)
+	voltariaõ		(1)
+
+xer  (9)
+	cher		(8)
+	xer		(1)
+
+aborrecível  (8)
+	aborrecível		(7)
+	aborrecivel		(1)
+
+aceitavam  (8)
+	aceitavam		(5)
+	aceitavao		(2)
+	aceitavaõ		(1)
+
+admita  (8)
+	admita		(6)
+	admitta		(2)
+
+admitidas  (8)
+	admitidas		(5)
+	admittidas		(3)
+
+admitirem  (8)
+	admitirem		(5)
+	admittirem		(3)
+
+aias  (8)
+	aias		(5)
+	ayas		(3)
+
+ajudavam  (8)
+	ajudavao		(5)
+	ajudavam		(3)
+
+alegravam  (8)
+	alegravam		(7)
+	alegravao		(1)
+
+alqueire  (8)
+	alqueire		(4)
+	alqueyre		(4)
+
+andámos  (8)
+	andámos		(6)
+	andàmos		(2)
+
+apagam  (8)
+	apagam		(6)
+	apagão		(2)
+
+aplicada  (8)
+	aplicada		(7)
+	applicada		(1)
+
+aprovados  (8)
+	aprovados		(6)
+	approvados		(2)
+
+aprovam  (8)
+	aprovam		(6)
+	aprovão		(2)
+
+arrebatam  (8)
+	arrebatam		(7)
+	arrebatao		(1)
+
+atenuando  (8)
+	atenuando		(7)
+	attenuando		(1)
+
+benedito  (8)
+	benedito		(6)
+	benedicto		(2)
+
+bétoven  (8)
+	beetoven		(5)
+	beethoven		(3)
+
+bruxelas  (8)
+	bruxelas		(7)
+	bruxellas		(1)
+
+cativante  (8)
+	cativante		(6)
+	captivante		(2)
+
+cessam  (8)
+	cessam		(6)
+	cessaõ		(1)
+	cessão		(1)
+
+comensal  (8)
+	comensal		(7)
+	commensal		(1)
+
+comte  (8)
+	comte		(7)
+	compte		(1)
+
+comunicarme  (8)
+	comunicarme		(5)
+	communicarme		(3)
+
+consideraçam  (8)
+	consideraçaõ		(5)
+	consideraçam		(3)
+
+cotas  (8)
+	cotas		(7)
+	coptas		(1)
+
+criavam  (8)
+	criavam		(5)
+	criavao		(2)
+	criavaõ		(1)
+
+daninha  (8)
+	daninha		(7)
+	damninha		(1)
+
+degolado  (8)
+	degolado		(6)
+	degollado		(2)
+
+denunciasse  (8)
+	denunciasse		(7)
+	denunciase		(1)
+
+desviavam  (8)
+	desviavam		(7)
+	desviavao		(1)
+
+dificultosamente  (8)
+	dificultosamente		(7)
+	difficultosamente		(1)
+
+dinamite  (8)
+	dinamite		(7)
+	dynamite		(1)
+
+disfarçam  (8)
+	disfarçam		(5)
+	disfarção		(3)
+
+doroteia  (8)
+	doroteia		(5)
+	dorothea		(3)
+
+eifel  (8)
+	eifel		(4)
+	eiffel		(4)
+
+enobrecem  (8)
+	enobrecem		(7)
+	ennobrecem		(1)
+
+esmagavam  (8)
+	esmagavam		(5)
+	esmagavao		(3)
+
+estranhei  (8)
+	estranhei		(7)
+	estranhey		(1)
+
+estritamente  (8)
+	estritamente		(7)
+	estrictamente		(1)
+
+evitam  (8)
+	evitam		(7)
+	evitaõ		(1)
+
+excediam  (8)
+	excediam		(7)
+	excedião		(1)
+
+exercitavam  (8)
+	exercitavam		(7)
+	exercitavaõ		(1)
+
+falarmos  (8)
+	falarmos		(7)
+	fallarmos		(1)
+
+faltavame  (8)
+	faltavame		(7)
+	faltavamme		(1)
+
+fazeio  (8)
+	fazeo		(6)
+	fazeio		(2)
+
+fazelo  (8)
+	fazelo		(6)
+	fazello		(2)
+
+feudais  (8)
+	feudais		(7)
+	feudaes		(1)
+
+fisico  (8)
+	fisico		(4)
+	physico		(4)
+
+gotejava  (8)
+	gotejava		(6)
+	gottejava		(2)
+
+imaginavam  (8)
+	imaginavao		(5)
+	imaginavam		(3)
+
+inata  (8)
+	inata		(5)
+	inapta		(3)
+
+incita  (8)
+	incita		(7)
+	incitta		(1)
+
+inquiziçam  (8)
+	inquiziçaõ		(7)
+	inquizição		(1)
+
+intentavam  (8)
+	intentavam		(7)
+	intentavaõ		(1)
+
+interdita  (8)
+	interdita		(6)
+	interdicta		(2)
+
+inumanos  (8)
+	inumanos		(7)
+	inumamnos		(1)
+
+irreconciliável  (8)
+	irreconciliável		(7)
+	irreconciliavel		(1)
+
+josafat  (8)
+	josaphath		(5)
+	josafat		(2)
+	josaphat		(1)
+
+juliano  (8)
+	juliano		(7)
+	julianno		(1)
+
+largavam  (8)
+	largavam		(5)
+	largavão		(3)
+
+ligavam  (8)
+	ligavam		(7)
+	ligavao		(1)
+
+marcelo  (8)
+	marcelo		(7)
+	marcello		(1)
+
+maternais  (8)
+	maternais		(7)
+	maternaes		(1)
+
+matilde  (8)
+	matilde		(7)
+	mathilde		(1)
+
+máos  (8)
+	máos		(6)
+	màos		(2)
+
+medicinais  (8)
+	medicinais		(7)
+	medicinaes		(1)
+
+miravam  (8)
+	miravam		(7)
+	miravao		(1)
+
+moi  (8)
+	moi		(7)
+	moy		(1)
+
+montavam  (8)
+	montavam		(7)
+	montavao		(1)
+
+navegavam  (8)
+	navegavam		(7)
+	navegavão		(1)
+
+obedeçam  (8)
+	obedeçam		(7)
+	obedeçaõ		(1)
+
+omissões  (8)
+	omissões		(6)
+	omissoens		(2)
+
+oponha  (8)
+	oponha		(6)
+	opponha		(2)
+
+oscilavam  (8)
+	oscilavam		(6)
+	oscillavam		(2)
+
+ostentações  (8)
+	ostentações		(7)
+	ostentaçoens		(1)
+
+panteion  (8)
+	pantheon		(5)
+	panteon		(3)
+
+passame  (8)
+	passame		(7)
+	passamme		(1)
+
+pedeme  (8)
+	pedeme		(7)
+	pedemme		(1)
+
+perpinham  (8)
+	perpinhão		(7)
+	perpinham		(1)
+
+prizam  (8)
+	prizão		(5)
+	prizaõ		(2)
+	prizam		(1)
+
+procediam  (8)
+	procediam		(6)
+	procediaõ		(1)
+	procedião		(1)
+
+remetem  (8)
+	remetem		(7)
+	remettem		(1)
+
+repeliam  (8)
+	repeliam		(6)
+	repeliao		(2)
+
+reputam  (8)
+	reputam		(7)
+	reputaõ		(1)
+
+requeriam  (8)
+	requeriam		(7)
+	requerião		(1)
+
+respondam  (8)
+	respondam		(5)
+	respondão		(3)
+
+respondeme  (8)
+	respondeme		(7)
+	respondemme		(1)
+
+resultam  (8)
+	resultam		(5)
+	resultaõ		(2)
+	resultão		(1)
+
+revelam  (8)
+	revelam		(6)
+	revelao		(2)
+
+ruindade  (8)
+	ruindade		(7)
+	ruimdade		(1)
+
+sacar  (8)
+	sacar		(7)
+	saccar		(1)
+
+sahiam  (8)
+	sahião		(5)
+	sahiam		(2)
+	sahiaõ		(1)
+
+santorum  (8)
+	sanctorum		(7)
+	santorum		(1)
+
+santuario  (8)
+	sanctuario		(4)
+	santuario		(4)
+
+saudavam  (8)
+	saudavam		(7)
+	saudavao		(1)
+
+seguiriam  (8)
+	seguiriam		(7)
+	seguiriaõ		(1)
+
+semeiam  (8)
+	semeiam		(7)
+	semeam		(1)
+
+senhoreia  (8)
+	senhoreia		(7)
+	senhorea		(1)
+
+serviriam  (8)
+	serviriam		(5)
+	serviriaõ		(3)
+
+silves  (8)
+	silves		(7)
+	sylves		(1)
+
+sinó  (8)
+	sinò		(6)
+	sinó		(2)
+
+sonham  (8)
+	sonham		(7)
+	sonhão		(1)
+
+sonolentos  (8)
+	sonolentos		(7)
+	somnolentos		(1)
+
+stilo  (8)
+	stylo		(6)
+	stilo		(2)
+
+subordinaçam  (8)
+	subordinaçaõ		(5)
+	subordinaçam		(3)
+
+suspendiam  (8)
+	suspendiam		(7)
+	suspendiao		(1)
+
+taxam  (8)
+	taxam		(7)
+	taxão		(1)
+
+tentavam  (8)
+	tentavam		(7)
+	tentavao		(1)
+
+testemunham  (8)
+	testemunham		(7)
+	testemunhão		(1)
+
+topam  (8)
+	topam		(7)
+	topão		(1)
+
+transformam  (8)
+	transformam		(7)
+	transformão		(1)
+
+vacum  (8)
+	vacum		(5)
+	vacuum		(3)
+
+valham  (8)
+	valham		(5)
+	valhao		(3)
+
+venciam  (8)
+	venciam		(7)
+	vencião		(1)
+
+volumoso  (8)
+	volumoso		(7)
+	volumozo		(1)
+
+xegam  (8)
+	chegão		(7)
+	chegaõ		(1)
+
+xeia  (8)
+	chea		(7)
+	cheya		(1)
+
+xeios  (8)
+	cheos		(4)
+	cheyos		(4)
+
+abusam  (7)
+	abusam		(4)
+	abusão		(3)
+
+acrescentamentos  (7)
+	acrescentamentos		(5)
+	accrescentamentos		(2)
+
+admitimos  (7)
+	admitimos		(5)
+	admittimos		(2)
+
+aleijões  (7)
+	aleijões		(5)
+	aleijoens		(2)
+
+alfaiates  (7)
+	alfaiates		(6)
+	alfayates		(1)
+
+amarelenta  (7)
+	amarelenta		(5)
+	amarellenta		(2)
+
+anualmente  (7)
+	anualmente		(6)
+	annualmente		(1)
+
+apareçam  (7)
+	apareçam		(6)
+	appareção		(1)
+
+aplicadas  (7)
+	aplicadas		(6)
+	applicadas		(1)
+
+aplicavam  (7)
+	aplicavam		(6)
+	applicavaõ		(1)
+
+apotegmas  (7)
+	apotegmas		(5)
+	apothegmas		(2)
+
+assustavam  (7)
+	assustavam		(6)
+	assustavao		(1)
+
+atentas  (7)
+	atentas		(6)
+	attentas		(1)
+
+atritos  (7)
+	atritos		(5)
+	attrictos		(1)
+	attritos		(1)
+
+autorizada  (7)
+	autorizada		(6)
+	auctorizada		(1)
+
+azulam  (7)
+	azulão		(6)
+	azulam		(1)
+
+cartagena  (7)
+	cartagena		(5)
+	carthagena		(2)
+
+cauçam  (7)
+	cauçaõ		(6)
+	cauçam		(1)
+
+clamam  (7)
+	clamam		(5)
+	clamaõ		(1)
+	clamão		(1)
+
+colona  (7)
+	colona		(4)
+	colonna		(3)
+
+colunatas  (7)
+	colunatas		(5)
+	columnatas		(2)
+
+comerciar  (7)
+	comerciar		(6)
+	commerciar		(1)
+
+completam  (7)
+	completam		(5)
+	completao		(2)
+
+comunicaçam  (7)
+	communicaçaõ		(4)
+	communicaçam		(2)
+	comunicaçam		(1)
+
+condiçam  (7)
+	condiçaõ		(6)
+	condiçam		(1)
+
+conheceme  (7)
+	conheceme		(6)
+	conhecemme		(1)
+
+conhecerao  (7)
+	conhecerao		(6)
+	conheceraõ		(1)
+
+conjunções  (7)
+	conjunções		(6)
+	conjunçoens		(1)
+
+contrariavam  (7)
+	contrariavao		(5)
+	contrariavam		(2)
+
+convenções  (7)
+	convenções		(6)
+	convençoens		(1)
+
+convidam  (7)
+	convidam		(6)
+	convidao		(1)
+
+cotage  (7)
+	cotage		(6)
+	cottage		(1)
+
+criasse  (7)
+	criasse		(6)
+	criase		(1)
+
+cristos  (7)
+	christos		(5)
+	cristos		(2)
+
+dediquei  (7)
+	dediquei		(6)
+	dediquey		(1)
+
+denotam  (7)
+	denotam		(5)
+	denotão		(2)
+
+dependiam  (7)
+	dependiam		(5)
+	dependiaõ		(2)
+
+derramam  (7)
+	derramam		(5)
+	derramao		(1)
+	derramão		(1)
+
+ditando  (7)
+	ditando		(6)
+	dictando		(1)
+
+ditava  (7)
+	ditava		(6)
+	dictava		(1)
+
+eclesia  (7)
+	ecclesia		(6)
+	eclesia		(1)
+
+eclesiastes  (7)
+	eclesiastes		(6)
+	ecclesiastes		(1)
+
+emanuel  (7)
+	emanuel		(5)
+	emmanuel		(2)
+
+emendam  (7)
+	emendam		(6)
+	emendão		(1)
+
+enfadam  (7)
+	enfadam		(6)
+	enfadão		(1)
+
+entrávamos  (7)
+	entrávamos		(6)
+	entràvamos		(1)
+
+entregavam  (7)
+	entregavam		(6)
+	entregavao		(1)
+
+entretinham  (7)
+	entretinham		(5)
+	entretinhao		(2)
+
+ervaçal  (7)
+	ervaçal		(6)
+	hervaçal		(1)
+
+esforçam  (7)
+	esforçam		(6)
+	esforção		(1)
+
+esmagam  (7)
+	esmagam		(5)
+	esmagao		(2)
+
+estrelinhas  (7)
+	estrelinhas		(6)
+	estrellinhas		(1)
+
+examinavam  (7)
+	examinavam		(6)
+	examinavao		(1)
+
+experimentam  (7)
+	experimentam		(6)
+	experimentão		(1)
+
+falarão  (7)
+	falarão		(5)
+	fallarão		(2)
+
+faleme  (7)
+	faleme		(5)
+	falemme		(2)
+
+fazela  (7)
+	fazela		(4)
+	fazella		(3)
+
+feuilet  (7)
+	feuillet		(5)
+	feuilet		(2)
+
+frações  (7)
+	frações		(6)
+	fraçoens		(1)
+
+garrafais  (7)
+	garrafais		(6)
+	garrafaes		(1)
+
+golegã  (7)
+	golegã		(6)
+	gollegã		(1)
+
+grao  (7)
+	grao		(5)
+	graõ		(2)
+
+guardeio  (7)
+	guardeo		(4)
+	guardeio		(3)
+
+guiavam  (7)
+	guiavam		(4)
+	guiavao		(3)
+
+inclinavam  (7)
+	inclinavam		(6)
+	inclinavao		(1)
+
+incomodavam  (7)
+	incomodavam		(4)
+	incomodavao		(3)
+
+introducçam  (7)
+	introducção		(4)
+	introducçaõ		(3)
+
+invejavam  (7)
+	invejavam		(6)
+	invejavao		(1)
+
+irracionais  (7)
+	irracionais		(5)
+	irracionaes		(2)
+
+joli  (7)
+	joli		(4)
+	joly		(3)
+
+lampreias  (7)
+	lampreas		(6)
+	lampreias		(1)
+
+laranjais  (7)
+	laranjais		(5)
+	laranjaes		(2)
+
+lavam  (7)
+	lavam		(6)
+	lavão		(1)
+
+legislaçam  (7)
+	legislaçaõ		(4)
+	legislaçam		(3)
+
+leveme  (7)
+	leveme		(6)
+	levemme		(1)
+
+literas  (7)
+	literas		(4)
+	litteras		(3)
+
+luteranos  (7)
+	lutheranos		(4)
+	luteranos		(3)
+
+mandarame  (7)
+	mandaramme		(5)
+	mandarame		(2)
+
+mantinham  (7)
+	mantinham		(6)
+	mantinhaõ		(1)
+
+matalo  (7)
+	matalo		(6)
+	matallo		(1)
+
+mereçam  (7)
+	mereçam		(6)
+	mereçaõ		(1)
+
+metafisica  (7)
+	metaphysica		(5)
+	methafysica		(2)
+
+mixtifori  (7)
+	mixtifori		(6)
+	mixtiffori		(1)
+
+novelos  (7)
+	novelos		(6)
+	novellos		(1)
+
+nulidade  (7)
+	nulidade		(6)
+	nullidade		(1)
+
+obravam  (7)
+	obravam		(5)
+	obravaõ		(2)
+
+ocupe  (7)
+	ocupe		(5)
+	occupe		(2)
+
+ofembax  (7)
+	offenbach		(4)
+	ofenbach		(3)
+
+ofendam  (7)
+	ofendam		(6)
+	offendão		(1)
+
+ofendeis  (7)
+	ofendeis		(6)
+	offendeis		(1)
+
+oferendas  (7)
+	oferendas		(6)
+	offerendas		(1)
+
+opressa  (7)
+	opressa		(6)
+	oppressa		(1)
+
+ordenam  (7)
+	ordenam		(6)
+	ordenão		(1)
+
+ordenavam  (7)
+	ordenavam		(6)
+	ordenavão		(1)
+
+pecam  (7)
+	pecam		(5)
+	peccão		(2)
+
+perderiam  (7)
+	perderiam		(3)
+	perderiaõ		(2)
+	perderião		(2)
+
+perturbam  (7)
+	perturbam		(6)
+	perturbaõ		(1)
+
+pitor  (7)
+	pictor		(6)
+	pittor		(1)
+
+pitura  (7)
+	pictura		(6)
+	pittura		(1)
+
+portelo  (7)
+	portello		(5)
+	portelo		(2)
+
+procela  (7)
+	procela		(5)
+	procella		(2)
+
+prometeume  (7)
+	prometeume		(6)
+	prometteume		(1)
+
+própriamente  (7)
+	pròpriamente		(6)
+	própriamente		(1)
+
+puxada  (7)
+	puxada		(6)
+	puchada		(1)
+
+queixasse  (7)
+	queixasse		(6)
+	queyxasse		(1)
+
+racionável  (7)
+	racionável		(4)
+	racionavel		(3)
+
+recordavam  (7)
+	recordavam		(6)
+	recordavao		(1)
+
+regam  (7)
+	regam		(6)
+	regão		(1)
+
+rejeitam  (7)
+	rejeitam		(6)
+	rejeitão		(1)
+
+rendeiros  (7)
+	rendeiros		(5)
+	rendeyros		(2)
+
+restabelecesse  (7)
+	restabelecesse		(6)
+	restablecesse		(1)
+
+sacadas  (7)
+	sacadas		(6)
+	saccadas		(1)
+
+safiras  (7)
+	safiras		(6)
+	saphiras		(1)
+
+sibilas  (7)
+	sibilas		(6)
+	sybilas		(1)
+
+silogismos  (7)
+	syllogismos		(5)
+	sillogismos		(1)
+	silogismos		(1)
+
+simetrias  (7)
+	simetrias		(4)
+	symetrias		(3)
+
+solam  (7)
+	solam		(4)
+	solão		(3)
+
+some  (7)
+	some		(6)
+	somme		(1)
+
+stavam  (7)
+	stavão		(5)
+	stavam		(2)
+
+superficiais  (7)
+	superficiais		(6)
+	superficiaes		(1)
+
+suplemento  (7)
+	suplemento		(5)
+	supplemento		(2)
+
+tabor  (7)
+	tabor		(6)
+	thabor		(1)
+
+tereza  (7)
+	tereza		(6)
+	thereza		(1)
+
+termas  (7)
+	thermas		(4)
+	termas		(3)
+
+tiers  (7)
+	thiers		(6)
+	tiers		(1)
+
+tirso  (7)
+	tirso		(6)
+	thyrso		(1)
+
+torneio  (7)
+	torneio		(5)
+	torneo		(2)
+
+trariam  (7)
+	trariam		(6)
+	trariaõ		(1)
+
+uniam  (7)
+	uniaõ		(4)
+	uniam		(3)
+
+vexações  (7)
+	vexações		(4)
+	vexaçoens		(3)
+
+vicereis  (7)
+	vicereis		(6)
+	vicereys		(1)
+
+vierame  (7)
+	vieramme		(6)
+	vierame		(1)
+
+vingavam  (7)
+	vingavam		(6)
+	vingavao		(1)
+
+vinhame  (7)
+	vinhamme		(4)
+	vinhame		(3)
+
+visitam  (7)
+	visitam		(5)
+	visitão		(2)
+
+vitais  (7)
+	vitais		(6)
+	vitaes		(1)
+
+xácaras  (7)
+	chácaras		(6)
+	xácaras		(1)
+
+xose  (7)
+	chose		(6)
+	xose		(1)
+
+abadias  (6)
+	abadias		(3)
+	abbadias		(3)
+
+abati  (6)
+	abati		(5)
+	abbati		(1)
+
+acabariam  (6)
+	acabariam		(5)
+	acabariaõ		(1)
+
+acometiam  (6)
+	acometiam		(5)
+	acometiao		(1)
+
+acotovelavam  (6)
+	acotovelavam		(5)
+	acotovellavam		(1)
+
+acudame  (6)
+	acudame		(4)
+	acudamme		(2)
+
+admiraçam  (6)
+	admiraçam		(4)
+	admiraçaõ		(2)
+
+agradeçam  (6)
+	agradeçam		(5)
+	agradeçao		(1)
+
+alegam  (6)
+	alegam		(4)
+	allegão		(2)
+
+alvaiade  (6)
+	alvaiade		(5)
+	alvayade		(1)
+
+analisar  (6)
+	analisar		(5)
+	analysar		(1)
+
+anunciam  (6)
+	anunciam		(5)
+	annuncião		(1)
+
+anunciasse  (6)
+	anunciasse		(4)
+	anunciase		(2)
+
+apanham  (6)
+	apanham		(5)
+	apanhão		(1)
+
+apareceme  (6)
+	apareceme		(5)
+	aparecemme		(1)
+
+aplicaçam  (6)
+	applicaçaõ		(5)
+	applicação		(1)
+
+aplicavase  (6)
+	aplicavase		(4)
+	applicavase		(2)
+
+aplique  (6)
+	aplique		(5)
+	applique		(1)
+
+arraiolos  (6)
+	arraiolos		(5)
+	arrayolos		(1)
+
+atentasse  (6)
+	atentasse		(4)
+	attentasse		(2)
+
+atribuindolhe  (6)
+	atribuindolhe		(4)
+	attribuindolhe		(2)
+
+autentica  (6)
+	autentica		(3)
+	authentica		(3)
+
+autorizados  (6)
+	autorizados		(3)
+	auctorizados		(2)
+	authorizados		(1)
+
+axarao  (6)
+	acharao		(3)
+	acharaõ		(3)
+
+axilas  (6)
+	axilas		(5)
+	axillas		(1)
+
+bastavame  (6)
+	bastavame		(5)
+	bastavamme		(1)
+
+bautizado  (6)
+	bautizado		(4)
+	bauptizado		(2)
+
+beijam  (6)
+	beijam		(4)
+	beijao		(2)
+
+bestiais  (6)
+	bestiais		(5)
+	bestiaes		(1)
+
+blasfemo  (6)
+	blasfemo		(5)
+	blasphemo		(1)
+
+britanico  (6)
+	britannico		(4)
+	britanico		(2)
+
+cafarnaum  (6)
+	cafarnaum		(5)
+	capharnaum		(1)
+
+caluniado  (6)
+	caluniado		(5)
+	calumniado		(1)
+
+cardeiais  (6)
+	cardeaes		(5)
+	cardeiaes		(1)
+
+casavam  (6)
+	casavam		(5)
+	casavao		(1)
+
+cativado  (6)
+	cativado		(5)
+	captivado		(1)
+
+catus  (6)
+	cactus		(3)
+	captus		(3)
+
+cerebrais  (6)
+	cerebrais		(4)
+	cerebraes		(2)
+
+certidões  (6)
+	certidoens		(3)
+	certidões		(3)
+
+ciclone  (6)
+	ciclone		(5)
+	cyclone		(1)
+
+cirilo  (6)
+	cirilo		(3)
+	cyrillo		(3)
+
+colige  (6)
+	colige		(5)
+	collige		(1)
+
+coloniais  (6)
+	coloniais		(5)
+	coloniaes		(1)
+
+combatiam  (6)
+	combatiam		(5)
+	combatião		(1)
+
+comprai  (6)
+	comprai		(5)
+	compray		(1)
+
+comunicarlhe  (6)
+	comunicarlhe		(5)
+	communicarlhe		(1)
+
+comunico  (6)
+	comunico		(5)
+	communico		(1)
+
+condutos  (6)
+	conductos		(3)
+	condutos		(3)
+
+conei  (6)
+	coney		(5)
+	conney		(1)
+
+confiavam  (6)
+	confiavam		(5)
+	confiavão		(1)
+
+congregaçam  (6)
+	congregaçaõ		(5)
+	congregaçam		(1)
+
+conquistam  (6)
+	conquistam		(5)
+	conquistão		(1)
+
+consistiam  (6)
+	consistiam		(5)
+	consistiaõ		(1)
+
+constam  (6)
+	constam		(5)
+	constaõ		(1)
+
+contratar  (6)
+	contratar		(4)
+	contractar		(2)
+
+contritos  (6)
+	contritos		(5)
+	contrictos		(1)
+
+convinham  (6)
+	convinham		(5)
+	convinhão		(1)
+
+criaçam  (6)
+	criaçaõ		(5)
+	criaçam		(1)
+
+cultivam  (6)
+	cultivam		(5)
+	cultivão		(1)
+
+curvavam  (6)
+	curvavam		(5)
+	curvavao		(1)
+
+demandam  (6)
+	demandão		(4)
+	demandam		(2)
+
+desconfiavam  (6)
+	desconfiavam		(5)
+	desconfiavao		(1)
+
+desesperações  (6)
+	desesperações		(5)
+	desesperaçoens		(1)
+
+dificil  (6)
+	difficil		(5)
+	dificil		(1)
+
+diletos  (6)
+	diletos		(5)
+	dilectos		(1)
+
+distritos  (6)
+	distritos		(5)
+	districtos		(1)
+
+dixo  (6)
+	dicho		(5)
+	dixo		(1)
+
+empurravam  (6)
+	empurravam		(5)
+	empurravao		(1)
+
+encantavam  (6)
+	encantavam		(4)
+	encantavao		(2)
+
+enganavam  (6)
+	enganavam		(5)
+	enganavão		(1)
+
+enobrecido  (6)
+	enobrecido		(4)
+	ennobrecido		(2)
+
+entrarei  (6)
+	entrarei		(5)
+	entrarey		(1)
+
+entrariam  (6)
+	entrariam		(5)
+	entrariaõ		(1)
+
+entretém  (6)
+	entretém		(5)
+	entreteem		(1)
+
+ereje  (6)
+	hereje		(4)
+	ereje		(2)
+
+ero  (6)
+	ero		(5)
+	hero		(1)
+
+escolhiam  (6)
+	escolhiam		(5)
+	escolhiaõ		(1)
+
+escudela  (6)
+	escudela		(5)
+	escudella		(1)
+
+esculturais  (6)
+	esculturais		(5)
+	esculpturaes		(1)
+
+esqueceme  (6)
+	esqueceme		(5)
+	esquecemme		(1)
+
+excitavam  (6)
+	excitavam		(5)
+	excitavao		(1)
+
+execuçam  (6)
+	execuçaõ		(5)
+	execuçam		(1)
+
+fugiame  (6)
+	fugiame		(5)
+	fugiamme		(1)
+
+galileia  (6)
+	galilea		(3)
+	galileia		(3)
+
+gastavam  (6)
+	gastavam		(3)
+	gastavaõ		(2)
+	gastavao		(1)
+
+hiam  (6)
+	hiaõ		(3)
+	hião		(3)
+
+imiga  (6)
+	imiga		(5)
+	immiga		(1)
+
+inextinguível  (6)
+	inextinguível		(5)
+	inextinguivel		(1)
+
+ininteligível  (6)
+	ininteligível		(3)
+	inintelligivel		(2)
+	ininteligivel		(1)
+
+inolvidável  (6)
+	inolvidável		(5)
+	inolvidavel		(1)
+
+inundavam  (6)
+	inundavam		(4)
+	inundavao		(2)
+
+jaime  (6)
+	jaime		(4)
+	jayme		(2)
+
+juntam  (6)
+	juntam		(5)
+	junctam		(1)
+
+justiceiro  (6)
+	justiceiro		(5)
+	justiceyro		(1)
+
+lamboi  (6)
+	lamboy		(4)
+	lamboi		(2)
+
+letes  (6)
+	letes		(4)
+	lethes		(2)
+
+liras  (6)
+	liras		(4)
+	lyras		(2)
+
+lis  (6)
+	lis		(5)
+	lys		(1)
+
+logravam  (6)
+	logravam		(5)
+	logravão		(1)
+
+lutam  (6)
+	lutam		(5)
+	lutão		(1)
+
+mergulhavam  (6)
+	mergulhavam		(5)
+	mergulhavao		(1)
+
+moios  (6)
+	moyos		(4)
+	moios		(2)
+
+moreia  (6)
+	moreia		(4)
+	morea		(2)
+
+notam  (6)
+	notam		(3)
+	notão		(2)
+	notao		(1)
+
+nupciais  (6)
+	nupciais		(5)
+	nupciaes		(1)
+
+ocorrer  (6)
+	ocorrer		(5)
+	occorrer		(1)
+
+ocorriam  (6)
+	ocorriam		(5)
+	occorriaõ		(1)
+
+oscila  (6)
+	oscila		(4)
+	oscilla		(2)
+
+pagariam  (6)
+	pagariam		(5)
+	pagariaõ		(1)
+
+pelada  (6)
+	pelada		(5)
+	pellada		(1)
+
+pexe  (6)
+	pexe		(5)
+	peche		(1)
+
+picolomini  (6)
+	picolomini		(4)
+	piccolomini		(2)
+
+pila  (6)
+	pila		(4)
+	pilla		(2)
+
+pirilampos  (6)
+	pirilampos		(4)
+	pyrilampos		(2)
+
+possessões  (6)
+	possessões		(5)
+	possessoens		(1)
+
+preia  (6)
+	preia		(5)
+	prea		(1)
+
+prestavam  (6)
+	prestavam		(5)
+	prestavao		(1)
+
+proporçam  (6)
+	proporçaõ		(5)
+	proporçam		(1)
+
+protegiam  (6)
+	protegiam		(5)
+	protegiao		(1)
+
+proveio  (6)
+	proveio		(5)
+	proveo		(1)
+
+recebam  (6)
+	recebam		(5)
+	recebao		(1)
+
+reduziam  (6)
+	reduziaõ		(3)
+	reduziam		(2)
+	reduziao		(1)
+
+resistam  (6)
+	resistam		(5)
+	resistão		(1)
+
+roncam  (6)
+	roncam		(3)
+	roncão		(3)
+
+satisfaçam  (6)
+	satisfaçam		(3)
+	satisfaçaõ		(3)
+
+secavam  (6)
+	secavam		(5)
+	seccavam		(1)
+
+sejame  (6)
+	sejame		(5)
+	sejamme		(1)
+
+sicione  (6)
+	sycione		(5)
+	sicione		(1)
+
+silabas  (6)
+	silabas		(3)
+	syllabas		(2)
+	sillabas		(1)
+
+sistematicamente  (6)
+	sistematicamente		(5)
+	systhematicamente		(1)
+
+sobejavam  (6)
+	sobejavam		(5)
+	sobejavão		(1)
+
+sofismas  (6)
+	sofismas		(5)
+	sophismas		(1)
+
+sofrida  (6)
+	sofrida		(5)
+	soffrida		(1)
+
+soi  (6)
+	soy		(5)
+	soi		(1)
+
+suzana  (6)
+	suzana		(5)
+	suzanna		(1)
+
+tatu  (6)
+	tatu		(5)
+	tactu		(1)
+
+timbres  (6)
+	timbres		(5)
+	tymbres		(1)
+
+unham  (6)
+	unhão		(5)
+	unham		(1)
+
+usarei  (6)
+	usarei		(5)
+	usarey		(1)
+
+vitorias  (6)
+	victorias		(4)
+	vitorias		(2)
+
+xameio  (6)
+	chameio		(4)
+	chameo		(2)
+
+abraham  (5)
+	abraham		(4)
+	abrahão		(1)
+
+acabais  (5)
+	acabais		(4)
+	acabaes		(1)
+
+acarretando  (5)
+	acarretando		(3)
+	accarretando		(2)
+
+aceites  (5)
+	aceites		(4)
+	acceites		(1)
+
+acentuava  (5)
+	acentuava		(4)
+	accentuava		(1)
+
+acrescentavam  (5)
+	accrescentavão		(2)
+	acrescentavam		(2)
+	accrescentavam		(1)
+
+acusando  (5)
+	acusando		(4)
+	accusando		(1)
+
+adiantavam  (5)
+	adiantavam		(4)
+	adiantavaõ		(1)
+
+afinidades  (5)
+	afinidades		(4)
+	affinidades		(1)
+
+afirmase  (5)
+	afirmase		(4)
+	affirmase		(1)
+
+aiamonte  (5)
+	aiamonte		(4)
+	ayamonte		(1)
+
+airada  (5)
+	airada		(4)
+	ayrada		(1)
+
+amansam  (5)
+	amansam		(4)
+	amansão		(1)
+
+amolecida  (5)
+	amolecida		(3)
+	amollecida		(2)
+
+anita  (5)
+	anita		(4)
+	annita		(1)
+
+anulando  (5)
+	anulando		(4)
+	annulando		(1)
+
+apelam  (5)
+	apelam		(4)
+	appellão		(1)
+
+aperfeiçoam  (5)
+	aperfeiçoam		(4)
+	aperfeiçoão		(1)
+
+apoia  (5)
+	apoya		(3)
+	apoia		(2)
+
+apreciam  (5)
+	apreciam		(3)
+	apreciao		(2)
+
+assistam  (5)
+	assistam		(3)
+	assistaõ		(1)
+	assistão		(1)
+
+assolam  (5)
+	assolão		(3)
+	assolam		(2)
+
+atentais  (5)
+	atentais		(4)
+	atentaes		(1)
+
+atoleiros  (5)
+	atoleiros		(4)
+	atoleyros		(1)
+
+atraíam  (5)
+	atraíao		(3)
+	atraíam		(2)
+
+axame  (5)
+	achame		(4)
+	achamme		(1)
+
+áquilo  (5)
+	áquilo		(3)
+	áquillo		(2)
+
+bacio  (5)
+	bacio		(3)
+	baccio		(2)
+
+baralham  (5)
+	baralhão		(3)
+	baralham		(2)
+
+baxas  (5)
+	baxas		(4)
+	bachas		(1)
+
+bele  (5)
+	belle		(4)
+	bele		(1)
+
+bengalada  (5)
+	bengalada		(4)
+	bengallada		(1)
+
+bufet  (5)
+	bufet		(3)
+	buffet		(2)
+
+caudais  (5)
+	caudais		(3)
+	caudaes		(2)
+
+censuravam  (5)
+	censuravam		(4)
+	censuravao		(1)
+
+ciclope  (5)
+	ciclope		(4)
+	cyclope		(1)
+
+cidadões  (5)
+	cidadoens		(4)
+	cidadões		(1)
+
+colegiais  (5)
+	colegiais		(4)
+	collegiaes		(1)
+
+coligados  (5)
+	coligados		(4)
+	colligados		(1)
+
+comais  (5)
+	comais		(4)
+	commais		(1)
+
+começariam  (5)
+	começariam		(3)
+	começariaõ		(2)
+
+coment  (5)
+	comment		(4)
+	commentt		(1)
+
+comentadores  (5)
+	comentadores		(4)
+	commentadores		(1)
+
+cometeria  (5)
+	cometeria		(4)
+	cometteria		(1)
+
+comovidas  (5)
+	comovidas		(3)
+	commovidas		(2)
+
+comprometendo  (5)
+	comprometendo		(4)
+	compromettendo		(1)
+
+comunicarem  (5)
+	comunicarem		(4)
+	communicarem		(1)
+
+confuzam  (5)
+	confuzaõ		(4)
+	confuzam		(1)
+
+consentiam  (5)
+	consentiam		(3)
+	consentiaõ		(1)
+	consentião		(1)
+
+conversaçam  (5)
+	conversaçaõ		(3)
+	conversaçam		(2)
+
+coto  (5)
+	coto		(3)
+	copto		(2)
+
+crivam  (5)
+	crivão		(3)
+	crivam		(2)
+
+cultivavam  (5)
+	cultivavam		(4)
+	cultivavaõ		(1)
+
+cursam  (5)
+	cursam		(3)
+	cursão		(2)
+
+curupaiti  (5)
+	curupaity		(3)
+	curupaiti		(2)
+
+deixanos  (5)
+	deixanos		(4)
+	deixamnos		(1)
+
+deixavanos  (5)
+	deixavamnos		(4)
+	deixavanos		(1)
+
+despenham  (5)
+	despenham		(3)
+	despenhão		(2)
+
+detinham  (5)
+	detinham		(4)
+	detinhao		(1)
+
+dizeio  (5)
+	dizeo		(3)
+	dizeio		(2)
+
+doi  (5)
+	doy		(3)
+	doi		(2)
+
+dota  (5)
+	dota		(3)
+	docta		(2)
+
+elio  (5)
+	helio		(3)
+	elio		(1)
+	hellio		(1)
+
+emais  (5)
+	emais		(4)
+	hemais		(1)
+
+emas  (5)
+	hemas		(3)
+	emas		(2)
+
+enam  (5)
+	enão		(4)
+	emnão		(1)
+
+enleia  (5)
+	enleia		(4)
+	enlea		(1)
+
+enterneciam  (5)
+	enterneciam		(3)
+	enterneciao		(2)
+
+ereçam  (5)
+	ereção		(4)
+	ereçaõ		(1)
+
+eredó  (5)
+	heredó		(3)
+	heredò		(2)
+
+erman  (5)
+	hermann		(4)
+	herman		(1)
+
+escandalizam  (5)
+	escandalizam		(4)
+	escandalizaõ		(1)
+
+esperavanos  (5)
+	esperavanos		(4)
+	esperavamnos		(1)
+
+estalam  (5)
+	estalam		(4)
+	estalão		(1)
+
+estragam  (5)
+	estragam		(3)
+	estragao		(1)
+	estragaõ		(1)
+
+executavam  (5)
+	executavam		(3)
+	executavaõ		(2)
+
+exo  (5)
+	hecho		(4)
+	echo		(1)
+
+facções  (5)
+	facções		(4)
+	facçoens		(1)
+
+faladas  (5)
+	faladas		(3)
+	falladas		(2)
+
+fati  (5)
+	facti		(3)
+	fati		(2)
+
+floriam  (5)
+	floriam		(4)
+	florião		(1)
+
+geraçam  (5)
+	geraçaõ		(3)
+	geraçam		(2)
+
+gotejar  (5)
+	gotejar		(4)
+	gottejar		(1)
+
+hofman  (5)
+	hoffmann		(3)
+	hoffman		(2)
+
+ilesa  (5)
+	ilesa		(3)
+	illesa		(2)
+
+ilusos  (5)
+	ilusos		(3)
+	illusos		(2)
+
+inato  (5)
+	innato		(3)
+	inato		(2)
+
+inclinei  (5)
+	inclinei		(4)
+	incliney		(1)
+
+indignavam  (5)
+	indignavam		(3)
+	indignavao		(2)
+
+indiscutível  (5)
+	indiscutível		(4)
+	indiscutivel		(1)
+
+infestam  (5)
+	infestam		(4)
+	infestão		(1)
+
+inficionado  (5)
+	inficionado		(4)
+	inficcionado		(1)
+
+inocencia  (5)
+	innocencia		(3)
+	inocencia		(2)
+
+instalarase  (5)
+	instalarase		(4)
+	installarase		(1)
+
+instam  (5)
+	instam		(3)
+	instão		(2)
+
+intata  (5)
+	intata		(4)
+	inctata		(1)
+
+inteletuais  (5)
+	intellectuaes		(4)
+	intellectuais		(1)
+
+interrogavam  (5)
+	interrogavam		(4)
+	interrogavao		(1)
+
+inventavam  (5)
+	inventavam		(4)
+	inventavão		(1)
+
+invocam  (5)
+	invocam		(4)
+	invocaõ		(1)
+
+irrefragável  (5)
+	irrefragável		(4)
+	irrefragavel		(1)
+
+julgame  (5)
+	julgame		(4)
+	julgamme		(1)
+
+jurisdições  (5)
+	jurisdiçoens		(3)
+	jurisdições		(2)
+
+justificações  (5)
+	justificações		(4)
+	justificaçoens		(1)
+
+largueme  (5)
+	largueme		(3)
+	larguemme		(2)
+
+levantariam  (5)
+	levantariam		(4)
+	levantariaõ		(1)
+
+lilustration  (5)
+	lillustration		(4)
+	lillustraction		(1)
+
+maculam  (5)
+	maculam		(3)
+	maculao		(2)
+
+mandavame  (5)
+	mandavame		(3)
+	mandavamme		(2)
+
+manum  (5)
+	manuum		(3)
+	manum		(2)
+
+maquinavam  (5)
+	maquinavam		(4)
+	maquinavão		(1)
+
+meneia  (5)
+	meneia		(3)
+	menea		(2)
+
+menhã  (5)
+	menhã		(4)
+	menhaã		(1)
+
+moio  (5)
+	moyo		(4)
+	moio		(1)
+
+moiros  (5)
+	moiros		(4)
+	moyros		(1)
+
+multiplicavam  (5)
+	multiplicavam		(3)
+	multiplicavão		(2)
+
+navais  (5)
+	navais		(4)
+	navaes		(1)
+
+navegaçam  (5)
+	navegaçaõ		(4)
+	navegaçam		(1)
+
+nisseno  (5)
+	nisseno		(4)
+	nysseno		(1)
+
+not  (5)
+	not		(4)
+	nott		(1)
+
+notávelmente  (5)
+	notàvelmente		(4)
+	notávelmente		(1)
+
+obreiro  (5)
+	obreiro		(4)
+	obreyro		(1)
+
+obriganos  (5)
+	obriganos		(3)
+	obrigamnos		(2)
+
+obrigavame  (5)
+	obrigavamme		(3)
+	obrigavame		(2)
+
+ocupaçam  (5)
+	occupaçaõ		(4)
+	occupação		(1)
+
+ocupassem  (5)
+	ocupassem		(3)
+	occupassem		(2)
+
+oferecendoselhe  (5)
+	oferecendoselhe		(4)
+	offerecendoselhe		(1)
+
+omitir  (5)
+	omitir		(4)
+	omittir		(1)
+
+orfaos  (5)
+	orphaõs		(4)
+	orfaõs		(1)
+
+ortografias  (5)
+	ortografias		(4)
+	orthographias		(1)
+
+oton  (5)
+	oton		(4)
+	othon		(1)
+
+ós  (5)
+	ós		(4)
+	òs		(1)
+
+peitorais  (5)
+	peitorais		(4)
+	peitoraes		(1)
+
+permitio  (5)
+	permittio		(3)
+	permitio		(2)
+
+peto  (5)
+	peto		(3)
+	petto		(2)
+
+pimentões  (5)
+	pimentões		(4)
+	pimentoens		(1)
+
+piramidais  (5)
+	piramidais		(4)
+	pyramidaes		(1)
+
+plantam  (5)
+	plantam		(4)
+	plantao		(1)
+
+plebeia  (5)
+	plebea		(4)
+	plebeia		(1)
+
+porções  (5)
+	porções		(4)
+	porçoens		(1)
+
+postais  (5)
+	postais		(4)
+	postaes		(1)
+
+praxiteles  (5)
+	praxiteles		(4)
+	praxitelles		(1)
+
+prendiame  (5)
+	prendiame		(3)
+	prendiamme		(2)
+
+preveniam  (5)
+	preveniam		(3)
+	preveniao		(1)
+	preveniaõ		(1)
+
+proscrito  (5)
+	proscrito		(4)
+	proscripto		(1)
+
+provavam  (5)
+	provavam		(4)
+	provavaõ		(1)
+
+pui  (5)
+	puy		(4)
+	pui		(1)
+
+pusilanimidade  (5)
+	pusilanimidade		(4)
+	pusillanimidade		(1)
+
+queixavam  (5)
+	queixavam		(4)
+	queyxavaõ		(1)
+
+quele  (5)
+	quelle		(4)
+	quele		(1)
+
+rebelados  (5)
+	rebelados		(4)
+	rebellados		(1)
+
+rebeliões  (5)
+	rebeliões		(4)
+	rebellioens		(1)
+
+reclamam  (5)
+	reclamam		(4)
+	reclamão		(1)
+
+repartiam  (5)
+	repartiam		(4)
+	repartiaõ		(1)
+
+repuxos  (5)
+	repuxos		(3)
+	repuchos		(2)
+
+residiam  (5)
+	residiam		(4)
+	residiaõ		(1)
+
+resolviam  (5)
+	resolviam		(4)
+	resolviaõ		(1)
+
+restrita  (5)
+	restrita		(3)
+	restricta		(2)
+
+resultavam  (5)
+	resultavam		(4)
+	resultavão		(1)
+
+retavolo  (5)
+	retavolo		(3)
+	retavollo		(2)
+
+retinham  (5)
+	retinham		(3)
+	retinhao		(2)
+
+salarios  (5)
+	sallarios		(3)
+	salarios		(2)
+
+sêca  (5)
+	sêcca		(4)
+	sêca		(1)
+
+sidonia  (5)
+	sydonia		(3)
+	sidonia		(2)
+
+sixto  (5)
+	sixto		(4)
+	syxto		(1)
+
+soltam  (5)
+	soltam		(4)
+	soltao		(1)
+
+sublevações  (5)
+	sublevações		(4)
+	sublevaçoens		(1)
+
+substituíam  (5)
+	substituíam		(4)
+	substituíao		(1)
+
+sufocados  (5)
+	sufocados		(4)
+	suffocados		(1)
+
+sufrir  (5)
+	suffrir		(4)
+	sufrir		(1)
+
+suportavam  (5)
+	suportavam		(4)
+	suportavao		(1)
+
+tabelas  (5)
+	tabelas		(3)
+	tabellas		(2)
+
+talham  (5)
+	talham		(4)
+	talhao		(1)
+
+tendiam  (5)
+	tendiam		(4)
+	tendiaõ		(1)
+
+testamenteiros  (5)
+	testamenteiros		(4)
+	testamenteyros		(1)
+
+tomalo  (5)
+	tomalo		(4)
+	tomallo		(1)
+
+tomarao  (5)
+	tomarao		(4)
+	tomaraõ		(1)
+
+tomaz  (5)
+	tomaz		(4)
+	thomaz		(1)
+
+torneios  (5)
+	torneios		(4)
+	torneos		(1)
+
+tuiuti  (5)
+	tuyuty		(3)
+	tuiuti		(2)
+
+turbam  (5)
+	turbão		(3)
+	turbam		(2)
+
+tuto  (5)
+	tutto		(3)
+	tuto		(2)
+
+valeriam  (5)
+	valeriam		(3)
+	valeriaõ		(1)
+	valerião		(1)
+
+vilam  (5)
+	villaõ		(4)
+	villam		(1)
+
+vitoriosamente  (5)
+	vitoriosamente		(4)
+	victoriosamente		(1)
+
+vixi  (5)
+	vichy		(4)
+	vixi		(1)
+
+volutas  (5)
+	volutas		(3)
+	voluptas		(2)
+
+wanderlei  (5)
+	wanderley		(4)
+	wanderlei		(1)
+
+xapeio  (5)
+	chapeo		(4)
+	xapeo		(1)
+
+xegavam  (5)
+	chegavão		(3)
+	chegavaõ		(2)
+
+xula  (5)
+	chula		(3)
+	xula		(2)
+
+aborreciam  (4)
+	aborreciam		(2)
+	aborreciao		(2)
+
+abraçarao  (4)
+	abraçaraõ		(3)
+	abraçarao		(1)
+
+acendese  (4)
+	acendese		(3)
+	accendese		(1)
+
+aclamar  (4)
+	aclamar		(3)
+	acclamar		(1)
+
+acomodações  (4)
+	acomodações		(3)
+	acommodações		(1)
+
+acomodem  (4)
+	acomodem		(3)
+	accomodem		(1)
+
+aconselhavam  (4)
+	aconselhavam		(3)
+	aconselhavao		(1)
+
+administravam  (4)
+	administravam		(3)
+	administravaõ		(1)
+
+adquiriam  (4)
+	adquiriam		(3)
+	adquiriaõ		(1)
+
+afiguravaseme  (4)
+	afiguravaseme		(3)
+	affiguravaseme		(1)
+
+afirmado  (4)
+	affirmado		(2)
+	afirmado		(2)
+
+afirmais  (4)
+	afirmais		(3)
+	affirmaes		(1)
+
+afoutos  (4)
+	affoutos		(3)
+	afoutos		(1)
+
+agamenon  (4)
+	agamemnon		(2)
+	agamenon		(2)
+
+alucinam  (4)
+	alucinam		(3)
+	alucinao		(1)
+
+ambiçam  (4)
+	ambiçaõ		(3)
+	ambiçao		(1)
+
+anás  (4)
+	anàs		(3)
+	anás		(1)
+
+anelam  (4)
+	anelam		(2)
+	anelão		(2)
+
+anum  (4)
+	annum		(2)
+	anum		(2)
+
+aparatosas  (4)
+	aparatosas		(3)
+	apparatosas		(1)
+
+apoiavam  (4)
+	apoiavam		(3)
+	apoiavao		(1)
+
+aprenderiam  (4)
+	aprenderiam		(3)
+	aprenderiaõ		(1)
+
+aprovarem  (4)
+	aprovarem		(3)
+	approvarem		(1)
+
+argenteia  (4)
+	argentea		(3)
+	argenteia		(1)
+
+arrancame  (4)
+	arrancame		(3)
+	arrancamme		(1)
+
+arriscam  (4)
+	arriscam		(3)
+	arriscão		(1)
+
+asfalto  (4)
+	asfalto		(3)
+	asphalto		(1)
+
+asfixiante  (4)
+	asfixiante		(3)
+	asphyxiante		(1)
+
+atendidos  (4)
+	atendidos		(3)
+	attendidos		(1)
+
+atentai  (4)
+	atentai		(2)
+	attentai		(2)
+
+autentico  (4)
+	authentico		(3)
+	autentico		(1)
+
+autorizam  (4)
+	autorizam		(3)
+	authorizão		(1)
+
+áqueles  (4)
+	áquelles		(3)
+	áqueles		(1)
+
+baarrós  (4)
+	baarrós		(2)
+	baarròs		(2)
+
+baixam  (4)
+	baixam		(2)
+	baixão		(2)
+
+balam  (4)
+	balaão		(3)
+	balam		(1)
+
+bel  (4)
+	bel		(3)
+	bell		(1)
+
+blasfemos  (4)
+	blasfemos		(3)
+	blasphemos		(1)
+
+bocal  (4)
+	bocal		(3)
+	boccal		(1)
+
+buxos  (4)
+	buxos		(3)
+	buchos		(1)
+
+cabais  (4)
+	cabais		(3)
+	cabaes		(1)
+
+cabrais  (4)
+	cabrais		(3)
+	cabraes		(1)
+
+caibam  (4)
+	caibam		(3)
+	caibão		(1)
+
+caluniar  (4)
+	calumniar		(2)
+	caluniar		(2)
+
+calunias  (4)
+	calumnias		(3)
+	calunias		(1)
+
+capelinhas  (4)
+	capelinhas		(3)
+	capellinhas		(1)
+
+castigavam  (4)
+	castigavam		(2)
+	castigavaõ		(2)
+
+cavalariças  (4)
+	cavalariças		(3)
+	cavallariças		(1)
+
+cegavam  (4)
+	cegavam		(3)
+	cegavao		(1)
+
+certam  (4)
+	certão		(3)
+	certam		(1)
+
+colecçam  (4)
+	collecção		(3)
+	collecçaõ		(1)
+
+colegiadas  (4)
+	collegiadas		(3)
+	colegiadas		(1)
+
+colunelos  (4)
+	columnellos		(2)
+	columnelos		(2)
+
+cometeste  (4)
+	cometeste		(3)
+	commetteste		(1)
+
+cometiam  (4)
+	cometiam		(3)
+	cometiaõ		(1)
+
+comprometia  (4)
+	comprometia		(3)
+	compromettia		(1)
+
+comuas  (4)
+	commuas		(2)
+	comuas		(2)
+
+comungando  (4)
+	comungando		(3)
+	commungando		(1)
+
+concebiam  (4)
+	concebiam		(3)
+	concebiao		(1)
+
+contratado  (4)
+	contratado		(3)
+	contractado		(1)
+
+convençam  (4)
+	convençaõ		(3)
+	convençam		(1)
+
+copiam  (4)
+	copiam		(3)
+	copiao		(1)
+
+cortesões  (4)
+	cortesões		(3)
+	cortesoens		(1)
+
+cristalinidade  (4)
+	cristalinidade		(3)
+	crystallinidade		(1)
+
+cristovam  (4)
+	christovão		(2)
+	christovaõ		(1)
+	cristovão		(1)
+
+danificados  (4)
+	danificados		(3)
+	damnificados		(1)
+
+daninhas  (4)
+	daninhas		(3)
+	damninhas		(1)
+
+daninhos  (4)
+	daninhos		(3)
+	damninhos		(1)
+
+declararei  (4)
+	declararei		(3)
+	declararey		(1)
+
+deixarame  (4)
+	deixaramme		(3)
+	deixarame		(1)
+
+delfini  (4)
+	delphini		(3)
+	delfini		(1)
+
+demarcam  (4)
+	demarcam		(3)
+	demarcao		(1)
+
+desconexa  (4)
+	desconexa		(3)
+	desconnexa		(1)
+
+deziam  (4)
+	dezião		(3)
+	deziam		(1)
+
+dissenções  (4)
+	dissenções		(3)
+	dissençoens		(1)
+
+distincçam  (4)
+	distincção		(3)
+	distincçaõ		(1)
+
+dividiam  (4)
+	dividiao		(2)
+	dividiam		(1)
+	dividião		(1)
+
+egressus  (4)
+	egressus		(3)
+	eggressus		(1)
+
+eicelente  (4)
+	eicelente		(3)
+	eicellente		(1)
+
+emitam  (4)
+	emitão		(3)
+	emitam		(1)
+
+emolduravam  (4)
+	emolduravam		(3)
+	emolduravao		(1)
+
+empalidecera  (4)
+	empalidecera		(3)
+	empallidecera		(1)
+
+encostavam  (4)
+	encostavam		(3)
+	encostavao		(1)
+
+endake  (4)
+	endake		(2)
+	hendake		(2)
+
+enfureciam  (4)
+	enfureciao		(3)
+	enfureciam		(1)
+
+entusiasmavam  (4)
+	entusiasmavao		(3)
+	entusiasmavam		(1)
+
+epiteto  (4)
+	epicteto		(3)
+	epiteto		(1)
+
+ernani  (4)
+	ernani		(3)
+	hernani		(1)
+
+escondam  (4)
+	escondam		(3)
+	escondão		(1)
+
+esgotam  (4)
+	esgotam		(3)
+	esgotao		(1)
+
+esmaltam  (4)
+	esmaltam		(3)
+	esmaltão		(1)
+
+estabelecerao  (4)
+	estabeleceraõ		(2)
+	estableceraõ		(2)
+
+estranham  (4)
+	estranham		(2)
+	estranhão		(2)
+
+examinam  (4)
+	examinam		(3)
+	examinao		(1)
+
+exasperavam  (4)
+	exasperavao		(3)
+	exasperavam		(1)
+
+faéton  (4)
+	faéton		(3)
+	phaéton		(1)
+
+faltanos  (4)
+	faltamnos		(2)
+	faltanos		(2)
+
+fantastica  (4)
+	fantastica		(3)
+	phantastica		(1)
+
+fantastico  (4)
+	fantastico		(3)
+	phantastico		(1)
+
+fatigam  (4)
+	fatigam		(3)
+	fatigao		(1)
+
+faxa  (4)
+	facha		(2)
+	faxa		(2)
+
+filosofica  (4)
+	filosofica		(2)
+	filosophica		(1)
+	philosophica		(1)
+
+firmam  (4)
+	firmam		(3)
+	firmão		(1)
+
+flutuar  (4)
+	flutuar		(3)
+	fluctuar		(1)
+
+fogeme  (4)
+	fogeme		(3)
+	fogemme		(1)
+
+folgais  (4)
+	folgaes		(2)
+	folgais		(2)
+
+footbal  (4)
+	football		(3)
+	footbal		(1)
+
+frutuoso  (4)
+	frutuoso		(3)
+	fructuoso		(1)
+
+furtavam  (4)
+	furtavam		(3)
+	furtavão		(1)
+
+ganimedes  (4)
+	ganimedes		(2)
+	ganymedes		(2)
+
+goteja  (4)
+	goteja		(3)
+	gotteja		(1)
+
+gotejando  (4)
+	gotejando		(3)
+	gottejando		(1)
+
+graziela  (4)
+	graziela		(2)
+	graziella		(2)
+
+guardeia  (4)
+	guardeia		(3)
+	guardea		(1)
+
+habituam  (4)
+	habituam		(3)
+	habituao		(1)
+
+hai  (4)
+	hai		(3)
+	hay		(1)
+
+hart  (4)
+	hartt		(3)
+	hart		(1)
+
+ie  (4)
+	ie		(3)
+	ye		(1)
+
+impacientavam  (4)
+	impacientavam		(3)
+	impacientavao		(1)
+
+impediam  (4)
+	impediam		(2)
+	impediao		(1)
+	impediaõ		(1)
+
+importunavam  (4)
+	importunavam		(3)
+	importunavao		(1)
+
+incendeia  (4)
+	incendeia		(3)
+	incendea		(1)
+
+incontrastável  (4)
+	incontrastável		(3)
+	incontrastavel		(1)
+
+inovar  (4)
+	inovar		(3)
+	innovar		(1)
+
+insultam  (4)
+	insultam		(2)
+	insultao		(1)
+	insultão		(1)
+
+intercessões  (4)
+	intercessoens		(2)
+	intercessões		(2)
+
+inumeraveis  (4)
+	innumeraveis		(3)
+	inumeraveis		(1)
+
+inventiva  (4)
+	inventiva		(3)
+	invenctiva		(1)
+
+joanico  (4)
+	joanico		(3)
+	joannico		(1)
+
+levaio  (4)
+	levaio		(3)
+	levayo		(1)
+
+levavame  (4)
+	levavame		(3)
+	levavamme		(1)
+
+leveia  (4)
+	leveia		(3)
+	levea		(1)
+
+leveios  (4)
+	leveios		(3)
+	leveos		(1)
+
+lé  (4)
+	lé		(3)
+	lee		(1)
+
+liturgia  (4)
+	liturgia		(3)
+	lithurgia		(1)
+
+madrigais  (4)
+	madrigais		(3)
+	madrigaes		(1)
+
+maioral  (4)
+	maioral		(2)
+	mayoral		(2)
+
+mandanos  (4)
+	mandanos		(3)
+	mandamnos		(1)
+
+mandeia  (4)
+	mandea		(2)
+	mandeia		(2)
+
+mantenham  (4)
+	mantenham		(3)
+	mantenhão		(1)
+
+mastigam  (4)
+	mastigam		(3)
+	mastigão		(1)
+
+mediam  (4)
+	mediam		(3)
+	mediao		(1)
+
+menancabo  (4)
+	menancabo		(3)
+	menamcabo		(1)
+
+merceia  (4)
+	merceia		(3)
+	mercea		(1)
+
+metas  (4)
+	metas		(3)
+	mettas		(1)
+
+militam  (4)
+	militam		(2)
+	militão		(2)
+
+mineia  (4)
+	mineia		(3)
+	minea		(1)
+
+mixo  (4)
+	micho		(3)
+	mixo		(1)
+
+mostrao  (4)
+	mostrao		(2)
+	mostraõ		(2)
+
+mostravame  (4)
+	mostravame		(3)
+	mostravamme		(1)
+
+nobi  (4)
+	noby		(3)
+	nobi		(1)
+
+nomeio  (4)
+	nomeio		(2)
+	nomeo		(2)
+
+none  (4)
+	nonne		(3)
+	none		(1)
+
+obstinam  (4)
+	obstinam		(2)
+	obstinão		(2)
+
+ocasionam  (4)
+	occasionão		(2)
+	ocasionam		(1)
+	ocasionão		(1)
+
+ocupem  (4)
+	ocupem		(3)
+	occupem		(1)
+
+ofendiam  (4)
+	ofendiam		(3)
+	offendiaõ		(1)
+
+oitam  (4)
+	oitão		(3)
+	oitam		(1)
+
+opõem  (4)
+	opõem		(3)
+	oppõem		(1)
+
+otávio  (4)
+	octávio		(2)
+	otávio		(2)
+
+ovais  (4)
+	ovais		(3)
+	ovaes		(1)
+
+padeçam  (4)
+	padeçam		(3)
+	padeção		(1)
+
+paralela  (4)
+	paralela		(2)
+	paralella		(2)
+
+parecerame  (4)
+	pareceramme		(3)
+	parecerame		(1)
+
+part  (4)
+	part		(3)
+	parth		(1)
+
+pecadoras  (4)
+	pecadoras		(3)
+	peccadoras		(1)
+
+pecaminosas  (4)
+	pecaminosas		(3)
+	peccaminosas		(1)
+
+peiora  (4)
+	peiora		(2)
+	peora		(2)
+
+pelaio  (4)
+	pelaio		(3)
+	pelayo		(1)
+
+pereciam  (4)
+	pereciam		(2)
+	perecião		(2)
+
+perfecion  (4)
+	perfeccion		(2)
+	perfecion		(2)
+
+pletora  (4)
+	pletora		(3)
+	plethora		(1)
+
+poderáõ  (4)
+	poderáõ		(3)
+	poderàõ		(1)
+
+polegares  (4)
+	polegares		(3)
+	pollegares		(1)
+
+poliam  (4)
+	polião		(3)
+	pollião		(1)
+
+ponderaçam  (4)
+	ponderaçam		(2)
+	ponderaçaõ		(2)
+
+poupame  (4)
+	poupame		(3)
+	poupamme		(1)
+
+praticas  (4)
+	practicas		(3)
+	praticas		(1)
+
+pretenções  (4)
+	pretençoens		(2)
+	pretenções		(2)
+
+procedam  (4)
+	procedam		(2)
+	procedão		(2)
+
+produziame  (4)
+	produziame		(3)
+	produziamme		(1)
+
+prometeio  (4)
+	prometeo		(2)
+	prometteo		(2)
+
+purificam  (4)
+	purificam		(2)
+	purificao		(1)
+	purificão		(1)
+
+puxavame  (4)
+	puxavame		(2)
+	puxavamme		(2)
+
+quereriam  (4)
+	quereriaõ		(3)
+	quereriam		(1)
+
+quot  (4)
+	quot		(3)
+	quoth		(1)
+
+rebentam  (4)
+	rebentam		(3)
+	rebentão		(1)
+
+recomendável  (4)
+	recomendável		(3)
+	recomendavel		(1)
+
+recusais  (4)
+	recusais		(3)
+	recusaes		(1)
+
+refletidamente  (4)
+	reflectidamente		(2)
+	refletidamente		(2)
+
+reflexam  (4)
+	reflexaõ		(3)
+	reflexam		(1)
+
+repugname  (4)
+	repugname		(3)
+	repugnamme		(1)
+
+resumiam  (4)
+	resumiam		(3)
+	resumiao		(1)
+
+retardam  (4)
+	retardam		(2)
+	retardão		(2)
+
+revi  (4)
+	revi		(3)
+	revy		(1)
+
+rigoleto  (4)
+	rigoleto		(2)
+	rigoletto		(2)
+
+ririam  (4)
+	ririam		(3)
+	ririão		(1)
+
+roíam  (4)
+	roíam		(3)
+	roíao		(1)
+
+rondam  (4)
+	rondam		(2)
+	rondão		(2)
+
+salteiam  (4)
+	salteão		(2)
+	salteiam		(2)
+
+satisfaziam  (4)
+	satisfaziam		(3)
+	satisfazião		(1)
+
+saúdam  (4)
+	saúdam		(2)
+	saúdao		(2)
+
+sável  (4)
+	sável		(3)
+	savel		(1)
+
+sentirei  (4)
+	sentirei		(3)
+	sentirey		(1)
+
+serviame  (4)
+	serviame		(3)
+	serviamme		(1)
+
+setentriam  (4)
+	septentrião		(3)
+	setentrião		(1)
+
+sila  (4)
+	sila		(3)
+	silla		(1)
+
+soli  (4)
+	soli		(3)
+	solly		(1)
+
+soneca  (4)
+	soneca		(3)
+	somneca		(1)
+
+sugeiçam  (4)
+	sugeição		(3)
+	sugeiçam		(1)
+
+suplementares  (4)
+	suplementares		(3)
+	supplementares		(1)
+
+tagarelavam  (4)
+	tagarelavam		(3)
+	tagarellavam		(1)
+
+tagarelices  (4)
+	tagarelices		(2)
+	tagarellices		(2)
+
+talar  (4)
+	talar		(3)
+	tallar		(1)
+
+tiranas  (4)
+	tiranas		(3)
+	tyranas		(1)
+
+tireme  (4)
+	tireme		(3)
+	tiremme		(1)
+
+tolomei  (4)
+	tolomei		(3)
+	tollomei		(1)
+
+tornámos  (4)
+	tornámos		(3)
+	tornàmos		(1)
+
+traia  (4)
+	traia		(3)
+	traya		(1)
+
+tranqüilizavam  (4)
+	tranqüilizavao		(3)
+	tranqüilizavam		(1)
+
+triumfos  (4)
+	triumfos		(3)
+	triumphos		(1)
+
+varriam  (4)
+	varriam		(3)
+	varriao		(1)
+
+veios  (4)
+	veios		(3)
+	veos		(1)
+
+veiose  (4)
+	veiose		(3)
+	veyose		(1)
+
+veneravam  (4)
+	veneravam		(3)
+	veneravaõ		(1)
+
+veri  (4)
+	veri		(2)
+	very		(2)
+
+vigiavam  (4)
+	vigiavam		(3)
+	vigiavao		(1)
+
+violoncelo  (4)
+	violoncelo		(3)
+	violoncello		(1)
+
+vitelas  (4)
+	vitelas		(2)
+	vitellas		(2)
+
+xinelinha  (4)
+	chinelinha		(3)
+	chinellinha		(1)
+
+acabrunhavam  (3)
+	acabrunhavam		(2)
+	acabrunhavao		(1)
+
+acedo  (3)
+	accedo		(2)
+	acedo		(1)
+
+aclamados  (3)
+	aclamados		(2)
+	acclamados		(1)
+
+aclamam  (3)
+	aclamam		(2)
+	acclamam		(1)
+
+aclamavam  (3)
+	aclamavam		(2)
+	aclamavao		(1)
+
+acompanheio  (3)
+	acompanheio		(2)
+	acompanheo		(1)
+
+acreditais  (3)
+	acreditais		(2)
+	accreditais		(1)
+
+acrescentará  (3)
+	acrescentará		(2)
+	accrescentará		(1)
+
+acrescentarse  (3)
+	acrescentarse		(2)
+	accrescentarse		(1)
+
+acudiriam  (3)
+	acudiriam		(2)
+	acudirião		(1)
+
+acusais  (3)
+	accusaes		(2)
+	acusais		(1)
+
+admitirão  (3)
+	admittirão		(2)
+	admitirão		(1)
+
+adorao  (3)
+	adorao		(2)
+	adoraõ		(1)
+
+advirtam  (3)
+	advirtam		(2)
+	advirtão		(1)
+
+afeiçoarse  (3)
+	afeiçoarse		(2)
+	affeiçoarse		(1)
+
+afetadas  (3)
+	afetadas		(2)
+	affectadas		(1)
+
+afirmarei  (3)
+	afirmarei		(2)
+	affirmarei		(1)
+
+agatarco  (3)
+	agatharco		(2)
+	agatarco		(1)
+
+alegadas  (3)
+	alegadas		(2)
+	allegadas		(1)
+
+alegais  (3)
+	alegais		(2)
+	allegais		(1)
+
+alegandolhe  (3)
+	alegandolhe		(2)
+	allegandolhe		(1)
+
+aleia  (3)
+	alea		(2)
+	aleia		(1)
+
+aler  (3)
+	aller		(2)
+	aler		(1)
+
+alimpam  (3)
+	alimpam		(1)
+	alimpaõ		(1)
+	alimpão		(1)
+
+alucinadas  (3)
+	alucinadas		(2)
+	allucinadas		(1)
+
+amedrontavam  (3)
+	amedrontavam		(2)
+	amedrontavao		(1)
+
+amoleciam  (3)
+	amoleciam		(2)
+	amoleciao		(1)
+
+amparavam  (3)
+	amparavao		(2)
+	amparavam		(1)
+
+analise  (3)
+	analyse		(2)
+	analise		(1)
+
+anulam  (3)
+	anulao		(2)
+	anulam		(1)
+
+apelida  (3)
+	apelida		(2)
+	appellida		(1)
+
+apetecível  (3)
+	apetecível		(2)
+	appetecivel		(1)
+
+apliquei  (3)
+	apliquei		(2)
+	appliquey		(1)
+
+apodreciam  (3)
+	apodreciam		(2)
+	apodrecião		(1)
+
+apostasia  (3)
+	apostasia		(2)
+	aposthasia		(1)
+
+apreciavam  (3)
+	apreciavam		(2)
+	apreciavao		(1)
+
+aprovavam  (3)
+	aprovavam		(2)
+	aprovavao		(1)
+
+aproximam  (3)
+	aproximam		(2)
+	approximam		(1)
+
+arável  (3)
+	arável		(2)
+	aravel		(1)
+
+arguia  (3)
+	arguia		(2)
+	arguya		(1)
+
+assembleias  (3)
+	assembleias		(2)
+	assembleas		(1)
+
+atendida  (3)
+	attendida		(2)
+	atendida		(1)
+
+aterravam  (3)
+	aterravam		(2)
+	aterravao		(1)
+
+atestam  (3)
+	atestam		(2)
+	atestao		(1)
+
+atinam  (3)
+	atinam		(2)
+	atinão		(1)
+
+atonito  (3)
+	attonito		(2)
+	atonito		(1)
+
+atormentam  (3)
+	atormentam		(2)
+	atormentao		(1)
+
+atreviam  (3)
+	atreviam		(2)
+	atrevião		(1)
+
+atropelados  (3)
+	atropelados		(2)
+	atropellados		(1)
+
+atropelando-se  (3)
+	atropelandose		(2)
+	atropellandose		(1)
+
+atum  (3)
+	atum		(2)
+	actum		(1)
+
+axiles  (3)
+	achiles		(2)
+	achyles		(1)
+
+azagaia  (3)
+	azagaia		(2)
+	azagaya		(1)
+
+batiame  (3)
+	batiame		(2)
+	batiamme		(1)
+
+belamente  (3)
+	belamente		(2)
+	bellamente		(1)
+
+beneditino  (3)
+	beneditino		(2)
+	benedictino		(1)
+
+bone  (3)
+	bonne		(2)
+	bone		(1)
+
+borrifam  (3)
+	borrifao		(2)
+	borrifam		(1)
+
+caíame  (3)
+	caíame		(2)
+	caíamme		(1)
+
+calarei  (3)
+	callarei		(2)
+	calarei		(1)
+
+caluniava  (3)
+	caluniava		(2)
+	calumniava		(1)
+
+caminhámos  (3)
+	caminhámos		(2)
+	caminhàmos		(1)
+
+carvalhais  (3)
+	carvalhais		(2)
+	carvalhaes		(1)
+
+cativarlhe  (3)
+	cativarlhe		(2)
+	captivarlhe		(1)
+
+caxa  (3)
+	cacha		(2)
+	caxa		(1)
+
+ceiatas  (3)
+	ceiatas		(2)
+	ceatas		(1)
+
+centralizavam  (3)
+	centralizavam		(2)
+	centralizavao		(1)
+
+ci  (3)
+	ci		(2)
+	cy		(1)
+
+colateral  (3)
+	colateral		(2)
+	collateral		(1)
+
+coletores  (3)
+	coletores		(2)
+	collectores		(1)
+
+colocavam  (3)
+	colocavam		(2)
+	colocavao		(1)
+
+comento  (3)
+	comento		(2)
+	commento		(1)
+
+comercios  (3)
+	commercios		(2)
+	comercios		(1)
+
+cometeio  (3)
+	cometeo		(2)
+	commetteo		(1)
+
+comove  (3)
+	comove		(2)
+	commove		(1)
+
+compele  (3)
+	compelle		(2)
+	compele		(1)
+
+comprometedoras  (3)
+	comprometedoras		(2)
+	compromettedoras		(1)
+
+comprometiasse  (3)
+	comprometiase		(2)
+	compromettiase		(1)
+
+conaissez  (3)
+	connaissez		(2)
+	conaissez		(1)
+
+concedam  (3)
+	concedaõ		(2)
+	concedam		(1)
+
+conexam  (3)
+	connexaõ		(2)
+	conexam		(1)
+
+conformam  (3)
+	conformam		(2)
+	conformaõ		(1)
+
+conheceriam  (3)
+	conheceriam		(2)
+	conhecerião		(1)
+
+conquistarao  (3)
+	conquistaraõ		(2)
+	conquistarao		(1)
+
+conservarao  (3)
+	conservaraõ		(2)
+	conservarao		(1)
+
+consignações  (3)
+	consignações		(2)
+	consignaçoens		(1)
+
+consumou  (3)
+	consumou		(2)
+	consummou		(1)
+
+contradigam  (3)
+	contradigam		(2)
+	contradigaõ		(1)
+
+contratantes  (3)
+	contratantes		(2)
+	contractantes		(1)
+
+corintio  (3)
+	corinthio		(2)
+	corintio		(1)
+
+corolas  (3)
+	corolas		(2)
+	corollas		(1)
+
+cotilon  (3)
+	cotillon		(2)
+	cotilon		(1)
+
+cristãmente  (3)
+	cristãmente		(2)
+	christãmente		(1)
+
+cristiani  (3)
+	christiani		(2)
+	cristiani		(1)
+
+dala  (3)
+	dalla		(2)
+	dala		(1)
+
+davanos  (3)
+	davamnos		(2)
+	davanos		(1)
+
+dc  (3)
+	dcc		(2)
+	dc		(1)
+
+decretavam  (3)
+	decretavam		(2)
+	decretavaõ		(1)
+
+defendeios  (3)
+	defendeios		(2)
+	defendeos		(1)
+
+definições  (3)
+	definições		(2)
+	definiçoens		(1)
+
+deformidades  (3)
+	deformidades		(2)
+	defformidades		(1)
+
+deixenos  (3)
+	deixemnos		(2)
+	deixenos		(1)
+
+depenam  (3)
+	depenam		(2)
+	depennão		(1)
+
+descantam  (3)
+	descantam		(2)
+	descantão		(1)
+
+descarregavam  (3)
+	descarregavam		(2)
+	descarregavao		(1)
+
+descendiam  (3)
+	descendiam		(2)
+	descendião		(1)
+
+descrita  (3)
+	descrita		(2)
+	descripta		(1)
+
+desculpam  (3)
+	desculpam		(2)
+	desculpaõ		(1)
+
+desesperavam  (3)
+	desesperavam		(2)
+	desesperavao		(1)
+
+desmaiasse  (3)
+	desmaiase		(2)
+	desmaiasse		(1)
+
+despedaçavam  (3)
+	despedaçavam		(2)
+	despedaçavao		(1)
+
+destrito  (3)
+	destricto		(2)
+	destrito		(1)
+
+destruam  (3)
+	destruão		(2)
+	destruam		(1)
+
+determinarao  (3)
+	determinaraõ		(2)
+	determinarao		(1)
+
+dificultavam  (3)
+	dificultavam		(2)
+	difficultavão		(1)
+
+dió  (3)
+	dió		(2)
+	diò		(1)
+
+dispensações  (3)
+	dispensações		(2)
+	dispensaçoens		(1)
+
+disserao  (3)
+	disserao		(2)
+	disseraõ		(1)
+
+disvelo  (3)
+	disvello		(2)
+	disvelo		(1)
+
+dite  (3)
+	dite		(2)
+	dicte		(1)
+
+ecl  (3)
+	eccl		(2)
+	ecl		(1)
+
+educam  (3)
+	educam		(2)
+	educao		(1)
+
+eficacia  (3)
+	eficacia		(2)
+	efficacia		(1)
+
+egit  (3)
+	egypt		(2)
+	egit		(1)
+
+eiart  (3)
+	heart		(2)
+	earth		(1)
+
+eliseia  (3)
+	elisea		(2)
+	elysea		(1)
+
+emaranhadas  (3)
+	emaranhadas		(2)
+	emmaranhadas		(1)
+
+embarcámos  (3)
+	embarcámos		(2)
+	embarcàmos		(1)
+
+embriões  (3)
+	embriões		(2)
+	embryões		(1)
+
+embusteiros  (3)
+	embusteiros		(2)
+	embusteyros		(1)
+
+encarregam  (3)
+	encarregam		(2)
+	encarregão		(1)
+
+encarregavam  (3)
+	encarregavam		(2)
+	encarregavao		(1)
+
+encomendam  (3)
+	encomendam		(2)
+	encommendam		(1)
+
+encontrao  (3)
+	encontraõ		(2)
+	encontrao		(1)
+
+encontrámos  (3)
+	encontrámos		(2)
+	encontràmos		(1)
+
+encontreios  (3)
+	encontreios		(2)
+	encontreos		(1)
+
+enervavam  (3)
+	enervavao		(2)
+	enervavam		(1)
+
+engrossam  (3)
+	engrossam		(2)
+	engrossão		(1)
+
+enlaçam  (3)
+	enlaçao		(2)
+	enlaçam		(1)
+
+enobreceu  (3)
+	enobreceu		(2)
+	ennobreceu		(1)
+
+enobrecida  (3)
+	enobrecida		(2)
+	ennobrecida		(1)
+
+enovelava  (3)
+	enovelava		(2)
+	ennovelava		(1)
+
+ensinarame  (3)
+	ensinarame		(2)
+	ensinaramme		(1)
+
+enxeio  (3)
+	encheio		(2)
+	encheo		(1)
+
+erezia  (3)
+	herezia		(2)
+	erezia		(1)
+
+escritorio  (3)
+	escritorio		(2)
+	escriptorio		(1)
+
+esculpiam  (3)
+	esculpiam		(2)
+	esculpião		(1)
+
+esfregavam  (3)
+	esfregavam		(2)
+	esfregavao		(1)
+
+esperável  (3)
+	esperavel		(2)
+	esperável		(1)
+
+estabelecerem  (3)
+	estabelecerem		(2)
+	establecerem		(1)
+
+evacuações  (3)
+	evacuaçoens		(2)
+	evacuações		(1)
+
+excomunhões  (3)
+	excommunhoens		(2)
+	excomunhoens		(1)
+
+existam  (3)
+	existam		(2)
+	existaõ		(1)
+
+falarame  (3)
+	falaramme		(2)
+	falarame		(1)
+
+falecem  (3)
+	falecem		(2)
+	fallecem		(1)
+
+falidos  (3)
+	falidos		(2)
+	fallidos		(1)
+
+fantasmagorias  (3)
+	phantasmagorias		(2)
+	fantasmagorias		(1)
+
+fantasticamente  (3)
+	fantasticamente		(2)
+	phantasticamente		(1)
+
+fascinavam  (3)
+	fascinavam		(2)
+	fascinavao		(1)
+
+faxas  (3)
+	faxas		(2)
+	fachas		(1)
+
+fazeia  (3)
+	fazea		(2)
+	fazeia		(1)
+
+fazenos  (3)
+	fazemnos		(2)
+	fazenos		(1)
+
+fenomeno  (3)
+	phenomeno		(2)
+	fenomeno		(1)
+
+ferri  (3)
+	ferry		(2)
+	ferri		(1)
+
+fidias  (3)
+	phidias		(2)
+	fidias		(1)
+
+filoxera  (3)
+	phylloxera		(2)
+	filoxera		(1)
+
+firmavam  (3)
+	firmavam		(2)
+	firmavaõ		(1)
+
+flacus  (3)
+	flaccus		(2)
+	flacus		(1)
+
+frequentam  (3)
+	frequentam		(1)
+	frequentaõ		(1)
+	frequentão		(1)
+
+fundavam  (3)
+	fundavam		(2)
+	fundavaõ		(1)
+
+gerai  (3)
+	geray		(2)
+	gerai		(1)
+
+grifo  (3)
+	grifo		(2)
+	griffo		(1)
+
+hiriam  (3)
+	hiriam		(2)
+	hirião		(1)
+
+hoi  (3)
+	hoy		(2)
+	hoi		(1)
+
+hosana  (3)
+	hosana		(2)
+	hosanna		(1)
+
+humilhavam  (3)
+	humilhavao		(2)
+	humilhavam		(1)
+
+iambé  (3)
+	iambee		(2)
+	iambé		(1)
+
+igualam  (3)
+	igualam		(2)
+	igualão		(1)
+
+ilesos  (3)
+	illesos		(2)
+	ilesos		(1)
+
+iligitimo  (3)
+	illigitimo		(2)
+	iligitimo		(1)
+
+iluminam  (3)
+	iluminam		(2)
+	illuminão		(1)
+
+imo  (3)
+	immo		(2)
+	imo		(1)
+
+imobilizavam  (3)
+	imobilizavam		(2)
+	imobilizavao		(1)
+
+impeliam  (3)
+	impeliam		(2)
+	impeliao		(1)
+
+imponderável  (3)
+	imponderável		(2)
+	imponderavel		(1)
+
+inatas  (3)
+	inaptas		(2)
+	inatas		(1)
+
+induziam  (3)
+	induziam		(2)
+	induziao		(1)
+
+infaliveis  (3)
+	infalliveis		(2)
+	infaliveis		(1)
+
+inflamase  (3)
+	inflamase		(2)
+	inflammase		(1)
+
+inovadores  (3)
+	inovadores		(2)
+	innovadores		(1)
+
+inquietavam  (3)
+	inquietavam		(2)
+	inquietavao		(1)
+
+insónia  (3)
+	insómnia		(2)
+	insónia		(1)
+
+insuficientes  (3)
+	insuficientes		(2)
+	insufficientes		(1)
+
+iupiter  (3)
+	iuppiter		(2)
+	iupiter		(1)
+
+jaci  (3)
+	jaci		(2)
+	jacci		(1)
+
+joan  (3)
+	joann		(2)
+	joan		(1)
+
+joio  (3)
+	joio		(2)
+	joyo		(1)
+
+judicioso  (3)
+	judicioso		(2)
+	judiciozo		(1)
+
+ladeiam  (3)
+	ladeiam		(2)
+	ladeiao		(1)
+
+lançavanos  (3)
+	lançavamnos		(2)
+	lançavanos		(1)
+
+levanos  (3)
+	levanos		(2)
+	levamnos		(1)
+
+lineu  (3)
+	linneu		(2)
+	lineu		(1)
+
+lisonjeiam  (3)
+	lisonjeiam		(2)
+	lisonjeiao		(1)
+
+luculo  (3)
+	lucullo		(2)
+	luculo		(1)
+
+mandariam  (3)
+	mandariam		(2)
+	mandariaõ		(1)
+
+maneio  (3)
+	maneio		(2)
+	maneyo		(1)
+
+manuscrita  (3)
+	manuscrita		(2)
+	manuscripta		(1)
+
+matinais  (3)
+	matinais		(2)
+	matinaes		(1)
+
+metiame  (3)
+	metiame		(2)
+	metiamme		(1)
+
+mexas  (3)
+	mechas		(2)
+	mexas		(1)
+
+mexem  (3)
+	mexem		(2)
+	mechem		(1)
+
+mile  (3)
+	mile		(2)
+	mille		(1)
+
+mistico  (3)
+	mistico		(2)
+	mystico		(1)
+
+mixela  (3)
+	michela		(2)
+	mixela		(1)
+
+monogramas  (3)
+	monogramas		(2)
+	monogrammas		(1)
+
+murilo  (3)
+	murilo		(2)
+	murillo		(1)
+
+nei  (3)
+	ney		(2)
+	nei		(1)
+
+nulidades  (3)
+	nullidades		(2)
+	nulidades		(1)
+
+ocasionais  (3)
+	occasionaes		(2)
+	ocasionais		(1)
+
+ocasionou  (3)
+	ocasionou		(2)
+	occasionou		(1)
+
+oceiani  (3)
+	oceani		(2)
+	occeani		(1)
+
+ofenderem  (3)
+	ofenderem		(2)
+	offenderem		(1)
+
+ofensivas  (3)
+	ofensivas		(2)
+	offensivas		(1)
+
+oferecem-se  (3)
+	offerecemse		(2)
+	oferecemse		(1)
+
+ogivais  (3)
+	ogivais		(2)
+	ogivaes		(1)
+
+opôr  (3)
+	opôr		(2)
+	oppôr		(1)
+
+orfãs  (3)
+	orfãs		(2)
+	orphãs		(1)
+
+orfeus  (3)
+	orpheus		(2)
+	orfeus		(1)
+
+ousam  (3)
+	ousam		(2)
+	ousão		(1)
+
+panegiristas  (3)
+	panegiristas		(2)
+	panegyristas		(1)
+
+paragrafo  (3)
+	paragrapho		(2)
+	paragrafo		(1)
+
+participavam  (3)
+	participavam		(2)
+	participavaõ		(1)
+
+passavame  (3)
+	passavame		(2)
+	passavamme		(1)
+
+pecaminoso  (3)
+	pecaminoso		(2)
+	peccaminoso		(1)
+
+pedilas  (3)
+	pedilas		(2)
+	pedillas		(1)
+
+pedirame  (3)
+	pediramme		(2)
+	pedirame		(1)
+
+pegavame  (3)
+	pegavame		(2)
+	pegavamme		(1)
+
+penível  (3)
+	penivel		(2)
+	penível		(1)
+
+pensariam  (3)
+	pensariam		(2)
+	pensariaõ		(1)
+
+perenes  (3)
+	perenes		(2)
+	perennes		(1)
+
+permito  (3)
+	permito		(2)
+	permitto		(1)
+
+perseguiame  (3)
+	perseguiame		(2)
+	perseguiamme		(1)
+
+persuadam  (3)
+	persuadam		(2)
+	persuadão		(1)
+
+pertenceme  (3)
+	pertenceme		(2)
+	pertencemme		(1)
+
+pertendiam  (3)
+	pertendião		(2)
+	pertendiam		(1)
+
+podiame  (3)
+	podiame		(2)
+	podiamme		(1)
+
+portugalensium  (3)
+	portugallensium		(2)
+	portugalensium		(1)
+
+possuiam  (3)
+	possuiam		(1)
+	possuiaõ		(1)
+	possuião		(1)
+
+pousámos  (3)
+	pousàmos		(2)
+	pousámos		(1)
+
+principiam  (3)
+	principiam		(2)
+	principião		(1)
+
+procelas  (3)
+	procelas		(2)
+	procellas		(1)
+
+proceloso  (3)
+	proceloso		(2)
+	procelloso		(1)
+
+procurações  (3)
+	procurações		(2)
+	procuraçoens		(1)
+
+prohibiçam  (3)
+	prohibiçaõ		(2)
+	prohibição		(1)
+
+pronunciasse  (3)
+	pronunciase		(2)
+	pronunciasse		(1)
+
+proponham  (3)
+	proponham		(2)
+	proponhão		(1)
+
+pululavam  (3)
+	pululavam		(2)
+	pullulavam		(1)
+
+pungiam  (3)
+	pungiam		(2)
+	pungiao		(1)
+
+punto  (3)
+	punto		(2)
+	puncto		(1)
+
+queixais  (3)
+	queixais		(2)
+	queixaes		(1)
+
+querena  (3)
+	querena		(2)
+	queremna		(1)
+
+rebelos  (3)
+	rebellos		(2)
+	rebelos		(1)
+
+recreiam  (3)
+	recreiam		(2)
+	recream		(1)
+
+referila  (3)
+	referila		(2)
+	referilla		(1)
+
+reinará  (3)
+	reinará		(2)
+	reynará		(1)
+
+relatam  (3)
+	relatam		(1)
+	relatao		(1)
+	relataõ		(1)
+
+relaxavam  (3)
+	relaxavam		(2)
+	relaxavaõ		(1)
+
+remedeiam  (3)
+	remedeiam		(2)
+	remedeão		(1)
+
+remetidos  (3)
+	remetidos		(2)
+	remettidos		(1)
+
+renovaçam  (3)
+	renovaçam		(2)
+	renovaçaõ		(1)
+
+repeliume  (3)
+	repeliume		(2)
+	repelliume		(1)
+
+restituam  (3)
+	restituam		(2)
+	restituão		(1)
+
+revoltavam  (3)
+	revoltavam		(2)
+	revoltavao		(1)
+
+roquete  (3)
+	roquette		(2)
+	roquete		(1)
+
+rotsxilds  (3)
+	rothschilds		(2)
+	rotschilds		(1)
+
+sabado  (3)
+	sabbado		(2)
+	sabado		(1)
+
+santarem  (3)
+	sanctarem		(2)
+	santarem		(1)
+
+santificetur  (3)
+	santificetur		(2)
+	sanctificetur		(1)
+
+saturnais  (3)
+	saturnais		(2)
+	saturnaes		(1)
+
+sáiam  (3)
+	sáiam		(2)
+	sáião		(1)
+
+scoto  (3)
+	scoto		(2)
+	scotto		(1)
+
+scrito  (3)
+	scrito		(2)
+	scripto		(1)
+
+scritura  (3)
+	scriptura		(2)
+	scritura		(1)
+
+secções  (3)
+	secções		(2)
+	secçoens		(1)
+
+seduziam  (3)
+	seduziam		(2)
+	seduziao		(1)
+
+seguirao  (3)
+	seguiraõ		(2)
+	seguirao		(1)
+
+senhoriais  (3)
+	senhoriais		(2)
+	senhoriaes		(1)
+
+shilock  (3)
+	shylock		(2)
+	shilock		(1)
+
+simon  (3)
+	simon		(2)
+	symon		(1)
+
+smirna  (3)
+	smirna		(2)
+	smyrna		(1)
+
+sofisticas  (3)
+	sofisticas		(2)
+	sophisticas		(1)
+
+souberao  (3)
+	souberao		(2)
+	souberaõ		(1)
+
+subsistam  (3)
+	subsistam		(2)
+	subsistaõ		(1)
+
+sucedidos  (3)
+	sucedidos		(2)
+	succedidos		(1)
+
+sufocadas  (3)
+	sufocadas		(2)
+	suffocadas		(1)
+
+sufre  (3)
+	suffre		(2)
+	sufre		(1)
+
+suportes  (3)
+	suportes		(2)
+	supportes		(1)
+
+suprem  (3)
+	suprem		(2)
+	supprem		(1)
+
+suprimilas  (3)
+	suprimilas		(2)
+	supprimilas		(1)
+
+sustentais  (3)
+	sustentais		(2)
+	sustentaes		(1)
+
+sustentalos  (3)
+	sustentallos		(2)
+	sustentalos		(1)
+
+tank  (3)
+	tank		(2)
+	thank		(1)
+
+teiodore  (3)
+	theodore		(2)
+	teodore		(1)
+
+telegrafo  (3)
+	telegrafo		(2)
+	telegrapho		(1)
+
+terebinto  (3)
+	terebintho		(2)
+	therebintho		(1)
+
+teseio  (3)
+	teseo		(2)
+	theseo		(1)
+
+tinhanos  (3)
+	tinhamnos		(2)
+	tinhanos		(1)
+
+tocavame  (3)
+	tocavamme		(2)
+	tocavame		(1)
+
+tornavame  (3)
+	tornavamme		(2)
+	tornavame		(1)
+
+trais  (3)
+	trais		(2)
+	traes		(1)
+
+trouxerao  (3)
+	trouxerao		(2)
+	trouxeraõ		(1)
+
+ulisseia  (3)
+	ulisseia		(2)
+	ulyssea		(1)
+
+vedam  (3)
+	vedam		(2)
+	vedão		(1)
+
+vele  (3)
+	velle		(2)
+	vele		(1)
+
+vestirei  (3)
+	vestirei		(2)
+	vestirey		(1)
+
+visavam  (3)
+	visavam		(2)
+	visavao		(1)
+
+visorei  (3)
+	visorei		(2)
+	visorey		(1)
+
+voi  (3)
+	voy		(2)
+	voi		(1)
+
+voltame  (3)
+	voltame		(2)
+	voltamme		(1)
+
+wit  (3)
+	wit		(2)
+	with		(1)
+
+xarete  (3)
+	charette		(2)
+	charete		(1)
+
+xegavame  (3)
+	chegavame		(2)
+	chegavamme		(1)
+
+abarcam  (2)
+	abarcam		(1)
+	abarcão		(1)
+
+abastam  (2)
+	abastam		(1)
+	abastão		(1)
+
+abrame  (2)
+	abrame		(1)
+	abramme		(1)
+
+absolviçam  (2)
+	absolviçam		(1)
+	absolviçaõ		(1)
+
+absorviam  (2)
+	absorviam		(1)
+	absorviao		(1)
+
+acanto  (2)
+	acantho		(1)
+	acanto		(1)
+
+acedendo  (2)
+	accedendo		(1)
+	acedendo		(1)
+
+aclamada  (2)
+	acclamada		(1)
+	aclamada		(1)
+
+aconselhais  (2)
+	aconselhaes		(1)
+	aconselhais		(1)
+
+acquisiçam  (2)
+	acquisiçaõ		(1)
+	acquisição		(1)
+
+acrescentarão  (2)
+	accrescentarão		(1)
+	acrescentarão		(1)
+
+acumula  (2)
+	accumula		(1)
+	acumula		(1)
+
+acusadores  (2)
+	accusadores		(1)
+	acusadores		(1)
+
+acuze  (2)
+	accuze		(1)
+	acuze		(1)
+
+adevinham  (2)
+	adevinham		(1)
+	adevinhão		(1)
+
+adicionada  (2)
+	adiccionada		(1)
+	adicionada		(1)
+
+aditur  (2)
+	additur		(1)
+	aditur		(1)
+
+admitam  (2)
+	admitam		(1)
+	admittão		(1)
+
+adotam  (2)
+	adoptao		(1)
+	adotam		(1)
+
+afagavam  (2)
+	afagavam		(1)
+	afagavao		(1)
+
+afeiavam  (2)
+	afeavam		(1)
+	afeavao		(1)
+
+afetei  (2)
+	afetei		(1)
+	affectei		(1)
+
+afiançada  (2)
+	affiançada		(1)
+	afiançada		(1)
+
+afiançam  (2)
+	affianção		(1)
+	afiançam		(1)
+
+aflitivos  (2)
+	aflictivos		(1)
+	aflitivos		(1)
+
+afrodite  (2)
+	afrodite		(1)
+	aphrodite		(1)
+
+afrontasse  (2)
+	affrontasse		(1)
+	afrontasse		(1)
+
+afrontosos  (2)
+	affrontosos		(1)
+	afrontosos		(1)
+
+agarravam  (2)
+	agarravam		(1)
+	agarravao		(1)
+
+agravandolhe  (2)
+	aggravandolhe		(1)
+	agravandolhe		(1)
+
+agregadas  (2)
+	aggregadas		(1)
+	agregadas		(1)
+
+aguarelas  (2)
+	aguarelas		(1)
+	aguarellas		(1)
+
+alan  (2)
+	alan		(1)
+	allan		(1)
+
+alcanceio  (2)
+	alcanceio		(1)
+	alcanceo		(1)
+
+alegamos  (2)
+	alegamos		(1)
+	allegamos		(1)
+
+alegarei  (2)
+	alegarei		(1)
+	allegarei		(1)
+
+alegariam  (2)
+	alegariam		(1)
+	allegariaõ		(1)
+
+alentavam  (2)
+	alentavam		(1)
+	alentavao		(1)
+
+alici  (2)
+	alici		(1)
+	allici		(1)
+
+aliviam  (2)
+	aliviam		(1)
+	aliviao		(1)
+
+amarame  (2)
+	amarame		(1)
+	amaramme		(1)
+
+animeia  (2)
+	animea		(1)
+	animeia		(1)
+
+aniquilarse  (2)
+	aniquilarse		(1)
+	anniquilarse		(1)
+
+antifona  (2)
+	antifona		(1)
+	antiphona		(1)
+
+anunciadores  (2)
+	annunciadores		(1)
+	anunciadores		(1)
+
+anuncio  (2)
+	annuncio		(1)
+	anuncio		(1)
+
+aparatosamente  (2)
+	aparatosamente		(1)
+	apparatosamente		(1)
+
+aparecerame  (2)
+	aparecerame		(1)
+	apareceramme		(1)
+
+apelavam  (2)
+	apelavam		(1)
+	appelavaõ		(1)
+
+apele  (2)
+	apele		(1)
+	apelle		(1)
+
+apelidava  (2)
+	apelidava		(1)
+	appellidava		(1)
+
+aperteio  (2)
+	aperteio		(1)
+	aperteo		(1)
+
+aplicassem  (2)
+	aplicassem		(1)
+	applicassem		(1)
+
+aplico  (2)
+	aplico		(1)
+	applico		(1)
+
+aquelo  (2)
+	aquello		(1)
+	aquelo		(1)
+
+aquentam  (2)
+	aquentam		(1)
+	aquentão		(1)
+
+ardiame  (2)
+	ardiame		(1)
+	ardiamme		(1)
+
+arquitetam  (2)
+	arquitectão		(1)
+	arquitetam		(1)
+
+arruinam  (2)
+	arruinam		(1)
+	arruinao		(1)
+
+arxiteto  (2)
+	architecto		(1)
+	architeto		(1)
+
+asfixiar  (2)
+	asfixiar		(1)
+	asphyxiar		(1)
+
+assaltarao  (2)
+	assaltarao		(1)
+	assaltaraõ		(1)
+
+associasse  (2)
+	associase		(1)
+	associasse		(1)
+
+assolações  (2)
+	assolaçoens		(1)
+	assolações		(1)
+
+atanazavam  (2)
+	atanazavam		(1)
+	atanazavao		(1)
+
+atordoam  (2)
+	atordoam		(1)
+	atordoao		(1)
+
+atónitos  (2)
+	atónitos		(1)
+	atònitos		(1)
+
+atraiam  (2)
+	atraiam		(1)
+	atraiao		(1)
+
+atribuindolhes  (2)
+	atribuindolhes		(1)
+	attribuindolhes		(1)
+
+autorisado  (2)
+	auctorisado		(1)
+	authorisado		(1)
+
+autoritate  (2)
+	auctoritate		(1)
+	autoritate		(1)
+
+autorizadas  (2)
+	auctorizadas		(1)
+	autorizadas		(1)
+
+avaliasse  (2)
+	avaliase		(1)
+	avaliasse		(1)
+
+aveluda  (2)
+	avelluda		(1)
+	aveluda		(1)
+
+baixarse  (2)
+	baixarse		(1)
+	bayxarse		(1)
+
+bandoleiras  (2)
+	bandoleiras		(1)
+	bandoleyras		(1)
+
+bat  (2)
+	bapt		(1)
+	bath		(1)
+
+belmar  (2)
+	bellmar		(1)
+	belmar		(1)
+
+betencourt  (2)
+	betencourt		(1)
+	bettencourt		(1)
+
+bibliotecas  (2)
+	bibliotecas		(1)
+	bibliothecas		(1)
+
+blasfemantes  (2)
+	blasfemantes		(1)
+	blasphemantes		(1)
+
+blasonam  (2)
+	blasonam		(1)
+	blasonão		(1)
+
+bulam  (2)
+	bulam		(1)
+	bullam		(1)
+
+busqueio  (2)
+	busqueio		(1)
+	busqueo		(1)
+
+cales  (2)
+	cales		(1)
+	calles		(1)
+
+caluniasse  (2)
+	caluniase		(1)
+	caluniasse		(1)
+
+cantões  (2)
+	cantoens		(1)
+	cantões		(1)
+
+cari  (2)
+	cari		(1)
+	cary		(1)
+
+caribdes  (2)
+	caribdes		(1)
+	carybdes		(1)
+
+casiam  (2)
+	casiam		(1)
+	casião		(1)
+
+caxangá  (2)
+	cachangá		(1)
+	caxangá		(1)
+
+citéra  (2)
+	citéra		(1)
+	cythéra		(1)
+
+cleiofanto  (2)
+	cleofanto		(1)
+	cleophanto		(1)
+
+clergiman  (2)
+	clergiman		(1)
+	clergyman		(1)
+
+coalham  (2)
+	coalham		(1)
+	coalhão		(1)
+
+colam  (2)
+	colam		(1)
+	colao		(1)
+
+comboi  (2)
+	comboi		(1)
+	comboy		(1)
+
+comentarios  (2)
+	comentarios		(1)
+	commentarios		(1)
+
+comissionados  (2)
+	comissionados		(1)
+	commissionados		(1)
+
+comprao  (2)
+	comprao		(1)
+	compraõ		(1)
+
+comunicativas  (2)
+	communicativas		(1)
+	comunicativas		(1)
+
+condutora  (2)
+	conductora		(1)
+	condutora		(1)
+
+confundeme  (2)
+	confundeme		(1)
+	confundemme		(1)
+
+conhecelos  (2)
+	conhecellos		(1)
+	conhecelos		(1)
+
+conheciame  (2)
+	conheciame		(1)
+	conheciamme		(1)
+
+conjuravam  (2)
+	conjuravam		(1)
+	conjuravao		(1)
+
+conluio  (2)
+	conluio		(1)
+	conluyo		(1)
+
+conquistavam  (2)
+	conquistavam		(1)
+	conquistavaõ		(1)
+
+conseguila  (2)
+	conseguila		(1)
+	conseguilla		(1)
+
+consolavame  (2)
+	consolavame		(1)
+	consolavamme		(1)
+
+consulteia  (2)
+	consultea		(1)
+	consulteia		(1)
+
+contradiçam  (2)
+	contradiçam		(1)
+	contradiçaõ		(1)
+
+contrativa  (2)
+	contractiva		(1)
+	contrativa		(1)
+
+convencerao  (2)
+	convencerao		(1)
+	convenceraõ		(1)
+
+convencionais  (2)
+	convencionaes		(1)
+	convencionais		(1)
+
+converterao  (2)
+	converterao		(1)
+	converteraõ		(1)
+
+convidame  (2)
+	convidame		(1)
+	convidamme		(1)
+
+convidavame  (2)
+	convidavame		(1)
+	convidavamme		(1)
+
+copilaçam  (2)
+	copilaçam		(1)
+	copilação		(1)
+
+corintos  (2)
+	corintos		(1)
+	corynthos		(1)
+
+correme  (2)
+	correme		(1)
+	corremme		(1)
+
+courela  (2)
+	courela		(1)
+	courella		(1)
+
+coxilhas  (2)
+	cochilhas		(1)
+	coxilhas		(1)
+
+cozam  (2)
+	cozam		(1)
+	cozão		(1)
+
+cresciame  (2)
+	cresciame		(1)
+	cresciamme		(1)
+
+crianos  (2)
+	criamnos		(1)
+	crianos		(1)
+
+dalas  (2)
+	dalas		(1)
+	dallas		(1)
+
+debitam  (2)
+	debitam		(1)
+	debitão		(1)
+
+deficultoso  (2)
+	defficultoso		(1)
+	deficultoso		(1)
+
+deixárao  (2)
+	deixáraõ		(1)
+	deyxáraõ		(1)
+
+deleitavam  (2)
+	deleitavam		(1)
+	deleitavão		(1)
+
+deme  (2)
+	deme		(1)
+	demme		(1)
+
+desacreditame  (2)
+	desacreditame		(1)
+	desacreditamme		(1)
+
+desaires  (2)
+	desaires		(1)
+	desayres		(1)
+
+desarmavam  (2)
+	desarmavam		(1)
+	desarmavão		(1)
+
+desconheciam  (2)
+	desconheciam		(1)
+	desconheciao		(1)
+
+desembainhadas  (2)
+	desembainhadas		(1)
+	desenbainhadas		(1)
+
+desforravam  (2)
+	desforravam		(1)
+	desforravao		(1)
+
+designavam  (2)
+	designavam		(1)
+	designavao		(1)
+
+desiluda  (2)
+	desilluda		(1)
+	desiluda		(1)
+
+desseme  (2)
+	desseme		(1)
+	dessemme		(1)
+
+destinavam  (2)
+	destinavam		(1)
+	destinavao		(1)
+
+devoravame  (2)
+	devoravame		(1)
+	devoravamme		(1)
+
+dic  (2)
+	dic		(1)
+	dicc		(1)
+
+diferençarem  (2)
+	diferençarem		(1)
+	differençarem		(1)
+
+diftongos  (2)
+	diphthongos		(1)
+	diphtongos		(1)
+
+diluíam  (2)
+	diluíam		(1)
+	diluíao		(1)
+
+dizianos  (2)
+	diziamnos		(1)
+	dizianos		(1)
+
+dominável  (2)
+	dominavel		(1)
+	dominável		(1)
+
+efebos  (2)
+	efebos		(1)
+	ephebos		(1)
+
+efeto  (2)
+	effecto		(1)
+	effeto		(1)
+
+emoldurados  (2)
+	emmoldurados		(1)
+	emoldurados		(1)
+
+empena  (2)
+	empena		(1)
+	empenna		(1)
+
+enastrados  (2)
+	enastrados		(1)
+	ennastrados		(1)
+
+encaixam  (2)
+	encaixam		(1)
+	encaixão		(1)
+
+encantam  (2)
+	encantam		(1)
+	encantao		(1)
+
+enciclopedistas  (2)
+	enciclopedistas		(1)
+	encyclopedistas		(1)
+
+encima  (2)
+	emcima		(1)
+	encima		(1)
+
+encontrarseiam  (2)
+	encontrarseão		(1)
+	encontrarseiam		(1)
+
+engordam  (2)
+	engordam		(1)
+	engordão		(1)
+
+enobrecidos  (2)
+	ennobrecidos		(1)
+	enobrecidos		(1)
+
+enovelando-se  (2)
+	ennovelandose		(1)
+	enovelandose		(1)
+
+ensinavame  (2)
+	ensinavame		(1)
+	ensinavamme		(1)
+
+enteiro  (2)
+	enteiro		(1)
+	enteyro		(1)
+
+entrambas  (2)
+	entrambas		(1)
+	entranbas		(1)
+
+entregarame  (2)
+	entregarame		(1)
+	entregaramme		(1)
+
+enxianos  (2)
+	enchiamnos		(1)
+	enchianos		(1)
+
+eregia  (2)
+	eregia		(1)
+	heregia		(1)
+
+escreviame  (2)
+	escreviame		(1)
+	escreviamme		(1)
+
+escriturada  (2)
+	escripturada		(1)
+	escriturada		(1)
+
+escutala  (2)
+	escutala		(1)
+	escutalla		(1)
+
+españa  (2)
+	españa		(1)
+	hespaña		(1)
+
+esperavame  (2)
+	esperavame		(1)
+	esperavamme		(1)
+
+espertam  (2)
+	espertam		(1)
+	espertão		(1)
+
+estabeleceio  (2)
+	estabeleceo		(1)
+	estableceo		(1)
+
+estavame  (2)
+	estavame		(1)
+	estavamme		(1)
+
+estetas  (2)
+	estetas		(1)
+	esthetas		(1)
+
+esticam  (2)
+	esticam		(1)
+	esticao		(1)
+
+estimeio  (2)
+	estimeio		(1)
+	estimeo		(1)
+
+estreiouse  (2)
+	estreiouse		(1)
+	estreouse		(1)
+
+estudai  (2)
+	estudai		(1)
+	estuday		(1)
+
+exagerais  (2)
+	exageraes		(1)
+	exagerais		(1)
+
+exatíssima  (2)
+	exactíssima		(1)
+	exatíssima		(1)
+
+excelentissimo  (2)
+	excelentissimo		(1)
+	excellentissimo		(1)
+
+excomunham  (2)
+	excommunhão		(1)
+	excomunhaõ		(1)
+
+fanais  (2)
+	fanaes		(1)
+	fanais		(1)
+
+fano  (2)
+	fanno		(1)
+	fano		(1)
+
+favais  (2)
+	favaes		(1)
+	favais		(1)
+
+favoreciam  (2)
+	favoreciam		(1)
+	favoreciao		(1)
+
+filaucia  (2)
+	filaucia		(1)
+	philaucia		(1)
+
+filosofi  (2)
+	philosophi		(1)
+	phylosophy		(1)
+
+fizeramo  (2)
+	fizerammo		(1)
+	fizeramo		(1)
+
+flamantes  (2)
+	flamantes		(1)
+	flammantes		(1)
+
+floreciam  (2)
+	floreciam		(1)
+	floreciaõ		(1)
+
+fomentam  (2)
+	fomentam		(1)
+	fomentão		(1)
+
+forçavam  (2)
+	forçavam		(1)
+	forçavao		(1)
+
+fosforeja  (2)
+	fosforeja		(1)
+	phosphoreja		(1)
+
+fundariam  (2)
+	fundariam		(1)
+	fundariaõ		(1)
+
+fustigavam  (2)
+	fustigavam		(1)
+	fustigavao		(1)
+
+galateia  (2)
+	galatea		(1)
+	galateia		(1)
+
+gineceus  (2)
+	gineceus		(1)
+	gyneceus		(1)
+
+gioto  (2)
+	gioto		(1)
+	giotto		(1)
+
+gomeux  (2)
+	gomeux		(1)
+	gommeux		(1)
+
+gotico  (2)
+	gothico		(1)
+	gotico		(1)
+
+gotingae  (2)
+	gotingae		(1)
+	gottingae		(1)
+
+grudam  (2)
+	grudam		(1)
+	grudao		(1)
+
+guelas  (2)
+	guelas		(1)
+	guellas		(1)
+
+guiame  (2)
+	guiame		(1)
+	guiamme		(1)
+
+habilitam  (2)
+	habilitam		(1)
+	habilitão		(1)
+
+habitariam  (2)
+	habitariam		(1)
+	habitariaõ		(1)
+
+halei  (2)
+	haley		(1)
+	halley		(1)
+
+haviame  (2)
+	haviame		(1)
+	haviamme		(1)
+
+hidropesia  (2)
+	hidropesia		(1)
+	hydropesia		(1)
+
+hospedam  (2)
+	hospedam		(1)
+	hospedão		(1)
+
+ileso  (2)
+	ileso		(1)
+	illeso		(1)
+
+iliadem  (2)
+	iliadem		(1)
+	illiadem		(1)
+
+imaginaçam  (2)
+	imaginaçam		(1)
+	imaginaçaõ		(1)
+
+imateriais  (2)
+	imateriaes		(1)
+	imateriais		(1)
+
+imparciais  (2)
+	imparciaes		(1)
+	imparciais		(1)
+
+implicações  (2)
+	implicaçoens		(1)
+	implicações		(1)
+
+impotens  (2)
+	impotens		(1)
+	inpotens		(1)
+
+impõenos  (2)
+	impõemnos		(1)
+	impõenos		(1)
+
+impressam  (2)
+	impressam		(1)
+	impressaõ		(1)
+
+imutabilidade  (2)
+	immutabilidade		(1)
+	imutabilidade		(1)
+
+incrustavam  (2)
+	incrustavam		(1)
+	incrustavao		(1)
+
+incubavam  (2)
+	incubavam		(1)
+	incubavao		(1)
+
+inficiona  (2)
+	inficciona		(1)
+	inficiona		(1)
+
+inflamavam  (2)
+	inflamavam		(1)
+	inflamavao		(1)
+
+inquiriam  (2)
+	inquiriam		(1)
+	inquiriao		(1)
+
+insultavam  (2)
+	insultavam		(1)
+	insultavao		(1)
+
+interditos  (2)
+	interdictos		(1)
+	interditos		(1)
+
+intrigavam  (2)
+	intrigavam		(1)
+	intrigavao		(1)
+
+invençam  (2)
+	invençam		(1)
+	invençaõ		(1)
+
+irmam  (2)
+	irmam		(1)
+	irmao		(1)
+
+irracionável  (2)
+	irracionavel		(1)
+	irracionável		(1)
+
+irritavame  (2)
+	irritavame		(1)
+	irritavamme		(1)
+
+jáz  (2)
+	jáz		(1)
+	jàz		(1)
+
+jesucristo  (2)
+	jesuchristo		(1)
+	jesucristo		(1)
+
+lacrimae  (2)
+	lachrymae		(1)
+	lacrymae		(1)
+
+lafite  (2)
+	laffite		(1)
+	laffitte		(1)
+
+leide  (2)
+	leide		(1)
+	leyde		(1)
+
+leipsic  (2)
+	leipsic		(1)
+	leypsic		(1)
+
+lembrarame  (2)
+	lembrarame		(1)
+	lembraramme		(1)
+
+leta  (2)
+	lecta		(1)
+	lepta		(1)
+
+letum  (2)
+	lethum		(1)
+	letum		(1)
+
+levalos  (2)
+	levallos		(1)
+	levalos		(1)
+
+libelos  (2)
+	libellos		(1)
+	libelos		(1)
+
+libertavam  (2)
+	libertavam		(1)
+	libertavao		(1)
+
+literam  (2)
+	literam		(1)
+	litteram		(1)
+
+lixe  (2)
+	liche		(1)
+	lixe		(1)
+
+lora  (2)
+	llora		(1)
+	lora		(1)
+
+louvais  (2)
+	louvaes		(1)
+	louvais		(1)
+
+louvavam  (2)
+	louvavam		(1)
+	louvavão		(1)
+
+lutuosa  (2)
+	luctuosa		(1)
+	lutuosa		(1)
+
+madrugámos  (2)
+	madrugámos		(1)
+	madrugàmos		(1)
+
+maiolo  (2)
+	maiolo		(1)
+	mayolo		(1)
+
+maiorais  (2)
+	maioraes		(1)
+	maiorais		(1)
+
+malorum  (2)
+	mallorum		(1)
+	malorum		(1)
+
+maneiam  (2)
+	maneão		(1)
+	maneiam		(1)
+
+mat  (2)
+	math		(1)
+	matth		(1)
+
+matavanos  (2)
+	matavamnos		(1)
+	matavanos		(1)
+
+mateio  (2)
+	mateio		(1)
+	mateo		(1)
+
+matoso  (2)
+	matoso		(1)
+	mattoso		(1)
+
+max  (2)
+	mach		(1)
+	max		(1)
+
+maxiavelo  (2)
+	machiavello		(1)
+	machiavelo		(1)
+
+meditaçam  (2)
+	meditaçam		(1)
+	meditaçaõ		(1)
+
+meru  (2)
+	meru		(1)
+	merv		(1)
+
+miope  (2)
+	miope		(1)
+	myope		(1)
+
+mirto  (2)
+	mirto		(1)
+	myrto		(1)
+
+missais  (2)
+	missaes		(1)
+	missais		(1)
+
+mixelo  (2)
+	michelo		(1)
+	mixelo		(1)
+
+modelavam  (2)
+	modelavam		(1)
+	modelavao		(1)
+
+molestanos  (2)
+	molestamnos		(1)
+	molestanos		(1)
+
+molezas  (2)
+	molezas		(1)
+	mollezas		(1)
+
+mostreias  (2)
+	mostreas		(1)
+	mostreias		(1)
+
+mudarame  (2)
+	mudarame		(1)
+	mudaramme		(1)
+
+nemeia  (2)
+	nemea		(1)
+	nemeia		(1)
+
+notis  (2)
+	noctis		(1)
+	notis		(1)
+
+obreias  (2)
+	obreas		(1)
+	obreias		(1)
+
+ocasos  (2)
+	ocasos		(1)
+	occasos		(1)
+
+ocaziam  (2)
+	occaziaõ		(1)
+	occazião		(1)
+
+ocuparei  (2)
+	occuparei		(1)
+	ocuparei		(1)
+
+ofereceralhe  (2)
+	ofereceralhe		(1)
+	offereceralhe		(1)
+
+oiçam  (2)
+	oiçam		(1)
+	oição		(1)
+
+omitido  (2)
+	omitido		(1)
+	omittido		(1)
+
+oprimam  (2)
+	opprimão		(1)
+	oprimam		(1)
+
+oxi  (2)
+	occhi		(1)
+	ochi		(1)
+
+ôcas  (2)
+	ôcas		(1)
+	ôccas		(1)
+
+palio  (2)
+	palio		(1)
+	pallio		(1)
+
+panteismo  (2)
+	panteismo		(1)
+	pantheismo		(1)
+
+passarao  (2)
+	passarao		(1)
+	passaraõ		(1)
+
+pastorais  (2)
+	pastoraes		(1)
+	pastorais		(1)
+
+peitam  (2)
+	peitam		(1)
+	peitão		(1)
+
+penugens  (2)
+	pennugens		(1)
+	penugens		(1)
+
+perderseiam  (2)
+	perderseão		(1)
+	perderseiam		(1)
+
+perguntarame  (2)
+	perguntarame		(1)
+	perguntaramme		(1)
+
+permitirme  (2)
+	permitirme		(1)
+	permittirme		(1)
+
+pestilenciais  (2)
+	pestilenciaes		(1)
+	pestilenciais		(1)
+
+piramidum  (2)
+	piramidum		(1)
+	pyramidum		(1)
+
+pizicatos  (2)
+	pizicatos		(1)
+	pizzicatos		(1)
+
+podeme  (2)
+	podeme		(1)
+	podemme		(1)
+
+pombais  (2)
+	pombaes		(1)
+	pombais		(1)
+
+pouf  (2)
+	pouf		(1)
+	pouff		(1)
+
+pór  (2)
+	pór		(1)
+	pòr		(1)
+
+põenos  (2)
+	põemnos		(1)
+	põenos		(1)
+
+prenunciavam  (2)
+	prenunciavam		(1)
+	prenunciavao		(1)
+
+pretençam  (2)
+	pretençaõ		(1)
+	pretenção		(1)
+
+procuralo  (2)
+	procurallo		(1)
+	procuralo		(1)
+
+projetavase  (2)
+	projectavase		(1)
+	projetavase		(1)
+
+prostravam  (2)
+	prostravam		(1)
+	prostravao		(1)
+
+proteio  (2)
+	proteio		(1)
+	proteo		(1)
+
+puf  (2)
+	puf		(1)
+	puff		(1)
+
+pulavame  (2)
+	pulavame		(1)
+	pulavamme		(1)
+
+pulcra  (2)
+	pulchra		(1)
+	pulcra		(1)
+
+queixarem  (2)
+	queixarem		(1)
+	queyxarem		(1)
+
+queríam  (2)
+	queríam		(1)
+	queríao		(1)
+
+ralhavam  (2)
+	ralhavam		(1)
+	ralhavao		(1)
+
+ramponeiau  (2)
+	ramponeau		(1)
+	ramponneau		(1)
+
+rebelar  (2)
+	rebelar		(1)
+	rebellar		(1)
+
+reboam  (2)
+	reboam		(1)
+	reboão		(1)
+
+referilas  (2)
+	referilas		(1)
+	referillas		(1)
+
+repetiame  (2)
+	repetiame		(1)
+	repetiamme		(1)
+
+repulsam  (2)
+	repulsam		(1)
+	repulsao		(1)
+
+reservam  (2)
+	reservam		(1)
+	reservão		(1)
+
+resolvam  (2)
+	resolvam		(1)
+	resolvão		(1)
+
+restavame  (2)
+	restavame		(1)
+	restavamme		(1)
+
+restritas  (2)
+	restrictas		(1)
+	restritas		(1)
+
+retis  (2)
+	rectis		(1)
+	reptis		(1)
+
+retratarse  (2)
+	retractarse		(1)
+	retratarse		(1)
+
+revolvam  (2)
+	revolvam		(1)
+	revolvão		(1)
+
+ritornelos  (2)
+	ritornellos		(1)
+	ritornelos		(1)
+
+ritum  (2)
+	ritum		(1)
+	rituum		(1)
+
+rodeiavam  (2)
+	rodeavao		(1)
+	rodeavão		(1)
+
+rogarei  (2)
+	rogarei		(1)
+	rogarey		(1)
+
+sacam  (2)
+	sacam		(1)
+	sacão		(1)
+
+saciasse  (2)
+	saciase		(1)
+	saciasse		(1)
+
+salvaçam  (2)
+	salvaçam		(1)
+	salvaçaõ		(1)
+
+satisfatoriamente  (2)
+	satisfactoriamente		(1)
+	satisfatoriamente		(1)
+
+scitis  (2)
+	scithis		(1)
+	scitis		(1)
+
+scritores  (2)
+	scriptores		(1)
+	scritores		(1)
+
+seleiro  (2)
+	selleiro		(1)
+	selleyro		(1)
+
+seletos  (2)
+	selectos		(1)
+	seletos		(1)
+
+senes  (2)
+	senes		(1)
+	sennes		(1)
+
+senhoreiam  (2)
+	senhoream		(1)
+	senhoreiam		(1)
+
+senteia  (2)
+	sentea		(1)
+	senteia		(1)
+
+sentenceiam  (2)
+	sentenceaõ		(1)
+	sentenceão		(1)
+
+serai  (2)
+	serai		(1)
+	seray		(1)
+
+serviano  (2)
+	serviamno		(1)
+	serviano		(1)
+
+set  (2)
+	sect		(1)
+	set		(1)
+
+sicionio  (2)
+	sicionio		(1)
+	sicyonio		(1)
+
+siflando  (2)
+	sifflando		(1)
+	siflando		(1)
+
+silfos  (2)
+	silfos		(1)
+	sylphos		(1)
+
+siri  (2)
+	siri		(1)
+	siry		(1)
+
+socorreios  (2)
+	socorreios		(1)
+	socorreos		(1)
+
+socorrendoas  (2)
+	soccorrendoas		(1)
+	socorrendoas		(1)
+
+sucinta  (2)
+	succinta		(1)
+	sucinta		(1)
+
+suculentas  (2)
+	succulentas		(1)
+	suculentas		(1)
+
+sufeciente  (2)
+	sufeciente		(1)
+	suffeciente		(1)
+
+suia  (2)
+	suia		(1)
+	suya		(1)
+
+sujet  (2)
+	suject		(1)
+	sujet		(1)
+
+suportam  (2)
+	suportam		(1)
+	suportao		(1)
+
+surgeme  (2)
+	surgeme		(1)
+	surgemme		(1)
+
+tantumodo  (2)
+	tantummodo		(1)
+	tantumodo		(1)
+
+tatus  (2)
+	tactus		(1)
+	tatus		(1)
+
+teiologica  (2)
+	teologica		(1)
+	theologica		(1)
+
+termeiam  (2)
+	termeão		(1)
+	termeiam		(1)
+
+tiples  (2)
+	tiples		(1)
+	typles		(1)
+
+tiranicamente  (2)
+	tiranicamente		(1)
+	tyrannicamente		(1)
+
+tiranizou  (2)
+	tiranizou		(1)
+	tyrannizou		(1)
+
+tireio  (2)
+	tireio		(1)
+	tireo		(1)
+
+titelas  (2)
+	titelas		(1)
+	titellas		(1)
+
+tratámos  (2)
+	tratámos		(1)
+	tratàmos		(1)
+
+trazenos  (2)
+	trazemnos		(1)
+	trazenos		(1)
+
+tritões  (2)
+	tritoens		(1)
+	tritões		(1)
+
+trucidam  (2)
+	trucidam		(1)
+	trucidao		(1)
+
+tuins  (2)
+	tuins		(1)
+	tuyns		(1)
+
+tuta  (2)
+	tuta		(1)
+	tutta		(1)
+
+ulissiponense  (2)
+	ulissiponense		(1)
+	ulissyponense		(1)
+
+umbela  (2)
+	umbela		(1)
+	umbella		(1)
+
+untuoso  (2)
+	unctuoso		(1)
+	untuoso		(1)
+
+usurpam  (2)
+	usurpam		(1)
+	usurpão		(1)
+
+uzam  (2)
+	uzam		(1)
+	uzaõ		(1)
+
+vadeiam  (2)
+	vadeam		(1)
+	vadeiao		(1)
+
+vagabundeia  (2)
+	vagabundea		(1)
+	vagabundeia		(1)
+
+vaudevile  (2)
+	vaudevile		(1)
+	vaudeville		(1)
+
+venhame  (2)
+	venhame		(1)
+	venhamme		(1)
+
+veno  (2)
+	vemno		(1)
+	veno		(1)
+
+vexia  (2)
+	vecchia		(1)
+	vechia		(1)
+
+vitis  (2)
+	victis		(1)
+	vitis		(1)
+
+vitus  (2)
+	victus		(1)
+	vitus		(1)
+
+voluminoso  (2)
+	voluminoso		(1)
+	voluminozo		(1)
+
+wolaston  (2)
+	wolaston		(1)
+	wollaston		(1)
+
+xamanos  (2)
+	chamamnos		(1)
+	chamanos		(1)
+
+xeles  (2)
+	cheles		(1)
+	chelles		(1)
+
+xiamai  (2)
+	chiamai		(1)
+	chiammay		(1)
+
+xoravam  (2)
+	choravao		(1)
+	choravão		(1)
+
+xucro  (2)
+	chucro		(1)
+	xucro		(1)
+
