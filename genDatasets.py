@@ -13,6 +13,7 @@ import os
 
 cao_wl = 'colonia_cao.lst'
 mento_wl = 'colonia_mento.lst'
+exclusions_file = 'exclusions.lst'
 
 
 def splitFilename(df):
@@ -66,13 +67,13 @@ except FileExistsError:
     pass
 finally:
     os.chdir('datasets')
-    cao_df.to_csv('cao.csv')
-    mento_df.to_csv('mento.csv')
-    mento_freq.to_csv('mento_freqdist.csv')
-    cao_freq.to_csv('cao_freqdist.csv')
-    merged_df.to_csv('merged.csv')
+    cao_df.to_csv('cao.csv', sep='\t')
+    mento_df.to_csv('mento.csv', sep='\t')
+    mento_freq.to_csv('mento_freqdist.csv', sep='\t')
+    cao_freq.to_csv('cao_freqdist.csv', sep='\t')
+    merged_df.to_csv('merged.csv', sep='\t')
 
-# Debugging data - sanity checks, etc.
+# Debugging - sanity checks, etc.
 os.chdir('../')
 try:
     os.mkdir('debug')
@@ -81,6 +82,10 @@ except FileExistsError:
 finally:
     os.chdir('debug')
 
-    # Write list of words not tagged as nouns
+    # Write a list of words not tagged as nouns
     non_nouns_df = merged_df[merged_df['pos'] != 'NOM']
     non_nouns_df.to_csv('notNOMs.tab', sep='\t')
+
+    # Write a list of tokens with non-nominalized lemmas
+    wrong_lemmas_df = merged_df[merged_df['lemma'].str[-1:] != 'o']
+    wrong_lemmas_df.to_csv('wrong_lemmas.tab', sep='\t')
