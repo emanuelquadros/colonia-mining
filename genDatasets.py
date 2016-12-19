@@ -35,11 +35,23 @@ def freqDist(series):
     return pd.DataFrame(freqs, columns=['word', 'freq'])
 
 
+def applyExclusions(df, excl, cols = ['token', 'lemma']):
+    for col in cols:
+        df = df[df[col].isin(excl) == False]
+    return df
+
+# Load exclusions file:
+with open(exclusions_file, 'r') as exc:
+    exclusions = [line.strip() for line in exc]
+
 # Read data frames
 cao_df = pd.read_table(cao_wl)
 cao_df = splitFilename(cao_df)
+cao_df = applyExclusions(cao_df, exclusions)
 mento_df = pd.read_table(mento_wl)
 mento_df = splitFilename(mento_df)
+mento_df = applyExclusions(mento_df, exclusions)
+
 merged_df = pd.concat([cao_df, mento_df], ignore_index = True,
                       keys = ['cao', 'mento'])
 
