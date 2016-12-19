@@ -1,432 +1,432 @@
-,word,freq
-0,sentimento,667
-1,pensamento,648
-2,movimento,641
-3,entendimento,304
-4,conhecimento,278
-5,contentamento,176
-6,merecimento,169
-7,juramento,139
-8,sofrimento,128
-9,esquecimento,112
-10,tratamento,110
-11,cumprimento,107
-12,estabelecimento,107
-13,procedimento,104
-14,arrependimento,101
-15,reconhecimento,95
-16,aborrecimento,88
-17,acampamento,87
-18,regimento,87
-19,acontecimento,84
-20,agradecimento,77
-21,divertimento,77
-22,atrevimento,76
-23,abatimento,73
-24,consentimento,69
-25,desenvolvimento,66
-26,acanhamento,61
-27,rendimento,58
-28,ressentimento,54
-29,recolhimento,53
-30,pagamento,50
-31,requerimento,46
-32,impedimento,45
-33,acompanhamento,45
-34,constrangimento,45
-35,mantimento,41
-36,rompimento,40
-37,isolamento,40
-38,pressentimento,40
-39,desapontamento,37
-40,estremecimento,37
-41,ornamento,36
-42,oferecimento,35
-43,aparecimento,34
-44,deslumbramento,34
-45,ajuntamento,33
-46,crescimento,32
-47,fingimento,29
-48,valimento,25
-49,assentimento,24
-50,vencimento,23
-51,descobrimento,23
-52,descontentamento,23
-53,salvamento,22
-54,provimento,22
-55,encarecimento,22
-56,adiantamento,22
-57,acolhimento,21
-58,cruzamento,21
-59,afastamento,20
-60,entorpecimento,19
-61,enternecimento,19
-62,aniquilamento,19
-63,desdobramento,19
-64,seguimento,18
-65,relaxamento,17
-66,arrebatamento,17
-67,levantamento,16
-68,aproveitamento,16
-69,melhoramento,16
-70,acatamento,16
-71,prolongamento,15
-72,encantamento,15
-73,desvanecimento,14
-74,recebimento,14
-75,carregamento,14
-76,ferimento,14
-77,acomodamento,14
-78,restabelecimento,13
-79,luzimento,13
-80,orçamento,13
-81,julgamento,13
-82,falecimento,13
-83,esgotamento,12
-84,atordoamento,12
-85,povoamento,12
-86,nacimento,12
-87,encerramento,12
-88,saimento,11
-89,depoimento,11
-90,arrendamento,11
-91,livramento,11
-92,florescimento,11
-93,aviltamento,11
-94,enfraquecimento,11
-95,retraimento,11
-96,fornecimento,10
-97,renascimento,10
-98,agrupamento,10
-99,desfalecimento,10
-100,destacamento,10
-101,entrelaçamento,10
-102,alojamento,10
-103,desaparecimento,10
-104,andamento,10
-105,enfadamento,10
-106,fardamento,10
-107,comportamento,9
-108,passamento,9
-109,acometimento,9
-110,açodamento,9
-111,regulamento,9
-112,medicamento,9
-113,acrescentamento,8
-114,aperfeiçoamento,8
-115,mandamento,8
-116,desprendimento,8
-117,ensinamento,8
-118,enterramento,8
-119,aviamento,8
-120,adormecimento,8
-121,alinhamento,7
-122,padecimento,7
-123,equipamento,7
-124,esmagamento,7
-125,polimento,7
-126,dissentimento,7
-127,recrutamento,6
-128,desabamento,6
-129,esclarecimento,6
-130,desvairamento,6
-131,desabrimento,6
-132,baralhamento,6
-133,calçamento,6
-134,armamento,6
-135,rebaixamento,6
-136,resfriamento,6
-137,insulamento,6
-138,fuzilamento,5
-139,transbordamento,5
-140,desmoronamento,5
-141,adiamento,5
-142,espreguiçamento,5
-143,acabamento,5
-144,defloramento,5
-145,perdimento,5
-146,recenseamento,5
-147,apuramento,5
-148,crecimento,5
-149,cozimento,5
-150,vigamento,5
-151,esvazamento,5
-152,cometimento,5
-153,encanamento,5
-154,estouvamento,5
-155,desolamento,4
-156,derramamento,4
-157,comprometimento,4
-158,descaramento,4
-159,renunciamento,4
-160,embevecimento,4
-161,atravancamento,4
-162,sortimento,4
-163,encadeamento,4
-164,escapamento,4
-165,revestimento,4
-166,madeiramento,4
-167,apagamento,4
-168,estremunhamento,4
-169,abastecimento,4
-170,discernimento,4
-171,arruamento,3
-172,comparecimento,3
-173,cabimento,3
-174,abafamento,3
-175,razoamento,3
-176,estonteamento,3
-177,apontamento,3
-178,encarniçamento,3
-179,embasamento,3
-180,agastamento,3
-181,avançamento,3
-182,espingardeiamento,3
-183,esvaecimento,3
-184,alastramento,3
-185,quebrantamento,3
-186,incitamento,3
-187,encruzamento,3
-188,lançamento,3
-189,desmembramento,3
-190,batimento,3
-191,achamento,3
-192,comedimento,3
-193,nivelamento,3
-194,fechamento,3
-195,reviramento,3
-196,prosseguimento,3
-197,ajustamento,3
-198,desconhecimento,2
-199,acabrunhamento,2
-200,assanhamento,2
-201,envenenamento,2
-202,exaltamento,2
-203,entroncamento,2
-204,arrebentamento,2
-205,afloramento,2
-206,desavergonhamento,2
-207,travamento,2
-208,enredamento,2
-209,esmorecimento,2
-210,apresamento,2
-211,embotamento,2
-212,empertigamento,2
-213,definhamento,2
-214,destripamento,2
-215,congraçamento,2
-216,filhamento,2
-217,encilhamento,2
-218,sovertimento,2
-219,aldeamento,2
-220,caldeamento,2
-221,pronunciamento,2
-222,embrutecimento,2
-223,encolhimento,2
-224,empreendimento,2
-225,emprazamento,2
-226,assentamento,2
-227,devotamento,2
-228,afrouxamento,2
-229,desbaratamento,2
-230,alheamento,2
-231,requirimento,2
-232,strumento,2
-233,ardimento,2
-234,moimento,2
-235,arrefecimento,2
-236,esboroamento,2
-237,rifacimento,2
-238,depauperamento,2
-239,estrangulamento,2
-240,desenfreamento,2
-241,enobrecimento,2
-242,alevantamento,2
-243,entrincheiramento,2
-244,atilamento,2
-245,lineamento,2
-246,amolecimento,2
-247,finamento,2
-248,desregramento,2
-249,desfaçamento,2
-250,escoamento,2
-251,eriçamento,2
-252,despimento,2
-253,espancamento,2
-254,embasbacamento,1
-255,exremento,1
-256,despojamento,1
-257,extenuamento,1
-258,desencadeamento,1
-259,revolvimento,1
-260,aleijamento,1
-261,enriquecimento,1
-262,encaliçamento,1
-263,fervilhamento,1
-264,linchamento,1
-265,encorajamento,1
-266,supplemento,1
-267,travejamento,1
-268,afogueiamento,1
-269,lojamento,1
-270,xamejamento,1
-271,emperramento,1
-272,repartimento,1
-273,porejamento,1
-274,estridulamento,1
-275,torvamento,1
-276,iniciamento,1
-277,endemoninhamento,1
-278,arlamento,1
-279,desnorteiamento,1
-280,desnervamento,1
-281,bamboleiamento,1
-282,descaimento,1
-283,esfacelamento,1
-284,titubeamento,1
-285,desenxabimento,1
-286,perecimento,1
-287,arrepentimento,1
-288,desengonçamento,1
-289,acampanhamento,1
-290,amanhecimento,1
-291,mamento,1
-292,acorrentamento,1
-293,formigamento,1
-294,esvaziamento,1
-295,miserávelinstrumento,1
-296,enfartamento,1
-297,empedramento,1
-298,despovoamento,1
-299,desbotamento,1
-300,deferimento,1
-301,refrangimento,1
-302,esbatimento,1
-303,enlaçamento,1
-304,banimento,1
-305,prometimento,1
-306,empacamento,1
-307,fortalecimento,1
-308,elevamento,1
-309,desbragamento,1
-310,estraçoamento,1
-311,deperecimento,1
-312,emasculamento,1
-313,enervamento,1
-314,ligamento,1
-315,descumprimento,1
-316,fracionamento,1
-317,apedrejamento,1
-318,embelezamento,1
-319,entravamento,1
-320,asfaltamento,1
-321,desmerecimento,1
-322,apercebimento,1
-323,alquebramento,1
-324,arrepiamento,1
-325,retardamento,1
-326,transvasamento,1
-327,preenchimento,1
-328,esfalfamento,1
-329,retesamento,1
-330,engrandecimento,1
-331,desagradecimento,1
-332,embaciamento,1
-333,apegamento,1
-334,resvalamento,1
-335,alargamento,1
-336,ajardinamento,1
-337,confrangimento,1
-338,desnudamento,1
-339,casaramento,1
-340,intrometimento,1
-341,desfloramento,1
-342,acaparamento,1
-343,renovamento,1
-344,abastardamento,1
-345,esormento,1
-346,abrimento,1
-347,sofri-mento,1
-348,cobrejamento,1
-349,gradeamento,1
-350,afeiçoamento,1
-351,aprazimento,1
-352,aplainamento,1
-353,arrasamento,1
-354,funcionamento,1
-355,aditamento,1
-356,pegamento,1
-357,quéntendimento,1
-358,despedimento,1
-359,adjumento,1
-360,arrastamento,1
-361,remordimento,1
-362,desmazelamento,1
-363,aferramento,1
-364,acionamento,1
-365,obscurecimento,1
-366,afrontamento,1
-367,envelhecimento,1
-368,entupimento,1
-369,deslocamento,1
-370,compadecimento,1
-371,semi-enterramento,1
-372,desfibramento,1
-373,nutrimento,1
-374,fornimento,1
-375,qu'entendimento,1
-376,tocamento,1
-377,enfastiamento,1
-378,enxovalhamento,1
-379,amortecimento,1
-380,entocamento,1
-381,agachamento,1
-382,abarracamento,1
-383,emparelhamento,1
-384,amancebamento,1
-385,irmpedimento,1
-386,empastelamento,1
-387,empilhamento,1
-388,balbuciamento,1
-389,rinnovamento,1
-390,exalçamento,1
-391,policiamento,1
-392,cognomento,1
-393,empoeiramento,1
-394,libertamento,1
-395,bombardeamento,1
-396,alagamento,1
-397,falseamento,1
-398,amarfanhamento,1
-399,esborraxamento,1
-400,corrimento,1
-401,enrugamento,1
-402,apoucamento,1
-403,sustentamento,1
-404,descoroçoamento,1
-405,esbanjamento,1
-406,sacudimento,1
-407,arrebanhamento,1
-408,empastamento,1
-409,turvamento,1
-410,desalumbramento,1
-411,recuamento,1
-412,ripamento,1
-413,negrejamento,1
-414,deslindamento,1
-415,açoitamento,1
-416,muramento,1
-417,sermento,1
-418,parcelamento,1
-419,desenfadamento,1
-420,caiamento,1
-421,apodrecimento,1
-422,espanejamento,1
-423,transviamento,1
-424,distraimento,1
-425,quebramento,1
-426,agravamento,1
-427,estrebuchamento,1
-428,embranquecimento,1
-429,arreamento,1
-430,reconditamento,1
+	word	freq
+0	sentimento	667
+1	pensamento	648
+2	movimento	641
+3	entendimento	304
+4	conhecimento	278
+5	contentamento	176
+6	merecimento	169
+7	juramento	139
+8	sofrimento	128
+9	esquecimento	112
+10	tratamento	110
+11	estabelecimento	107
+12	cumprimento	107
+13	procedimento	104
+14	arrependimento	101
+15	reconhecimento	95
+16	aborrecimento	88
+17	acampamento	87
+18	regimento	87
+19	acontecimento	84
+20	divertimento	77
+21	agradecimento	77
+22	atrevimento	76
+23	abatimento	73
+24	consentimento	69
+25	desenvolvimento	66
+26	acanhamento	61
+27	rendimento	58
+28	ressentimento	54
+29	recolhimento	53
+30	pagamento	50
+31	requerimento	46
+32	acompanhamento	45
+33	constrangimento	45
+34	impedimento	45
+35	mantimento	41
+36	isolamento	40
+37	pressentimento	40
+38	rompimento	40
+39	desapontamento	37
+40	estremecimento	37
+41	ornamento	36
+42	oferecimento	35
+43	aparecimento	34
+44	deslumbramento	34
+45	ajuntamento	33
+46	crescimento	32
+47	fingimento	29
+48	valimento	25
+49	assentimento	24
+50	descobrimento	23
+51	descontentamento	23
+52	vencimento	23
+53	adiantamento	22
+54	provimento	22
+55	encarecimento	22
+56	salvamento	22
+57	cruzamento	21
+58	acolhimento	21
+59	afastamento	20
+60	aniquilamento	19
+61	desdobramento	19
+62	enternecimento	19
+63	entorpecimento	19
+64	seguimento	18
+65	relaxamento	17
+66	arrebatamento	17
+67	melhoramento	16
+68	acatamento	16
+69	aproveitamento	16
+70	levantamento	16
+71	prolongamento	15
+72	encantamento	15
+73	recebimento	14
+74	carregamento	14
+75	acomodamento	14
+76	desvanecimento	14
+77	ferimento	14
+78	luzimento	13
+79	restabelecimento	13
+80	orçamento	13
+81	falecimento	13
+82	julgamento	13
+83	nacimento	12
+84	esgotamento	12
+85	encerramento	12
+86	povoamento	12
+87	atordoamento	12
+88	retraimento	11
+89	aviltamento	11
+90	saimento	11
+91	livramento	11
+92	depoimento	11
+93	enfraquecimento	11
+94	florescimento	11
+95	arrendamento	11
+96	fardamento	10
+97	desaparecimento	10
+98	entrelaçamento	10
+99	enfadamento	10
+100	fornecimento	10
+101	alojamento	10
+102	renascimento	10
+103	destacamento	10
+104	agrupamento	10
+105	andamento	10
+106	desfalecimento	10
+107	medicamento	9
+108	açodamento	9
+109	acometimento	9
+110	regulamento	9
+111	passamento	9
+112	comportamento	9
+113	desprendimento	8
+114	acrescentamento	8
+115	enterramento	8
+116	adormecimento	8
+117	mandamento	8
+118	aperfeiçoamento	8
+119	ensinamento	8
+120	aviamento	8
+121	alinhamento	7
+122	polimento	7
+123	dissentimento	7
+124	equipamento	7
+125	padecimento	7
+126	esmagamento	7
+127	rebaixamento	6
+128	calçamento	6
+129	desabamento	6
+130	esclarecimento	6
+131	insulamento	6
+132	baralhamento	6
+133	desvairamento	6
+134	recrutamento	6
+135	resfriamento	6
+136	armamento	6
+137	desabrimento	6
+138	defloramento	5
+139	esvazamento	5
+140	perdimento	5
+141	crecimento	5
+142	apuramento	5
+143	cometimento	5
+144	espreguiçamento	5
+145	acabamento	5
+146	desmoronamento	5
+147	fuzilamento	5
+148	vigamento	5
+149	cozimento	5
+150	transbordamento	5
+151	estouvamento	5
+152	encanamento	5
+153	recenseamento	5
+154	adiamento	5
+155	comprometimento	4
+156	revestimento	4
+157	renunciamento	4
+158	embevecimento	4
+159	madeiramento	4
+160	desolamento	4
+161	derramamento	4
+162	estremunhamento	4
+163	atravancamento	4
+164	sortimento	4
+165	escapamento	4
+166	discernimento	4
+167	descaramento	4
+168	abastecimento	4
+169	apagamento	4
+170	encadeamento	4
+171	comedimento	3
+172	espingardeiamento	3
+173	encruzamento	3
+174	razoamento	3
+175	desmembramento	3
+176	quebrantamento	3
+177	embasamento	3
+178	alastramento	3
+179	achamento	3
+180	nivelamento	3
+181	reviramento	3
+182	incitamento	3
+183	batimento	3
+184	esvaecimento	3
+185	cabimento	3
+186	agastamento	3
+187	arruamento	3
+188	prosseguimento	3
+189	encarniçamento	3
+190	abafamento	3
+191	comparecimento	3
+192	apontamento	3
+193	ajustamento	3
+194	estonteamento	3
+195	fechamento	3
+196	lançamento	3
+197	avançamento	3
+198	enredamento	2
+199	apresamento	2
+200	alevantamento	2
+201	caldeamento	2
+202	desconhecimento	2
+203	destripamento	2
+204	arrebentamento	2
+205	envenenamento	2
+206	ardimento	2
+207	definhamento	2
+208	encilhamento	2
+209	rifacimento	2
+210	eriçamento	2
+211	strumento	2
+212	alheamento	2
+213	empreendimento	2
+214	finamento	2
+215	encolhimento	2
+216	entroncamento	2
+217	assentamento	2
+218	amolecimento	2
+219	moimento	2
+220	aldeamento	2
+221	pronunciamento	2
+222	devotamento	2
+223	exaltamento	2
+224	afrouxamento	2
+225	filhamento	2
+226	depauperamento	2
+227	embotamento	2
+228	esboroamento	2
+229	desregramento	2
+230	congraçamento	2
+231	desbaratamento	2
+232	arrefecimento	2
+233	esmorecimento	2
+234	desfaçamento	2
+235	travamento	2
+236	requirimento	2
+237	sovertimento	2
+238	estrangulamento	2
+239	enobrecimento	2
+240	empertigamento	2
+241	emprazamento	2
+242	embrutecimento	2
+243	entrincheiramento	2
+244	afloramento	2
+245	acabrunhamento	2
+246	desenfreamento	2
+247	lineamento	2
+248	escoamento	2
+249	despimento	2
+250	desavergonhamento	2
+251	espancamento	2
+252	atilamento	2
+253	assanhamento	2
+254	desagradecimento	1
+255	titubeamento	1
+256	amanhecimento	1
+257	esfalfamento	1
+258	apoucamento	1
+259	enfastiamento	1
+260	deslindamento	1
+261	desbragamento	1
+262	emparelhamento	1
+263	compadecimento	1
+264	gradeamento	1
+265	policiamento	1
+266	resvalamento	1
+267	aferramento	1
+268	deperecimento	1
+269	ajardinamento	1
+270	perecimento	1
+271	aditamento	1
+272	desmazelamento	1
+273	empastamento	1
+274	enxovalhamento	1
+275	agravamento	1
+276	sacudimento	1
+277	linchamento	1
+278	formigamento	1
+279	amortecimento	1
+280	desalumbramento	1
+281	acionamento	1
+282	arlamento	1
+283	enervamento	1
+284	apercebimento	1
+285	desnervamento	1
+286	embasbacamento	1
+287	enfartamento	1
+288	descaimento	1
+289	transvasamento	1
+290	supplemento	1
+291	bombardeamento	1
+292	apedrejamento	1
+293	amarfanhamento	1
+294	cobrejamento	1
+295	travejamento	1
+296	alargamento	1
+297	endemoninhamento	1
+298	esbatimento	1
+299	desmerecimento	1
+300	reconditamento	1
+301	desnorteiamento	1
+302	entocamento	1
+303	casaramento	1
+304	exremento	1
+305	confrangimento	1
+306	libertamento	1
+307	arrepentimento	1
+308	empastelamento	1
+309	acorrentamento	1
+310	exalçamento	1
+311	empoeiramento	1
+312	intrometimento	1
+313	obscurecimento	1
+314	desfloramento	1
+315	pegamento	1
+316	revolvimento	1
+317	balbuciamento	1
+318	arreamento	1
+319	rinnovamento	1
+320	emperramento	1
+321	renovamento	1
+322	aleijamento	1
+323	estraçoamento	1
+324	repartimento	1
+325	espanejamento	1
+326	apegamento	1
+327	corrimento	1
+328	fervilhamento	1
+329	desnudamento	1
+330	açoitamento	1
+331	refrangimento	1
+332	engrandecimento	1
+333	desbotamento	1
+334	falseamento	1
+335	fornimento	1
+336	cognomento	1
+337	abrimento	1
+338	esvaziamento	1
+339	fortalecimento	1
+340	caiamento	1
+341	muramento	1
+342	aprazimento	1
+343	esbanjamento	1
+344	esfacelamento	1
+345	agachamento	1
+346	empilhamento	1
+347	porejamento	1
+348	aplainamento	1
+349	tocamento	1
+350	remordimento	1
+351	prometimento	1
+352	estridulamento	1
+353	empedramento	1
+354	qu'entendimento	1
+355	distraimento	1
+356	descoroçoamento	1
+357	apodrecimento	1
+358	sermento	1
+359	retardamento	1
+360	despedimento	1
+361	enriquecimento	1
+362	descumprimento	1
+363	quebramento	1
+364	abastardamento	1
+365	elevamento	1
+366	desengonçamento	1
+367	retesamento	1
+368	xamejamento	1
+369	sustentamento	1
+370	esborraxamento	1
+371	estrebuchamento	1
+372	desenxabimento	1
+373	banimento	1
+374	envelhecimento	1
+375	embaciamento	1
+376	emasculamento	1
+377	afeiçoamento	1
+378	desenfadamento	1
+379	preenchimento	1
+380	embranquecimento	1
+381	miserávelinstrumento	1
+382	iniciamento	1
+383	acampanhamento	1
+384	empacamento	1
+385	desfibramento	1
+386	enrugamento	1
+387	embelezamento	1
+388	transviamento	1
+389	parcelamento	1
+390	semi-enterramento	1
+391	sofri-mento	1
+392	arrastamento	1
+393	esormento	1
+394	negrejamento	1
+395	desencadeamento	1
+396	despovoamento	1
+397	acaparamento	1
+398	encorajamento	1
+399	entravamento	1
+400	turvamento	1
+401	arrasamento	1
+402	arrebanhamento	1
+403	alquebramento	1
+404	fracionamento	1
+405	nutrimento	1
+406	despojamento	1
+407	extenuamento	1
+408	deferimento	1
+409	afrontamento	1
+410	torvamento	1
+411	funcionamento	1
+412	deslocamento	1
+413	ligamento	1
+414	encaliçamento	1
+415	quéntendimento	1
+416	mamento	1
+417	enlaçamento	1
+418	afogueiamento	1
+419	abarracamento	1
+420	amancebamento	1
+421	bamboleiamento	1
+422	entupimento	1
+423	asfaltamento	1
+424	adjumento	1
+425	ripamento	1
+426	arrepiamento	1
+427	alagamento	1
+428	lojamento	1
+429	recuamento	1
+430	irmpedimento	1

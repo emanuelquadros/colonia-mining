@@ -1,1135 +1,1135 @@
-,word,freq
-0,resolução,397
-1,imaginação,385
-2,educação,358
-3,obrigação,335
-4,oração,323
-5,admiração,318
-6,conversação,284
-7,assunção,220
-8,disposição,214
-9,explicação,212
-10,consideração,193
-11,salvação,189
-12,consolação,186
-13,devoção,185
-14,indignação,181
-15,eleição,176
-16,separação,159
-17,geração,148
-18,reputação,144
-19,conservação,143
-20,inclinação,143
-21,civilização,137
-22,preocupação,137
-23,aflição,136
-24,dedicação,135
-25,execução,127
-26,proteção,125
-27,invenção,121
-28,criação,120
-29,tenção,120
-30,observação,118
-31,contemplação,117
-32,narração,117
-33,instrução,117
-34,agitação,116
-35,oposição,115
-36,expedição,115
-37,distinção,109
-38,repartição,104
-39,respiração,103
-40,acção,102
-41,traição,101
-42,resignação,100
-43,composição,100
-44,ocupação,95
-45,representação,95
-46,revelação,95
-47,declaração,93
-48,emancipação,92
-49,tentação,89
-50,comparação,86
-51,inspiração,83
-52,humilhação,83
-53,inquietação,82
-54,intervenção,81
-55,constituição,80
-56,aplicação,80
-57,imitação,80
-58,veneração,79
-59,administração,79
-60,hesitação,79
-61,descrição,76
-62,recordação,75
-63,significação,74
-64,compensação,74
-65,povoação,71
-66,perturbação,71
-67,adoração,70
-68,continuação,69
-69,navegação,69
-70,habitação,68
-71,embarcação,68
-72,comunicação,68
-73,reconciliação,68
-74,construção,67
-75,instituição,67
-76,exclamação,67
-77,quietação,66
-78,animação,66
-79,exposição,63
-80,recomendação,63
-81,doação,63
-82,perdição,62
-83,reiação,60
-84,alteração,60
-85,destruição,60
-86,contradição,58
-87,tradução,58
-88,organização,58
-89,informação,57
-90,perseguição,57
-91,sujeição,56
-92,corrupção,56
-93,presunção,54
-94,aparição,53
-95,aprovação,52
-96,transformação,52
-97,conspiração,52
-98,formação,52
-99,dissimulação,51
-100,exaltação,51
-101,confirmação,50
-102,pregação,50
-103,moderação,50
-104,distração,50
-105,devação,49
-106,excitação,49
-107,elevação,48
-108,restauração,48
-109,evolução,48
-110,demonstração,47
-111,abnegação,45
-112,operação,45
-113,denominação,45
-114,manifestação,44
-115,realização,44
-116,abolição,43
-117,encarnação,43
-118,suposição,42
-119,fundação,42
-120,sedução,42
-121,edição,41
-122,recepção,41
-123,nomeação,41
-124,mutação,41
-125,meditação,41
-126,benção,41
-127,desesperação,40
-128,peregrinação,40
-129,definição,39
-130,repetição,39
-131,fascinação,39
-132,prevenção,39
-133,proposição,38
-134,afetação,38
-135,vibração,38
-136,determinação,37
-137,aclamação,37
-138,mortificação,37
-139,extinção,37
-140,redacção,37
-141,interrupção,36
-142,correção,35
-143,combinação,35
-144,atração,35
-145,aproximação,35
-146,distribuição,35
-147,obstinação,35
-148,duração,35
-149,especulação,34
-150,negociação,34
-151,irritação,34
-152,interrogação,34
-153,viração,33
-154,aceitação,33
-155,saudação,33
-156,objeção,33
-157,recreação,32
-158,ligação,32
-159,publicação,32
-160,ilustração,32
-161,concepção,32
-162,condenação,31
-163,reparação,31
-164,aspiração,31
-165,ostentação,30
-166,restituição,30
-167,dissolução,30
-168,unção,29
-169,afirmação,29
-170,concentração,28
-171,degradação,28
-172,exploração,28
-173,irradiação,28
-174,desconsolação,28
-175,apresentação,28
-176,adulação,27
-177,absolvição,27
-178,isenção,27
-179,deliberação,27
-180,punição,27
-181,interpretação,26
-182,diminuição,26
-183,ponderação,26
-184,terminação,26
-185,desolação,25
-186,iluminação,25
-187,edificação,25
-188,associação,24
-189,acusação,24
-190,produção,24
-191,precipitação,24
-192,penetração,24
-193,justificação,24
-194,indicação,24
-195,preparação,23
-196,intuição,23
-197,contrição,23
-198,protecção,23
-199,emulação,23
-200,circulação,23
-201,introdução,22
-202,murmuração,22
-203,intimação,22
-204,exageração,21
-205,instalação,21
-206,profanação,21
-207,negação,21
-208,reprodução,21
-209,prostração,21
-210,invocação,21
-211,privação,20
-212,propagação,20
-213,aquisição,20
-214,reprovação,20
-215,consternação,20
-216,decomposição,20
-217,legislação,20
-218,cerração,19
-219,inscrição,19
-220,alimentação,19
-221,prostituição,19
-222,consagração,19
-223,provocação,18
-224,colaboração,18
-225,congregação,18
-226,insinuação,18
-227,promoção,18
-228,alucinação,18
-229,decoração,18
-230,detenção,17
-231,visitação,17
-232,conformação,17
-233,entonação,17
-234,inundação,17
-235,imposição,17
-236,participação,17
-237,abstração,16
-238,exalação,16
-239,complicação,16
-240,sustentação,16
-241,tribulação,16
-242,liquidação,16
-243,regeneração,16
-244,fortificação,16
-245,coroação,15
-246,gestação,15
-247,ondulação,15
-248,provação,15
-249,estupefação,15
-250,depravação,15
-251,colecção,15
-252,afectação,15
-253,conciliação,15
-254,direcção,15
-255,pronunciação,15
-256,palpitação,15
-257,predição,15
-258,evocação,15
-259,colocação,14
-260,percepção,14
-261,exibição,14
-262,comiseração,14
-263,dominação,14
-264,reformação,14
-265,escrituração,14
-266,ordenação,14
-267,legação,14
-268,imigração,14
-269,colonização,13
-270,renovação,13
-271,graduação,13
-272,contestação,13
-273,violação,13
-274,constipação,13
-275,contração,13
-276,rotação,13
-277,declinação,13
-278,oscilação,13
-279,deserção,13
-280,relaxação,13
-281,absorção,12
-282,subordinação,12
-283,excepção,12
-284,designação,12
-285,limitação,12
-286,reconstrução,12
-287,acumulação,12
-288,apreciação,12
-289,carnação,12
-290,usurpação,12
-291,adaptação,12
-292,proibição,12
-293,abdicação,12
-294,derivação,12
-295,importação,12
-296,proclamação,12
-297,reabilitação,12
-298,subscrição,12
-299,carregação,12
-300,citação,12
-301,gratificação,12
-302,procriação,11
-303,orientação,11
-304,cotação,11
-305,pontuação,11
-306,vexação,11
-307,cintilação,11
-308,correcção,11
-309,vadiação,11
-310,dedução,11
-311,expiação,11
-312,estremeção,11
-313,natação,11
-314,demolição,11
-315,dilatação,11
-316,autorização,10
-317,equivocação,10
-318,filiação,10
-319,indagação,10
-320,quitação,10
-321,traducção,10
-322,antecipação,10
-323,altercação,10
-324,creiação,10
-325,nutrição,10
-326,multiplicação,10
-327,condução,10
-328,confederação,10
-329,conjuração,10
-330,pertenção,10
-331,libertação,10
-332,purificação,9
-333,redução,9
-334,inquirição,9
-335,imprecação,9
-336,evaporação,9
-337,classificação,9
-338,substituição,9
-339,procuração,9
-340,exacerbação,9
-341,arrumação,9
-342,cação,9
-343,labutação,9
-344,exprobração,9
-345,glorificação,9
-346,alienação,9
-347,exportação,9
-348,ratificação,9
-349,comutação,8
-350,abstenção,8
-351,emigração,8
-352,predestinação,8
-353,iniciação,8
-354,movimentação,8
-355,cooperação,8
-356,armação,8
-357,emanação,8
-358,instrucção,8
-359,revogação,8
-360,exasperação,8
-361,celebração,8
-362,compunção,8
-363,fulguração,8
-364,importunação,8
-365,cessação,8
-366,reclamação,8
-367,atrapalhação,8
-368,consumação,8
-369,jurdição,8
-370,indenização,8
-371,modificação,8
-372,arribação,8
-373,inchação,8
-374,suplicação,8
-375,averiguação,7
-376,logração,7
-377,transpiração,7
-378,investigação,7
-379,recriminação,7
-380,simulação,7
-381,deminuição,7
-382,apelação,7
-383,votação,7
-384,lanção,7
-385,desmoralização,7
-386,abominação,7
-387,inflamação,7
-388,mastreiação,7
-389,encenação,7
-390,remuneração,7
-391,arção,7
-392,extrema-unção,7
-393,transfiguração,7
-394,gesticulação,7
-395,contribuição,7
-396,expectação,7
-397,mistificação,7
-398,mobilização,7
-399,degeneração,7
-400,eliminação,7
-401,premeditação,6
-402,argumentação,6
-403,extração,6
-404,devastação,6
-405,asseveração,6
-406,verificação,6
-407,sublevação,6
-408,interpelação,6
-409,acomodação,6
-410,admoestação,6
-411,sucção,6
-412,plantação,6
-413,dissipação,6
-414,dissertação,6
-415,infecção,6
-416,desaparição,6
-417,declamação,6
-418,prescrição,6
-419,atracção,6
-420,abonação,6
-421,execração,6
-422,crepitação,6
-423,decifração,6
-424,deleitação,6
-425,fiscalização,6
-426,elaboração,6
-427,aglomeração,6
-428,protestação,6
-429,vacilação,6
-430,exortação,6
-431,idealização,6
-432,floração,6
-433,rendição,6
-434,condensação,6
-435,colação,6
-436,personificação,6
-437,delação,5
-438,elocução,5
-439,apuração,5
-440,difamação,5
-441,espoliação,5
-442,configuração,5
-443,enfatuação,5
-444,entalação,5
-445,dispensação,5
-446,impugnação,5
-447,sobreexcitação,5
-448,desconsideração,5
-449,caracterização,5
-450,encadernação,5
-451,confrontação,5
-452,pulverização,5
-453,desorganização,5
-454,baldeação,5
-455,estagnação,5
-456,habilitação,5
-457,atarantação,5
-458,instrumentação,5
-459,alternação,5
-460,prolongação,5
-461,enumeração,5
-462,reverberação,5
-463,fermentação,5
-464,lamentação,5
-465,numeração,5
-466,ornamentação,5
-467,ebulição,5
-468,cogitação,5
-469,pulsação,5
-470,comemoração,4
-471,distincção,4
-472,implicação,4
-473,instigação,4
-474,amortização,4
-475,conflagração,4
-476,cansanção,4
-477,modulação,4
-478,acclamação,4
-479,predisposição,4
-480,approvação,4
-481,seducção,4
-482,tradicção,4
-483,divulgação,4
-484,circunspeção,4
-485,inspecção,4
-486,turvação,4
-487,esquipação,4
-488,reção,4
-489,falsificação,4
-490,reconstituição,4
-491,consolidação,4
-492,desafinação,4
-493,refutação,4
-494,presumpção,4
-495,naturalização,4
-496,contorção,4
-497,locomoção,4
-498,constrição,4
-499,demarcação,4
-500,condecoração,4
-501,variação,4
-502,seriação,4
-503,distracção,4
-504,imputação,4
-505,sussurração,4
-506,solicitação,4
-507,centralização,4
-508,delegação,4
-509,aclimação,4
-510,computação,4
-511,bajulação,4
-512,parturição,4
-513,transcrição,4
-514,faiscação,4
-515,capitulação,4
-516,cristalização,4
-517,retribuição,4
-518,agravação,4
-519,mareação,4
-520,flagelação,4
-521,renunciação,4
-522,implantação,4
-523,retração,4
-524,insubordinação,4
-525,retrospecção,4
-526,introducção,4
-527,indução,4
-528,ablução,4
-529,inovação,4
-530,inauguração,3
-531,denegação,3
-532,alheação,3
-533,adopção,3
-534,locação,3
-535,despreocupação,3
-536,mediação,3
-537,justaposição,3
-538,integração,3
-539,fabricação,3
-540,retratação,3
-541,transmigração,3
-542,trasladação,3
-543,flutuação,3
-544,anulação,3
-545,mastigação,3
-546,assimilação,3
-547,mineração,3
-548,pacificação,3
-549,restrição,3
-550,abreviação,3
-551,gravitação,3
-552,orquestração,3
-553,crucificação,3
-554,transmutação,3
-555,degolação,3
-556,medição,3
-557,amamentação,3
-558,coloração,3
-559,descomposição,3
-560,enervação,3
-561,amolação,3
-562,turbação,3
-563,remoção,3
-564,garção,3
-565,avaliação,3
-566,resurreição,3
-567,escavação,3
-568,paralisação,3
-569,conjugação,3
-570,desafeição,3
-571,compreição,3
-572,caiação,3
-573,estratificação,3
-574,circunscrição,3
-575,producção,3
-576,generalização,3
-577,proscrição,3
-578,mangação,3
-579,arrecadação,3
-580,fecundação,3
-581,qualificação,3
-582,adivinhação,3
-583,moralização,3
-584,deslocação,3
-585,bifurcação,3
-586,emitação,3
-587,maquinação,3
-588,exterminação,3
-589,desanimação,3
-590,sugeição,3
-591,interpolação,3
-592,coligação,3
-593,ventilação,3
-594,transposição,3
-595,danação,3
-596,individuação,3
-597,coabitação,3
-598,má-criação,3
-599,desagregação,3
-600,retificação,3
-601,secção,3
-602,malsinação,3
-603,mutilação,3
-604,fulminação,3
-605,metrificação,3
-606,extradição,3
-607,reaparição,3
-608,infusação,3
-609,recuperação,3
-610,improvisação,3
-611,reacção,2
-612,vaporização,2
-613,exceição,2
-614,injunção,2
-615,projeção,2
-616,desligação,2
-617,estrangulação,2
-618,promulgação,2
-619,deputação,2
-620,captação,2
-621,saturação,2
-622,judiação,2
-623,internação,2
-624,deposição,2
-625,destituição,2
-626,rejeição,2
-627,incitação,2
-628,d'uncção,2
-629,infiltração,2
-630,experimentação,2
-631,fixação,2
-632,requisição,2
-633,remodelação,2
-634,extirpação,2
-635,vivissecção,2
-636,começão,2
-637,sufocação,2
-638,contraposição,2
-639,efeminação,2
-640,prefiguração,2
-641,reedificação,2
-642,expugnação,2
-643,impurração,2
-644,crispação,2
-645,identificação,2
-646,opilação,2
-647,entoação,2
-648,assolação,2
-649,atenuação,2
-650,ampliação,2
-651,gradação,2
-652,devolução,2
-653,aposição,2
-654,influição,2
-655,interdição,2
-656,exultação,2
-657,uncção,2
-658,perquisição,2
-659,encomendação,2
-660,recapitulação,2
-661,circunvalação,2
-662,susurração,2
-663,diluição,2
-664,irrigação,2
-665,fundição,2
-666,argüição,2
-667,assumpção,2
-668,copilação,2
-669,frutificação,2
-670,inumação,2
-671,peroração,2
-672,escoriação,2
-673,aniquilação,2
-674,deformação,2
-675,consecução,2
-676,purgação,2
-677,destinação,2
-678,migração,2
-679,prevaricação,2
-680,desaprovação,2
-681,depreciação,2
-682,explanação,2
-683,consunção,2
-684,agregação,2
-685,desembarcação,2
-686,alocução,2
-687,disfarção,2
-688,incorporação,2
-689,lubrificação,2
-690,pação,2
-691,postergação,2
-692,junção,2
-693,lotação,2
-694,sagração,2
-695,arrematação,2
-696,corrução,2
-697,trepidação,2
-698,divinização,2
-699,influïção,2
-700,fraternização,2
-701,matação,2
-702,circunvolução,2
-703,escravização,2
-704,compartição,2
-705,embirração,2
-706,ascenção,2
-707,segregação,2
-708,amigação,2
-709,afeitação,2
-710,extracção,2
-711,indeterminação,2
-712,intuscepção,2
-713,adjetivação,2
-714,legalização,2
-715,meiação,2
-716,notificação,2
-717,articulação,2
-718,persecução,2
-719,transacção,2
-720,tripulação,2
-721,confeição,2
-722,autoviação,2
-723,anunciação,2
-724,alcanção,2
-725,competição,2
-726,equiparação,2
-727,disseminação,2
-728,redempção,2
-729,contricção,2
-730,prescripção,2
-731,gustação,2
-732,titilação,2
-733,refracção,2
-734,coação,2
-735,aambição,2
-736,polvilhação,2
-737,putrefação,2
-738,atrição,2
-739,felicitação,2
-740,bestificação,2
-741,gèração,2
-742,delineação,1
-743,prelibação,1
-744,aceleração,1
-745,d'estimação,1
-746,individualização,1
-747,inebriação,1
-748,atribuição,1
-749,regularização,1
-750,concondição,1
-751,ressuyreição,1
-752,allucinação,1
-753,incorrupção,1
-754,democratização,1
-755,fiscalisação,1
-756,desorientação,1
-757,caceteação,1
-758,_coração,1
-759,apariação,1
-760,afianção,1
-761,reinação,1
-762,costolação,1
-763,porobrigação,1
-764,oblação,1
-765,unificação,1
-766,desintegração,1
-767,confraternização,1
-768,espiritualização,1
-769,horripilação,1
-770,suspeição,1
-771,diferenciação,1
-772,desapropriação,1
-773,inquíetação,1
-774,apropriação,1
-775,obstrução,1
-776,africanização,1
-777,hibernação,1
-778,pseudo-regeneração,1
-779,tergiversação,1
-780,umaação,1
-781,portradição,1
-782,anotação,1
-783,cravação,1
-784,deiatenção,1
-785,d'exaltação,1
-786,contornação,1
-787,ulceração,1
-788,decrição,1
-789,autuação,1
-790,insenção,1
-791,dainstituição,1
-792,intuspecção,1
-793,exteriorização,1
-794,imanação,1
-795,efracção,1
-796,d'assunção,1
-797,paraconservação,1
-798,d'intenção,1
-799,preservação,1
-800,evacuação,1
-801,flirtação,1
-802,transubstanciação,1
-803,calcinação,1
-804,imortificação,1
-805,ocoração,1
-806,exhalação,1
-807,notação,1
-808,vocalização,1
-809,discenção,1
-810,canonização,1
-811,quimificação,1
-812,encangalhação,1
-813,evidenciação,1
-814,amontoação,1
-815,recriação,1
-816,acquisição,1
-817,exprobação,1
-818,adquirirreputação,1
-819,desmoralisação,1
-820,afinação,1
-821,inflição,1
-822,tilintação,1
-823,suarepresentação,1
-824,deixação,1
-825,consiração,1
-826,arborização,1
-827,deiadmiração,1
-828,expropriação,1
-829,reuerberação,1
-830,marcação,1
-831,compilação,1
-832,deportação,1
-833,contratação,1
-834,morigeração,1
-835,intoxicação,1
-836,d'adopção,1
-837,humanação,1
-838,fazmenção,1
-839,relevação,1
-840,senconfiguração,1
-841,superexcitação,1
-842,aconservação,1
-843,solenização,1
-844,aplacação,1
-845,supinação,1
-846,perscrutação,1
-847,d'afflicção,1
-848,leição,1
-849,canalização,1
-850,pulverisação,1
-851,servição,1
-852,desincorporação,1
-853,supplicação,1
-854,inanimação,1
-855,naduração,1
-856,afeminação,1
-857,inquizição,1
-858,imploração,1
-859,sub-repção,1
-860,cujadestruição,1
-861,indemnização,1
-862,amoção,1
-863,isolação,1
-864,ajeitação,1
-865,documentação,1
-866,própriaconservação,1
-867,algumaimperfeição,1
-868,vereação,1
-869,adevinhação,1
-870,amarração,1
-871,pretenção,1
-872,obtenção,1
-873,encaixação,1
-874,semideclaração,1
-875,dacriação,1
-876,ainscrição,1
-877,transplantação,1
-878,suprestição,1
-879,perfei-ção,1
-880,iteração,1
-881,aperreiação,1
-882,tonificação,1
-883,“integração,1
-884,curvilineiação,1
-885,prohibição,1
-886,codificação,1
-887,dacontradição,1
-888,dezesperação,1
-889,inadaptação,1
-890,atropelação,1
-891,recopilação,1
-892,arrendação,1
-893,dignação,1
-894,incubação,1
-895,discripção,1
-896,afli-ção,1
-897,consignação,1
-898,congratulação,1
-899,repurificação,1
-900,vetação,1
-901,empurração,1
-902,reorganização,1
-903,obervação,1
-904,governação,1
-905,regulamentação,1
-906,carroção,1
-907,infanção,1
-908,legitimação,1
-909,ramificação,1
-910,reiaparição,1
-911,espetação,1
-912,desarticulação,1
-913,braganção,1
-914,reincorporação,1
-915,deterioração,1
-916,narepartição,1
-917,tamisação,1
-918,exemplificação,1
-919,prosternação,1
-920,amputação,1
-921,abstracção,1
-922,doutrinação,1
-923,pregustação,1
-924,algumademonstração,1
-925,perfiguração,1
-926,prégação,1
-927,desestimação,1
-928,recreição,1
-929,monumento--emoção,1
-930,amplificação,1
-931,evicção,1
-932,adulteração,1
-933,coriscação,1
-934,detracção,1
-935,“coração,1
-936,vocalisação,1
-937,daextinção,1
-938,prestação,1
-939,destilação,1
-940,erecção,1
-941,elação,1
-942,segundaedição,1
-943,increpação,1
-944,d'irrigação,1
-945,reconsideração,1
-946,santificação,1
-947,injeção,1
-948,depleção,1
-949,esconjuração,1
-950,revivificação,1
-951,propalação,1
-952,nobilitação,1
-953,d'emoção,1
-954,d'arribação,1
-955,obliteração,1
-956,dissenção,1
-957,replicação,1
-958,divagação,1
-959,dignificação,1
-960,rebrilhação,1
-961,cominação,1
-962,dilaceração,1
-963,aimaginação,1
-964,própriainclinação,1
-965,inoculação,1
-966,oição,1
-967,ousignificação,1
-968,reialisação,1
-969,consumição,1
-970,“emancipação,1
-971,grandereputação,1
-972,àproporção,1
-973,confabulação,1
-974,embromação,1
-975,exoneração,1
-976,deflagração,1
-977,pelaobrigação,1
-978,especificação,1
-979,expectoração,1
-980,maisreputação,1
-981,treïção,1
-982,incensação,1
-983,denotação,1
-984,distribuïção,1
-985,aflicção,1
-986,confutação,1
-987,avegetação,1
-988,enublação,1
-989,nossaatenção,1
-990,fragmentação,1
-991,constituïção,1
-992,mormação,1
-993,pareção,1
-994,concatenação,1
-995,algumaporção,1
-996,elucidação,1
-997,contemporização,1
-998,consumpção,1
-999,maceração,1
-1000,prestidigitação,1
-1001,preiocupação,1
-1002,aresolução,1
-1003,umaproposição,1
-1004,d'erudição,1
-1005,pigmentação,1
-1006,siringação,1
-1007,dameditação,1
-1008,simplificação,1
-1009,premiditação,1
-1010,aquelanação,1
-1011,contrafeição,1
-1012,catequisação,1
-1013,denudação,1
-1014,dramatização,1
-1015,õbrigação,1
-1016,areputação,1
-1017,umadesolação,1
-1018,derrogação,1
-1019,luxação,1
-1020,poraclamação,1
-1021,naformação,1
-1022,anaração,1
-1023,premiação,1
-1024,essaimperfeição,1
-1025,perpetração,1
-1026,discriminação,1
-1027,dirivação,1
-1028,perfuração,1
-1029,ululação,1
-1030,recompensação,1
-1031,contra-revolução,1
-1032,reengorgitação,1
-1033,pescoção,1
-1034,d'indiscrição,1
-1035,afiação,1
-1036,contenção,1
-1037,curação,1
-1038,sorreição,1
-1039,atribulação,1
-1040,encampação,1
-1041,culminação,1
-1042,aliciação,1
-1043,sospeição,1
-1044,encapelação,1
-1045,queimaginação,1
-1046,negoceiação,1
-1047,acontinuação,1
-1048,uzurpação,1
-1049,aproposição,1
-1050,acidentação,1
-1051,desperdição,1
-1052,peção,1
-1053,extroma-unção,1
-1054,supuração,1
-1055,quenação,1
-1056,figuração,1
-1057,incineração,1
-1058,nossaadmiração,1
-1059,federação,1
-1060,esforção,1
-1061,incarnação,1
-1062,deturpação,1
-1063,murmurção,1
-1064,d'incubação,1
-1065,capitação,1
-1066,desfibração,1
-1067,mineralização,1
-1068,destruíção,1
-1069,diminuïção,1
-1070,empulhação,1
-1071,acentuação,1
-1072,destampação,1
-1073,deincrustação,1
-1074,perfilhação,1
-1075,esfregação,1
-1076,opugnação,1
-1077,refração,1
-1078,anexação,1
-1079,desmembração,1
-1080,trifurcação,1
-1081,marmorisação,1
-1082,seqüestração,1
-1083,cultivação,1
-1084,deprecação,1
-1085,nacionalização,1
-1086,disjunção,1
-1087,enfartação,1
-1088,focalização,1
-1089,espiritualisação,1
-1090,ainclinação,1
-1091,fição,1
-1092,permutação,1
-1093,carneiação,1
-1094,exacção,1
-1095,rutilação,1
-1096,imolação,1
-1097,ralação,1
-1098,difinição,1
-1099,objetivação,1
-1100,utilização,1
-1101,afrontação,1
-1102,comoimaginação,1
-1103,maginação,1
-1104,persuação,1
-1105,asujeição,1
-1106,avassalação,1
-1107,aleitação,1
-1108,torção,1
-1109,absorpção,1
-1110,d'imprecação,1
-1111,localização,1
-1112,pertubação,1
-1113,exsicação,1
-1114,freqüentação,1
-1115,dissociação,1
-1116,“facção,1
-1117,jurisdicção,1
-1118,vulgarização,1
-1119,retracção,1
-1120,superrogação,1
-1121,assenção,1
-1122,infracção,1
-1123,arepresentação,1
-1124,sublimação,1
-1125,d'insurreição,1
-1126,fervilhação,1
-1127,organisação,1
-1128,enunciação,1
-1129,castramenção,1
-1130,cansação,1
-1131,descripção,1
-1132,deinclinação,1
-1133,assombração,1
+	word	freq
+0	resolução	397
+1	imaginação	385
+2	educação	358
+3	obrigação	335
+4	oração	323
+5	admiração	318
+6	conversação	284
+7	assunção	220
+8	disposição	214
+9	explicação	212
+10	consideração	193
+11	salvação	189
+12	consolação	186
+13	devoção	185
+14	indignação	181
+15	eleição	176
+16	separação	159
+17	geração	148
+18	reputação	144
+19	inclinação	143
+20	conservação	143
+21	preocupação	137
+22	civilização	137
+23	aflição	136
+24	dedicação	135
+25	execução	127
+26	proteção	125
+27	invenção	121
+28	criação	120
+29	tenção	120
+30	observação	118
+31	narração	117
+32	instrução	117
+33	contemplação	117
+34	agitação	116
+35	oposição	115
+36	expedição	115
+37	distinção	109
+38	repartição	104
+39	respiração	103
+40	acção	102
+41	traição	101
+42	resignação	100
+43	composição	100
+44	ocupação	95
+45	representação	95
+46	revelação	95
+47	declaração	93
+48	emancipação	92
+49	tentação	89
+50	comparação	86
+51	humilhação	83
+52	inspiração	83
+53	inquietação	82
+54	intervenção	81
+55	imitação	80
+56	aplicação	80
+57	constituição	80
+58	veneração	79
+59	administração	79
+60	hesitação	79
+61	descrição	76
+62	recordação	75
+63	significação	74
+64	compensação	74
+65	povoação	71
+66	perturbação	71
+67	adoração	70
+68	continuação	69
+69	navegação	69
+70	reconciliação	68
+71	comunicação	68
+72	habitação	68
+73	embarcação	68
+74	instituição	67
+75	exclamação	67
+76	construção	67
+77	animação	66
+78	quietação	66
+79	doação	63
+80	exposição	63
+81	recomendação	63
+82	perdição	62
+83	alteração	60
+84	destruição	60
+85	reiação	60
+86	contradição	58
+87	organização	58
+88	tradução	58
+89	informação	57
+90	perseguição	57
+91	sujeição	56
+92	corrupção	56
+93	presunção	54
+94	aparição	53
+95	formação	52
+96	transformação	52
+97	conspiração	52
+98	aprovação	52
+99	exaltação	51
+100	dissimulação	51
+101	pregação	50
+102	confirmação	50
+103	distração	50
+104	moderação	50
+105	devação	49
+106	excitação	49
+107	restauração	48
+108	evolução	48
+109	elevação	48
+110	demonstração	47
+111	operação	45
+112	denominação	45
+113	abnegação	45
+114	realização	44
+115	manifestação	44
+116	abolição	43
+117	encarnação	43
+118	fundação	42
+119	sedução	42
+120	suposição	42
+121	edição	41
+122	meditação	41
+123	mutação	41
+124	nomeação	41
+125	benção	41
+126	recepção	41
+127	desesperação	40
+128	peregrinação	40
+129	prevenção	39
+130	fascinação	39
+131	definição	39
+132	repetição	39
+133	proposição	38
+134	afetação	38
+135	vibração	38
+136	redacção	37
+137	aclamação	37
+138	determinação	37
+139	mortificação	37
+140	extinção	37
+141	interrupção	36
+142	aproximação	35
+143	combinação	35
+144	correção	35
+145	obstinação	35
+146	atração	35
+147	duração	35
+148	distribuição	35
+149	interrogação	34
+150	negociação	34
+151	irritação	34
+152	especulação	34
+153	aceitação	33
+154	saudação	33
+155	objeção	33
+156	viração	33
+157	ilustração	32
+158	recreação	32
+159	publicação	32
+160	concepção	32
+161	ligação	32
+162	aspiração	31
+163	condenação	31
+164	reparação	31
+165	restituição	30
+166	dissolução	30
+167	ostentação	30
+168	afirmação	29
+169	unção	29
+170	irradiação	28
+171	degradação	28
+172	desconsolação	28
+173	apresentação	28
+174	exploração	28
+175	concentração	28
+176	punição	27
+177	deliberação	27
+178	absolvição	27
+179	isenção	27
+180	adulação	27
+181	interpretação	26
+182	terminação	26
+183	ponderação	26
+184	diminuição	26
+185	desolação	25
+186	edificação	25
+187	iluminação	25
+188	indicação	24
+189	precipitação	24
+190	produção	24
+191	penetração	24
+192	justificação	24
+193	acusação	24
+194	associação	24
+195	intuição	23
+196	contrição	23
+197	protecção	23
+198	preparação	23
+199	emulação	23
+200	circulação	23
+201	introdução	22
+202	intimação	22
+203	murmuração	22
+204	invocação	21
+205	negação	21
+206	prostração	21
+207	profanação	21
+208	reprodução	21
+209	exageração	21
+210	instalação	21
+211	consternação	20
+212	reprovação	20
+213	privação	20
+214	aquisição	20
+215	decomposição	20
+216	propagação	20
+217	legislação	20
+218	prostituição	19
+219	cerração	19
+220	inscrição	19
+221	consagração	19
+222	alimentação	19
+223	alucinação	18
+224	colaboração	18
+225	decoração	18
+226	congregação	18
+227	provocação	18
+228	insinuação	18
+229	promoção	18
+230	inundação	17
+231	detenção	17
+232	conformação	17
+233	imposição	17
+234	visitação	17
+235	participação	17
+236	entonação	17
+237	sustentação	16
+238	tribulação	16
+239	complicação	16
+240	abstração	16
+241	exalação	16
+242	regeneração	16
+243	liquidação	16
+244	fortificação	16
+245	predição	15
+246	evocação	15
+247	palpitação	15
+248	coroação	15
+249	direcção	15
+250	depravação	15
+251	gestação	15
+252	pronunciação	15
+253	ondulação	15
+254	colecção	15
+255	afectação	15
+256	conciliação	15
+257	provação	15
+258	estupefação	15
+259	ordenação	14
+260	comiseração	14
+261	exibição	14
+262	dominação	14
+263	percepção	14
+264	reformação	14
+265	colocação	14
+266	imigração	14
+267	escrituração	14
+268	legação	14
+269	constipação	13
+270	rotação	13
+271	violação	13
+272	relaxação	13
+273	renovação	13
+274	colonização	13
+275	contração	13
+276	oscilação	13
+277	declinação	13
+278	contestação	13
+279	graduação	13
+280	deserção	13
+281	excepção	12
+282	absorção	12
+283	subordinação	12
+284	limitação	12
+285	reabilitação	12
+286	designação	12
+287	gratificação	12
+288	derivação	12
+289	carnação	12
+290	reconstrução	12
+291	carregação	12
+292	importação	12
+293	proclamação	12
+294	acumulação	12
+295	usurpação	12
+296	subscrição	12
+297	adaptação	12
+298	apreciação	12
+299	proibição	12
+300	abdicação	12
+301	citação	12
+302	orientação	11
+303	expiação	11
+304	pontuação	11
+305	cotação	11
+306	cintilação	11
+307	natação	11
+308	dedução	11
+309	vadiação	11
+310	procriação	11
+311	dilatação	11
+312	estremeção	11
+313	vexação	11
+314	demolição	11
+315	correcção	11
+316	quitação	10
+317	equivocação	10
+318	filiação	10
+319	autorização	10
+320	pertenção	10
+321	indagação	10
+322	multiplicação	10
+323	traducção	10
+324	altercação	10
+325	nutrição	10
+326	libertação	10
+327	confederação	10
+328	creiação	10
+329	conjuração	10
+330	condução	10
+331	antecipação	10
+332	cação	9
+333	substituição	9
+334	redução	9
+335	evaporação	9
+336	glorificação	9
+337	exprobração	9
+338	classificação	9
+339	alienação	9
+340	ratificação	9
+341	arrumação	9
+342	imprecação	9
+343	inquirição	9
+344	exacerbação	9
+345	procuração	9
+346	exportação	9
+347	purificação	9
+348	labutação	9
+349	armação	8
+350	arribação	8
+351	modificação	8
+352	movimentação	8
+353	suplicação	8
+354	emanação	8
+355	emigração	8
+356	cooperação	8
+357	comutação	8
+358	predestinação	8
+359	importunação	8
+360	exasperação	8
+361	revogação	8
+362	instrucção	8
+363	compunção	8
+364	atrapalhação	8
+365	abstenção	8
+366	iniciação	8
+367	consumação	8
+368	jurdição	8
+369	celebração	8
+370	indenização	8
+371	inchação	8
+372	reclamação	8
+373	fulguração	8
+374	cessação	8
+375	remuneração	7
+376	logração	7
+377	mistificação	7
+378	encenação	7
+379	lanção	7
+380	contribuição	7
+381	mastreiação	7
+382	mobilização	7
+383	transpiração	7
+384	investigação	7
+385	gesticulação	7
+386	expectação	7
+387	deminuição	7
+388	simulação	7
+389	arção	7
+390	extrema-unção	7
+391	eliminação	7
+392	averiguação	7
+393	inflamação	7
+394	recriminação	7
+395	transfiguração	7
+396	apelação	7
+397	votação	7
+398	degeneração	7
+399	desmoralização	7
+400	abominação	7
+401	acomodação	6
+402	decifração	6
+403	vacilação	6
+404	exortação	6
+405	deleitação	6
+406	condensação	6
+407	plantação	6
+408	devastação	6
+409	sucção	6
+410	elaboração	6
+411	abonação	6
+412	asseveração	6
+413	protestação	6
+414	colação	6
+415	argumentação	6
+416	desaparição	6
+417	dissertação	6
+418	interpelação	6
+419	premeditação	6
+420	idealização	6
+421	extração	6
+422	personificação	6
+423	prescrição	6
+424	atracção	6
+425	execração	6
+426	declamação	6
+427	rendição	6
+428	fiscalização	6
+429	dissipação	6
+430	aglomeração	6
+431	admoestação	6
+432	crepitação	6
+433	infecção	6
+434	verificação	6
+435	sublevação	6
+436	floração	6
+437	confrontação	5
+438	baldeação	5
+439	desconsideração	5
+440	instrumentação	5
+441	prolongação	5
+442	pulverização	5
+443	numeração	5
+444	sobreexcitação	5
+445	elocução	5
+446	estagnação	5
+447	enumeração	5
+448	enfatuação	5
+449	alternação	5
+450	apuração	5
+451	encadernação	5
+452	habilitação	5
+453	pulsação	5
+454	entalação	5
+455	impugnação	5
+456	atarantação	5
+457	delação	5
+458	dispensação	5
+459	espoliação	5
+460	cogitação	5
+461	lamentação	5
+462	reverberação	5
+463	difamação	5
+464	ornamentação	5
+465	desorganização	5
+466	caracterização	5
+467	fermentação	5
+468	configuração	5
+469	ebulição	5
+470	constrição	4
+471	tradicção	4
+472	cristalização	4
+473	instigação	4
+474	circunspeção	4
+475	bajulação	4
+476	approvação	4
+477	desafinação	4
+478	conflagração	4
+479	inspecção	4
+480	inovação	4
+481	acclamação	4
+482	flagelação	4
+483	condecoração	4
+484	implantação	4
+485	refutação	4
+486	mareação	4
+487	naturalização	4
+488	indução	4
+489	capitulação	4
+490	imputação	4
+491	contorção	4
+492	falsificação	4
+493	solicitação	4
+494	agravação	4
+495	faiscação	4
+496	distracção	4
+497	distincção	4
+498	modulação	4
+499	consolidação	4
+500	seducção	4
+501	locomoção	4
+502	renunciação	4
+503	reconstituição	4
+504	transcrição	4
+505	delegação	4
+506	centralização	4
+507	seriação	4
+508	retração	4
+509	demarcação	4
+510	aclimação	4
+511	turvação	4
+512	divulgação	4
+513	predisposição	4
+514	retrospecção	4
+515	comemoração	4
+516	retribuição	4
+517	variação	4
+518	ablução	4
+519	presumpção	4
+520	esquipação	4
+521	implicação	4
+522	insubordinação	4
+523	cansanção	4
+524	parturição	4
+525	introducção	4
+526	reção	4
+527	sussurração	4
+528	amortização	4
+529	computação	4
+530	compreição	3
+531	garção	3
+532	extradição	3
+533	maquinação	3
+534	ventilação	3
+535	improvisação	3
+536	adopção	3
+537	qualificação	3
+538	remoção	3
+539	transmutação	3
+540	individuação	3
+541	coabitação	3
+542	despreocupação	3
+543	coligação	3
+544	retratação	3
+545	abreviação	3
+546	amolação	3
+547	producção	3
+548	avaliação	3
+549	arrecadação	3
+550	mineração	3
+551	escavação	3
+552	exterminação	3
+553	circunscrição	3
+554	degolação	3
+555	gravitação	3
+556	malsinação	3
+557	orquestração	3
+558	caiação	3
+559	paralisação	3
+560	inauguração	3
+561	enervação	3
+562	secção	3
+563	proscrição	3
+564	desagregação	3
+565	medição	3
+566	crucificação	3
+567	sugeição	3
+568	fabricação	3
+569	denegação	3
+570	interpolação	3
+571	descomposição	3
+572	metrificação	3
+573	assimilação	3
+574	danação	3
+575	generalização	3
+576	adivinhação	3
+577	transmigração	3
+578	amamentação	3
+579	flutuação	3
+580	estratificação	3
+581	resurreição	3
+582	transposição	3
+583	bifurcação	3
+584	coloração	3
+585	retificação	3
+586	mastigação	3
+587	infusação	3
+588	desanimação	3
+589	fecundação	3
+590	reaparição	3
+591	deslocação	3
+592	recuperação	3
+593	mangação	3
+594	conjugação	3
+595	emitação	3
+596	fulminação	3
+597	desafeição	3
+598	turbação	3
+599	mutilação	3
+600	má-criação	3
+601	justaposição	3
+602	mediação	3
+603	moralização	3
+604	anulação	3
+605	locação	3
+606	integração	3
+607	restrição	3
+608	alheação	3
+609	pacificação	3
+610	trasladação	3
+611	circunvolução	2
+612	susurração	2
+613	requisição	2
+614	incorporação	2
+615	refracção	2
+616	consecução	2
+617	desaprovação	2
+618	junção	2
+619	uncção	2
+620	equiparação	2
+621	afeitação	2
+622	contricção	2
+623	coação	2
+624	aambição	2
+625	confeição	2
+626	peroração	2
+627	sufocação	2
+628	disfarção	2
+629	identificação	2
+630	extirpação	2
+631	lubrificação	2
+632	assumpção	2
+633	entoação	2
+634	competição	2
+635	incitação	2
+636	ascenção	2
+637	remodelação	2
+638	contraposição	2
+639	fundição	2
+640	lotação	2
+641	atrição	2
+642	judiação	2
+643	intuscepção	2
+644	reedificação	2
+645	efeminação	2
+646	saturação	2
+647	prevaricação	2
+648	deposição	2
+649	bestificação	2
+650	devolução	2
+651	destituição	2
+652	d'uncção	2
+653	titilação	2
+654	prescripção	2
+655	adjetivação	2
+656	segregação	2
+657	promulgação	2
+658	experimentação	2
+659	gradação	2
+660	corrução	2
+661	perquisição	2
+662	fixação	2
+663	gustação	2
+664	destinação	2
+665	interdição	2
+666	encomendação	2
+667	internação	2
+668	depreciação	2
+669	deformação	2
+670	copilação	2
+671	crispação	2
+672	argüição	2
+673	tripulação	2
+674	trepidação	2
+675	opilação	2
+676	postergação	2
+677	alcanção	2
+678	polvilhação	2
+679	disseminação	2
+680	exceição	2
+681	escravização	2
+682	captação	2
+683	embirração	2
+684	redempção	2
+685	prefiguração	2
+686	circunvalação	2
+687	meiação	2
+688	fraternização	2
+689	injunção	2
+690	consunção	2
+691	desembarcação	2
+692	influïção	2
+693	pação	2
+694	escoriação	2
+695	arrematação	2
+696	rejeição	2
+697	atenuação	2
+698	impurração	2
+699	migração	2
+700	estrangulação	2
+701	vaporização	2
+702	indeterminação	2
+703	começão	2
+704	matação	2
+705	agregação	2
+706	amigação	2
+707	irrigação	2
+708	reacção	2
+709	compartição	2
+710	felicitação	2
+711	deputação	2
+712	inumação	2
+713	articulação	2
+714	extracção	2
+715	influição	2
+716	diluição	2
+717	anunciação	2
+718	putrefação	2
+719	vivissecção	2
+720	ampliação	2
+721	divinização	2
+722	gèração	2
+723	exultação	2
+724	recapitulação	2
+725	aniquilação	2
+726	assolação	2
+727	projeção	2
+728	alocução	2
+729	aposição	2
+730	expugnação	2
+731	frutificação	2
+732	notificação	2
+733	persecução	2
+734	legalização	2
+735	infiltração	2
+736	transacção	2
+737	sagração	2
+738	desligação	2
+739	explanação	2
+740	autoviação	2
+741	purgação	2
+742	increpação	1
+743	seqüestração	1
+744	maisreputação	1
+745	suspeição	1
+746	cansação	1
+747	asujeição	1
+748	amplificação	1
+749	pseudo-regeneração	1
+750	nossaadmiração	1
+751	uzurpação	1
+752	elucidação	1
+753	d'arribação	1
+754	inebriação	1
+755	humanação	1
+756	prestação	1
+757	curação	1
+758	ulceração	1
+759	senconfiguração	1
+760	castramenção	1
+761	intuspecção	1
+762	daextinção	1
+763	algumademonstração	1
+764	decrição	1
+765	obervação	1
+766	disjunção	1
+767	treïção	1
+768	espiritualização	1
+769	obliteração	1
+770	recopilação	1
+771	marcação	1
+772	perfei-ção	1
+773	dezesperação	1
+774	relevação	1
+775	abstracção	1
+776	horripilação	1
+777	amputação	1
+778	exsicação	1
+779	umadesolação	1
+780	anexação	1
+781	simplificação	1
+782	caceteação	1
+783	contrafeição	1
+784	anotação	1
+785	ululação	1
+786	enublação	1
+787	insenção	1
+788	fição	1
+789	ajeitação	1
+790	acquisição	1
+791	afiação	1
+792	contratação	1
+793	prelibação	1
+794	oblação	1
+795	porobrigação	1
+796	refração	1
+797	areputação	1
+798	essaimperfeição	1
+799	fazmenção	1
+800	confutação	1
+801	contra-revolução	1
+802	imolação	1
+803	denudação	1
+804	deiadmiração	1
+805	d'irrigação	1
+806	obtenção	1
+807	exprobação	1
+808	pelaobrigação	1
+809	“emancipação	1
+810	fragmentação	1
+811	aresolução	1
+812	d'emoção	1
+813	imortificação	1
+814	apropriação	1
+815	solenização	1
+816	adquirirreputação	1
+817	organisação	1
+818	afinação	1
+819	codificação	1
+820	àproporção	1
+821	dacontradição	1
+822	umaação	1
+823	exemplificação	1
+824	deixação	1
+825	morigeração	1
+826	d'imprecação	1
+827	utilização	1
+828	desarticulação	1
+829	naduração	1
+830	vetação	1
+831	compilação	1
+832	quimificação	1
+833	dramatização	1
+834	flirtação	1
+835	vocalisação	1
+836	exoneração	1
+837	expropriação	1
+838	nossaatenção	1
+839	pregustação	1
+840	detracção	1
+841	reengorgitação	1
+842	adulteração	1
+843	regulamentação	1
+844	premiação	1
+845	replicação	1
+846	desincorporação	1
+847	calcinação	1
+848	afrontação	1
+849	dignação	1
+850	arrendação	1
+851	isolação	1
+852	difinição	1
+853	empulhação	1
+854	deflagração	1
+855	cominação	1
+856	autuação	1
+857	d'adopção	1
+858	torção	1
+859	concondição	1
+860	algumaporção	1
+861	d'exaltação	1
+862	focalização	1
+863	preiocupação	1
+864	imanação	1
+865	destruíção	1
+866	avassalação	1
+867	d'estimação	1
+868	sorreição	1
+869	assombração	1
+870	aleitação	1
+871	reiaparição	1
+872	dissociação	1
+873	federação	1
+874	recriação	1
+875	deturpação	1
+876	desapropriação	1
+877	sublimação	1
+878	mormação	1
+879	destilação	1
+880	objetivação	1
+881	espiritualisação	1
+882	unificação	1
+883	superrogação	1
+884	delineação	1
+885	discripção	1
+886	empurração	1
+887	reinação	1
+888	congratulação	1
+889	assenção	1
+890	freqüentação	1
+891	diferenciação	1
+892	transubstanciação	1
+893	avegetação	1
+894	arepresentação	1
+895	opugnação	1
+896	pertubação	1
+897	inadaptação	1
+898	atribulação	1
+899	acontinuação	1
+900	apariação	1
+901	regularização	1
+902	propalação	1
+903	d'assunção	1
+904	adevinhação	1
+905	marmorisação	1
+906	legitimação	1
+907	destampação	1
+908	infracção	1
+909	amoção	1
+910	rebrilhação	1
+911	suprestição	1
+912	denotação	1
+913	acidentação	1
+914	pareção	1
+915	extroma-unção	1
+916	prohibição	1
+917	amarração	1
+918	servição	1
+919	contemporização	1
+920	superexcitação	1
+921	afeminação	1
+922	negoceiação	1
+923	siringação	1
+924	culminação	1
+925	retracção	1
+926	inoculação	1
+927	dainstituição	1
+928	d'afflicção	1
+929	ressuyreição	1
+930	desorientação	1
+931	governação	1
+932	derrogação	1
+933	desfibração	1
+934	constituïção	1
+935	enfartação	1
+936	embromação	1
+937	paraconservação	1
+938	consiração	1
+939	atribuição	1
+940	recreição	1
+941	incarnação	1
+942	inquíetação	1
+943	maginação	1
+944	deincrustação	1
+945	ainscrição	1
+946	descripção	1
+947	trifurcação	1
+948	quenação	1
+949	ainclinação	1
+950	reuerberação	1
+951	queimaginação	1
+952	monumento--emoção	1
+953	inanimação	1
+954	divagação	1
+955	prégação	1
+956	reialisação	1
+957	intoxicação	1
+958	d'indiscrição	1
+959	exacção	1
+960	portradição	1
+961	especificação	1
+962	preservação	1
+963	perfuração	1
+964	inflição	1
+965	aimaginação	1
+966	aflicção	1
+967	aplacação	1
+968	hibernação	1
+969	doutrinação	1
+970	d'intenção	1
+971	encangalhação	1
+972	encampação	1
+973	naformação	1
+974	revivificação	1
+975	encapelação	1
+976	sospeição	1
+977	canalização	1
+978	“coração	1
+979	incorrupção	1
+980	encaixação	1
+981	d'insurreição	1
+982	efracção	1
+983	carneiação	1
+984	consumição	1
+985	tilintação	1
+986	ralação	1
+987	grandereputação	1
+988	vocalização	1
+989	tergiversação	1
+990	santificação	1
+991	vereação	1
+992	tamisação	1
+993	persuação	1
+994	_coração	1
+995	amontoação	1
+996	dameditação	1
+997	canonização	1
+998	supuração	1
+999	segundaedição	1
+1000	concatenação	1
+1001	pretenção	1
+1002	permutação	1
+1003	arborização	1
+1004	pulverisação	1
+1005	cultivação	1
+1006	confraternização	1
+1007	depleção	1
+1008	consignação	1
+1009	coriscação	1
+1010	inquizição	1
+1011	nacionalização	1
+1012	dacriação	1
+1013	anaração	1
+1014	aliciação	1
+1015	evidenciação	1
+1016	peção	1
+1017	incensação	1
+1018	fiscalisação	1
+1019	africanização	1
+1020	perscrutação	1
+1021	exhalação	1
+1022	discriminação	1
+1023	confabulação	1
+1024	exteriorização	1
+1025	obstrução	1
+1026	transplantação	1
+1027	mineralização	1
+1028	consumpção	1
+1029	curvilineiação	1
+1030	ousignificação	1
+1031	dissenção	1
+1032	dirivação	1
+1033	incineração	1
+1034	desmoralisação	1
+1035	pescoção	1
+1036	deinclinação	1
+1037	expectoração	1
+1038	semideclaração	1
+1039	cravação	1
+1040	pigmentação	1
+1041	iteração	1
+1042	comoimaginação	1
+1043	esforção	1
+1044	reconsideração	1
+1045	afianção	1
+1046	afli-ção	1
+1047	allucinação	1
+1048	suarepresentação	1
+1049	reincorporação	1
+1050	erecção	1
+1051	deportação	1
+1052	catequisação	1
+1053	algumaimperfeição	1
+1054	supinação	1
+1055	esfregação	1
+1056	õbrigação	1
+1057	própriaconservação	1
+1058	narepartição	1
+1059	democratização	1
+1060	braganção	1
+1061	costolação	1
+1062	aquelanação	1
+1063	recompensação	1
+1064	“facção	1
+1065	ocoração	1
+1066	repurificação	1
+1067	enunciação	1
+1068	distribuïção	1
+1069	contornação	1
+1070	notação	1
+1071	d'incubação	1
+1072	perpetração	1
+1073	documentação	1
+1074	supplicação	1
+1075	atropelação	1
+1076	diminuïção	1
+1077	d'erudição	1
+1078	absorpção	1
+1079	leição	1
+1080	perfilhação	1
+1081	premiditação	1
+1082	dignificação	1
+1083	perfiguração	1
+1084	própriainclinação	1
+1085	aproposição	1
+1086	aconservação	1
+1087	maceração	1
+1088	“integração	1
+1089	deiatenção	1
+1090	desperdição	1
+1091	desestimação	1
+1092	ramificação	1
+1093	poraclamação	1
+1094	capitação	1
+1095	oição	1
+1096	jurisdicção	1
+1097	localização	1
+1098	rutilação	1
+1099	discenção	1
+1100	incubação	1
+1101	deprecação	1
+1102	fervilhação	1
+1103	cujadestruição	1
+1104	desintegração	1
+1105	sub-repção	1
+1106	carroção	1
+1107	contenção	1
+1108	evacuação	1
+1109	luxação	1
+1110	indemnização	1
+1111	acentuação	1
+1112	evicção	1
+1113	elação	1
+1114	deterioração	1
+1115	aperreiação	1
+1116	injeção	1
+1117	desmembração	1
+1118	figuração	1
+1119	aceleração	1
+1120	dilaceração	1
+1121	infanção	1
+1122	imploração	1
+1123	murmurção	1
+1124	prosternação	1
+1125	esconjuração	1
+1126	espetação	1
+1127	nobilitação	1
+1128	prestidigitação	1
+1129	reorganização	1
+1130	vulgarização	1
+1131	tonificação	1
+1132	individualização	1
+1133	umaproposição	1
