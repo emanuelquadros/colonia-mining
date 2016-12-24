@@ -7,6 +7,7 @@ Create the datasets I need.
 import re
 import os
 from statistics import mean
+from math import ceil
 import nltk
 import datation
 import pandas as pd
@@ -16,7 +17,26 @@ CAO_WL = 'colonia_cao.lst'
 MENTO_WL = 'colonia_mento.lst'
 FULL_WL = 'full_wordlist.lst'
 EXCLUSIONS_FILE = 'exclusions.lst'
-CORPUS_STATS = pd.read_table('datasets/full_corpus_stats_df.tsv', sep='\t')
+CORPUS_STATS = pd.read_table('datasets/full_corpus_stats_df.tsv',
+                             sep='\t', index_col=0)
+
+
+def corpus_stats(center_y, w):
+    '''
+    Input: year at the center of the window, window size
+    Output: a tuple (tokens, types, hapaxes)
+    '''
+
+    bottom = center_y - round(w/2)
+    top = center_y + ceil(w/2) + 1
+    window = range(bottom, top)
+
+    cstats_subset = CORPUS_STATS[CORPUS_STATS.index.isin(window)]
+    cstats_subset_sums = cstats_subset.sum(axis=0)
+    
+    return (cstats_subset_sums['token'],
+            cstats_subset_sums['type'],
+            cstats_subset_sums['hapaxes'])
 
 
 def roll(dic, w):
