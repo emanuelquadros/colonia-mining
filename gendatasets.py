@@ -4,14 +4,13 @@
 Create the datasets I need.
 '''
 
-import re
 import os
 from statistics import mean
 from math import ceil
 import nltk
-import datation
 import pandas as pd
 import numpy as np
+import datation
 
 CAO_WL = 'colonia_cao.lst'
 MENTO_WL = 'colonia_mento.lst'
@@ -27,13 +26,13 @@ def corpus_stats(center_y, w):
     Output: a tuple (tokens, types, hapaxes)
     '''
 
-    bottom = center_y - round(w/2)
-    top = center_y + ceil(w/2) + 1
+    bottom = int(center_y - round(w/2))
+    top = int(center_y + ceil(w/2) + 1)
     window = range(bottom, top)
 
     cstats_subset = CORPUS_STATS[CORPUS_STATS.index.isin(window)]
     cstats_subset_sums = cstats_subset.sum(axis=0)
-    
+
     return (cstats_subset_sums['token'],
             cstats_subset_sums['type'],
             cstats_subset_sums['hapaxes'])
@@ -46,6 +45,7 @@ def roll(dic, w):
 
     Dictionary values are expected to be lists.
     '''
+    
     bottom = min(dic.keys())
     top = max(dic.keys())
     epochs = [(i, i+w) for i in range(bottom, top - w + 2)]
@@ -53,10 +53,16 @@ def roll(dic, w):
     data = {}
 
     for p in epochs:
-        for year in range(p[0], p[1]):
-            if year in dic.keys():                
-                l.extend(dic[year])
-        data[round(mean(p))] = l
+        l = []
+        for y in range(p[0], p[1]):
+            if y in dic.keys():                
+                l.extend(dic[y].tolist())
+        midpoint = int(ceil(mean(p)))
+        #if midpoint==1795: import pdb; pdb.set_trace()
+        data[midpoint] = l
+
+    #for d in data.keys():
+    #    print(str(d) + ' ' + str(len(data[d])))
         
     return data
 
@@ -81,9 +87,11 @@ def freqdist_from_dict(dic):
     Expects a dictionary of lists of strings. Returns a dictionary of frequency
     distributions.
     '''
+
+    out_dic = {}
     for (key, value) in dic.items():
-        dic[key] = nltk.FreqDist(value)
-    return dic
+        out_dic[key] = nltk.FreqDist(value)
+    return out_dic
 
 
 def apply_exclusions(df, excl, cols=['token','lemma']):
@@ -92,19 +100,43 @@ def apply_exclusions(df, excl, cols=['token','lemma']):
     return df
 
 
-def basicstats(fd, corpus_df):
+def basicstats(fd, corpus_counts):
     '''
-    Given a frequency distribution, compute basic stats for Baayen's metrics.
+    Given a frequency distribution and corpus counts, 
+    compute basic stats for Baayen's metrics.
     '''
 
     n_1 = len(fd.hapaxes())
+    corpus_hapaxes = corpus_counts[2]
 
     return (fd.N(),
             fd.B(), # types, realized productivity
-            n_1,
-            n_1 / corpus_fd.hapaxes(), # expanding productivity
-            n_1 / fd.N()# potential productivity
-    )
+            n_1, # hapax legomena
+            n_1 / corpus_hapaxes, # expanding productivity
+            n_1 / fd.N()) # potential productivity
+
+
+def df_from_freqs(dic, w=33):
+    '''
+    Input: dict of FreqDists
+    Output: pandas df with basic stats per row
+    '''
+
+    rows = {}
+    for year in dic.keys():
+        year_counts = corpus_stats(year, w)
+        try:
+            rows[year] = np.array(basicstats(dic[year], year_counts))
+        except ZeroDivisionError:
+            print(year)
+            print(dic[year])
+            print(year_counts)
+            import sys; sys.exit(1)
+
+    out_df = pd.DataFrame.from_dict(rows, orient='index')
+    out_df.columns = ['tokens', 'types', 'hapaxes', 'expandingP', 'potentialP']
+
+    return out_df
 
 
 def stats_from_dict(dic, corpus_df):
@@ -118,9 +150,8 @@ def stats_from_dict(dic, corpus_df):
         dic[key] = basicstats(value, corpus_df)
     return dic
 
-            
+
 if __name__ == "__main__":
-    
 
     # Load exclusions file
     with open(EXCLUSIONS_FILE, 'r') as exc:
@@ -143,12 +174,15 @@ if __name__ == "__main__":
     # merging the suffixes data frames
     merged_df = pd.concat([cao_df, mento_df], ignore_index=True,
                           keys=['cao', 'mento'], names=['cao', 'mento'])
+
+    # Cleaning up
     merged_df = merged_df.where(merged_df != '<unknown>',
                                 merged_df.token, axis=0)
+    merged_df.year = pd.to_numeric(merged_df.year)
 
     # Generate frequency distributions from the datasets
-    mento_freq = freqdist(mento_df.token)
-    cao_freq = freqdist(cao_df.token)
+    #mento_freq = freqdist(mento_df.token)
+    #cao_freq = freqdist(cao_df.token)
 
     # Compute general corpus stats
     #full_freq = freqdist(full_df.lemma)
@@ -167,18 +201,17 @@ if __name__ == "__main__":
                                  columns=['tokens', 'types', 'hapax'])
 
     # token time series
-    tby_mento, tby_cao = {} # token by year
+    tby_mento = {}
+    tby_cao = {} # token by year
     for year in years:
-        current_tokens = merged_df[merged_df.year == str(year)]
+        current_tokens = merged_df[merged_df.year == year]
         current_tokens_mento = current_tokens.lemma[current_tokens.suffix == 'mento']
         current_tokens_cao = current_tokens.lemma[current_tokens.suffix == 'cao']
         tby_mento[year] = current_tokens_mento
         tby_cao[year] = current_tokens_cao
         # pos = pd.Timestamp(str(year+delta) + '-12-31').strftime('%Y-%m-%d')
-    tbepoch_mento = freqdist_from_dict(roll(tby_mento))
-    tbepoch_cao = freqdist_from_dict(roll(tby_cao))
-
-    #mento_stats = 
+    tbepoch_mento = df_from_freqs(freqdist_from_dict(roll(tby_mento, 33)))
+    tbepoch_cao = df_from_freqs(freqdist_from_dict(roll(tby_cao, 33)))
 
     # Output datasets and debugging files
     try:
@@ -189,12 +222,12 @@ if __name__ == "__main__":
         os.chdir('datasets')
         cao_df.to_csv('cao.csv', sep='\t')
         mento_df.to_csv('mento.csv', sep='\t')
-        mento_freq.to_csv('mento_freqdist.csv', sep='\t')
-        cao_freq.to_csv('cao_freqdist.csv', sep='\t')
+        #mento_freq.to_csv('mento_freqdist.csv', sep='\t')
+        #cao_freq.to_csv('cao_freqdist.csv', sep='\t')
         merged_df.to_csv('merged.csv', sep='\t')
 
-        tokens_by_year[tokens_by_year['tokens'].notnull()].to_csv(
-            'tokens_by_year.csv', sep='\t')
+        tbepoch_cao.to_csv('tokens_by_epoch_cao.tsv', sep='\t')
+        tbepoch_mento.to_csv('tokens_by_epoch_mento.tsv', sep='\t')
 
         # Save freq dist for each year
         #for year, fdist in freq_dists.items():
