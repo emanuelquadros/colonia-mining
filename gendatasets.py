@@ -16,10 +16,16 @@ CAO_WL = 'colonia_cao.lst'
 MENTO_WL = 'colonia_mento.lst'
 FULL_WL = 'full_wordlist.lst'
 EXCLUSIONS_FILE = 'exclusions.lst'
+CORPUS_STATS = pd.read_table('datasets/full_corpus_stats_df.tsv', sep='\t')
 
 
 def roll(dic, w):
-    ## 33 is the magic window
+    '''
+    Given a dictionary with numbers as keys, interpreted as time labels, returns
+    a dictionary with values resampled in a rolling window of size w.
+
+    Dictionary values are expected to be lists.
+    '''
     bottom = min(dic.keys())
     top = max(dic.keys())
     epochs = [(i, i+w) for i in range(bottom, top - w + 2)]
@@ -27,13 +33,13 @@ def roll(dic, w):
     data = {}
 
     for p in epochs:
-        l = []
         for year in range(p[0], p[1]):
-            if year in dic.keys():
+            if year in dic.keys():                
                 l.extend(dic[year])
         data[round(mean(p))] = l
-
+        
     return data
+
 
 def split_filename(df):
     '''
@@ -50,9 +56,14 @@ def split_filename(df):
     return df
 
 
-def freqdist(series):
-    return nltk.FreqDist(series)
-    #return pd.DataFrame(freqs, columns=['word', 'freq'])
+def freqdist_from_dict(dic):
+    '''
+    Expects a dictionary of lists of strings. Returns a dictionary of frequency
+    distributions.
+    '''
+    for (key, value) in dic.items():
+        dic[key] = nltk.FreqDist(value)
+    return dic
 
 
 def apply_exclusions(df, excl, cols=['token','lemma']):
@@ -61,14 +72,32 @@ def apply_exclusions(df, excl, cols=['token','lemma']):
     return df
 
 
-def basicstats(fd):
+def basicstats(fd, corpus_df):
     '''
     Given a frequency distribution, compute basic stats for Baayen's metrics.
     '''
 
+    n_1 = len(fd.hapaxes())
+
     return (fd.N(),
             fd.B(), # types, realized productivity
-            fd.hapaxes())
+            n_1,
+            n_1 / corpus_fd.hapaxes(), # expanding productivity
+            n_1 / fd.N()# potential productivity
+    )
+
+
+def stats_from_dict(dic, corpus_df):
+    '''
+    Expects a dictionary of frequency distributions and computes Baayen's
+    metrics for each of them. Returns a dict.
+    '''
+
+    for (key, value) in dic.items():
+        corpus_df = corpus_df[corpus_df.year == key]
+        dic[key] = basicstats(value, corpus_df)
+    return dic
+
             
 if __name__ == "__main__":
     
@@ -89,12 +118,6 @@ if __name__ == "__main__":
     mento_df['suffix'] = 'mento'
     mento_df = datation.date_wl(mento_df)
 
-    # Loading the full wordlist and cleaning it up
-    #full_df = pd.read_table(FULL_WL)
-    #full_df = split_filename(full_df)
-    #full_df = full_df[full_df['token'].str.match('\w+-?\w+')]
-    #full_df['lemma'] = full_df.where(full_df == '<unknown>',
-    #                                 full_df.token, axis='index')
     #full_df.to_csv('debug/teste2.csv', sep='\t')
 
     # merging the suffixes data frames
@@ -123,27 +146,19 @@ if __name__ == "__main__":
     stats_by_year = pd.DataFrame(index=time_index,
                                  columns=['tokens', 'types', 'hapax'])
 
-    # stats
-    #for year in years:
-    #    pos = pd.Timestamp(str(year+delta) + '-12-31').strftime('%Y-%m-%d')
-    #    ydata = dby.get_group(year)
-    #    fmento = freqdist(ydata[ydata['suffix'] == 'mento'])
-    #    fcao = freqdist(ydata[ydata['suffix'] == 'cao'])
-    #    mento_stats = basicstats(fmento)
-    #    if pos in stats_by_year.index:
-    #        stats_by_year.tokens[pos] = ','.join(current_tokens)
-    #    else:
-    #        print(pos)
-    #        print('sir, we have a problem')
-
-
     # token time series
-    tby = {} # token by year
+    tby_mento, tby_cao = {} # token by year
     for year in years:
-        current_tokens = merged_df.lemma[merged_df.year == str(year)]
-        tby[year] = current_tokens        
+        current_tokens = merged_df[merged_df.year == str(year)]
+        current_tokens_mento = current_tokens.lemma[current_tokens.suffix == 'mento']
+        current_tokens_cao = current_tokens.lemma[current_tokens.suffix == 'cao']
+        tby_mento[year] = current_tokens_mento
+        tby_cao[year] = current_tokens_cao
         # pos = pd.Timestamp(str(year+delta) + '-12-31').strftime('%Y-%m-%d')
-    tbepoch = roll(tby)
+    tbepoch_mento = freqdist_from_dict(roll(tby_mento))
+    tbepoch_cao = freqdist_from_dict(roll(tby_cao))
+
+    #mento_stats = 
 
     # Output datasets and debugging files
     try:
