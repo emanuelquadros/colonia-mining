@@ -25,7 +25,7 @@ def parseRule(line):
     Result is given as tuple (input, output), unless the line doesn't match
     rule_pattern.
     '''
-    
+
     rule = rule_pattern.match(line)
     try:
         return (rule.group("input"), rule.group("output"))
@@ -40,7 +40,7 @@ def correct(word):
     else:
         return word
 
-    
+
 def applyRules(word_triple):
     try:
         token, pos, lemma = word_triple
@@ -74,7 +74,7 @@ except OSError:
 for text in corpus_files:
     in_path = join(corpus_path, text)
     out_path = join(corpus_path + '_corr', text)
-    
+
     with open(in_path, 'r') as tsv:
         colonia_reader = csv.reader(tsv, delimiter='\t')
 
