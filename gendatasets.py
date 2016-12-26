@@ -157,45 +157,40 @@ def stats_from_dict(dic, corpus_df):
     return dic
 
 
-def plotting(dataframe):
+def plot_data(dataframe):
     """
     Just plots whatever configuration of the data I want.
     """
     
-    plt.figure()
-    fig, axes = plt.subplots(nrows=2, ncols=2)
-    dataframe['expandingP'].plot(ax=axes[0,0], logy=True);
-    axes[0,0].set_title('Expanding productivity')
-    dataframe['types_normed'].plot(ax=axes[1,1], logy=True);
-    axes[1,1].set_title('Type count, normalized')
-    dataframe['types'].plot(ax=axes[1,0], logy=True);
-    axes[1,0].set_title('Type count')
-    dataframe['potentialP'].plot(ax=axes[0,1], logy=True);
-    axes[0,1].set_title('Potential productivity')
-    plt.figure()
-    fig, axes = plt.subplots(nrows=2, ncols=2)
-    dataframe['expandingP'].plot(ax=axes[0,0]);
-    axes[0,0].set_title('Expanding productivity')
-    dataframe['types_normed'].plot(ax=axes[1,1]);
-    axes[1,1].set_title('Type count, normalized')
-    dataframe['types'].plot(ax=axes[1,0]);
-    axes[1,0].set_title('Type count')
-    dataframe['potentialP'].plot(ax=axes[0,1]);
-    axes[0,1].set_title('Potential productivity')
+    fig, axes = plt.subplots(2)
+    dataframe['expandingP'].plot(ax=axes[0], logy=True);
+    axes[0].set_title('Expanding productivity')
+    dataframe['types_normed'].plot(ax=axes[1], logy=True);
+    axes[1].set_title('Type count, normalized')
+    for ax in np.ndenumerate(axes):
+        ax[1].legend(['ção', 'mento'])
+
+    fig, axes = plt.subplots(2)
+    dataframe['expandingP'].plot(ax=axes[0]);
+    axes[0].set_title('Expanding productivity')
+    dataframe['types_normed'].plot(ax=axes[1]);
+    axes[1].set_title('Type count, normalized')
+    for ax in np.ndenumerate(axes):
+        ax[1].legend(['ção', 'mento'])
+
     plt.figure()
     dataframe['corpus_N'].plot()
-
-    dataframe_filtered = dataframe.apply(savgol_filter, args=(49, 2))
-    plt.figure()
-    fig, axes = plt.subplots(nrows=2, ncols=2)
-    dataframe_filtered['expandingP'].plot(ax=axes[0,0]);
-    axes[0,0].set_title('Expanding productivity-filtered')
-    dataframe_filtered['types_normed'].plot(ax=axes[1,1]);
-    axes[1,1].set_title('Type count, normalized-filtered')
-    dataframe_filtered['types'].plot(ax=axes[1,0]);
-    axes[1,0].set_title('Type count-filtered')
-    dataframe_filtered['potentialP'].plot(ax=axes[0,1]);
-    axes[0,1].set_title('Potential productivity-filtered')
+    plt.title('Size of the corpus at each period (Corpus Colonia)')
+    plt.xlabel('Period')
+    
+    dataframe_filtered = dataframe.apply(savgol_filter, args=(33, 2))
+    fig, axes = plt.subplots(2)
+    dataframe_filtered['expandingP'].plot(ax=axes[0]);
+    axes[0].set_title('Expanding productivity (filtered)')
+    dataframe_filtered['types_normed'].plot(ax=axes[1]);
+    axes[1].set_title('Type count, normalized (filtered)')
+    for ax in np.ndenumerate(axes):
+        ax[1].legend(['ção', 'mento'])
     
     plt.show()
 
@@ -240,7 +235,7 @@ if __name__ == "__main__":
     stats_by_year = pd.DataFrame(index=time_index,
                                  columns=['tokens', 'types', 'hapax'])
 
-    # token time series
+    # token time series - rolling window
     tby_mento = {}
     tby_cao = {} # token by year
     for year in years:
@@ -249,6 +244,8 @@ if __name__ == "__main__":
         current_tokens_cao = current_tokens.lemma[current_tokens.suffix == 'cao']
         tby_mento[year] = current_tokens_mento
         tby_cao[year] = current_tokens_cao
+
+    # They see me rolling...
     tbepoch_mento = df_from_freqs(freqdist_from_dict(roll(tby_mento, 33)))
     tbepoch_cao = df_from_freqs(freqdist_from_dict(roll(tby_cao, 33)))
 
@@ -261,12 +258,13 @@ if __name__ == "__main__":
     # Guess taken from Tang & Nevin 2013.
     tbmerged_621 = tbmerged[tbmerged.corpus_N >= 621190].dropna()
 
-    # Guess
+    # Just excluding wildly sparse epochs
     tbmerged_100 = tbmerged[tbmerged.corpus_N >= 100000].dropna()
+
+    plot_data(tbmerged); #plot_data(tbmerged_621); plot_data(tbmerged_100)
     
     tbmerged.to_csv('datasets/tbmerged.tsv', '\t')
     
-
     # Output datasets and debugging files
     # try:
     #     os.mkdir('datasets')
