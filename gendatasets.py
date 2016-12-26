@@ -61,11 +61,8 @@ def roll(dic, w):
             if y in dic.keys():
                 l.extend(dic[y].tolist())
         midpoint = int(ceil(mean(p)))
-        #if midpoint==1795: import pdb; pdb.set_trace()
         data[midpoint] = l
 
-    #for d in data.keys():
-    #    print(str(d) + ' ' + str(len(data[d])))
 
     return data
 
@@ -111,7 +108,6 @@ def basicstats(fd, corpus_counts):
 
     n_1 = len(fd.hapaxes())
     corpus_hapaxes = corpus_counts[2]
-    #corpus_types = corpus_counts[1]
     corpus_tokens = corpus_counts[0]
 
     return (
@@ -188,9 +184,6 @@ def plotting(dataframe):
     axes[0,1].set_title('Potential productivity')
     plt.figure()
     dataframe['corpus_N'].plot()
-    # dataframe.plot(y=['types_normed'], title='Type count, normalized')
-    # dataframe.plot(y=['types'], title='Type count')
-    # dataframe.plot(y=['potentialP'], title='Potential productivity')
 
     dataframe_filtered = dataframe.apply(savgol_filter, args=(49, 2))
     plt.figure()
@@ -225,8 +218,6 @@ if __name__ == "__main__":
     mento_df['suffix'] = 'mento'
     mento_df = datation.date_wl(mento_df)
 
-    #full_df.to_csv('debug/teste2.csv', sep='\t')
-
     # merging the suffixes data frames
     merged_df = pd.concat([cao_df, mento_df], ignore_index=True,
                           keys=['cao', 'mento'], names=['cao', 'mento'])
@@ -258,7 +249,6 @@ if __name__ == "__main__":
         current_tokens_cao = current_tokens.lemma[current_tokens.suffix == 'cao']
         tby_mento[year] = current_tokens_mento
         tby_cao[year] = current_tokens_cao
-        # pos = pd.Timestamp(str(year+delta) + '-12-31').strftime('%Y-%m-%d')
     tbepoch_mento = df_from_freqs(freqdist_from_dict(roll(tby_mento, 33)))
     tbepoch_cao = df_from_freqs(freqdist_from_dict(roll(tby_cao, 33)))
 
