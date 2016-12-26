@@ -32,4 +32,4 @@ def date_wl(dataframe):
     """
     for (txt, year) in datations:
         dataframe.ix[dataframe.text == txt, 'year'] = year
-    return df
+    return dataframe
