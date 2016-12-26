@@ -10,7 +10,10 @@ from math import ceil
 import nltk
 import pandas as pd
 import numpy as np
+from scipy.signal import savgol_filter
+import matplotlib.pyplot as plt
 import datation
+plt.style.use('ggplot')
 
 CAO_WL = 'colonia_cao.lst'
 MENTO_WL = 'colonia_mento.lst'
@@ -45,7 +48,7 @@ def roll(dic, w):
 
     Dictionary values are expected to be lists.
     '''
-    
+
     bottom = min(dic.keys())
     top = max(dic.keys())
     epochs = [(i, i+w) for i in range(bottom, top - w + 2)]
@@ -55,7 +58,7 @@ def roll(dic, w):
     for p in epochs:
         l = []
         for y in range(p[0], p[1]):
-            if y in dic.keys():                
+            if y in dic.keys():
                 l.extend(dic[y].tolist())
         midpoint = int(ceil(mean(p)))
         #if midpoint==1795: import pdb; pdb.set_trace()
@@ -63,7 +66,7 @@ def roll(dic, w):
 
     #for d in data.keys():
     #    print(str(d) + ' ' + str(len(data[d])))
-        
+
     return data
 
 
@@ -102,18 +105,24 @@ def apply_exclusions(df, excl, cols=['token','lemma']):
 
 def basicstats(fd, corpus_counts):
     '''
-    Given a frequency distribution and corpus counts, 
+    Given a frequency distribution and corpus counts,
     compute basic stats for Baayen's metrics.
     '''
 
     n_1 = len(fd.hapaxes())
     corpus_hapaxes = corpus_counts[2]
+    #corpus_types = corpus_counts[1]
+    corpus_tokens = corpus_counts[0]
 
-    return (fd.N(),
-            fd.B(), # types, realized productivity
-            n_1, # hapax legomena
-            n_1 / corpus_hapaxes, # expanding productivity
-            n_1 / fd.N()) # potential productivity
+    return (
+        fd.N(),
+        fd.B(), # types, realized productivity
+        n_1, # hapax legomena
+        n_1 / corpus_hapaxes, # expanding productivity
+        n_1 / fd.N(), # potential productivity
+        (fd.B() / corpus_tokens) * 1000000, # typer per million words
+        int(corpus_tokens)
+    ) 
 
 
 def df_from_freqs(dic, w=33):
@@ -134,7 +143,8 @@ def df_from_freqs(dic, w=33):
             import sys; sys.exit(1)
 
     out_df = pd.DataFrame.from_dict(rows, orient='index')
-    out_df.columns = ['tokens', 'types', 'hapaxes', 'expandingP', 'potentialP']
+    out_df.columns = ['tokens', 'types', 'hapaxes',
+                      'expandingP', 'potentialP', 'types_normed', 'corpus_N']
 
     return out_df
 
@@ -149,6 +159,52 @@ def stats_from_dict(dic, corpus_df):
         corpus_df = corpus_df[corpus_df.year == key]
         dic[key] = basicstats(value, corpus_df)
     return dic
+
+
+def plotting(dataframe):
+    """
+    Just plots whatever configuration of the data I want.
+    """
+    
+    plt.figure()
+    fig, axes = plt.subplots(nrows=2, ncols=2)
+    dataframe['expandingP'].plot(ax=axes[0,0], logy=True);
+    axes[0,0].set_title('Expanding productivity')
+    dataframe['types_normed'].plot(ax=axes[1,1], logy=True);
+    axes[1,1].set_title('Type count, normalized')
+    dataframe['types'].plot(ax=axes[1,0], logy=True);
+    axes[1,0].set_title('Type count')
+    dataframe['potentialP'].plot(ax=axes[0,1], logy=True);
+    axes[0,1].set_title('Potential productivity')
+    plt.figure()
+    fig, axes = plt.subplots(nrows=2, ncols=2)
+    dataframe['expandingP'].plot(ax=axes[0,0]);
+    axes[0,0].set_title('Expanding productivity')
+    dataframe['types_normed'].plot(ax=axes[1,1]);
+    axes[1,1].set_title('Type count, normalized')
+    dataframe['types'].plot(ax=axes[1,0]);
+    axes[1,0].set_title('Type count')
+    dataframe['potentialP'].plot(ax=axes[0,1]);
+    axes[0,1].set_title('Potential productivity')
+    plt.figure()
+    dataframe['corpus_N'].plot()
+    # dataframe.plot(y=['types_normed'], title='Type count, normalized')
+    # dataframe.plot(y=['types'], title='Type count')
+    # dataframe.plot(y=['potentialP'], title='Potential productivity')
+
+    dataframe_filtered = dataframe.apply(savgol_filter, args=(49, 2))
+    plt.figure()
+    fig, axes = plt.subplots(nrows=2, ncols=2)
+    dataframe_filtered['expandingP'].plot(ax=axes[0,0]);
+    axes[0,0].set_title('Expanding productivity-filtered')
+    dataframe_filtered['types_normed'].plot(ax=axes[1,1]);
+    axes[1,1].set_title('Type count, normalized-filtered')
+    dataframe_filtered['types'].plot(ax=axes[1,0]);
+    axes[1,0].set_title('Type count-filtered')
+    dataframe_filtered['potentialP'].plot(ax=axes[0,1]);
+    axes[0,1].set_title('Potential productivity-filtered')
+    
+    plt.show()
 
 
 if __name__ == "__main__":
@@ -180,13 +236,6 @@ if __name__ == "__main__":
                                 merged_df.token, axis=0)
     merged_df.year = pd.to_numeric(merged_df.year)
 
-    # Generate frequency distributions from the datasets
-    #mento_freq = freqdist(mento_df.token)
-    #cao_freq = freqdist(cao_df.token)
-
-    # Compute general corpus stats
-    #full_freq = freqdist(full_df.lemma)
-
     # Data grouped by year
     dby = merged_df.groupby('year')
     years = [int(y) for y in dby.groups.keys()]
@@ -213,39 +262,54 @@ if __name__ == "__main__":
     tbepoch_mento = df_from_freqs(freqdist_from_dict(roll(tby_mento, 33)))
     tbepoch_cao = df_from_freqs(freqdist_from_dict(roll(tby_cao, 33)))
 
+    # plotting
+    tbmerged = pd.concat([tbepoch_cao, tbepoch_mento],
+                         keys=['cao', 'mento'],
+                         names=['cao', 'mento']).unstack(0)
+
+    # Selecting only the epochs that are likely to be the most representative.
+    # Guess taken from Tang & Nevin 2013.
+    tbmerged_621 = tbmerged[tbmerged.corpus_N >= 621190].dropna()
+
+    # Guess
+    tbmerged_100 = tbmerged[tbmerged.corpus_N >= 100000].dropna()
+    
+    tbmerged.to_csv('datasets/tbmerged.tsv', '\t')
+    
+
     # Output datasets and debugging files
-    try:
-        os.mkdir('datasets')
-    except FileExistsError:
-        pass
-    finally:
-        os.chdir('datasets')
-        cao_df.to_csv('cao.csv', sep='\t')
-        mento_df.to_csv('mento.csv', sep='\t')
-        #mento_freq.to_csv('mento_freqdist.csv', sep='\t')
-        #cao_freq.to_csv('cao_freqdist.csv', sep='\t')
-        merged_df.to_csv('merged.csv', sep='\t')
+    # try:
+    #     os.mkdir('datasets')
+    # except FileExistsError:
+    #     pass
+    # finally:
+    #     os.chdir('datasets')
+    #     cao_df.to_csv('cao.csv', sep='\t')
+    #     mento_df.to_csv('mento.csv', sep='\t')
+    #     #mento_freq.to_csv('mento_freqdist.csv', sep='\t')
+    #     #cao_freq.to_csv('cao_freqdist.csv', sep='\t')
+    #     merged_df.to_csv('merged.csv', sep='\t')
 
-        tbepoch_cao.to_csv('tokens_by_epoch_cao.tsv', sep='\t')
-        tbepoch_mento.to_csv('tokens_by_epoch_mento.tsv', sep='\t')
+    #     tbepoch_cao.to_csv('tokens_by_epoch_cao.tsv', sep='\t')
+    #     tbepoch_mento.to_csv('tokens_by_epoch_mento.tsv', sep='\t')
 
-        # Save freq dist for each year
-        #for year, fdist in freq_dists.items():
-        #    fdist.to_csv(str(year) + '.tsv', sep='\t')
+    #     # Save freq dist for each year
+    #     #for year, fdist in freq_dists.items():
+    #     #    fdist.to_csv(str(year) + '.tsv', sep='\t')
 
-    # Debugging - sanity checks, etc.
-    os.chdir('../')
-    try:
-        os.mkdir('debug')
-    except FileExistsError:
-        pass
-    finally:
-        os.chdir('debug')
+    # # Debugging - sanity checks, etc.
+    # os.chdir('../')
+    # try:
+    #     os.mkdir('debug')
+    # except FileExistsError:
+    #     pass
+    # finally:
+    #     os.chdir('debug')
 
-        # Write a list of words not tagged as nouns
-        non_nouns_df = merged_df[merged_df['pos'] != 'NOM']
-        non_nouns_df.to_csv('notNOMs.tab', sep='\t')
+    #     # Write a list of words not tagged as nouns
+    #     non_nouns_df = merged_df[merged_df['pos'] != 'NOM']
+    #     non_nouns_df.to_csv('notNOMs.tab', sep='\t')
 
-        # Write a list of tokens with non-nominalized lemmas
-        wrong_lemmas_df = merged_df[merged_df['lemma'].str[-1:] != 'o']
-        wrong_lemmas_df.to_csv('wrong_lemmas.tab', sep='\t')
+    #     # Write a list of tokens with non-nominalized lemmas
+    #     wrong_lemmas_df = merged_df[merged_df['lemma'].str[-1:] != 'o']
+    #     wrong_lemmas_df.to_csv('wrong_lemmas.tab', sep='\t')
