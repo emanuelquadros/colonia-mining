@@ -31,7 +31,7 @@ for year in set(full_df.year.values):
     words = full_df.lemma[full_df.year == year]
     fd = nltk.FreqDist(words)
     stats[year] = np.array((fd.N(), fd.B(), len(fd.hapaxes())))
-    
+
 print(stats)
 full_corpus_stats_df = pd.DataFrame.from_dict(stats, orient='index')
 full_corpus_stats_df.columns = ['token', 'type', 'hapaxes']
