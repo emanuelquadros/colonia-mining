@@ -179,9 +179,8 @@ def plot_data(dataframe):
         ax[1].legend(['ção', 'mento'])
 
     plt.figure()
-    dataframe['corpus_N'].plot()
+    dataframe['corpus_N'].plot(legend=None)
     plt.title('Size of the corpus at each period (Corpus Colonia)')
-    plt.legend.remove()
     plt.xlabel('Period')
     
     dataframe_filtered = dataframe.apply(savgol_filter, args=(33, 2))
