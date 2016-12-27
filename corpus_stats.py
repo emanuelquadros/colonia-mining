@@ -18,7 +18,7 @@ print('Splitting metadata')
 full_df = gendatasets.split_filename(full_df)
 
 print('Cleaning up and resolving unknown lemmas')
-full_df = full_df[full_df['token'].str.match(r'\w+-?\w+')]
+full_df = full_df[full_df['token'].str.contains(r'\w+(-\w+)?')]
 full_df['lemma'] = full_df.where(full_df == '<unknown>',
                                  full_df.token, axis='index')
 
