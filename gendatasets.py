@@ -29,9 +29,9 @@ def corpus_stats(center_y, w):
     Output: a tuple (tokens, types, hapaxes)
     '''
 
-    bottom = int(center_y - round(w/2))
-    top = int(center_y + ceil(w/2) + 1)
-    window = range(bottom, top)
+    bottom = int(center_y - ceil(w/2))
+    top = int(center_y + round(w/2))
+    window = map(str, range(bottom, top))
 
     cstats_subset = CORPUS_STATS[CORPUS_STATS.index.isin(window)]
     cstats_subset_sums = cstats_subset.sum(axis=0)
@@ -116,7 +116,7 @@ def basicstats(fd, corpus_counts):
         n_1, # hapax legomena
         n_1 / corpus_hapaxes, # expanding productivity
         n_1 / fd.N(), # potential productivity
-        (fd.B() / corpus_tokens) * 1000000, # typer per million words
+        (fd.B() / corpus_tokens) * 1000000, # types per million words
         int(corpus_tokens)
     ) 
 
@@ -227,13 +227,12 @@ if __name__ == "__main__":
     years = [int(y) for y in dby.groups.keys()]
 
     # Time series
-    delta = 178
-    time_index = pd.date_range(str(min(years) + delta),
-                               str(max(years) + delta), freq='A')
-    tokens_by_year = pd.DataFrame(index=time_index,
-                                  columns=['tokens'])
-    stats_by_year = pd.DataFrame(index=time_index,
-                                 columns=['tokens', 'types', 'hapax'])
+    #time_index = pd.date_range(str(min(years)),
+    #                           str(max(years)), freq='A')
+    #tokens_by_year = pd.DataFrame(index=time_index,
+    #                              columns=['tokens'])
+    #stats_by_year = pd.DataFrame(index=time_index,
+    #                             columns=['tokens', 'types', 'hapax'])
 
     # token time series - rolling window
     tby_mento = {}
@@ -261,9 +260,9 @@ if __name__ == "__main__":
     # Just excluding wildly sparse epochs
     tbmerged_100 = tbmerged[tbmerged.corpus_N >= 100000].dropna()
 
-    plot_data(tbmerged); #plot_data(tbmerged_621); plot_data(tbmerged_100)
+    #plot_data(tbmerged); #plot_data(tbmerged_621); plot_data(tbmerged_100)
     
-    tbmerged.to_csv('datasets/tbmerged.tsv', '\t')
+    tbmerged.to_csv('datasets/tbmerged.tsv', '\t', index_label=['cao','mento'])
     
     # Output datasets and debugging files
     # try:
