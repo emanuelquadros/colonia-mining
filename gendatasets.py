@@ -197,41 +197,48 @@ def plot_data(dataframe):
     plt.show()
 
     
-def plot_changepoint(data, col, interval, title):
+def plot_changepoint(data, col, interval=10, title=''):
+    """
+    data: data frame
+    col: column in the data frame
+    interval: interval of years to show in the x-axis
+    """
 
+    print('Computing change point for', title)
+
+    # Changepoint detection
     Q, P, Pcp = offcd.offline_changepoint_detection(
-        data.types_normed,
+        data[col],
         partial(offcd.const_prior,
-                l=(len(data.types_normed)+1)),
+                l=(len(data[col])+1)),
         offcd.gaussian_obs_log_likelihood,
         truncate=-40
     )
 
-    #import pdb; pdb.set_trace()
+    print('Plotting...')
 
+    # Getting info for the x-axis
     indexes = data.index[data.index % interval == 0].tolist()
     labels = list(map(str, indexes))
-
     time_ticks = np.where(data.index.isin(indexes))[0].tolist()
-    
-    #fig, ax = plt.subplots(figsize=[18,16], sharex=True)
+
+    # Plotting
     fig, (ax1, ax2) = plt.subplots(2, 1)
-    #ax1 = fig.add_subplot(2,1,1)
-    ax1.plot(range(len(data.index)), data.types_normed)
+
+    ax1.plot(range(len(data.index)), data[col])
     ax1.set_xticks(time_ticks)
     ax1.set_xticklabels(labels)
-    #ax2 = fig.add_subplot(2,1,2)
+    ax1.set_ylabel(title)
+
     ax2.plot(np.exp(Pcp).sum(0))
     ax2.set_ylim([0,1])
     ax2.set_xticks(time_ticks)
     ax2.set_xticklabels(labels)
-    #plt.tick_params(
-    #    axis='x',          # changes apply to the x-axis
-    #    which='both',      # both major and minor ticks are affected
-    #    bottom='off',      # ticks along the bottom edge are off
-    #    top='off',         # ticks along the top edge are off
-    #    labelbottom='off') # labels along the bottom edge are off
-    plt.show()
+    ax2.set_ylabel('Probability')
+
+    min_sample_size = min(data.corpus_N)
+    filename=title.lower() + str(min_sample_size) + '.png'
+    plt.savefig(filename)
 
 
 if __name__ == "__main__":
@@ -300,7 +307,31 @@ if __name__ == "__main__":
     # Just excluding wildly sparse epochs
     #tbmerged_100 = tbmerged[tbmerged.corpus_N >= 100000].dropna()
 
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 10)
+    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'expandingP',
+                     10, 'Expanding productivity (mento)')
+    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'potentialP',
+                     10, 'Potential productivity (mento)')
+    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'types_normed',
+                     10, 'Realized productivity (mento)')
+    plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'expandingP',
+                     50, 'Expanding productivity (mento)')
+    plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'potentialP',
+                     50, 'Potential productivity (mento)')
+    plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'types_normed',
+                     50, 'Realized productivity (mento)')
+
+    plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'expandingP',
+                     10, 'Expanding productivity (ção)')
+    plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'potentialP',
+                     10, 'Potential productivity (ção)')
+    plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'types_normed',
+                     10, 'Realized productivity (ção)')
+    plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'expandingP',
+                     50, 'Expanding productivity (ção)')
+    plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'potentialP',
+                     50, 'Potential productivity (ção)')
+    plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'types_normed',
+                     50, 'Realized productivity (ção)')
 
     #plot_data(tbmerged); #plot_data(tbmerged_621); plot_data(tbmerged_100)
     
