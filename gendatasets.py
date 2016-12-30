@@ -67,7 +67,6 @@ def roll(dic, w):
         midpoint = int(ceil(mean(p)))
         data[midpoint] = l
 
-
     return data
 
 
@@ -258,6 +257,7 @@ def plot_changepoint(data, col, interval=10, title=''):
     data: data frame
     col: column in the data frame
     interval: interval of years to show in the x-axis
+    ci = if True, plot confidence intervals
     """
 
     print('Computing change point for', title)
@@ -281,7 +281,10 @@ def plot_changepoint(data, col, interval=10, title=''):
     # Plotting
     fig, (ax1, ax2) = plt.subplots(2, 1)
 
-    ax1.plot(range(len(data.index)), data[col])
+    line = savgol_filter(data[col], 33, 3)
+
+    ax1.plot(range(len(data.index)), line)
+    ax1.plot(range(len(data.index)), data[col], 'o')
     ax1.set_xticks(time_ticks)
     ax1.set_xticklabels(labels)
     ax1.set_ylabel(title)
@@ -347,8 +350,17 @@ if __name__ == "__main__":
         tby_cao[year] = current_tokens_cao
 
     # They see me rolling...
-    tbepoch_mento = df_from_freqs(freqdist_from_dict(roll(tby_mento, 33)))
-    tbepoch_cao = df_from_freqs(freqdist_from_dict(roll(tby_cao, 33)))
+    mento_fdists = freqdist_from_dict(roll(tby_mento, 33))
+    cao_fdists = freqdist_from_dict(roll(tby_cao, 33))
+
+    # Building the dataframes (without random sampling)
+    tbepoch_mento = df_from_freqs(mento_fdists)
+    tbepoch_cao = df_from_freqs(cao_fdists)
+
+    mento_resampled = df_from_resampling(mento_fdists)
+    cao_resampled = df_from_resampling(cao_fdists)
+    mento_resampled.to_csv('datasets/mento_resampled.tsv', '\t')
+    cao_resampled.to_csv('datasets/cao_resampled.tsv', '\t')
 
     # plotting
     tbmerged = pd.concat([tbepoch_cao, tbepoch_mento],
@@ -363,31 +375,26 @@ if __name__ == "__main__":
     # Just excluding wildly sparse epochs
     #tbmerged_100 = tbmerged[tbmerged.corpus_N >= 100000].dropna()
 
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'expandingP',
-                     10, 'Expanding productivity (mento)')
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'potentialP',
-                     10, 'Potential productivity (mento)')
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'types_normed',
-                     10, 'Realized productivity (mento)')
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'expandingP',
-                     50, 'Expanding productivity (mento)')
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'potentialP',
-                     50, 'Potential productivity (mento)')
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'types_normed',
-                     50, 'Realized productivity (mento)')
+    plot_changepoint(mento_resampled, 'types', 50,
+                     'Realized productivity (mento)')
 
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'expandingP',
-                     10, 'Expanding productivity (ção)')
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'potentialP',
-                     10, 'Potential productivity (ção)')
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'types_normed',
-                     10, 'Realized productivity (ção)')
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'expandingP',
-                     50, 'Expanding productivity (ção)')
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'potentialP',
-                     50, 'Potential productivity (ção)')
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'types_normed',
-                     50, 'Realized productivity (ção)')
+    # plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'expandingP',
+    #                  10, 'Expanding productivity (mento)')
+    # plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'types_normed',
+    #                  10, 'Realized productivity (mento)')
+    # plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'expandingP',
+    #                  50, 'Expanding productivity (mento)')
+    # plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'types_normed',
+    #                  50, 'Realized productivity (mento)')
+
+    # plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'expandingP',
+    #                  10, 'Expanding productivity (ção)')
+    # plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'types_normed',
+    #                  10, 'Realized productivity (ção)')
+    # plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'expandingP',
+    #                  50, 'Expanding productivity (ção)')
+    # plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'types_normed',
+    #                  50, 'Realized productivity (ção)')
 
     #plot_data(tbmerged); #plot_data(tbmerged_621); plot_data(tbmerged_100)
     
