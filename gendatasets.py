@@ -153,6 +153,32 @@ def random_sample(fdist, sample_size, runs=1000):
     return mean_types, mean_hapaxes
 
 
+def df_from_resampling(dic, sample_size=131):
+    """
+    Input: dict of FreqDist
+
+    Output: data frame with means and CIs from random_sample
+    """
+
+    rows={}
+    for year, fdist in sorted(dic.items()):
+        if fdist.N() >= sample_size:
+            print('Resampling', year)
+            mean_types, mean_hapaxes = random_sample(fdist, sample_size)
+            tmean, (t1, t2) = mean_types[0]
+            hmean, (h1, h2) = mean_hapaxes[0]
+            rows[year] = np.array((tmean, t1, t2,
+                                   hmean, h1, h2,
+                                   sample_size))
+
+    out_df = pd.DataFrame.from_dict(rows, orient='index')
+    out_df.columns = ['types', 'min_types', 'max_types',
+                      'hapaxes', 'min_hapaxes', 'max_hapaxes',
+                      'corpus_N']
+
+    return out_df
+
+
 def df_from_freqs(dic, w=33):
     '''
     Input: dict of FreqDists
