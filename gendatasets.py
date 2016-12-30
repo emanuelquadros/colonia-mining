@@ -65,7 +65,6 @@ def roll(dic, w):
         midpoint = int(ceil(mean(p)))
         data[midpoint] = l
 
-
     return data
 
 
@@ -212,7 +211,7 @@ def plot_changepoint(data, col, interval=10, title=''):
         partial(offcd.const_prior,
                 l=(len(data[col])+1)),
         offcd.gaussian_obs_log_likelihood,
-        truncate=-40
+        truncate=-20
     )
 
     print('Plotting...')
