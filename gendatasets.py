@@ -12,6 +12,8 @@ import pandas as pd
 import numpy as np
 from scipy.signal import savgol_filter
 import matplotlib.pyplot as plt
+import bayesian_changepoint_detection.offline_changepoint_detection as offcd
+from functools import partial
 import datation
 plt.style.use('ggplot')
 
@@ -194,6 +196,43 @@ def plot_data(dataframe):
     
     plt.show()
 
+    
+def plot_changepoint(data, col, interval, title):
+
+    Q, P, Pcp = offcd.offline_changepoint_detection(
+        data.types_normed,
+        partial(offcd.const_prior,
+                l=(len(data.types_normed)+1)),
+        offcd.gaussian_obs_log_likelihood,
+        truncate=-40
+    )
+
+    #import pdb; pdb.set_trace()
+
+    indexes = data.index[data.index % interval == 0].tolist()
+    labels = list(map(str, indexes))
+
+    time_ticks = np.where(data.index.isin(indexes))[0].tolist()
+    
+    #fig, ax = plt.subplots(figsize=[18,16], sharex=True)
+    fig, (ax1, ax2) = plt.subplots(2, 1)
+    #ax1 = fig.add_subplot(2,1,1)
+    ax1.plot(range(len(data.index)), data.types_normed)
+    ax1.set_xticks(time_ticks)
+    ax1.set_xticklabels(labels)
+    #ax2 = fig.add_subplot(2,1,2)
+    ax2.plot(np.exp(Pcp).sum(0))
+    ax2.set_ylim([0,1])
+    ax2.set_xticks(time_ticks)
+    ax2.set_xticklabels(labels)
+    #plt.tick_params(
+    #    axis='x',          # changes apply to the x-axis
+    #    which='both',      # both major and minor ticks are affected
+    #    bottom='off',      # ticks along the bottom edge are off
+    #    top='off',         # ticks along the top edge are off
+    #    labelbottom='off') # labels along the bottom edge are off
+    plt.show()
+
 
 if __name__ == "__main__":
 
@@ -250,19 +289,20 @@ if __name__ == "__main__":
 
     # plotting
     tbmerged = pd.concat([tbepoch_cao, tbepoch_mento],
-                         keys=['cao', 'mento'],
-                         names=['cao', 'mento']).unstack(0)
+                         keys=['cao', 'mento'])
+    tbmerged.to_csv('datasets/tbmerged.tsv', '\t')
+    #tbmerged = tbmerged.unstack(0)
 
     # Selecting only the epochs that are likely to be the most representative.
     # Guess taken from Tang & Nevin 2013.
-    tbmerged_621 = tbmerged[tbmerged.corpus_N >= 621190].dropna()
+    #tbmerged_621 = tbmerged[tbmerged.corpus_N >= 621190].dropna()
 
     # Just excluding wildly sparse epochs
-    tbmerged_100 = tbmerged[tbmerged.corpus_N >= 100000].dropna()
+    #tbmerged_100 = tbmerged[tbmerged.corpus_N >= 100000].dropna()
+
+    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 10)
 
     #plot_data(tbmerged); #plot_data(tbmerged_621); plot_data(tbmerged_100)
-    
-    tbmerged.to_csv('datasets/tbmerged.tsv', '\t', index_label=['cao','mento'])
     
     # Output datasets and debugging files
     # try:
