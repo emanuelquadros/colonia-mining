@@ -8,9 +8,11 @@ import os
 from statistics import mean
 from math import ceil
 import nltk
+import random
 import pandas as pd
 import numpy as np
 from scipy.signal import savgol_filter
+import scipy.stats as st
 import matplotlib.pyplot as plt
 import bayesian_changepoint_detection.offline_changepoint_detection as offcd
 from functools import partial
@@ -121,6 +123,34 @@ def basicstats(fd, corpus_counts):
         (fd.B() / corpus_tokens) * 1000000, # types per million words
         int(corpus_tokens)
     ) 
+
+
+def random_sample(fdist, sample_size, runs=1000):
+    """
+    Given an nltk.FreqDist, compute frequency distributions from random
+    of the data.
+
+    Returns the means for type count and number of hapaxes, with
+    confidence intervals: ((mean (min, max)), (mean (min, max)))
+    """
+
+    stats_pool = []
+    
+    for x in range(0, runs):
+        sample = nltk.FreqDist(random.sample(list(fdist.elements()),
+                                             sample_size))
+        stats_pool.append(
+            (
+                sample.B(), #number of types, realized productivity
+                len(sample.hapaxes()), # number of hapax legomena
+            )
+        )
+
+    stats_pool = np.array(stats_pool)
+    mean_types = st.bayes_mvs(stats_pool[:, 0])
+    mean_hapaxes = st.bayes_mvs(stats_pool[:, 1])
+
+    return mean_types, mean_hapaxes
 
 
 def df_from_freqs(dic, w=33):
