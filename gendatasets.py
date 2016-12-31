@@ -11,11 +11,8 @@ import nltk
 import random
 import pandas as pd
 import numpy as np
-from scipy.signal import savgol_filter
 import scipy.stats as st
 import matplotlib.pyplot as plt
-import bayesian_changepoint_detection.offline_changepoint_detection as offcd
-from functools import partial
 import datation
 plt.style.use('ggplot')
 
@@ -252,54 +249,6 @@ def plot_data(dataframe):
     plt.show()
 
     
-def plot_changepoint(data, col, interval=10, title=''):
-    """
-    data: data frame
-    col: column in the data frame
-    interval: interval of years to show in the x-axis
-    ci = if True, plot confidence intervals
-    """
-
-    print('Computing change point for', title)
-
-    # Changepoint detection
-    Q, P, Pcp = offcd.offline_changepoint_detection(
-        data[col],
-        partial(offcd.const_prior,
-                l=(len(data[col])+1)),
-        offcd.gaussian_obs_log_likelihood,
-        truncate=-40
-    )
-
-    print('Plotting...')
-
-    # Getting info for the x-axis
-    indexes = data.index[data.index % interval == 0].tolist()
-    labels = list(map(str, indexes))
-    time_ticks = np.where(data.index.isin(indexes))[0].tolist()
-
-    # Plotting
-    fig, (ax1, ax2) = plt.subplots(2, 1)
-
-    line = savgol_filter(data[col], 33, 3)
-
-    ax1.plot(range(len(data.index)), line)
-    ax1.plot(range(len(data.index)), data[col], 'o')
-    ax1.set_xticks(time_ticks)
-    ax1.set_xticklabels(labels)
-    ax1.set_ylabel(title)
-
-    ax2.plot(np.exp(Pcp).sum(0))
-    ax2.set_ylim([0,1])
-    ax2.set_xticks(time_ticks)
-    ax2.set_xticklabels(labels)
-    ax2.set_ylabel('Probability')
-
-    min_sample_size = min(data.corpus_N)
-    filename=title.lower() + str(min_sample_size) + '.png'
-    plt.savefig(filename)
-
-
 if __name__ == "__main__":
 
     # Load exclusions file
