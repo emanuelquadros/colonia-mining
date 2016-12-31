@@ -199,18 +199,6 @@ def df_from_freqs(dic, w=33):
     return out_df
 
 
-def stats_from_dict(dic, corpus_df):
-    '''
-    Expects a dictionary of frequency distributions and computes Baayen's
-    metrics for each of them. Returns a dict.
-    '''
-
-    for (key, value) in dic.items():
-        corpus_df = corpus_df[corpus_df.year == key]
-        dic[key] = basicstats(value, corpus_df)
-    return dic
-
-
 def plot_data(dataframe):
     """
     Just plots whatever configuration of the data I want.
@@ -280,14 +268,6 @@ if __name__ == "__main__":
     dby = merged_df.groupby('year')
     years = [int(y) for y in dby.groups.keys()]
 
-    # Time series
-    #time_index = pd.date_range(str(min(years)),
-    #                           str(max(years)), freq='A')
-    #tokens_by_year = pd.DataFrame(index=time_index,
-    #                              columns=['tokens'])
-    #stats_by_year = pd.DataFrame(index=time_index,
-    #                             columns=['tokens', 'types', 'hapax'])
-
     # token time series - rolling window
     tby_mento = {}
     tby_cao = {} # token by year
@@ -311,41 +291,10 @@ if __name__ == "__main__":
     mento_resampled.to_csv('datasets/mento_resampled.tsv', '\t')
     cao_resampled.to_csv('datasets/cao_resampled.tsv', '\t')
 
-    # plotting
+    # merging everything
     tbmerged = pd.concat([tbepoch_cao, tbepoch_mento],
                          keys=['cao', 'mento'])
     tbmerged.to_csv('datasets/tbmerged.tsv', '\t')
-    #tbmerged = tbmerged.unstack(0)
-
-    # Selecting only the epochs that are likely to be the most representative.
-    # Guess taken from Tang & Nevin 2013.
-    #tbmerged_621 = tbmerged[tbmerged.corpus_N >= 621190].dropna()
-
-    # Just excluding wildly sparse epochs
-    #tbmerged_100 = tbmerged[tbmerged.corpus_N >= 100000].dropna()
-
-    plot_changepoint(mento_resampled, 'types', 50,
-                     'Realized productivity (mento)')
-
-    # plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'expandingP',
-    #                  10, 'Expanding productivity (mento)')
-    # plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'types_normed',
-    #                  10, 'Realized productivity (mento)')
-    # plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'expandingP',
-    #                  50, 'Expanding productivity (mento)')
-    # plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'types_normed',
-    #                  50, 'Realized productivity (mento)')
-
-    # plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'expandingP',
-    #                  10, 'Expanding productivity (ção)')
-    # plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'types_normed',
-    #                  10, 'Realized productivity (ção)')
-    # plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'expandingP',
-    #                  50, 'Expanding productivity (ção)')
-    # plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'types_normed',
-    #                  50, 'Realized productivity (ção)')
-
-    #plot_data(tbmerged); #plot_data(tbmerged_621); plot_data(tbmerged_100)
     
     # Output datasets and debugging files
     # try:
