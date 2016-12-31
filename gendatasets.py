@@ -8,12 +8,11 @@ import os
 from statistics import mean
 from math import ceil
 import nltk
+import random
 import pandas as pd
 import numpy as np
-from scipy.signal import savgol_filter
+import scipy.stats as st
 import matplotlib.pyplot as plt
-import bayesian_changepoint_detection.offline_changepoint_detection as offcd
-from functools import partial
 import datation
 plt.style.use('ggplot')
 
@@ -122,6 +121,60 @@ def basicstats(fd, corpus_counts):
     ) 
 
 
+def random_sample(fdist, sample_size, runs=1000):
+    """
+    Given an nltk.FreqDist, compute frequency distributions from random
+    of the data.
+
+    Returns the means for type count and number of hapaxes, with
+    confidence intervals: ((mean (min, max)), (mean (min, max)))
+    """
+
+    stats_pool = []
+    
+    for x in range(0, runs):
+        sample = nltk.FreqDist(random.sample(list(fdist.elements()),
+                                             sample_size))
+        stats_pool.append(
+            (
+                sample.B(), #number of types, realized productivity
+                len(sample.hapaxes()), # number of hapax legomena
+            )
+        )
+
+    stats_pool = np.array(stats_pool)
+    mean_types = st.bayes_mvs(stats_pool[:, 0])
+    mean_hapaxes = st.bayes_mvs(stats_pool[:, 1])
+
+    return mean_types, mean_hapaxes
+
+
+def df_from_resampling(dic, sample_size=131):
+    """
+    Input: dict of FreqDist
+
+    Output: data frame with means and CIs from random_sample
+    """
+
+    rows={}
+    for year, fdist in sorted(dic.items()):
+        if fdist.N() >= sample_size:
+            print('Resampling', year)
+            mean_types, mean_hapaxes = random_sample(fdist, sample_size)
+            tmean, (t1, t2) = mean_types[0]
+            hmean, (h1, h2) = mean_hapaxes[0]
+            rows[year] = np.array((tmean, t1, t2,
+                                   hmean, h1, h2,
+                                   sample_size))
+
+    out_df = pd.DataFrame.from_dict(rows, orient='index')
+    out_df.columns = ['types', 'min_types', 'max_types',
+                      'hapaxes', 'min_hapaxes', 'max_hapaxes',
+                      'corpus_N']
+
+    return out_df
+
+
 def df_from_freqs(dic, w=33):
     '''
     Input: dict of FreqDists
@@ -144,18 +197,6 @@ def df_from_freqs(dic, w=33):
                       'expandingP', 'potentialP', 'types_normed', 'corpus_N']
 
     return out_df
-
-
-def stats_from_dict(dic, corpus_df):
-    '''
-    Expects a dictionary of frequency distributions and computes Baayen's
-    metrics for each of them. Returns a dict.
-    '''
-
-    for (key, value) in dic.items():
-        corpus_df = corpus_df[corpus_df.year == key]
-        dic[key] = basicstats(value, corpus_df)
-    return dic
 
 
 def plot_data(dataframe):
@@ -195,50 +236,6 @@ def plot_data(dataframe):
     
     plt.show()
 
-    
-def plot_changepoint(data, col, interval=10, title=''):
-    """
-    data: data frame
-    col: column in the data frame
-    interval: interval of years to show in the x-axis
-    """
-
-    print('Computing change point for', title)
-
-    # Changepoint detection
-    Q, P, Pcp = offcd.offline_changepoint_detection(
-        data[col],
-        partial(offcd.const_prior,
-                l=(len(data[col])+1)),
-        offcd.gaussian_obs_log_likelihood,
-        truncate=-20
-    )
-
-    print('Plotting...')
-
-    # Getting info for the x-axis
-    indexes = data.index[data.index % interval == 0].tolist()
-    labels = list(map(str, indexes))
-    time_ticks = np.where(data.index.isin(indexes))[0].tolist()
-
-    # Plotting
-    fig, (ax1, ax2) = plt.subplots(2, 1)
-
-    ax1.plot(range(len(data.index)), data[col])
-    ax1.set_xticks(time_ticks)
-    ax1.set_xticklabels(labels)
-    ax1.set_ylabel(title)
-
-    ax2.plot(np.exp(Pcp).sum(0))
-    ax2.set_ylim([0,1])
-    ax2.set_xticks(time_ticks)
-    ax2.set_xticklabels(labels)
-    ax2.set_ylabel('Probability')
-
-    min_sample_size = min(data.corpus_N)
-    filename=title.lower() + str(min_sample_size) + '.png'
-    plt.savefig(filename)
-
 
 if __name__ == "__main__":
 
@@ -271,14 +268,6 @@ if __name__ == "__main__":
     dby = merged_df.groupby('year')
     years = [int(y) for y in dby.groups.keys()]
 
-    # Time series
-    #time_index = pd.date_range(str(min(years)),
-    #                           str(max(years)), freq='A')
-    #tokens_by_year = pd.DataFrame(index=time_index,
-    #                              columns=['tokens'])
-    #stats_by_year = pd.DataFrame(index=time_index,
-    #                             columns=['tokens', 'types', 'hapax'])
-
     # token time series - rolling window
     tby_mento = {}
     tby_cao = {} # token by year
@@ -290,49 +279,22 @@ if __name__ == "__main__":
         tby_cao[year] = current_tokens_cao
 
     # They see me rolling...
-    tbepoch_mento = df_from_freqs(freqdist_from_dict(roll(tby_mento, 33)))
-    tbepoch_cao = df_from_freqs(freqdist_from_dict(roll(tby_cao, 33)))
+    mento_fdists = freqdist_from_dict(roll(tby_mento, 33))
+    cao_fdists = freqdist_from_dict(roll(tby_cao, 33))
 
-    # plotting
+    # Building the dataframes (without random sampling)
+    tbepoch_mento = df_from_freqs(mento_fdists)
+    tbepoch_cao = df_from_freqs(cao_fdists)
+
+    mento_resampled = df_from_resampling(mento_fdists)
+    cao_resampled = df_from_resampling(cao_fdists)
+    mento_resampled.to_csv('datasets/mento_resampled.tsv', '\t')
+    cao_resampled.to_csv('datasets/cao_resampled.tsv', '\t')
+
+    # merging everything
     tbmerged = pd.concat([tbepoch_cao, tbepoch_mento],
                          keys=['cao', 'mento'])
     tbmerged.to_csv('datasets/tbmerged.tsv', '\t')
-    #tbmerged = tbmerged.unstack(0)
-
-    # Selecting only the epochs that are likely to be the most representative.
-    # Guess taken from Tang & Nevin 2013.
-    #tbmerged_621 = tbmerged[tbmerged.corpus_N >= 621190].dropna()
-
-    # Just excluding wildly sparse epochs
-    #tbmerged_100 = tbmerged[tbmerged.corpus_N >= 100000].dropna()
-
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'expandingP',
-                     10, 'Expanding productivity (mento)')
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'potentialP',
-                     10, 'Potential productivity (mento)')
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 600000'), 'types_normed',
-                     10, 'Realized productivity (mento)')
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'expandingP',
-                     50, 'Expanding productivity (mento)')
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'potentialP',
-                     50, 'Potential productivity (mento)')
-    plot_changepoint(tbepoch_mento.query('corpus_N >= 100000'), 'types_normed',
-                     50, 'Realized productivity (mento)')
-
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'expandingP',
-                     10, 'Expanding productivity (ção)')
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'potentialP',
-                     10, 'Potential productivity (ção)')
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 600000'), 'types_normed',
-                     10, 'Realized productivity (ção)')
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'expandingP',
-                     50, 'Expanding productivity (ção)')
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'potentialP',
-                     50, 'Potential productivity (ção)')
-    plot_changepoint(tbepoch_cao.query('corpus_N >= 100000'), 'types_normed',
-                     50, 'Realized productivity (ção)')
-
-    #plot_data(tbmerged); #plot_data(tbmerged_621); plot_data(tbmerged_100)
     
     # Output datasets and debugging files
     # try:
